@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: EMP grenade -->
-  <Proj_GrenadeEMP.label>手榴弾(EMP)</Proj_GrenadeEMP.label>
+  <Proj_GrenadeEMP.label>EMP手榴弾</Proj_GrenadeEMP.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadeFrag.label>手榴弾</Proj_GrenadeFrag.label>
+  <Proj_GrenadeFrag.label>手榴弾の破片</Proj_GrenadeFrag.label>
   
   <!-- EN: molotov cocktail -->
-  <Proj_GrenadeMolotov.label>モロトフカクテル</Proj_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>モロトフのカクテル</Proj_GrenadeMolotov.label>
   
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.label>手榴弾(EMP)</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>EMP手榴弾</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
-  <Weapon_GrenadeEMP.description>旧式の手榴弾(EMP)です.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.description>電子機器に対して損害を与える、電磁パルス(ElectroMagnetic&#xA0;Pulse)手榴弾です。</Weapon_GrenadeEMP.description>
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>手榴弾(EMP)</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>EMP手榴弾</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
   
   <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.label>手榴弾</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>破片手榴弾</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
-  <Weapon_GrenadeFrag.description>旧式の手榴弾です.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.description>昔から使われてきた破片手榴弾です。あまり遠くまでは投げられませんが、炸裂すれば周囲の人や物に見境なく損害を与えます。</Weapon_GrenadeFrag.description>
   <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>手榴弾</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>破片手榴弾</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   
   <!-- EN: molotov cocktails -->
   <Weapon_GrenadeMolotov.label>モロトフのカクテル</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
-  <Weapon_GrenadeMolotov.description>旧式の火炎瓶です.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.description>可燃性の液体を満たし、燃えやすい布で栓をしたガラス製の瓶です。暴徒や、辺境を渡り歩く憂国の士が好んで使う武器です。</Weapon_GrenadeMolotov.description>
   <!-- EN: molotov cocktails -->
-  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>モロトフカクテル</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>モロトフのカクテル</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   
 </LanguageData>
