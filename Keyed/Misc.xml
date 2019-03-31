@@ -12,7 +12,7 @@
   <!-- EN: and -->
   <AndLower>と</AndLower>
   <!-- EN: disabled -->
-  <DisabledLower>スキル無し</DisabledLower>
+  <DisabledLower>できない</DisabledLower>
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>

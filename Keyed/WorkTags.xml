@@ -6,31 +6,31 @@
   <!-- EN: intellectual -->
   <WorkTagIntellectual>研究</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>雑用</WorkTagManualDumb>
+  <WorkTagManualDumb>下働き</WorkTagManualDumb>
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>高度な作業</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>戦闘</WorkTagViolent>
+  <WorkTagViolent>暴力行為</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>看護</WorkTagCaring>
+  <WorkTagCaring>医療</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>人付き合い</WorkTagSocial>
+  <WorkTagSocial>交渉</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>動物の世話</WorkTagAnimals>
+  <WorkTagAnimals>動物の扱い</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>アート</WorkTagArtistic>
+  <WorkTagArtistic>芸術</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>工芸</WorkTagCrafting>
+  <WorkTagCrafting>製造</WorkTagCrafting>
   <!-- EN: cooking -->
   <WorkTagCooking>料理</WorkTagCooking>
   <!-- EN: firefighting -->
   <WorkTagFirefighting>消火</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>清掃</WorkTagCleaning>
+  <WorkTagCleaning>掃除</WorkTagCleaning>
   <!-- EN: hauling -->
   <WorkTagHauling>運搬</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>農業</WorkTagPlantWork>
+  <WorkTagPlantWork>植物の扱い</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>採掘</WorkTagMining>
 

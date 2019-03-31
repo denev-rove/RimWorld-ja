@@ -9,27 +9,27 @@
   <AdministerMechSerumHealer.jobString>ニューロヒーラーを投与中</AdministerMechSerumHealer.jobString>
   
   <!-- EN: anesthetize -->
-  <Anesthetize.label>麻酔</Anesthetize.label>
+  <Anesthetize.label>麻酔をかける</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>麻酔薬を投与して意識不明にさせます.</Anesthetize.description>
+  <Anesthetize.description>全身麻酔を投与して意識を失わせます。</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
-  <Anesthetize.jobString>麻酔中.</Anesthetize.jobString>
+  <Anesthetize.jobString>麻酔をかけている</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
-  <Euthanize.label>安楽死</Euthanize.label>
+  <Euthanize.label>安楽死させる</Euthanize.label>
   <!-- EN: Euthanize a creature by cutting. -->
-  <Euthanize.description>安楽死させます.</Euthanize.description>
+  <Euthanize.description>安楽死させます。</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
-  <Euthanize.jobString>安楽死</Euthanize.jobString>
+  <Euthanize.jobString>安楽死させている</Euthanize.jobString>
   
   <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>腫瘍摘出</ExciseCarcinoma.label>
+  <ExciseCarcinoma.label>腫瘍を摘出する</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>腫瘍を摘出します.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.description>腫瘍を摘出します。</ExciseCarcinoma.description>
   <!-- EN: Excising carcinoma. -->
   <ExciseCarcinoma.jobString>腫瘍の摘出中</ExciseCarcinoma.jobString>
   <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0}は,{1}の腫瘍摘出に成功した.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0}は、{1}の腫瘍摘出に成功しました。</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
   <RemoveBodyPart.label>器官を外す</RemoveBodyPart.label>

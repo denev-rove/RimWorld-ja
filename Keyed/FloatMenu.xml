@@ -61,19 +61,19 @@
   <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>積み重ねられていない</NoMergeTarget>
+  <NoMergeTarget>纏める先がない</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
   <!-- EN: need material -->
   <MissingMaterials>資材がない</MissingMaterials>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>要求するスキル以下 {0}</UnderRequiredSkill>
+  <UnderRequiredSkill>必要スキルに満たない: {0}必要</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>認められたスキル以下 {0}</UnderAllowedSkill>
+  <UnderAllowedSkill>許可したスキル下限: {0}より低い</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
+  <AboveAllowedSkill>許可したスキル上限: {0}より高い</AboveAllowedSkill>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>要求するスキルレベルが無い</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>必要なスキルに満たない</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
   <!-- EN: no usable food -->
@@ -89,7 +89,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
   <!-- EN: construction skill too low -->
-  <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
+  <ConstructionSkillTooLow>建築スキルが低すぎる</ConstructionSkillTooLow>
   <!-- EN: need components -->
   <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -97,7 +97,7 @@
   <!-- EN: need wort -->
   <NoWort>麦汁が必要</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は,より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は,より優先度の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
   <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
@@ -109,7 +109,7 @@
   <!-- EN: not ready for surgery -->
   <NotSurgeryReady>手術の準備ができていない</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>スキル能力がない</SkillDisabled>
+  <SkillDisabled>苦手なスキル</SkillDisabled>
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
@@ -137,9 +137,9 @@
   <CannotArrest>逮捕できない</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>{1_label}を 捕らえる</Capture>
+  <Capture>{1_label}を捕縛する</Capture>
   <!-- EN: Cannot capture -->
-  <CannotCapture>捕獲できない</CannotCapture>
+  <CannotCapture>捕縛できない</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>{1_label}を 救助する</Rescue>
@@ -293,43 +293,43 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>{1}を{0}できない</CannotGenericWork>
+  <CannotGenericWork>{1}{0}ことは できません</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>{0}できない</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>{0}ことは できません</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
-  <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>実行できません ({0}が無い)</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}中です</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>既に{2_labelShort}{0}手筈です</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
-  <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>実行できません ({0}は苦手な作業)</CannotPrioritizeWorkTypeDisabled>
 
   <!-- EN: Cannot prioritize (will never {0}) -->
-  <CannotPrioritizeWorkGiverDisabled>優先できない ({0}しない)</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>実行できません ({0}は苦手な作業)</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>"{0}" できない</WillNever>
+  <WillNever>{0}は苦手な作業</WillNever>
 
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
-  <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}の割り当て無し)</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>実行できません ({0}の作業を任されていない)</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>割り当て無し</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
-  <CannotPrioritizeResearch>優先できない （研究は,優先順位をつけられない）</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>実行できません (研究は直接指示できない)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
-  <CannotPrioritizeForbidden>優先できない （{1_label}は 禁止されている）</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>実行できません ({1_label}は禁止されている)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>優先できない (禁止事項)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>実行できません (禁止されている)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>今すぐ{1}{0}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>端に落とす</DropAtEdge>

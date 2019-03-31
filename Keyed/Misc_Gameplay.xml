@@ -267,15 +267,15 @@
   <!-- EN: Contents: {0} ({1}) -->
   <ItemStashContents>内容物: {0} ({1})</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>この列で並べ替える</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>Shift + 左クリック: 優先値を上げる\nShift + 右クリック: 優先値を下げる</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + click: 全有効\nShift + right click: 全無効</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + 左クリック: 全有効\nShift + 右クリック: 全無効</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Shift + click: 全コロニー\nShift + right click: 全無制限</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>Shift + 左クリック: 全コロニー\nShift + 右クリック: 全無制限</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Shift + click: 全選択\nShift + right click: 全無選択</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>Shift + 左クリック: 全選択\nShift + 右クリック: 全解除</CheckboxShiftClickTip>
   <!-- EN: Known threat: {0} -->
   <KnownSiteThreat>既知の脅威: {0}</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
@@ -499,7 +499,7 @@
   <!-- EN: extinguishing fire on {TARGET_label}. -->
   <ReportExtinguishingFireOn>{TARGET_label} に点いた火を消している</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>死体を掘り起こしている</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -591,7 +591,7 @@
   <!-- EN: Affected by: -->
   <AffectedBy>原因:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>待ち行列</Queued>
+  <Queued>次の行動</Queued>
   <!-- EN: State -->
   <State>ステータス</State>
   <!-- EN: stun -->

@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>TargetA と結婚式を挙げる</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>TargetAと結婚式を挙げている</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
-  <SpectateCeremony.reportString>結婚式に参列する</SpectateCeremony.reportString>
+  <SpectateCeremony.reportString>結婚式に参列している</SpectateCeremony.reportString>
   
   <!-- EN: relaxing socially. -->
   <StandAndBeSociallyActive.reportString>くつろいでいる</StandAndBeSociallyActive.reportString>

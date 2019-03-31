@@ -9,7 +9,7 @@
   <!-- EN: lower priority -->
   <LowerPriority>優先度 低</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
-  <RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
+  <RelevantSkills>関連するスキル: {0}\nスキルの平均値: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
@@ -21,7 +21,7 @@
   <!-- EN: E -->
   <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>【警告】\n作業に関連するスキルがとても低い</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->

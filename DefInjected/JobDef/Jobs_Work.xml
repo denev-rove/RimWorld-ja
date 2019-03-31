@@ -11,7 +11,7 @@
   <Capture.reportString>TargetA を捕獲中</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>TargetA を担ぎ中</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>TargetAを搬送している</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>TargetA を冬眠カプセルに搬送中</CarryToCryptosleepCasket.reportString>
@@ -20,16 +20,16 @@
   <Clean.reportString>TargetA を掃除中</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>TargetA を伐採中</CutPlant.reportString>
+  <CutPlant.reportString>TargetAを刈り取っている</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TargetA を伐採中</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>TargetAを刈り取っている</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>TargetA を解体中</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>TargetBに TargetAを 給仕中</DeliverFood.reportString>
+  <DeliverFood.reportString>TargetAをTargetBに届けている</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
   <DoBill.reportString>TargetAで 作業している</DoBill.reportString>
@@ -38,7 +38,7 @@
   <EscortPrisonerToBed.reportString>TargetA を護送中</EscortPrisonerToBed.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>TargetA を TargetB に給仕中</FeedPatient.reportString>
+  <FeedPatient.reportString>TargetAをTargetBに食べさせている</FeedPatient.reportString>
   
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>TargetA を仕上げ中</FinishFrame.reportString>
@@ -71,7 +71,7 @@
   <Mine.reportString>TargetA を掘削中</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
-  <OperateDeepDrill.reportString>TargetA ボーリング中</OperateDeepDrill.reportString>
+  <OperateDeepDrill.reportString>TargetAで採掘している</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>TargetA スキャン中</OperateScanner.reportString>
@@ -89,10 +89,10 @@
   <ReleasePrisoner.reportString>TargetA を釈放中</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
-  <RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
+  <RemoveFloor.reportString>床材を剥がしている</RemoveFloor.reportString>
   
   <!-- EN: removing roof. -->
-  <RemoveRoof.reportString>屋根を外している</RemoveRoof.reportString>
+  <RemoveRoof.reportString>屋根を取り外している</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>TargetA を修理中</Repair.reportString>
@@ -110,10 +110,10 @@
   <Slaughter.reportString>TargetA を屠殺中</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
-  <SmoothFloor.reportString>床をならしている</SmoothFloor.reportString>
+  <SmoothFloor.reportString>粗い石床を磨いている</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
-  <SmoothWall.reportString>壁を磨いている</SmoothWall.reportString>
+  <SmoothWall.reportString>粗い石壁を磨いている</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
   <Sow.reportString>TargetA の種まき中</Sow.reportString>
@@ -122,22 +122,22 @@
   <Steal.reportString>TargetA を略奪中.</Steal.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>TargetA を診察台に搬送中</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>TargetAを手術台に搬送中</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
-  <Tame.reportString>TargetA を手なずけ中</Tame.reportString>
+  <Tame.reportString>TargetAを手懐けている</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>TargetA の看病中</TendPatient.reportString>
+  <TendPatient.reportString>TargetAを治療している</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
   <Train.reportString>TargetA を調教中</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
-  <Uninstall.reportString>TargetA をアンインストール中</Uninstall.reportString>
+  <Uninstall.reportString>TargetAを撤去している</Uninstall.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>通信中</UseCommsConsole.reportString>
