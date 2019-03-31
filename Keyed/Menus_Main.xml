@@ -175,11 +175,11 @@
   <!-- EN: Choose scenario -->
   <ChooseScenario>シナリオを選択</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>カスタム</ScenariosCustom>
+  <ScenariosCustom>自作シナリオ</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Steam Workshop シナリオ</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>シナリオ・エディター</ScenarioEditor>
+  <ScenarioEditor>シナリオを編集</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>削除</Delete>
   
@@ -211,9 +211,9 @@
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AIストーリーテラー (AI脚本家)は, 海賊の襲撃, 貨物 カプセルの 墜落, 動物の攻撃 など イベントを 生成します. 作家により あなたの 村の物語は 大きく 変化します.この設定はオプションメニューからいつでも変更できます.</HowStorytellersWork>
+  <HowStorytellersWork>AIストーリーテラー（AI脚本家）は、宙賊の襲撃、貨物カプセルの飛来、動物の襲撃などのイベントを生成します。脚本家の選択は、あなたのコロニーの物語に大きく影響します。この設定はオプションメニューからいつでも変更できます。</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
+  <MustChooseDifficulty>難易度を選択してください。</MustChooseDifficulty>
   <!-- EN: Difficulty -->
   <Difficulty>難易度</Difficulty>
   <!-- EN: Commitment mode -->
@@ -221,17 +221,17 @@
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>コミットメントモードか,無制限リロードモードを選択</MustChoosePermadeath>
+  <MustChoosePermadeath>コミットメントモードか、無制限リロードモードを選択してください。</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>いつでもセーブとロードができます。\n\nまだゲームに慣れていないか、これがあなたの性に合っているか、バランス崩壊を気にせずMODを山盛りにしたいか、強制されずに巻き戻しを自制するつもりなら良い選択です。</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
+  <PermadeathModeInfo>ゲームを中断する時しかセーブできません。\n\nRimworldは殆どの人員を失っても物語を紡ぐので、一人でも生き残っていれば、それも物語のひとつです。このゲームは敗北からでも再起できるように設計されています。\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びの物語が生まれるのです。家族が殺されたとき、ルーク・スカイウォーカーが諦めて巻き戻したりしないのには、理由があるのです&#xA0;－&#xA0;敗北と再起はドラマチックなものです。</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は、 いつでも変更できます。</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
-  <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
+  <UnlockExtremeDifficulty>鬼畜モード</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>鬼畜モードは、全てのイベントが極端な難度に引き上げられる特別なゲームモードです。\n\n鬼畜モードは本来、ゲームの進捗が特定の段階に到達すると自動的に解禁されるものです。しかし、ここで今すぐ解禁することもできます。\n\nこの設定は、高い難易度で数回ほど遊んだことのある者が、最善の努力をしてもなお死に至る可能性が高いゲームを望むときにのみ推奨されます。</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
