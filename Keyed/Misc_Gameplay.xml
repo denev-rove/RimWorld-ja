@@ -511,25 +511,25 @@
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
-  <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
+  <WeaponMissRadius>誤爆半径</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>射手命中率 - </ShootReportShooterAbility>
+  <ShootReportShooterAbility>射手の技能　　</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>武器 修正 - </ShootReportWeapon>
+  <ShootReportWeapon>武器の性能</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>暗がり - </Darkness>
+  <Darkness>暗がり</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>伏せた - </TargetProne>
+  <TargetProne>伏せた標的　　</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>サイズ 修正 - </TargetSize>
+  <TargetSize>的の大きさ</TargetSize>
   <!-- EN: Weather -->
-  <Weather>天候 修正 -</Weather>
+  <Weather>天候の影響</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>カバー</ShootingCover>
+  <ShootingCover>遮蔽物効果</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label}は {1}低下させる</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>> {COVER_label}により {1}防御</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
-  <NoCoverLower>全身が露出</NoCoverLower>
+  <NoCoverLower>遮蔽物なし</NoCoverLower>
   <!-- EN: Execution -->
   <Execution>処刑</Execution>
 
@@ -667,7 +667,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>{1_labelShort} が射撃</ShotBy>
+  <ShotBy>{1_labelShort}の命中率</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>命中 しません</CannotHit>
   <!-- EN: Manhunter chance per hit -->

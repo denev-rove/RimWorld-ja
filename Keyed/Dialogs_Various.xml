@@ -321,9 +321,9 @@
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
   <StoppingPowerExplanation>この武器が命中すると,ターゲットをよろめかせ,動作が数秒間ほど遅くなります.ターゲットの体格が「威力」よりも大きいと効果を示さなくなります.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>命中率</DirectHitChance>
+  <DirectHitChance>直撃率</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>収束半径</MissRadius>
+  <MissRadius>誤爆半径</MissRadius>
   <!-- EN: Grows wild -->
   <GrowsWild>野生植物</GrowsWild>
   <!-- EN: Harvestable -->
