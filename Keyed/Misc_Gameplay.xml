@@ -605,9 +605,9 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>徴兵されていない時に,近くに敵がいる時の,入植者の対応を変更します.</HostilityReponseTip>
+  <HostilityReponseTip>徴兵されていない状態で接敵した場合の 対応方法を変更します。</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>現在の対応</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
@@ -1029,7 +1029,7 @@
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>制限無し</OutfitAnything>
+  <OutfitAnything>自由な服装</OutfitAnything>
   <!-- EN: Worker -->
   <OutfitWorker>作業服</OutfitWorker>
   <!-- EN: Soldier -->

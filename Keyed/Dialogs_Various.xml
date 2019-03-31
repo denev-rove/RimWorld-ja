@@ -697,53 +697,53 @@
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
-  <Outfit>服装</Outfit>
+  <Outfit>服装規定</Outfit>
   <!-- EN: Select outfit... -->
-  <SelectOutfit>服装を選択...</SelectOutfit>
+  <SelectOutfit>服装規定を選択...</SelectOutfit>
   <!-- EN: New outfit -->
-  <NewOutfit>新しい服装</NewOutfit>
+  <NewOutfit>新しい服装規定</NewOutfit>
   <!-- EN: Delete outfit... -->
-  <DeleteOutfit>服装を削除...</DeleteOutfit>
+  <DeleteOutfit>服装規定を削除...</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>この服装は {0}が使用しています.</OutfitInUse>
+  <OutfitInUse>この服装規定は{0}が使用中です。</OutfitInUse>
   <!-- EN: No outfit selected -->
-  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+  <NoOutfitSelected>服装規定を選択していません</NoOutfitSelected>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>ドラッグ適用方針</DrugPolicy>
+  <DrugPolicy>ドラッグ処方箋</DrugPolicy>
   <!-- EN: Select policy... -->
-  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
+  <SelectDrugPolicy>処方箋を選択...</SelectDrugPolicy>
   <!-- EN: New policy -->
-  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
+  <NewDrugPolicy>処方箋を新規作成</NewDrugPolicy>
   <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
+  <DeleteDrugPolicy>処方箋を削除...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>適用方針は {0}に適用中です.</DrugPolicyInUse>
+  <DrugPolicyInUse>処方箋は {0}に適用中です。</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>食事制限は {0}に適用中です.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>食事制限は {0}に適用中です。</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
-  <SocialDrugs>たしなみ程度</SocialDrugs>
+  <SocialDrugs>嗜む程度</SocialDrugs>
   <!-- EN: No drugs -->
-  <NoDrugs>ドラッグ不使用</NoDrugs>
+  <NoDrugs>不使用</NoDrugs>
   <!-- EN: One drink per day -->
-  <OneDrinkPerDay>１本/日</OneDrinkPerDay>
+  <OneDrinkPerDay>1服/日</OneDrinkPerDay>
   <!-- EN: Unrestricted -->
   <Unrestricted>無制限</Unrestricted>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
+  <NoDrugPolicySelected>処方箋を選択していません</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
   <AddDrug>ドラッグを追加...</AddDrug>
   <!-- EN: Drug -->
   <DrugColumnLabel>ドラッグ</DrugColumnLabel>
   <!-- EN: Usage -->
-  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
+  <DrugUsageColumnLabel>解禁条件</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>使用条件:"心情"が以下のとき</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>"心情"が設定値 以下の場合のみ</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>使用条件:"娯楽"が以下のとき</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>"娯楽"が設定値 以下の場合のみ</JoyThresholdColumnLabel>
   <!-- EN: Take to inventory -->
   <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
@@ -757,25 +757,25 @@
   <!-- EN: Any -->
   <NoDrugUseRequirement>いつでも</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>このドラッグを削除する.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>このドラッグを削除する。</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>ドラッグの名称です.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>ドラッグの名称です。</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>ドラッグの摂取を、どのような理由で許可するかです。</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>入植者がドラッグを摂取する頻度です。</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>彼らの"心情"レベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>入植者の"心情"が、この閾値より低い場合に限りドラッグを使おうとします。</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>彼らの"娯楽"レベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>入植者の"娯楽"が、この閾値より低い場合に限りドラッグを使おうとします。</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき,余分に持ち出すドラッグの量です.予備の持ち出しを禁止すると,毎回,備蓄ゾーンにドラッグを取りにいきます.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>ドラッグを摂取しようと掻き集める際に余分に所持する量です。予備を携帯することで、摂取の度にドラッグの備蓄場所へ向かう必要がなくなります。</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを,中毒患者の要求に従って与えることができます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>依存症のため\n\n依存症であることを容認した患者の欲求に応じるためにドラッグを使用します。\n\nたとえ無効にしても、特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません。</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは,快楽は,人つきあいを目的として使用できます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>娯楽のため\n\n娯楽や人付き合いを目的としてドラッグを使用します。\n\nたとえ無効にしても、特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません。</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>定期的に\n\n特定の条件を満たす場合に、あらかじめ設定した服薬計画に従ってドラッグを使用します。</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
@@ -799,7 +799,7 @@
   <!-- EN: Delete food restriction -->
   <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>食事制限を選択していません</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
