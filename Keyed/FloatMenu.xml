@@ -206,39 +206,39 @@
   <PickUpCount>{1_labelShort} x{{0}}を拾う</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
-  <CannotGiveToPackAnimal>{1_label}を 駄載獣に与えられない</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>{1_label}を 駄載獣に 積めません</CannotGiveToPackAnimal>
   <!-- EN: Cannot give {1_label} (all) to pack animal -->
-  <CannotGiveToPackAnimalAll>{1_label}(全て)を 駄載獣に与えられない</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>{1_label}(全て)を 駄載獣に 積めません</CannotGiveToPackAnimalAll>
   <!-- EN: Give {1_label} to pack animal -->
-  <GiveToPackAnimal>{1_label}を 駄載獣に与える</GiveToPackAnimal>
+  <GiveToPackAnimal>{1_label}を 駄載獣に 積む</GiveToPackAnimal>
   <!-- EN: Give {1_label} (all) to pack animal -->
-  <GiveToPackAnimalAll>{1_label}(全て)を 駄載獣に与える</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>{1_label}(全て)を 駄載獣に 積む</GiveToPackAnimalAll>
   <!-- EN: Give {1_labelShort} to pack animal... -->
-  <GiveToPackAnimalSome>{1_labelShort}を 駄載獣に与える</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>{1_labelShort}を 駄載獣に 積む...</GiveToPackAnimalSome>
   <!-- EN: Take {1_labelShort} x{{0}} -->
-  <GiveToPackAnimalCount>{1_labelShort} x{{0}}を取る</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>{1_labelShort} x{{0}}を 取り出す</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>{1_label}を キャラバン隊に積載できない</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>{1_label}を キャラバン隊に 積めません</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に 積めません</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>{1_label}を キャラバン隊に積載する</LoadIntoCaravan>
+  <LoadIntoCaravan>{1_label}を キャラバン隊に 積む</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載する</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に 積む</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>{1_labelShort}を キャラバン隊に積載する....</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>{1_labelShort}を キャラバン隊に 積む...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>{1_labelShort} x{{0}}を積載する</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>{1_labelShort} x{{0}}を 積む</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>過積載</OverweightLower>
 
   <!-- EN: Cannot carry {1_label} and leave the area -->
-  <CannotCarryToExit>{1_label}を運んで,エリアを離れることができない</CannotCarryToExit>
+  <CannotCarryToExit>{1_label}を 連れて 出発することが できません</CannotCarryToExit>
   <!-- EN: Carry {1_label} and leave the area -->
-  <CarryToExit>{1_label}を運んで,エリアを離れる</CarryToExit>
+  <CarryToExit>{1_label}を 連れて 出発する</CarryToExit>
   <!-- EN: Capture {1_label} and leave the area -->
-  <CarryToExitAndCapture>{1_label}を捕獲して,ここから離れる</CarryToExitAndCapture>
+  <CarryToExitAndCapture>{1_label}を 捕縛して 出発する</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
   <Strip>{1_label}を 剥ぐ</Strip>
@@ -271,19 +271,19 @@
   <!-- EN: Enter {0} -->
   <EnterMap>{0}に入る</EnterMap>
   <!-- EN: Visit {0} -->
-  <VisitSettlement>{0}に訪れる</VisitSettlement>
+  <VisitSettlement>{0}を訪れる</VisitSettlement>
   <!-- EN: Visit {0} -->
-  <VisitPeaceTalks>{0}に訪れる</VisitPeaceTalks>
+  <VisitPeaceTalks>{0}に向かう</VisitPeaceTalks>
   <!-- EN: Visit {0} -->
-  <VisitEscapeShip>{0}に訪れる</VisitEscapeShip>
+  <VisitEscapeShip>{0}へ向かう</VisitEscapeShip>
   <!-- EN: Attack {0} -->
-  <AttackSettlement>{0}を攻撃する</AttackSettlement>
+  <AttackSettlement>{0}を襲撃する</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>{0}に接触</ApproachSite>
+  <ApproachSite>{0}に接触する</ApproachSite>
   <!-- EN: Approaching {0} -->
   <ApproachingSite>{0}に接触中</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>贈り物を提供する</OfferGifts>
+  <OfferGifts>貢ぎ物を申し出る</OfferGifts>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -346,9 +346,9 @@
   <NotInterruptibleLower>割り込めない</NotInterruptibleLower>
   
   <!-- EN: Add a new waypoint here -->
-  <AddWaypoint>ここにウェイポイントを追加</AddWaypoint>
+  <AddWaypoint>ここに経由地点を追加</AddWaypoint>
   <!-- EN: Remove this waypoint -->
-  <RemoveWaypoint>このウェイポイントを削除</RemoveWaypoint>
+  <RemoveWaypoint>この経由地点を削除</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>全ての指示を解除</RemoveAllDesignations>
@@ -371,7 +371,7 @@
   <!-- EN: Give to {0} -->
   <GiveToCaravan>{0}に与える</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>贈り物として{0}に与える ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>貢ぎ物として{0}に差し出す ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->

@@ -235,13 +235,13 @@
   <MessageFoodPoisoning>{PAWN_labelShort}は ,{FOOD_labelShort}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>{0}は キャラバン隊から取り除かれてしまった.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>{0}はキャラバン隊から外されました。</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しましたた.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成が完了しました。</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>キャラバン隊の編成プロセスは ,全員が精神崩壊より回復するときまで延長されるだろう.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>キャラバン隊の編成は全員が精神崩壊から回復したとき再開されます。</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>入植者達は キャラバン隊編成を続けようとしています.</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>入植者たちは今からキャラバン隊の編成を再開します。</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊しました.</MessageCaravanMemberHasExtremeMentalBreak>
@@ -269,12 +269,12 @@
   <MessageAccidentalOverdose>{INGESTER}は {DRUG_labelShort}を誤って過剰摂取しました!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>{0}は 目的地に到達しました</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>{0}は目的地に到着しました。</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}は キャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}はキャラバン隊を編成してこのエリアを後にしました。</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなた達の動物は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>家畜たちが合流するために移動しています。</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功しました.</MessageSettledInExistingMap>
@@ -317,10 +317,10 @@
   <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくても x{0}の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>キャラバン隊を再編成しました.</MessageReformedCaravan>
+  <MessageReformedCaravan>キャラバン隊を再編成しました。</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>最後の一人を追放することはできません.</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>最後の一人を追放することはできません。</MessageCantBanishLastColonist>
   
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
@@ -340,7 +340,7 @@
   <MessageScreenResTooSmallForUIScale>この解像度とUIスケールでは ゲームインターフェースが はみ出してしまいます. UIスケールを下げるか解像度を上げてください.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>今すぐキャラバン隊を再編成しなければなりません。残されたものは全て置き去りとなるでしょう。</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
@@ -351,24 +351,24 @@
   <MessageCannotSelfTendEver>{1_labelShort}は 医者の作業を行う能力に欠けています. よって自己治療ができません.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です。</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>最後のウェイポイントから,このタイルに到達することは不可能です.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>最後の経由地点から、このタイルに到達することは不可能です。</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>{0}個以上のウェイポイントを追加することはできません.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>{0}個を超えて経由地点を追加することはできません。</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>このウェイポイントは削除できません.</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>この経由地点は削除できません。</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません.処刑を行う事ができませんでした.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました.{0},キャラバン隊は自動的に編成されます.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました。あと{0}で、キャラバン隊は自動的に再編成されます。</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>{0} キャラバン隊は自動的に再編成されます.「World」画面で,ただちに再編成を行わせることもできます.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>あと{0}で、キャラバン隊は自動的に再編成されます。世界地図から、ただちに再編成することもできます。</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>{1_labelShort}は 歩けなくなって以来,追放することは出来ません.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>{1_labelShort}は自力で歩けないため、追放できません。</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0}は 目を覚ました.</MessageSleepingPawnsWokenUp>
@@ -397,7 +397,7 @@
   <MessageTornadoDissipated>竜巻は散り散りになりました.</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
-  <MessagePeaceTalksNoDiplomat>意識も外交能力もありません.</MessagePeaceTalksNoDiplomat>
+  <MessagePeaceTalksNoDiplomat>意識がないため外交もできません。</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>警告：{0}は陽に当たると生きていけません.</MessageWarningCavePlantsExposedToLight>
@@ -417,59 +417,59 @@
   <MessageRoofIncompatibleWithPlant>{0}の上に 屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
+  <MessageChoseRoute>キャラバン隊は自動的に最初の経由地点へと移動を開始します。</MessageChoseRoute>
 
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
   <MessageCraftedMasterwork>{WORKER_labelShort}は {CRAFTED_labelShort}を作りました.</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには、世界地図から「キャラバン隊の再編成」ボタンを使います。</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>このマップから離れることができません.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>{0}との関係が {1}から{2}へと変わりました.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>{0}との関係が {1}から{2}へと変わりました.({3}).</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>{0}との関係が{1}から{2}へと変わりました。({3})</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
   <GoodwillChangedReason_AttackedPawn>{1_labelShort}を 攻撃しました.</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
   <GoodwillChangedReason_UsedItem>{TARGET_labelShort}に {ITEM_labelShort}を使いました.</GoodwillChangedReason_UsedItem>
   <!-- EN: harvested {0} -->
-  <GoodwillChangedReason_RemovedBodyPart>{0}を 摘出しました.</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedBodyPart>{0}を摘出した</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>{0}を 不必要にインストールしました.</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>不要な{0}を移植した</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>{1_labelShort}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>{1_labelShort}を捕縛した</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>{1_labelShort}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort}が潰れた</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>{1_labelShort}は 死にました.</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>{1_labelShort}が死亡した</GoodwillChangedReason_PawnDied>
   <!-- EN: traded -->
-  <GoodwillChangedReason_Traded>売買されました.</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_Traded>交易を行った</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
-  <GoodwillChangedReason_AttackedCaravan>キャラバン隊が攻撃されました.</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_AttackedCaravan>キャラバン隊が攻撃を受けた</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>時間が経つ毎に {0}に向かいます.</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>時間と共に{0}へ近づきます。</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort}は 元気になってマップから出て行きました.</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort}が元気になって旅立った</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>{1_labelShort}の 世話をします.</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended>{1_labelShort}の世話をした</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>貢ぎ物を受け取りました.</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>貢ぎ物を受け取った</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
-  <GoodwillChangedReason_FulfilledTradeRequest>相手の条件を満たしました.</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FulfilledTradeRequest>依頼を達成した</GoodwillChangedReason_FulfilledTradeRequest>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが、感謝の欠片もありません。</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>キャラバン隊は 既に身動きとれないので これ以上運ぶ事はできません.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>キャラバン隊の積み荷は既に満載なので、これ以上運ぶ事はできません。</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>キャラバン隊は これ以上運ぶ事はできません. 贈り物重量は{0}ですが キャラバン隊は{1}までしか 運ぶことができません.</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>キャラバン隊はこれ以上運ぶことはできません。贈り物の重量は{0}ですが、荷物の空きはあと{1}です。</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>{0}は 編成を終えて,ワールドマップを旅しています.</MessageFormedCaravan>
+  <MessageFormedCaravan>{0}は編成を終えて、現在は世界地図上を旅しています。</MessageFormedCaravan>
   <!-- EN: Orders -->
   <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
 
@@ -495,10 +495,10 @@
   <MessageTranslationReportSaved>翻訳ファイルの検証結果を{0}に出力しました.</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0}は、その目的地に到達することができません。</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: You can't re-enter for another {0} days. -->
-  <MessageEnterCooldownBlocksEntering>あなたは,{0}日間,別の場所に再入場できません.</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>あなたは{0}日後まで再訪問することはできません。</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
   <MessagePredatorHuntingPlayerAnimal>{PREDATOR}はエサとして{PREY_definite}を狩っています!</MessagePredatorHuntingPlayerAnimal>

@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>アンブッシュ</Ambush.label>
+  <Ambush.label>待ち伏せ</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>アンブッシュ</Ambush.letterLabel>
+  <Ambush.letterLabel>待ち伏せ</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>{0}は {2}の{1}に 待ち伏せされた!</Ambush.letterText>
+  <Ambush.letterText>{0}は {2}の {1}に 待ち伏せを受けました！</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>強盗アンブッシュ</CaravanDemand.label>
-  <CaravanDemand.letterLabel>アンブッシュ(強盗)</CaravanDemand.letterLabel>
-  <CaravanDemand.letterText>キャラバン隊は {0}の{1}から待ちぶせを食らった!</CaravanDemand.letterText>
+  <CaravanDemand.label>強盗の待ち伏せ</CaravanDemand.label>
+  <CaravanDemand.letterLabel>待ち伏せ(強盗)</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>キャラバン隊は {1}の {0}に 待ち伏せを受けました！</CaravanDemand.letterText>
   
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>キャラバン隊 会合</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>人狩りアンブッシュ</ManhunterAmbush.label>
+  <ManhunterAmbush.label>人狩りの待ち伏せ</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>アンブッシュ(ヒト狩り)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>待ち伏せ(人狩り)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by manhunting {1}! -->
-  <ManhunterAmbush.letterText>{0}は ヒト狩りの{1}に 待ち伏せされた!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0}は 人狩りの{1}に 待ち伏せを受けました！</ManhunterAmbush.letterText>
   
 </LanguageData>

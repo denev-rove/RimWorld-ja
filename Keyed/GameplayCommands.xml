@@ -272,13 +272,13 @@
   <!-- EN: Form caravan -->
   <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>入植者でグループを編成すると,新しいエリアへと旅に出る事ができます.入植者達は,指示された,補給物資を集めて,一緒に行動する家畜と共に,次の命令を待ちます.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>新たなエリアへ旅立つため、入植者でキャラバン隊を編成します。選ばれた入植者たちは、指定の積み荷と連れて行く家畜を集めてこのエリアを出たあと、次の命令を待ちます。</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
   <CommandReformCaravan>キャラバン隊を再編成</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>キャラバン隊を再編成して,現在地を出て,次の命令をまちます.</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>キャラバン隊の人員を変更します。選ばれた入植者たちはこのエリアを出たあと、次の指示を待ちます。</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>まだ,このエリアには敵が存在します.</CommandReformCaravanFailHostilePawns>
   
@@ -294,19 +294,19 @@
   <!-- EN: Merge selected caravans. -->
   <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します.キャラバン隊はそれぞれ接していなければなりません.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します。キャラバン隊は互いに近くにいる必要があります。</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
   <!-- EN: Settle -->
   <CommandSettle>定住</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>この地に定住します.入植者達は,この地に入植し,新しい建物を建てるでしょう.</CommandSettleDesc>
+  <CommandSettleDesc>この地に定住します。入植者たちはこの地に入植し、新たな本拠地の建設が可能になります。</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>あなたの派閥は,ただ一つだけしか本拠地を持てません.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>この入植地を主張する人が誰もいません.</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>この入植地の領有を宣言する者が誰もいません。</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>ここには,敵がいます.</CommandSettleFailEnemies>
   
@@ -314,7 +314,7 @@
   <!-- EN: Abandon -->
   <CommandAbandonHome>放棄</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>このエリアは放棄されました.このエリアには,近づきにくくなり,ここには二度と戻ってこれなくなるでしょう.あなたの本拠地を放棄した後は,あなたのキャラバン隊のうちの一つが,新しいエリアに入植することができます.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>このエリアを放棄します。ここには二度と戻ることができなくなります。本拠地を放棄した後は、キャラバン隊の一つが新たなエリアに入植することができます。</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>入植者全員が集合しています.</CommandAbandonHomeFailAllColonistsThere>
   
@@ -322,49 +322,49 @@
   <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>キャラバン隊編成の中止</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>編成作業を中止させる.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>編成作業を中止します。</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
   <CommandRemoveFromCaravan>キャラバン隊から外す</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>この人・動物をキャラバン隊から外します.</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>この人物もしくは家畜をキャラバン隊から外します。</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>キャラバン隊に入れる</CommandAddToCaravan>
+  <CommandAddToCaravan>キャラバン隊に加える</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>この人・動物をキャラバン隊に入れます.</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>この人物もしくは家畜をキャラバン隊に加えます。</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
   <CommandShowMap>ズームイン</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>このエリアを拡大表示する.</CommandShowMapDesc>
+  <CommandShowMapDesc>このエリアを拡大表示します。</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
-  <CommandTrade>貿易</CommandTrade>
+  <CommandTrade>交易</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>この派閥と商売する.</CommandTradeDesc>
+  <CommandTradeDesc>この派閥と取引します。</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>贈り物を申し出る</CommandOfferGifts>
+  <CommandOfferGifts>貢ぎ物を 申し出る</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>この派閥へ贈り物を申し出る</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>この派閥へ貢ぎ物を申し出ます。</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>取り引きの申し出を受ける</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>依頼の達成</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>依頼を聞き入れて,謝礼を要求します.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>物品調達の依頼を完遂し、報酬を要求します。</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>この取り引きを叶えるには,キャラバン隊は{0}を持っていなければなりません.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>この依頼を達成するには、キャラバン隊が{0}を持っていなければなりません。</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Offer {0} for {1}? -->
-  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>{0}を納品し、報酬の{1}を受け取りますか？</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
@@ -436,7 +436,7 @@
   <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>削除</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
-  <CommandRemoveWaypointDesc>ウェイポイントを削除</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>経由地点を削除します。</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
@@ -446,9 +446,9 @@
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>
+  <CommandShowSellableItems>買い取り品の一覧表示</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せます.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>このトレーダーが仕入れたいと思っている物品の一覧を表示します。</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->

@@ -193,8 +193,8 @@
   <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
   
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
+  <ImmobileCaravan>キャラバン隊が立ち往生</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>あるキャラバン隊は,荷物が多すぎて行動不能になりました.\n\n「アイテム」タブから幾つかのアイテムを放棄して,再び移動できるようにしてください.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>積み荷が多すぎて身動きが取れなくなったキャラバン隊がいます。\n\n「所持品」タブから幾らかの積み荷を投棄すれば、再び移動できるようになります。</ImmobileCaravanDesc>
   
 </LanguageData>

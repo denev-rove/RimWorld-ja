@@ -254,9 +254,9 @@
   <!-- EN: Gathering animals (waiting) -->
   <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集める(待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>アイテムを集める</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>積み荷を集める</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>アイテムを集める(待機中)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>積み荷を集める (待機中)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
   <FormingCaravanStatus_GatheringSlaves>奴隷を集める</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
@@ -272,15 +272,15 @@
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>待機中</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>メンバー</CaravanMembers>
+  <CaravanMembers>構成員</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>家畜</CaravanAnimals>
   <!-- EN: Items to load -->
-  <ItemsToLoad>積載するアイテム</ItemsToLoad>
+  <ItemsToLoad>積載予定の積み荷</ItemsToLoad>
   <!-- EN: Loaded items -->
-  <LoadedItems>積載済みアイテム</LoadedItems>
+  <LoadedItems>積載済みの積み荷</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>家畜の群れ</PackAnimalsCountLower>
+  <PackAnimalsCountLower>駄載獣</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>精神崩壊</InMentalStateCountLower>
 

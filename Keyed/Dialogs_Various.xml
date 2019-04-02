@@ -479,7 +479,7 @@
   <!-- EN: Trader is not willing to buy this. -->
   <TraderWillNotTrade>トレーダーは,これを買う気がありません.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
-  <Negotiator>交渉者</Negotiator>
+  <Negotiator>交渉人</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -511,9 +511,9 @@
   <!-- EN: Final price -->
   <FinalPrice>最終価格</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
+  <GiftModeTip>贈答モード:\n{0}へ 貢ぎ物を 申し入れます。</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
+  <TradeModeTip>取引モードへ戻る</TradeModeTip>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
@@ -525,31 +525,31 @@
   <!-- EN: Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>キャラバン隊に編成できる頭数です。</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
-  <PawnsTab>メンバー</PawnsTab>
+  <PawnsTab>入植者と家畜</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>物資</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>自力で歩行可能な状態の入植者を、少なくとも一人は編成してください。</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認して下さい.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>適切な荷積み場所を見つけられません。出発地点({0})への道順があるか確認して下さい。</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>警告: あるキャラバン隊員は出発地点({0})への道順がありません.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>警告: 出発地点({0})へ到達できないキャラバン隊員がいます。</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>他キャラバン隊員によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort}に到達できるキャラバン隊員がいません。</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員が,一人もいません.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員がいません。</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>{0}x {1}に到達できるキャラバン隊員が,一人もいません.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>{0}x {1}に到達できるキャラバン隊員がいません。</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>キャラバン隊は,こんなに多くは運べません.</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>キャラバン隊は、これほど多くの積み荷を運べません。</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>運ぶアイテムと,身につけているアイテムの両方の重さを含んでいます.最大積載量より少ないと移動速度にボーナスが与えられます.</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>積み荷の重量と、装備品の重量の両方を含んでいます。今の積載量が最大積載量より少なければ移動速度が向上します。</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>目立ちやすさは,キャラバン隊の気付かれ易さを表します.\n\n敵に見つかってしまう確率への掛け率を表しています.\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません.\n\n「目立ちやすさ」の基本値は,キャラバン隊の全ての動物と人間の体格の和をもとにしています.</CaravanVisibilityTip>
+  <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の存在がどれだけ気付かれ易いかを示します。\n\nこれは、キャラバン隊が敵に待ち伏せされる確率に乗算する値です。\n\nキャラバン隊が目当ての物を発見する能力には影響しません。\n\n目立ちやすさは、キャラバン隊に所属する家畜を含めた全員の体格を合計した値に基づいて決まります。</CaravanVisibilityTip>
   <!-- EN: Days of food -->
   <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
@@ -557,43 +557,43 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>無期限</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>少なくとも,一人分の食料(人間や動物)が尽きるまでの,おおよその日数です.種が違えば食性も変わり,他よりも先に食料が尽きる可能性もあります.この値は,ルートを選択した後では,より正確に計算されます.\n\n影響する因子:\n - 運ぶ食料種別と数量\n - キャラバン隊員とその食性\n - 食料調達率\n - 牧草の有無\n - 食料の消費期限\n - 高温による腐りやすさ.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>隊員や家畜の中に一人でも食料が尽きる者が出るまでの、おおよその日数です。種が異なれば食性も変わり、他の者よりも先に食料が尽きる事態もありえます。この値は、経路を選択すればより正確に計算されます。\n\n影響する要因:\n - 所持する食料の種類と量\n - 隊員や家畜の構成とその食性\n - 植物スキルによる食料調達量\n - 経路上の牧草の有無\n - 食料の消費期限\n - 高温による腐敗の加速</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(最初のウェイポイントまでを考慮にいれる)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint> (最初の経由地点のみ考慮されます)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>キャラバン隊は,{0}日分の食料しか持っていません.すぐに空腹になるでしょう.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>キャラバン隊は、{0}日分の食料しか持っていません。すぐに飢えることになるでしょう。</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので,あっという間に飢えが始まります.</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は全く食料を持っていません。ただちに飢えることになるでしょう。</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>一日に食料調達できそうな平均的数量です.この値は気候帯をまたがって移動すれば,気候帯毎に違う調達率があるため変化します.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>隊員が一日に調達できる食料の平均的な量です。この値は気候帯によって異なるため、気候帯を横断すれば変動します。</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>食料調達数/日</ForagedFoodPerDay>
+  <ForagedFoodPerDay>食料調達量 / 日</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
   <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が,すぐに腐敗するでしょう.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>キャラバン隊の中に,外交や商取引ができるメンバーがいません.</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>キャラバン隊の中に、外交や取引ができる者がいません。</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>このキャラバン隊を本当に編成しますか？</CaravanAreYouSure>
+  <CaravanAreYouSure>このキャラバン隊を編成して本当によろしいですか？</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>まずキャラバン隊の経路を選択してください。</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.すくなくても,どこかマップの端が到達可能か確認してください.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません。マップ端のいずれかに到達できるか確認してください。</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>このアイテムの重量</ItemWeightTip>
   <!-- EN: Market value -->
-  <MarketValueTip>小売価格</MarketValueTip>
+  <MarketValueTip>市場における価値</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>この地域での平均気温を元にした,このアイテムが腐敗し始めるまでの日数.</DaysUntilRotTip>
+  <DaysUntilRotTip>この地域の平均気温を元にした、このアイテムが腐敗してしまうまでの日数です。</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
+  <ItemNutritionTip>この食料から摂取できる栄養の量です。\n\n参考情報: 成人は一日に {0}の栄養を必要とします。</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>家畜は積み荷の食料を食べる代わりに、現地で放牧することができます。放牧は適切な気温の気候帯でのみ可能です。</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>一日に調達できる栄養の量です。実際の値は現地の気候帯の食料調達量も影響します。\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
-  <NutritionEatenPerDayTip>一日に摂取する栄養素数.参考までに,簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>一日に消費する栄養の量です。参考までに、簡単な食事の栄養は {0}です。\n\n食性: {2}\n\n凡例:\n{1}</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>積載量</MassCarriedSimple>
+  <MassCarriedSimple>今の積載量</MassCarriedSimple>
   <!-- EN: Mass capacity -->
   <MassCapacity>最大積載量</MassCapacity>
   <!-- EN: Mass -->
@@ -601,11 +601,11 @@
   <!-- EN: Caravan mass -->
   <CaravanMass>キャラバン隊重量</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
-  <EquipmentAndApparelMass>衣服や装備品の重量</EquipmentAndApparelMass>
+  <EquipmentAndApparelMass>装備品重量</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
   <InventoryMass>持ち物の重量</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>入植者達は,今アイテムを収集して,このエリアを離れようとしています.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>入植者たちは、積み荷を集めてこのエリアを離れようとしています。</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
   <!-- EN: Colonists -->
@@ -615,17 +615,17 @@
   <!-- EN: Capture -->
   <CaptureSection>捕虜</CaptureSection>
   <!-- EN: Animals -->
-  <AnimalsSection>動物</AnimalsSection>
+  <AnimalsSection>家畜</AnimalsSection>
   <!-- EN: Choose route -->
-  <ChooseRouteButton>ルート選択</ChooseRouteButton>
+  <ChooseRouteButton>経路の選択</ChooseRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>放棄</AbandonButton>
   <!-- EN: Movement speed -->
   <CaravanMovementSpeed>移動速度</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>タイル/日</TilesPerDay>
+  <TilesPerDay>タイル / 日</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>移動速度は,全員(家畜)の平均速度,積載重量,地形の移動しやすさによって決まります.</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>移動速度は、家畜を含めた隊全員の平均速度、積載重量、地形の険しさによって決まります。</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>家畜の放牧が可能か？</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
@@ -639,11 +639,11 @@
   <!-- EN: (too cold for {0} more days) -->
   <CantGrazeBecauseOfTemp>({0}日 極寒)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>全栄養素</TotalNutrition>
+  <TotalNutrition>栄養調達量の合計</TotalNutrition>
   <!-- EN: Not moving -->
-  <CaravanNotMoving>移動なし</CaravanNotMoving>
+  <CaravanNotMoving>休息中</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>栄養素調達量/日</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>栄養調達量 / 日</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
   <FactionType>派閥種別</FactionType>
   <!-- EN: Total body size -->
