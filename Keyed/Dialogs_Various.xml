@@ -425,11 +425,11 @@
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
   <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草に微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
+  <HarmedRevengeChance>手負い時の逆襲率</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です。\n\n攻撃した者が近いほど発生率は上がります。近距離からでは3倍となります。\n\n傷付く度に判定するため、発射頻度が低く、高火力の武器は逆襲されづらくなります。\n\n逆襲率を極小にするには、遠距離から発射頻度の低い武器で攻撃します。</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
+  <TameFailedRevengeChance>手懐け失敗時の逆襲率</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
   <TerrainRequirement>必要な地盤</TerrainRequirement>
   <!-- EN: Supports -->
@@ -711,7 +711,7 @@
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>ドラッグ処方箋</DrugPolicy>
+  <DrugPolicy>処方箋</DrugPolicy>
   <!-- EN: Select policy... -->
   <SelectDrugPolicy>処方箋を選択...</SelectDrugPolicy>
   <!-- EN: New policy -->

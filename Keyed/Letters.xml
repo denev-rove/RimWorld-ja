@@ -33,11 +33,11 @@
   <ShortCircuitRain>{1_label}は 雨で短絡し発火しました.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
-  <LetterLabelAreaRevealed>発見</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>新領域の発見</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
-  <AreaRevealed>新しいゾーンが明らかになりました.</AreaRevealed>
+  <AreaRevealed>新たなエリアが明らかになりました。</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>新しいゾーンが明らかになりましたが,敵対する古代のメカノイドがいます.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>新たなエリアが明らかになりました。敵対する古代のメカノイドがいます。</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>屋根の支えが遠すぎたため, 自重で崩落しました.</RoofCollapsed>

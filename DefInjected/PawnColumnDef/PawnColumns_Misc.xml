@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: allowed area -->
-  <AllowedArea.label>制限ゾーン</AllowedArea.label>
+  <AllowedArea.label>制限エリア</AllowedArea.label>
   
   <!-- EN: allowed area -->
-  <AllowedAreaWide.label>制限ゾーン</AllowedAreaWide.label>
+  <AllowedAreaWide.label>制限エリア</AllowedAreaWide.label>
   
   <!-- EN: drug policy -->
   <DrugPolicy.label>ドラッグ処方箋</DrugPolicy.label>

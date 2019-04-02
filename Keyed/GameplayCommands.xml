@@ -3,29 +3,29 @@
 
   <!-- Forbid -->
   <!-- EN: Forbid -->
-  <CommandForbid>禁止</CommandForbid>
+  <CommandForbid>禁制</CommandForbid>
   <!-- EN: Allow -->
   <CommandAllow>許可</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>禁止 - 入植者は これと関われません.</CommandForbiddenDesc>
+  <CommandForbiddenDesc>禁制: 入植者はこれに触れることを禁じられています。 許可するにはクリックしてください。</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>許可 - 入植者は これと関われます.</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>許可: 入植者はこれに触れることを許されています。 禁制するにはクリックしてください。</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>電源 入/切</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>電源の状態を切り替えます。</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>電源 入/切</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入り切りします.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>電源スイッチの切り替えを行うよう指示します。間もなく入植者がやってきてスイッチを切り替えるでしょう。</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます.これは,送電されていない電力線に繋がっている場合に 近くにある活きた電力線に切り替えたいときに有効です.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>接続範囲内にある別の電力線に繋ぎ替えます。これは、送電されていない電力線に繋がっている機器の近くに 活きた電力線がある場合に有効です。</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
@@ -110,27 +110,27 @@
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>このゾーンの表示/非表示を切り替えます。</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>ゾーン 削除</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>ゾーンを 削除します.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>このゾーン自体を削除します。</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることが出来るようになります.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定は別のゾーンにペーストできます。</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>既にコピーしてあるゾーン設定を,このゾーンの設定にペーストします.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>クリップボードにコピーしたゾーン設定を、このゾーンに上書きします。</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>種蒔きの許可</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>不許可なら,入植者はこのエリアに植物の種を蒔かなくなります.作物の収穫は従来通り行われます.</CommandAllowSowDesc>
+  <CommandAllowSowDesc>禁止にすると、入植者はこのエリアに植物の種を蒔かなくなります。農作物の収穫は従来通り行われます。</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->

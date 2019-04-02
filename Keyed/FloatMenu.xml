@@ -51,11 +51,11 @@
   <NoPath>道順が無い</NoPath>
 
   <!-- EN: forbidden -->
-  <ForbiddenLower>禁止</ForbiddenLower>
+  <ForbiddenLower>禁制</ForbiddenLower>
   <!-- EN: outside allowed area -->
-  <ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
+  <ForbiddenOutsideAllowedAreaLower>制限エリア外</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>ホームエリアではない</NotInHomeArea>
+  <NotInHomeArea>住居エリアではない</NotInHomeArea>
   <!-- EN: burning -->
   <BurningLower>炎上</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
@@ -321,11 +321,11 @@
   <CannotPrioritizeResearch>実行できません (研究は直接指示できない)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
-  <CannotPrioritizeForbidden>実行できません ({1_label}は禁止されている)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>実行できません ({1_label}は禁制されている)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>実行できません (禁止されている)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>実行できません (禁制されている)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>制限エリアの外にあります</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -357,9 +357,9 @@
   <!-- EN: {0} affected -->
   <CountToDesignate>{0} 影響下にある</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>全アイテムを接触禁止</ForbidAllItems>
+  <ForbidAllItems>全アイテムを禁制</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>全アイテムの接触禁止を解除</UnforbidAllItems>
+  <UnforbidAllItems>全アイテムの禁制を解除</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->

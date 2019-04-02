@@ -159,11 +159,11 @@
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>無視する</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>攻撃</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>攻撃する</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
-  <HostilityResponseMode_Flee>逃避</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Flee>逃走する</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->

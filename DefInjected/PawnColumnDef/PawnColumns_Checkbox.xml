@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>主人が徴兵されてる間も追従します</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>徴兵中の主人に追従する / しない</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>主人がフィールドワークしている間も追従する(狩猟,手懐け)</FollowFieldwork.headerTip>
+  <FollowFieldwork.headerTip>野外活動中の主人に追従する / しない （狩猟や手懐け中）</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>ハンターを狩る獲物に印をつけます.</Hunt.headerTip>
+  <Hunt.headerTip>選択した野生動物を獲物として仕留めて持ち帰ります。 狩猟の作業を割り当てた入植者が自動で戦闘を行います。</Hunt.headerTip>
   
   <!-- EN: Slaughter -->
-  <Slaughter.headerTip>屠殺</Slaughter.headerTip>
+  <Slaughter.headerTip>屠殺する</Slaughter.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>野生動物を手懐けます.</Tame.headerTip>
+  <Tame.headerTip>選択した野生動物を手懐けます。 畜産の作業を割り当てた入植者が自動で手懐けに向かいます。</Tame.headerTip>
   
 </LanguageData>

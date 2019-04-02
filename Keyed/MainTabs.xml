@@ -25,17 +25,17 @@
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
-  <ManageOutfits>服装を管理</ManageOutfits>
+  <ManageOutfits>服装規定を管理</ManageOutfits>
   <!-- EN: Clr. forced -->
-  <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
+  <ClearForcedApparel>強制を解除</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>服装を強制</ApparelForcedLower>
+  <ApparelForcedLower>強制</ApparelForcedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>服装を強制する</ForcedApparel>
+  <ForcedApparel>強制されている服装</ForcedApparel>
   <!-- EN: Edit... -->
   <AssignTabEdit>編集...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
+  <ManageDrugPolicies>ドラッグ処方箋の管理</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
   
@@ -51,13 +51,13 @@
   <!-- EN: Master -->
   <Master>主人</Master>
   <!-- EN: Pregnant ({0} / {1}) -->
-  <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
+  <PregnantIconDesc>妊娠 ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>絆</BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
+  <IsPredator>この生物は肉食獣です。空腹になれば、小動物を襲います&#xA0;-&#xA0;あるいは、人間も。</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -149,12 +149,12 @@
 
   <!-- Research tab -->
   <!-- EN: project tech level -->
-  <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>
+  <ProjectTechLevel>〔技術水準の比較〕\n研究項目の水準</ProjectTechLevel>
   <!-- EN: your tech level -->
-  <YourTechLevel>あなたのテックレベル</YourTechLevel>
+  <YourTechLevel>コロニーの水準</YourTechLevel>
   <!-- EN: cost multiplier -->
-  <ResearchCostMultiplier>コスト 倍率</ResearchCostMultiplier>
+  <ResearchCostMultiplier>研究時間の倍率</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>あなたのテックレベルを考慮した結果,プロジェクトにかかる費用 {0} は最終的に {1} になりました.</ResearchCostComparison>
+  <ResearchCostComparison>コロニーの技術水準を考慮した結果,プロジェクトにかかる時間 {0} は最終的に {1} になりました.</ResearchCostComparison>
   
 </LanguageData>

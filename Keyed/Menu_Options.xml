@@ -89,8 +89,8 @@
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
-  <RestoreToDefaultSettings>デフォルト設定に復元する</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>初期設定に復元する</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>オプション設定はリセットされました.ゲームは自動的にリスタートするでしょう.</ResetAndRestart>
+  <ResetAndRestart>環境設定は初期化されました。ゲームは自動的に再起動します。</ResetAndRestart>
   
 </LanguageData>
