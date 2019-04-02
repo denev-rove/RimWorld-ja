@@ -337,7 +337,7 @@
   <MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには自身の入植者を選択してください.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
-  <MessageScreenResTooSmallForUIScale>この解像度とUIスケールでは ゲームインターフェースが はみ出してしまいます. UIスケールを下げるか解像度を上げてください.</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>この解像度とUI拡大率ではゲームインターフェースがはみ出してしまいます。UI拡大率を下げるか解像度を上げてください。</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>今すぐキャラバン隊を再編成しなければなりません。残されたものは全て置き去りとなるでしょう。</MessageYouHaveToReformCaravanNow>

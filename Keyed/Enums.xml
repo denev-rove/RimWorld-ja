@@ -177,15 +177,15 @@
   <!-- EN: animal -->
   <TechLevel_Animal>けもの</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>新石器時代</TechLevel_Neolithic>
+  <TechLevel_Neolithic>新石器</TechLevel_Neolithic>
   <!-- EN: medieval -->
   <TechLevel_Medieval>中世</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>産業革命</TechLevel_Industrial>
+  <TechLevel_Industrial>工業化</TechLevel_Industrial>
   <!-- EN: spacer -->
   <TechLevel_Spacer>宇宙世紀</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>最先端の技術力</TechLevel_Ultra>
+  <TechLevel_Ultra>超科学</TechLevel_Ultra>
   <!-- EN: archotech -->
   <TechLevel_Archotech>アルコテック</TechLevel_Archotech>
 
@@ -205,11 +205,11 @@
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
-  <ShowAnimalNames>動物名表示</ShowAnimalNames>
+  <ShowAnimalNames>動物名の表示</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>家畜(命名済のみ)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>家畜 (命名済み)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>家畜(全部)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>家畜 (全て)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->

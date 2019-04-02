@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: architect -->
-  <Architect.label>アーキテクト</Architect.label>
+  <Architect.label>設計タブ</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>アーキテクトメニューで使用する操作</Architect.description>
+  <Architect.description>設計モードで広く共通して行われる操作です。</Architect.description>
   
   <!-- EN: developer tools -->
   <Development.label>開発者モード</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>開発者・Mod制作者用の操作</Development.description>
+  <Development.description>開発者やMod制作者用の操作です。 開発者モードでのみ有効です。</Development.description>
   
   <!-- EN: in-game global -->
-  <Game.label>ゲーム内操作</Game.label>
+  <Game.label>ゲーム内全般</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>ゲーム内で最も頻繁に行う操作</Game.description>
+  <Game.description>コロニー運営中に最も頻繁に行う操作です。</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>カメラコントロール</GameMapCamera.label>
+  <GameMapCamera.label>カメラ制御</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>カメラ操作</GameMapCamera.description>
+  <GameMapCamera.description>カメラの操作です。</GameMapCamera.description>
   
   <!-- EN: main tabs -->
   <MainTabs.label>メインタブ</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>メインタブの操作</MainTabs.description>
+  <MainTabs.description>画面下部のメインタブの操作です。</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>修飾</Modifiers.label>
+  <Modifiers.label>同時押し</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>他の行動を修飾するために使用する操作</Modifiers.description>
+  <Modifiers.description>他の操作を変化させるために使います。</Modifiers.description>
   
   <!-- EN: misc -->
-  <SelectionMisc.label>その他操作</SelectionMisc.label>
+  <SelectionMisc.label>汎用</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>アイテムやオブジェクトの再使用等を行う操作</SelectionMisc.description>
+  <SelectionMisc.description>多くの異なる項目やオブジェクトに共通で割り当てられ、状況に応じて使い分けられる操作です。</SelectionMisc.description>
   
   <!-- EN: special -->
-  <SelectionSpecial.label>特別な操作</SelectionSpecial.label>
+  <SelectionSpecial.label>特別</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>特別なオブジェクトに行える特別な操作</SelectionSpecial.description>
+  <SelectionSpecial.description>特別なオブジェクトに対する特別な操作です。</SelectionSpecial.description>
   
 </LanguageData>

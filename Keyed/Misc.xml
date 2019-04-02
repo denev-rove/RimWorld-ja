@@ -8,7 +8,7 @@
   <!-- EN: Colony -->
   <Colony>あなたのコロニー</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
-  <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>ゲーム言語は、タイトル画面から開く環境設定か、国旗アイコンからのみ変更できます。</ChangeLanguageFromMainMenu>
   <!-- EN: and -->
   <AndLower>と</AndLower>
   <!-- EN: disabled -->

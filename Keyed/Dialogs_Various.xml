@@ -88,17 +88,17 @@
   <!-- EN: Overwrite -->
   <OverwriteButton>上書き</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
+  <ConfirmDelete>本当に "{0}" を削除してよろしいですか？</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>この セーブデータを 削除します.</DeleteThisSavegame>
+  <DeleteThisSavegame>このセーブデータを削除します。</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>{0}という ファイル名で 保存します.</SavedAs>
+  <SavedAs>{0} というファイル名で保存しました。</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>ファイル名を 入力してください.</NeedAName>
+  <NeedAName>ファイル名を入力してください。</NeedAName>
   <!-- EN: Loading -->
-  <LoadingLongEvent>データロード中です…</LoadingLongEvent>
+  <LoadingLongEvent>ロード中です</LoadingLongEvent>
   <!-- EN: Saving -->
-  <SavingLongEvent>セーブ中</SavingLongEvent>
+  <SavingLongEvent>セーブ中です</SavingLongEvent>
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
@@ -106,15 +106,15 @@
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です.\n\nセーブデータは違うバージョン {1} で作成されました.\n\nセーブデータは動作するはずです.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>セーブデータは,このゲームバージョンでセーブされています.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>セーブデータは現在のゲームバージョンで作成されたため、問題なく動作します。</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています,おそらく読み込めないでしょう.</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>セーブデータは未知の形式で記録されています。おそらく読み込めないでしょう。</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>不具合があるセーブデータ {0} です.\n\n {1}\n\n詳細な情報はエラーログを見てください.</ProblemSavingFile>
+  <ProblemSavingFile>問題のあるセーブデータがあります: {0}\n\n{1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
   <!-- EN: Load anyway -->
   <LoadAnyway>強制ロード</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>セーブデータから MODリストを読み込む</ChangeLoadedMods>
+  <ChangeLoadedMods>セーブと同じMODを有効化</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>いくつかのMODを利用できません,インストールが必要です.</MissingMods>
   
@@ -166,11 +166,11 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>このセーブデータは,現在動作している MOD とは別の MODが有効になった状態でセーブされています.これは,MOD 次第によっては,問題を起こすかも,起こさないかもしれません.\n\nセーブデータにセーブされているMOD(ロード順):\n\n{0}\n\n動作しているMOD(ロード順):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>このセーブデータは、有効になっているMODが現状と一致しません。 MOD次第では、このことが原因で問題を起こすかもしれません。\n\n\n\nセーブデータで有効なMOD（導入順）:\n\n{0}\n\n\n\n現状で有効になっているMOD（導入順）:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>画面解像度を 変更しました. この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>画面解像度を変更しました。この解像度でよろしいですか？\n\n自動復帰まで あと {0}秒...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>決定</ResolutionKeep>
   <!-- EN: Revert -->
@@ -178,21 +178,21 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>本当に,このコンピュータ上で,開発者モードを永久に無効にするのですか？\n\nこのオプションは開発用ツールを使って通常プレイより有利にゲームをしたいという誘惑がなく,より純粋なゲームプレイを経験したい方々の為にあります.\n\n開発者モードを有効にすることができますが,そのためには設定ファイルを手で修正する必要があります.そのやり方はインターネットを使って調べる必要があります.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>このコンピュータ上で開発者モードを永久に無効化します。本当によろしいですか？\n\nこの設定は、開発用ツールを使って通常のゲームより有利に進めたいという誘惑を気にすることなく、より純粋なゲームを経験したい人のためにあります。\n\n開発者モードを再び有効にすることは可能ですが、それには設定ファイルをあなた自身で修正する必要があります。その方法を知るにはインターネットで調べる必要があるでしょう。</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <!-- EN: Research -->
-  <Research>研究</Research>
+  <Research>研究する</Research>
   <!-- EN: Researched -->
   <Researched>研究済み</Researched>
   <!-- EN: Unresearched -->
   <Unresearched>未研究</Unresearched>
   <!-- EN: Finished -->
-  <Finished>完成した</Finished>
+  <Finished>研究完了</Finished>
   <!-- EN: In Progress -->
-  <InProgress>進行中</InProgress>
+  <InProgress>研究中</InProgress>
   <!-- EN: Locked -->
-  <Locked>凍結</Locked>
+  <Locked>未解禁</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
   <ResearchMenuWithoutBench>研究設備を作成し, 入植者に"研究"作業を 割り振らないかぎり, 研究は 始まりません.\n\nしかし, あらかじめ 研究計画を 指定することは できます. </ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
@@ -200,7 +200,7 @@
   <!-- EN: Required research bench -->
   <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
+  <RequiredResearchBenchFacilities>研究設備の拡張が必要</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->

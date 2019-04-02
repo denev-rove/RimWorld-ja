@@ -57,9 +57,9 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
+  <TranslationThanks>Rimworldの翻訳はすべてファンの手によるものです。この翻訳は次の素晴らしい有志たちによって作られました。\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
+  <TranslationHowToContribute>あなたも貢献することができます。下記のボタンを押してもっと知りましょう。(ブラウザが開きます)</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>もっと知る</LearnMore>
 
@@ -127,27 +127,27 @@
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Steam Workshop を開く</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <GetModsFromForum>フォーラムからmodを取得する</GetModsFromForum>
   <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり, ゲームは まったく 動作しません.\n\n他MODが 同じ defName を 使うことで, コアMODの def を 無視できるのを 活用して ください.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>本当にCoreMODを無効にするのですか？　Coreの機能を完全に代替するMODがない限り、ゲームは全く動作しなくなります。\n\nCore以外のMODで同じdefNameを使用すれば、Coreの内容よりも優先されることを忘れないでください。</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。 本当によろしいですか？</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Unsubscribe</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています.よろしいですか？</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>{0}のサブスクライブを解除しようとしています。 本当によろしいですか？</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>作者</Author>
   <!-- EN: Workshop page -->
   <WorkshopPage>Workshop page</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Steam Workshopにｱｯﾌﾟﾛｰﾄﾞ</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
@@ -155,9 +155,9 @@
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0}のアップロードに成功しました。</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Downloading</Downloading>
+  <Downloading>ダウンロード中</Downloading>
   <!-- EN: Source -->
   <Source>Source</Source>
   <!-- EN: For version(s): {0} -->
@@ -195,13 +195,13 @@
   <!-- EN: Add part -->
   <AddPart>パーツを追加</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>全ての入力欄を埋める必要があります。</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\nあなたは,"Steam Workshop terms of service"を承諾しなければなりません.全文はここにあります.\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Steam Workshopにアップロードします。よろしいですか？\n\nSteam Workshopの利用規約に同意する必要があります。全文はこちらです。\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>あなたは,明らかに,あなた自身が作成したコンテンツだけをアップロードしなければなりません.このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+  <ConfirmContentAuthor>当然ながら、あなた自身が作成したコンテンツだけをアップロードしなければなりません。\n\nこのコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>適合しません</Incompatible>
+  <Incompatible>互換性なし</Incompatible>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
