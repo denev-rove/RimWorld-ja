@@ -42,9 +42,9 @@
   <HeatWave.endMessage>熱波は過ぎ去った.</HeatWave.endMessage>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>対惑星戦略兵器</Planetkiller.label>
+  <Planetkiller.label>惑星破壊兵器</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>恒星間で使用する対惑星戦略兵器が,この惑星に向けて近づいています.それは惑星を粉々にするでしょう,まるでライフル弾で卵を打ち抜くように.生物は全滅します.</Planetkiller.description>
+  <Planetkiller.description>恒星間戦争で使用する惑星破壊兵器が、この惑星に向けて接近しています。それはこの星を粉々にするでしょう。まるでライフル弾で卵を打ち抜くように。生物は全滅します。</Planetkiller.description>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>サイコドローン</PsychicDrone.label>

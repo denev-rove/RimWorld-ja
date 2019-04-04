@@ -204,11 +204,11 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています.それは自殺行為に等しいです.不可能な事に挑みたいのでなければ,着陸地点を変更するか,日付を変更してください</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>警告：あなたは極寒の真っ只中に着陸しようとしています。これは自殺行為も同然です。極限の挑戦をしたいのでなければ、着陸地点を変更するか、開始時の四季を変更してください。</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>このゲームはミディアムマップサイズで遊ぶように設計されています.この大きさは相当広いゲーム空間を提供します.\n\n大きなマップサイズは処理速度が低下するだけでなく - ゲームデザインの本質をも壊します.AIは,馬鹿な決断をしたり,様々な方面でゲームバランスに悪い結果をもたらします.このサイズは,テスト的な目的で,それを引き継いだ為に含まれているので,これらの状況を省みずには使用しないでください.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>注意：このゲームは中規模のマップで遊ぶように設計されています。今の設定は著しく広大な空間を提供します！\n\n大きすぎるマップは処理速度を低下させるだけでなく、ゲームデザインの本質をも壊します。AIが愚かな決断をしたり、様々な方面でゲームバランスに悪い影響があります。この規模は後方互換とテストのためだけに実装されています。特段の理由がなければ、この設定は使用しないでください。</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>マップサイズ</MapSize>
+  <MapSize>マップの規模</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1}の正方形)</MapSizeDesc>
   <!-- EN: Small -->
@@ -218,13 +218,13 @@
   <!-- EN: Large -->
   <MapSizeLarge>大</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>巨大(テスト用)</MapSizeExtreme>
+  <MapSizeExtreme>巨大（テスト用）</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>開始時の季節</MapStartSeason>
+  <MapStartSeason>開始時の四季</MapStartSeason>
   <!-- EN: Auto -->
   <MapStartSeasonDefault>自動</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>通知</Notice>
+  <Notice>注意事項</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->

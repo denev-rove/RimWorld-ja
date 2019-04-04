@@ -3,7 +3,7 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>操作方法の説明</Tutorial>
+  <Tutorial>遊び方の説明</Tutorial>
   <!-- EN: New colony -->
   <NewColony>新しくはじめる</NewColony>
   <!-- EN: Back to game -->
@@ -77,7 +77,7 @@
   <!-- EN: Reset -->
   <Reset>リセット</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>惑星表面データの生成範囲</PlanetCoverage>
+  <PlanetCoverage>地表データの生成範囲</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>平均降水量</PlanetRainfall>
   <!-- EN: Overall temperature -->
@@ -89,17 +89,17 @@
   <!-- EN: High -->
   <PlanetRainfall_High>多雨</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>低温</PlanetTemperature_Low>
+  <PlanetTemperature_Low>寒冷</PlanetTemperature_Low>
   <!-- EN: Normal -->
   <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>高温</PlanetTemperature_High>
+  <PlanetTemperature_High>温暖</PlanetTemperature_High>
   <!-- EN: Seed -->
   <WorldSeed>シード値</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>ランダムシード</RandomizeSeed>
+  <RandomizeSeed>ランダムなシード値</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
+  <PlanetCoverageTip>惑星の直径は常に同じですが、ゲームに必要な大きさを遥かに超えるため、生成するのは地表の一部のみです。これは処理にとても時間がかかるためです。この項目は、生成を行う表面積の割合です。</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>派閥</WorldFactionsTab>
 
@@ -189,11 +189,11 @@
   <!-- EN: Load -->
   <Load>ロード</Load>
   <!-- EN: edit mode -->
-  <EditMode>エディット・モード</EditMode>
+  <EditMode>編集モード</EditMode>
   <!-- EN: Summary -->
   <Summary>概略</Summary>
   <!-- EN: Add part -->
-  <AddPart>パーツを追加</AddPart>
+  <AddPart>条件を追加</AddPart>
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>全ての入力欄を埋める必要があります。</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
@@ -237,27 +237,27 @@
   <!-- EN: Select starting site -->
   <SelectStartingSite>開始位置を選択</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>開始位置・ランダム</SelectRandomSite>
+  <SelectRandomSite>無作為に位置を選択</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>決定</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
+  <MustSelectStartingSite>いずれかの地点を選択してください。</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
+  <CannotLandBiome>{0}には降下できません。</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <BiomeNotImplemented>気候帯が適していません。</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>通行不能の山岳には降下できません。</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <BaseAlreadyThere>既に {0} の本拠地です。</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>既にあなたの本拠地です。</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>このタイルは占領下です</TileOccupied>
+  <TileOccupied>このタイルは占領されています。</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
+  <FactionBaseAdjacent>本拠地は隣接することができません。</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>気候</Biome>
+  <Biome>気候帯</Biome>
   <!-- EN: Terrain -->
   <Terrain>地形</Terrain>
   <!-- EN: Road -->
@@ -265,9 +265,9 @@
   <!-- EN: River -->
   <River>川</River>
   <!-- EN: Elevation -->
-  <Elevation>高度</Elevation>
+  <Elevation>標高</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>豊穣</Fertility>
+  <Fertility>肥沃度</Fertility>
   <!-- EN: Average temperature -->
   <AvgTemp>年平均気温</AvgTemp>
   <!-- EN: Rainfall -->
@@ -301,19 +301,19 @@
   <!-- EN: Forageability -->
   <Forageability>食料調達性</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります.本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません:\n\n{0}\n\nこのことは通常以上にゲームを難しくします。本当によろしいですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>キャラクターの 作成</CreateCharacters>
+  <CreateCharacters>入植者の作成</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>キャラクターの名前です. \n\nこれは 特定のメニューで 表示されます.</FirstNameDesc>
+  <FirstNameDesc>入植者の個人名です。\n\nこれは特定のメニューでのみ表示されます。</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>入植者を識別するための略称です。\n\nこれは常に表示されます。姓や個人名、または完全に別の通称でも構いません。</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
+  <LastNameDesc>入植者の姓です。\n\nこれは特定のメニューでのみ表示されます。</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>ランダム</Randomize>
+  <Randomize>ランダム生成</Randomize>
   <!-- EN: age {0} -->
   <AgeIndicator>年齢 {0}</AgeIndicator>
   <!-- EN: Backstory -->
@@ -321,9 +321,9 @@
   <!-- EN: Incapable of -->
   <IncapableOf>苦手な作業</IncapableOf>
   <!-- EN: Traits -->
-  <Traits>才能・性格</Traits>
+  <Traits>個性</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>明るさ(性格)</PermanentMoodEffect>
+  <PermanentMoodEffect>恒久的な心情変化</PermanentMoodEffect>
   <!-- EN: Skills -->
   <Skills>スキル</Skills>
   <!-- EN: none -->
@@ -345,19 +345,19 @@
   <!-- EN: Pain -->
   <Pain>痛み</Pain>
   <!-- EN: Health -->
-  <Health>健康</Health>
+  <Health>健康状態</Health>
   <!-- EN: Relations -->
-  <Relations>相関関係</Relations>
+  <Relations>続柄</Relations>
   <!-- EN: Team skills -->
   <TeamSkills>チームスキル</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>選択済</StartingPawnsSelected>
+  <StartingPawnsSelected>選択済み</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>置き去り</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>スタート</Start>
+  <Start>開始</Start>
   <!-- EN: Advanced -->
   <Advanced>高度な設定</Advanced>
   <!-- EN: Next -->
@@ -371,7 +371,7 @@
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
   <Quit>やめる</Quit>
   <!-- EN: Ignore -->
@@ -379,12 +379,12 @@
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>世界を 生成しています</GeneratingWorld>
+  <GeneratingWorld>世界を生成しています</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>惑星を 生成しています</GeneratingPlanet>
+  <GeneratingPlanet>惑星を生成しています</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>地図を 作成しています</GeneratingMap>
+  <GeneratingMap>地図を作成しています</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>何者かと遭遇したため、地図を作成しています</GeneratingMapForNewEncounter>
 
 </LanguageData>
