@@ -93,7 +93,7 @@
   <!-- EN: Power -->
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>娯楽の飽きられっぽさ</JoyTolerances>
+  <JoyTolerances>娯楽への倦怠度</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>乳量</MilkFullness>
   <!-- EN: Wool growth -->
@@ -227,7 +227,7 @@
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>美しい...</BeautyHere>
+  <BeautyHere>この地点の総合的な景観値</BeautyHere>
   <!-- EN: No power -->
   <NoPower>電力喪失</NoPower>
   <!-- EN: Work speed penalty -->
@@ -741,33 +741,33 @@
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの可視 切り替え\n\nラーニングヘルパーは,学ぶことがあるときは,常に表示されています.何も学ぶものが無いときは非表示にできます.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの表示切り替え\n\nラーニングヘルパーは学ぶことがあるときは常に表示されています。学ぶことが無いときは非表示にできます。</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>既存のゾーンをマップ上に表示します。</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>景観値の表示切り替え\n\nマウスオーバーした位置に入植者が立つのと同じ視界で周囲の景観の値を表示します。</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>部屋ステータスの表示切り替え\n\nマウスオーバーした部屋のステータスを表示します。</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>入植者バー表示切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します。\n\n入植者バーを右クリックしてドラッグすれば、入植者の並びを変更することができます。</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>新たな構造物の付近を自動的に居住エリアへ加えます。</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます.</AutoRebuildButton>
+  <AutoRebuildButton>壊された構造物を自動的に再建します。</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>備蓄した物資の一覧表示を、種別ごとに纏めます。</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>家畜の名前の表示 / 非表示を切り替えます。</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>屋根の状態をマップ上に表示します。</ShowRoofOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>北が常に上になるようにカメラを固定します。</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting system. -->
-  <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>昼と夜の光源効果の表示 / 非表示を切り替えます。</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>地点アイコン表示切り替え\n\n俯瞰で見たときに拠点などを示す拡大アイコンの表示 / 非表示を切り替えます。</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>地名の表示 / 非表示を切り替えます。</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->

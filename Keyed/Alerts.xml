@@ -5,196 +5,196 @@
   <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>精神変調 リスク</BreakRiskMinor>
+  <BreakRiskMinor>精神変調の懸念</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>精神衰弱 リスク</BreakRiskMajor>
+  <BreakRiskMajor>精神衰弱の懸念</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
+  <BreakRiskExtreme>精神崩壊の懸念</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>次の入植者の"心情"が低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>次の入植者の"心情"が低下しているため、軽度の精神変調を起こす懸念があります:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>次の入植者の"心情"がとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>次の入植者の"心情"が大幅に低下しているため、重度の精神衰弱を起こす懸念があります:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>次の入植者は重篤なストレスを受けていて,今にも精神崩壊を起こしそうです(たぶん暴力的..):\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>次の入植者は耐え難いほどの我慢を強いられていて、いつ極度の(おそらく暴力を伴う)精神崩壊を起こすか分かりません:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などの事をしてやりましょう.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>これらの入植者たちの"欲求"タブを見れば、何に苦しんでいるかが分かります。\n\n"心情"の改善には、おいしい食事を用意したり、娯楽の種類や時間を増やしたり、住環境を美しく整えたり、酒や煙草などのドラッグを与えるなど様々な方法があります。</BreakRiskDescEnding>
   
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n(別の入植者を選択し 救助対象者を右クリックして "救助"を 指示します)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>次の入植者は一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、ベッドまで運ばせましょう。\n\n(救助を指示するには、まず別の入植者を選択し 要救助者を右クリックして"救助する"を選びます)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>侵略にそなえる</NeedDefenses>
+  <NeedDefenses>侵略に備えよ</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
+  <NeedDefensesDesc>あなたがここに定住してからしばらくが経ちます。おそらく既に見つかっていることでしょう。宙賊がいつ襲撃を始めてもおかしくありません。\n\n備えあれば憂いなしです。罠や土嚢などの準備をしましょう。</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>医者が必要</NeedDoctor>
+  <NeedDoctor>医師が必要</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」を割り振られた 健常な入植者が一人もいません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
+  <NeedDoctorDesc>次の入植者には治療が必要ですが、"医療"の作業を任された健常な入植者が一人もいません。\n\n{0}\n健常な入植者に"医療"の作業を割り当ててください。もし治療せずに放って置くと、きちんと治癒せず、後遺症になるかもしれません。</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>坑夫が必要</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
+  <NeedMinerDesc>あなたは岩盤の掘削を指示していますが、"掘削"の作業を任された入植者が一人もいません。\n\n入植者に"掘削"の作業を割り当てましょう。</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>囚人に看守を</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>囚人が いますが, 「看守」を割り振られた 入植者が一人もいません.\n\n入植者に 「看守」を 割り振りましょう.</NeedWardenDesc>
+  <NeedWardenDesc>囚人を捕らえていますが、"看守"の作業を任された入植者が一人もいません。\n\n入植者に"看守"の作業を割り当てましょう。</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>食料が少ない</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
+  <LowFoodDesc>備蓄している食料が底を突きかけています。\n\n    備蓄量: {0}食分\n    消費量: {1}食 / 日 (入植者と囚人)\n\n    尽きるまで残り: 約 {2}日\n\n\n農耕、取引、採集、狩猟などの方法で食料を確保してください。</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>薬品が少ない</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>備蓄した薬品が {0}単位しか ありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
+  <LowMedicineDesc>備蓄した薬品が {0}単位しかありません。\n\nもっと多くの薬品をトレーダーから手に入れましょう。</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>備蓄した薬品が ひとつもありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
+  <NoMedicineDesc>備蓄した薬品が底を突きました。\n\nすぐにでもトレーダーから購入しましょう。</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>入植者用ベッドより入植者のほうが多くなっています。誰かが寝る場所に困ることになります。\n\n新たなベッドを用意するか、囚人用ベッドを入植者用ベッドに切り替えましょう。\n\n資源が無ければ、"寝床"なら資源なしで即座に設置できます。</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>武装する</HunterLacksWeapon>
+  <HunterLacksWeapon>飛び道具のない猟師</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>"狩猟"の作業を任せた入植者が遠距離武器を装備していません。\n\n猟師は遠距離武器を装備させないと狩りを行いません。</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は、自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない衣服を確保しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>次の入植者は,全裸のままで不満げです:\n\n{0}\nなにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>次の入植者は、全裸であることに不満を抱いています:\n\n{0}\n彼らに何か衣服を用意しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>食べる物がない</Starvation>
+  <Starvation>飢えている</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>次の入植者が 空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
+  <StarvationDesc>次の入植者が空腹を訴えています:\n\n{0}\n彼らに何か食べる物を用意しましょう。</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>餌がない</StarvationAnimals>
+  <StarvationAnimals>家畜が飢えている</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>次の家畜が 腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>次の家畜が腹を空かせています: \n\n{0}\n家畜たちの餌を確保しましょう。</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
-  <Exhaustion>入植者に休息を</Exhaustion>
+  <Exhaustion>疲労困憊</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>次の入植者は 働き過ぎで 睡眠を必要としています：\n\n{0}\n睡眠を与えましょう. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
+  <ExhaustionDesc>次の入植者は、疲れ果てて睡眠を必要としています: \n\n{0}\n彼らを休ませてあげましょう。入植者用のベッドが必要です。また、徴兵されていないことも確認してください。</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>食材ホッパーが設置されていない ペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>食材ホッパーが取り付けられていないペーストディスペンサーがあります。\n\nペーストディスペンサーが機能するには、生の食材で満たされた食材ホッパーと隣接していなければなりません。\n\nペーストディスペンサーの隣に食材ホッパーを設置しましょう。</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>食材の調理</NeedMealSource>
+  <NeedMealSource>調理場が必要</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は 囚人ゾーンの調理器具を 使用できません.）</NeedMealSourceDesc>
+  <NeedMealSourceDesc>生の食材を、きちんとした食事に調理する手段がありません。\n\n焚き火、コンロ、またはペーストディスペンサを設置しましょう。\n\n(囚人部屋に設置するのは避けてください。入植者が使用できません。)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>〔{1}の娯楽について〕\n\n  入植者の要求水準: {2}\n  　利用可能な娯楽: {0}種類\n  　求められる娯楽: {3}種類\n\n入植者が娯楽に満足し続けるためには、さらなる種類の娯楽が必要です。今ある物とは別の種別の娯楽を用意しましょう。\n\n\n{4}\n\n{5}\n\n参考：娯楽の種別は、娯楽品のステータス画面で確認できます。娯楽品を選択して'i'ボタンを押してください。</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
+  <AvailableRecreationTypes>利用できる娯楽種別</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
   <MissingRecreationTypes>欠けている娯楽種別</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>現満足度({0}) {1}/日 発生する毎に飽きてきます.{2}種類の娯楽を推奨します.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>娯楽への要求水準: {0}\nそれぞれの倦怠度は、意識のある間に、&#xA0;毎日&#xA0;{1}ずつ減少します。{2}種類以上の娯楽を用意できれば安心です。</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
   <bored>飽きた</bored>
 
   <!-- EN: Boredom -->
   <Boredom>退屈</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の {PAWN_labelShort}への娯楽種別:\n\n{2}</BoredomDesc>
+  <BoredomDesc>次の入植者は、娯楽に飢えているか、もしくは今ある娯楽に飽き飽きしています:\n\n{0}\n\n彼らに今よりも多様な娯楽を提供しましょう。\n\n{PAWN_labelShort}が利用できる娯楽種別:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>電気を貯める</NeedBatteries>
+  <NeedBatteries>バッテリーが必要</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません. これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>太陽光発電か風力発電が設置されているものの、バッテリーがありません。これでは風が凪いだり太陽が沈む度に電力を喪失することになります。\n\n安定した電力を保証するために、バッテリーを 1つないし2つは設置しましょう。</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>格闘家と飛び道具</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが,遠隔武器で武装しています. このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>格闘家の個性を備えた入植者がいますが、遠距離武器を装備しています。これでは格闘家に不満を抱かせるでしょう。</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>シールドと遠隔武器</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに 遠隔武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>シールドベルトと遠距離武器を同時に身に付けた入植者がいます。 シールド越しに遠距離武器の発射はできません。(標的と接している場合は除きます)</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>研究計画</NeedResearchProject>
+  <NeedResearchProject>研究計画が必要</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>研究用機器があるのに なにも計画してません.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>研究設備はあるものの、研究プロジェクトが何も選択されていません。\n\n"研究"タブを開き、どの研究を進めるか選択してください。</NeedResearchProjectDesc>
   
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
+  <ColonistsIdle>{0}人の入植者が手持ち無沙汰</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>次の入植者は、当面やることがなくぶらぶらしています: \n\n{0}\nおそらく何か生産的な作業を見つけてあげるべきでしょう。</ColonistsIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>次の入植者は 治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な入植者を 右クリックしてベッドへ誘導します )</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています。\n\n治療を行わずにいると、怪我が元で死に至るか、そうでなくとも後遺症になるかもしれません。\n\n{0}\n医療用ベッドに寝かせて治療を施しましょう。\n\n(まずベッドを選択し、医療用ベッドに切り替えます。そして治療が必要な入植者を右クリックでベッドへ誘導します。)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>次の入植者は 低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>次の入植者は、低体温症を患っています。\n\n{0}\n季節に見合った暖かな服装をさせた上で、適切な室温に暖めた室内に留まらせましょう。</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>次の患者は 外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>次の患者は手術を待っています:\n\n{0}\n手術に必要な設備を全て整え、手の空いた医師を確保してください。</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>火災発生!</FireInHomeArea>
+  <FireInHomeArea>火災発生！</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>コロニー内にて火災が発生しています.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>住居エリア内で火災が発生しています。</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>救急救命せよ</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎり最善の治療を 受けられるか確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>次の入植者は、死の危険を伴う深刻な病を患っています。\n\n{0}\n可能な限り最善の治療を施してください。</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nもし可能なら,入植者が生きる為にも,感染部位の切断手術や,移植手術を検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>次の入植者は、死の危険を伴う深刻な病を患っています。\n\n{0}\nもし可能なら、入植者の延命を図るために、感染部位の切断手術や移植手術を検討しましょう。</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>あるビリヤード台に 障害物が隣接している為,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>ビリヤード台の隣に障害物があるため、入植者がビリヤードで遊べません。\n\nビリヤードで遊ぶには、台の周囲すべての空間を空けておく必要があります。</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>猟師とシールド</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠隔武器で武装しつつ,シールドベルトを巻いてるので,距離を取っての発砲が 妨げてられています.\n\n彼らは シールドベルトを脱がないかぎり 狩りができません.</HunterHasShieldAndRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>遠距離武器と同時にシールドベルトを身に付けている猟師がいます。\nシールド越しに遠距離武器の発射はできません。ベルトを脱がない限り狩りができません。</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>冬期に 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>寒い時期は、入植者の少なくとも {0}人に防寒着が不足します。</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>冬期に, 入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>寒い時期は入植者全員分の防寒着が不足します。</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>外気温は {0}になる見込みです。\n\n防寒着は仕立て台で縫製するか、トレーダーから購入することができます。</NeedWarmClothesDesc2>
   
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>キャラバン隊が立ち往生</ImmobileCaravan>
+  <ImmobileCaravan>キャラバン隊 立ち往生</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>積み荷が多すぎて身動きが取れなくなったキャラバン隊がいます。\n\n「所持品」タブから幾らかの積み荷を投棄すれば、再び移動できるようになります。</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>積み荷が多すぎて身動きが取れなくなったキャラバン隊がいます。\n\n"所持品"タブから幾らかの積み荷を投棄すれば、再び移動できるようになります。</ImmobileCaravanDesc>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: beauty -->
   <Beauty.label>美しさ</Beauty.label>
   <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>その物を見た時の美しさです.美しい物はキャラクターの美への欲求を満たします.</Beauty.description>
+  <Beauty.description>この物品を眺めた時に、どれくらい美しく感じるかです。美しい物品は景観への欲求を満たします。</Beauty.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>清潔さ</Cleanliness.label>
