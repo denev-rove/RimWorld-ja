@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: administer healer mech serum -->
-  <AdministerMechSerumHealer.label>ニューロヒーラーを投与する</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.label>治療用メカナイト血清を投与する</AdministerMechSerumHealer.label>
   <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>ニューロヒーラーを投与します.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.description>治療用メカナイト血清を投与します。</AdministerMechSerumHealer.description>
   <!-- EN: Administering healer mech serum. -->
-  <AdministerMechSerumHealer.jobString>ニューロヒーラーを投与中</AdministerMechSerumHealer.jobString>
+  <AdministerMechSerumHealer.jobString>治療用メカナイト血清を投与中</AdministerMechSerumHealer.jobString>
   
   <!-- EN: anesthetize -->
   <Anesthetize.label>麻酔をかける</Anesthetize.label>

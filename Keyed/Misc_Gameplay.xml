@@ -855,7 +855,7 @@
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{USER_labelShort}は,ニューロトレイナーを使って{1}スキルを{2}から{3}に上げた.</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort}は、学習用メカナイト血清を使って{1}スキルを{2}から{3}に上げました。</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->

@@ -133,17 +133,17 @@
   <!-- EN: Overview -->
   <HealthOverview>概要</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>手術 ({0}件)</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>改造手術 ({0}件)</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>外科手術</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>切断手術</Amputate>
+  <Amputate>切断する</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>摘出</HarvestOrgan>
+  <HarvestOrgan>摘出する</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>摘出</RemoveOrgan>
+  <RemoveOrgan>切除する</RemoveOrgan>
   <!-- EN: memory -->
   <MemoryLower>記憶</MemoryLower>
   <!-- EN: social interactions -->
@@ -159,7 +159,7 @@
   <!-- EN: Self-tend -->
   <SelfTend>自己治療</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
+  <SelfTendTip>自己治療を有効にすると、通常の{1}の効率で自分自身を治療します。</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->

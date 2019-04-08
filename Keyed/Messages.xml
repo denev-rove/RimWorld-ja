@@ -119,7 +119,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>利用可能な動物用ベッドがありません.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>処置には {0}より上が必要ですが,{PAWN_labelShort}の治療レベルは "{2}"となっています.</MessageTooLowMedCare>
+  <MessageTooLowMedCare>手術には{0}以上の 薬が必要ですが {PAWN_labelShort}の 治療方針は "{2}"となっています。</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort}は命を落としました.原因: {1}</PawnDiedBecauseOf>
@@ -133,16 +133,16 @@
   <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の 手術中に ささいな失敗を犯しました。</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_labelShort}の 手術中に 破滅的な失敗を犯しました。</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の 手術中に ばかげた失敗を犯しました。</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の 手術中に 致命的な失敗を犯しました。 なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるでしょう。</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0}は 飢えにより流産しました.</MessageMiscarriedStarvation>
@@ -200,7 +200,7 @@
   <MessageBondedAnimalsMentalBreak>{0}たちは {HUMAN_labelShort}の死をきっかけにして精神崩壊を起こしました.</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}は {PATIENT_labelShort}の{HEDIFF}を 取り除くのに成功しました.</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}は {PATIENT_labelShort}の {HEDIFF}を 摘出するのに 成功しました。</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>宇宙船の残骸が近くに落ちました.あなたは資源を得る為に,それを分解することができます.</MessageShipChunkDrop>
@@ -346,9 +346,9 @@
   <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>自己治療をする為には {1_labelShort}に 医者の作業を割り当てていなければなりません.</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>自己治療をするためには、{1_labelShort}に医療の作業を任せていなければなりません。</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{1_labelShort}は 医者の作業を行う能力に欠けています. よって自己治療ができません.</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>{1_labelShort}は医療の作業を苦手としているため、自己治療できません。</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です。</MessageCantAddWaypointBecauseImpassable>
@@ -377,14 +377,14 @@
   <MessageCompSpawnerSpawnedItem>アイテムを生産しました：{0}</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
-  <MessageHediffCuredByItem>健康を回復しました：{0}</MessageHediffCuredByItem>
+  <MessageHediffCuredByItem>健康を回復しました: {0}</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
-  <MessageBodyPartCuredByItem>身体パーツを修復しました：{0}</MessageBodyPartCuredByItem>
+  <MessageBodyPartCuredByItem>欠損した部位を再建しました: {0}</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
-  <MessageResearchProjectFinishedByItem>テクノロジーが与えられました：{0}</MessageResearchProjectFinishedByItem>
+  <MessageResearchProjectFinishedByItem>テクノロジーが与えられました: {0}</MessageResearchProjectFinishedByItem>
 
   <!-- EN: {0} has been brought back to life! -->
-  <MessagePawnResurrected>{0}は 息を吹き返した!</MessagePawnResurrected>
+  <MessagePawnResurrected>{0}は息を吹き返しました！</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
   <MessageFailedToRescueRelative>{PAWN_labelShort}の 命を救えなかった. {RELATIVE_labelShort}を悲しませるだろう.</MessageFailedToRescueRelative>
