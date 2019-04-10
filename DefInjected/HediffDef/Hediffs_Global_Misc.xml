@@ -34,7 +34,7 @@
   <!-- EN: a drug overdose -->
   <DrugOverdose.labelNoun>ドラッグ過剰摂取</DrugOverdose.labelNoun>
   <!-- EN: minor -->
-  <DrugOverdose.stages.minor-0.label>軽度</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-0.label>軽微</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
   <DrugOverdose.stages.minor-1.label>軽度</DrugOverdose.stages.minor-1.label>
   <!-- EN: major -->
@@ -43,9 +43,9 @@
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>食中毒</FoodPoisoning.label>
   <!-- EN: recovering -->
-  <FoodPoisoning.stages.recovering.label>回復</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.recovering.label>回復期</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
-  <FoodPoisoning.stages.major.label>重大</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.major.label>重症</FoodPoisoning.stages.major.label>
   <!-- EN: initial -->
   <FoodPoisoning.stages.initial.label>初期症状</FoodPoisoning.stages.initial.label>
   
@@ -86,7 +86,7 @@
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-0.label>症状なし</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-0.label>無自覚</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-1.label>初期</ToxicBuildup.stages.initial-1.label>
   <!-- EN: minor -->

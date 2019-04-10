@@ -26,14 +26,14 @@
   <BionicArm.labelNoun>強化上肢</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>強化耳</BionicEar.label>
+  <BionicEar.label>強化内耳</BionicEar.label>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>強化耳</BionicEar.labelNoun>
+  <BionicEar.labelNoun>強化内耳</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>強化視覚センサー</BionicEye.label>
+  <BionicEye.label>強化眼球</BionicEye.label>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>強化視覚センサー</BionicEye.labelNoun>
+  <BionicEye.labelNoun>強化眼球</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>強化心臓</BionicHeart.label>
@@ -56,9 +56,9 @@
   <BionicStomach.labelNoun>強化胃</BionicStomach.labelNoun>
   
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>人工耳</CochlearImplant.label>
+  <CochlearImplant.label>人造内耳</CochlearImplant.label>
   <!-- EN: a cochlear implant -->
-  <CochlearImplant.labelNoun>人工耳</CochlearImplant.labelNoun>
+  <CochlearImplant.labelNoun>人造内耳</CochlearImplant.labelNoun>
   
   <!-- EN: denture -->
   <Denture.label>入れ歯</Denture.label>
@@ -66,16 +66,16 @@
   <Denture.labelNoun>入れ歯</Denture.labelNoun>
   
   <!-- EN: peg leg -->
-  <PegLeg.label>木製義足(杖)</PegLeg.label>
+  <PegLeg.label>木製義脚</PegLeg.label>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>木製義足(杖)</PegLeg.labelNoun>
+  <PegLeg.labelNoun>木製義脚</PegLeg.labelNoun>
   
   <!-- EN: power claw -->
-  <PowerClaw.label>機械化かぎ爪</PowerClaw.label>
+  <PowerClaw.label>強化爪</PowerClaw.label>
   <!-- EN: claw -->
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
-  <PowerClaw.labelNoun>機械化かぎ爪</PowerClaw.labelNoun>
+  <PowerClaw.labelNoun>強化爪</PowerClaw.labelNoun>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
@@ -85,9 +85,9 @@
   <SimpleProstheticArm.labelNoun>人造上肢</SimpleProstheticArm.labelNoun>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>人工心臓</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>人造心臓</SimpleProstheticHeart.label>
   <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>人工心臓</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.labelNoun>人造心臓</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
@@ -95,8 +95,8 @@
   <SimpleProstheticLeg.labelNoun>人造下肢</SimpleProstheticLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>木製義足(足形)</WoodenFoot.label>
+  <WoodenFoot.label>木製足首</WoodenFoot.label>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>木製義足(足形)</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>木製足首</WoodenFoot.labelNoun>
   
 </LanguageData>

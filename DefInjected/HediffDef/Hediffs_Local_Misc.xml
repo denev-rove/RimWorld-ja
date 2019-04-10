@@ -16,17 +16,17 @@
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-0.label>初期</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
-  <ResurrectionPsychosis.stages.early-1.label>初期</ResurrectionPsychosis.stages.early-1.label>
+  <ResurrectionPsychosis.stages.early-1.label>軽度</ResurrectionPsychosis.stages.early-1.label>
   <!-- EN: moderate -->
-  <ResurrectionPsychosis.stages.moderate.label>中期</ResurrectionPsychosis.stages.moderate.label>
+  <ResurrectionPsychosis.stages.moderate.label>中度</ResurrectionPsychosis.stages.moderate.label>
   <!-- EN: advanced -->
-  <ResurrectionPsychosis.stages.advanced.label>後期</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.advanced.label>重度</ResurrectionPsychosis.stages.advanced.label>
   <!-- EN: severe -->
-  <ResurrectionPsychosis.stages.severe.label>完全</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.severe.label>深刻</ResurrectionPsychosis.stages.severe.label>
   <!-- EN: total -->
   <ResurrectionPsychosis.stages.total.label>完全</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
-  <ResurrectionPsychosis.stages.catatonic.label>カタトニー</ResurrectionPsychosis.stages.catatonic.label>
+  <ResurrectionPsychosis.stages.catatonic.label>強硬症</ResurrectionPsychosis.stages.catatonic.label>
   
   <!-- EN: trauma savant -->
   <TraumaSavant.label>後天性サヴァン症</TraumaSavant.label>
