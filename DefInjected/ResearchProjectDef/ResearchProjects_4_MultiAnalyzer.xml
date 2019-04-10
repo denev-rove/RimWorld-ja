@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: advanced fabrication -->
-  <AdvancedFabrication.label>先進組立製造</AdvancedFabrication.label>
+  <AdvancedFabrication.label>先進デジタル工作</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>並コンポーネントや他の素材から,先進コンポーネントを加工できるようになります.</AdvancedFabrication.description>
+  <AdvancedFabrication.description>通常の電子部品と他の素材を用いて、先端電子部品を製造します。</AdvancedFabrication.description>
   
   <!-- EN: bionics -->
-  <Bionics.label>バイオニクス</Bionics.label>
+  <Bionics.label>生体工学</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>失われた手足や眼の代わりとなるハイテク人造器官を作れるようになります.装着には医者のスキルを必要とします.</Bionics.description>
+  <Bionics.description>失われた身体機能を、高性能な人造器官で置き換えます。装着には高度な医術スキルを必要とします。</Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>チャージライフル</ChargedShot.label>
+  <ChargedShot.label>パルス荷電式兵器</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>追加ダメージを与えるパルスチャージされた弾丸を発射する武器を作成できるようになります.【ノート】これも先進コンポーネントが必要です.</ChargedShot.description>
+  <ChargedShot.description>パルス荷電され、威力の増した銃弾を発射する武器を作製します。これらの武器にも先端電子部品が必要です。</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
   <Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>生体活動を仮死状態にさせる,冬眠カプセルを作成できるようになります.</Cryptosleep.description>
+  <Cryptosleep.description>生体活動を仮死状態にする、冬眠カプセルを設置します。</Cryptosleep.description>
   
   <!-- EN: deep drilling -->
-  <DeepDrilling.label>深部ドリルマシン</DeepDrilling.label>
+  <DeepDrilling.label>大深度掘削</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>地殻深部から資源を抽出するための深部ドリルマシンを作成できるようになります.資源を見つけるための地殻深部スキャナーが必要です.</DeepDrilling.description>
+  <DeepDrilling.description>地殻深部から資源を採掘する大深度ドリルを製造します。資源を見つけるには地殻深部スキャナーが必要です。</DeepDrilling.description>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>組立製造</Fabrication.label>
+  <Fabrication.label>デジタル工作</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>コンポーネント組み立てから,パワーアーマー建造までの,ハイテクプロジェクトの遂行能力がある組立製造台を作成できるようになります.</Fabrication.description>
+  <Fabrication.description>デジタル工作台の設置を行います。研究の進行に応じて、電子部品の製造からマリーンアーマーの製造まで可能になります。</Fabrication.description>
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
-  <GroundPenetratingScanner.description>地表より深部にある掘削可能な資源を探知できる,地殻深部スキャナーを作成できるようになります.製造には先進コンポーネントが必要です.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>地殻深部スキャナーを設置します。地表より深部にある採掘可能な資源を探知します。設置には先端電子部品が必要です。</GroundPenetratingScanner.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
+  <MultiAnalyzer.label>複合分析機</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>高いレベルの研究プロジェクトを遂行できるようになり,研究速度が上がるマルチアナライザーを作れるようになります.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>複合分析機を設置します。研究速度が向上する他、高度な研究プロジェクトに取り組めるようになります。</MultiAnalyzer.description>
   
   <!-- EN: powered armor -->
-  <PoweredArmor.label>パワーアーマー</PoweredArmor.label>
+  <PoweredArmor.label>強化装甲</PoweredArmor.label>
   <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
-  <PoweredArmor.description>パワーアーマー,パワーヘルメットを作れるようになります.【ノート】先進コンポーネントが必要です.</PoweredArmor.description>
+  <PoweredArmor.description>マリーンアーマー、マリーンヘルメットを作製します。これらの兵装にも先端電子部品が必要です。</PoweredArmor.description>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>ウランスラグタレット</SniperTurret.label>
+  <SniperTurret.label>ウランスラグ砲塔</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>装甲貫通能力のあるウランスラグタレットを作れるようになります.ウランスラグ弾はプラスチールを紙のごとく切り裂きますが,至近距離では十分な効果を発揮しません.</SniperTurret.description>
+  <SniperTurret.description>装甲貫通能力のあるウランスラグ砲塔を製造します。ウランスラグ弾はプラスチールを紙のごとく切り裂きますが、至近距離では十分な威力を発揮しません。</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>病院用ベッドの横に置き,医療効果を改善するバイタルモニターを作成できるようになります.</VitalsMonitor.description>
+  <VitalsMonitor.description>バイタルモニターを設置します。病院用ベッドに隣接して設置すると、医療の品質が向上します。</VitalsMonitor.description>
   
 </LanguageData>

@@ -86,11 +86,11 @@
   <InstallDenture.jobString>入れ歯を移植中</InstallDenture.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>ジョイワイヤーを埋め込む</InstallJoywire.label>
+  <InstallJoywire.label>快楽ワイヤーを埋め込む</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>ジョイワイヤーを埋め込みます。</InstallJoywire.description>
+  <InstallJoywire.description>快楽ワイヤーを埋め込みます。</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>ジョイワイヤーを埋め込んでいる</InstallJoywire.jobString>
+  <InstallJoywire.jobString>快楽ワイヤーを埋め込んでいる</InstallJoywire.jobString>
   
   <!-- EN: install heart -->
   <InstallNaturalHeart.label>心臓を移植する</InstallNaturalHeart.label>
@@ -135,11 +135,11 @@
   <InstallPegLeg.jobString>木製義脚を装着している</InstallPegLeg.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>機械化かぎ爪を移植する</InstallPowerClaw.label>
+  <InstallPowerClaw.label>強化爪を移植する</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>大きな機械化かぎ爪を移植します。</InstallPowerClaw.description>
+  <InstallPowerClaw.description>強化爪を移植します。</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>機械化かぎ爪を移植中</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>強化爪を移植中</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>人造上肢を移植する</InstallSimpleProstheticArm.label>

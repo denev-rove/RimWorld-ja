@@ -4,121 +4,121 @@
   <!-- EN: air conditioning -->
   <AirConditioning.label>空調設備</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>暑い日でも快適でいられるクーラーや,傷みやすい物を保存しておく冷凍庫を作れるようになります.</AirConditioning.description>
+  <AirConditioning.description>クーラーを設置します。 暑い日でも快適に過ごしたり傷みやすい物を保存しておく冷凍庫が作れます。</AirConditioning.description>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>自動ドア</Autodoors.label>
+  <Autodoors.label>自動扉</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>出入りに手間取らない,自動ドアを作れるようになります.</Autodoors.description>
+  <Autodoors.description>近づくと自動で開く扉です。手間取らずに通過できます。</Autodoors.description>
   
   <!-- EN: battery -->
   <Batteries.label>バッテリー</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>電気を貯めるバッテリーを作れるようになります.</Batteries.description>
+  <Batteries.description>電気を貯めるバッテリーを設置します。</Batteries.description>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>精油施設</BiofuelRefining.label>
+  <BiofuelRefining.label>バイオ燃料精製</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>樹木や食材のような有機物を,バイオ液化燃料に精製する精油施設を作れるようになります.</BiofuelRefining.description>
+  <BiofuelRefining.description>バイオ燃料の精製施設を設置します。樹木や食材のような植物由来物質を、化学燃料に精製します。</BiofuelRefining.description>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>ブローバック作動式</BlowbackOperation.label>
+  <BlowbackOperation.label>ブローバック機構</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>オートピストル,マシンピストルのような低火力のブローバック銃を作れるようになります.</BlowbackOperation.description>
+  <BlowbackOperation.description>ブローバック作動方式の、威力が低めの銃を製造します。自動拳銃、マシンピストルなどです。</BlowbackOperation.description>
   
   <!-- EN: electricity -->
-  <Electricity.label>電気工学 基礎</Electricity.label>
+  <Electricity.label>電気</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>100もの異なる作業のための電気工学の知識を身につけます.</Electricity.description>
+  <Electricity.description>ありとあらゆる仕事に電気の力を利用します。</Electricity.description>
   
   <!-- EN: firefoam -->
   <Firefoam.label>泡消火器</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>炎の侵入に即応し泡消火剤を自動的にまき散らす,泡消火器を製造できるようになります.</Firefoam.description>
+  <Firefoam.description>炎の侵入に即応して泡消火剤を自動的にまき散らす、泡消火器を作製します。</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>防弾</FlakArmor.label>
+  <FlakArmor.label>防弾装甲</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
-  <FlakArmor.description>弾丸と爆発に耐えるように衣服にメタルアーマーを縫い込みます.この重いアーマーのせいで若干,動きが鈍くなります.</FlakArmor.description>
+  <FlakArmor.description>銃弾や爆発を防ぐ金属装甲を縫い込んだ衣服を作ります。装甲の重さで、少しだけ移動速度が遅くなります。</FlakArmor.description>
   
   <!-- EN: gas operation -->
-  <GasOperation.label>ガス作動式</GasOperation.label>
+  <GasOperation.label>ガス圧作動機構</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
-  <GasOperation.description>チェインショットガン,LMG,重機関銃のような高火力の銃を作れるようになります.</GasOperation.description>
+  <GasOperation.description>ガス圧作動方式の威力が高い銃を製造します。フルオート散弾銃、サブマシンガンに、軽機関銃などです。</GasOperation.description>
   
   <!-- EN: geothermal power -->
   <GeothermalPower.label>地熱発電</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>間欠泉の上部に,24時間発電する地熱発電装置を建設できるようになります.</GeothermalPower.description>
+  <GeothermalPower.description>間欠泉の上部に、間断なく発電を続ける地熱発電装置を設置します。</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>ガンスミス</Gunsmithing.label>
+  <Gunsmithing.label>銃器工房</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>リボルバー,ポンプ式ショットガン,ボルトアクションライフル,火炎筒投射機のようなシンプルな銃が作れるようになります.</Gunsmithing.description>
+  <Gunsmithing.description>単純な機構の手動式銃器を製造します。リボルバー、散弾銃、ライフル、焼夷弾投射機などです。</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>タレット</GunTurrets.label>
+  <GunTurrets.label>砲塔</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>シンブルな全自動のタレットを作れるようになります.</GunTurrets.description>
+  <GunTurrets.description>単純な機構の全自動砲塔を製造します。</GunTurrets.description>
   
   <!-- EN: hydroponics -->
-  <Hydroponics.label>水耕栽培器</Hydroponics.label>
+  <Hydroponics.label>水耕栽培</Hydroponics.label>
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
-  <Hydroponics.description>地形や外の天候に左右されずに,屋内で植物を素早く成長させる,水耕栽培器を作れるようになります.</Hydroponics.description>
+  <Hydroponics.description>水耕栽培器を設置します。地形や屋外の天候に左右されずに、屋内で素早く作物を栽培できます。</Hydroponics.description>
   
   <!-- EN: IEDs -->
-  <IEDs.label>爆発物 IED</IEDs.label>
+  <IEDs.label>IED(即席爆発装置)</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>入植者達が,榴弾,EMP,消火器,反物質弾から爆発物を作成できるようになります.</IEDs.description>
+  <IEDs.description>迫撃砲の各種弾薬を利用して即席の罠を仕掛けます。</IEDs.description>
   
   <!-- EN: machining -->
-  <Machining.label>精密工作機械</Machining.label>
+  <Machining.label>機械加工</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
-  <Machining.description>動作停止した機械生命体を分解し利用可能な金属を回収したり,銃や手榴弾,防弾チョッキを加工する精密工作機械を作れるようになります.</Machining.description>
+  <Machining.description>機械加工台を設置します。銃器や手榴弾、防弾チョッキを作製したり、機能を停止したメカノイドを分解して資源を回収したりできます。</Machining.description>
   
   <!-- EN: mortars -->
   <Mortars.label>迫撃砲</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
-  <Mortars.description>壁を飛び越え遠くを砲撃できる,迫撃砲を作れるようになります.</Mortars.description>
+  <Mortars.description>迫撃砲を作製します。山なりの軌道を描く砲弾で壁を飛び越えて遠くを砲撃できます。</Mortars.description>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>ペーストディスペンサー</NutrientPaste.label>
+  <NutrientPaste.label>栄養ペースト</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>生の栄養のある食材から 何の雑用もなしに効率よく食品を産み出す,ペーストディスペンサーを作れるようになります.</NutrientPaste.description>
+  <NutrientPaste.description>自動給食機を設置できます。生の食材から食用の物質を製造するもので、調理の手間は全く必要ありません。</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>非常用食品</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>傷まないように食料を密閉保存する,非常用食品の生産方法を学びます.長距離移動に最適です.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>傷まないよう密閉保存した、非常用食品を作ります。旅に最適です。</PackagedSurvivalMeal.description>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>人工装具</Prosthetics.label>
+  <Prosthetics.label>人造義肢</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
-  <Prosthetics.description>失われた身体機能を,安価な人工器官で置き換えられるようになります.医者のスキルが要求されます.</Prosthetics.description>
+  <Prosthetics.description>失われた身体機能を、安価な人造器官で置き換えます。 取り付けには医術のスキルを必要とします。</Prosthetics.description>
   
   <!-- EN: smokepop belts -->
-  <SmokepopBelt.label>スモークポップベルト</SmokepopBelt.label>
+  <SmokepopBelt.label>煙幕ベルト</SmokepopBelt.label>
   <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
-  <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた,スモークポップベルトが作れるようになります.</SmokepopBelt.description>
+  <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた煙幕ベルトを製造します。</SmokepopBelt.description>
   
   <!-- EN: solar panel -->
   <SolarPanels.label>太陽光発電</SolarPanels.label>
   <!-- EN: Build solar panels for electricity generation. -->
-  <SolarPanels.description>太陽光発電装置を作れるようになります.</SolarPanels.description>
+  <SolarPanels.description>自然の光で発電する太陽光発電パネルを設置します。</SolarPanels.description>
   
   <!-- EN: sterile materials -->
   <SterileMaterials.label>抗菌素材</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>医療や研究のより良い効果を引き出す,クリーンルームを作るための抗菌素材を製造できるようになります.</SterileMaterials.description>
+  <SterileMaterials.description>抗菌タイルを設置します。医療行為や研究、食事の調理など安全で質の高い作業のために清潔な部屋を作れます。</SterileMaterials.description>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>テレビを観る娯楽用の,ブラウン管テレビが作れるようになります.</TubeTelevision.description>
+  <TubeTelevision.description>娯楽として鑑賞できるブラウン管テレビを製造します。</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>水力発電</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
-  <WatermillGenerator.description>川に安定した電力供給の為の水力発電装置を作れるようになります.</WatermillGenerator.description>
+  <WatermillGenerator.description>河川に水力発電装置を設置します。安定した電力を供給できます。</WatermillGenerator.description>
   
 </LanguageData>

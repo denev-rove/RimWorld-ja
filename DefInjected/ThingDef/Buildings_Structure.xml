@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: autodoor -->
-  <Autodoor.label>自動ドア</Autodoor.label>
+  <Autodoor.label>自動扉</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>部屋を隔てる自動扉です.自動で開閉するので通過はスムーズになります.</Autodoor.description>
+  <Autodoor.description>部屋を隔てます。電力で開閉するため速度を落とさず扉を通過することができます。</Autodoor.description>
   
   <!-- EN: door -->
-  <Door.label>ドア</Door.label>
+  <Door.label>扉</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>部屋を隔てる手動扉です. 手で開け閉めしないといけない分だけ移動が遅くなります.移動速度が遅くなる量は,ドアの材質によって決まります.</Door.description>
+  <Door.description>部屋を隔てます。単純な扉で手で開け閉めする分だけ移動が遅くなります。移動速度への影響は、扉の材質によって決まります。</Door.description>
   
   <!-- EN: wall -->
   <Wall.label>壁</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>壁です.屋根を支えます.</Wall.description>
+  <Wall.description>通行できない壁です。屋根を支えることができます。</Wall.description>
   
 </LanguageData>

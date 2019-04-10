@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ancient concrete barrier -->
-  <AncientConcreteBarrier.label>古代のコンクリート製壁</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.label>古代のコンクリート障壁</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
-  <AncientConcreteBarrier.description>昔からある,通行止めの方法</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.description>遙か昔、交通整理のために使われたものです。</AncientConcreteBarrier.description>
   
   <!-- EN: ancient lamppost -->
   <AncientLamppost.label>古代の街灯</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
-  <AncientLamppost.description>昔からある道路の照明,もう機能していない</AncientLamppost.description>
+  <AncientLamppost.description>遙か昔からある道路の照明です。もう機能していません。</AncientLamppost.description>
   
 </LanguageData>

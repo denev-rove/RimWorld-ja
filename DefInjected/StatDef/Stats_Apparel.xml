@@ -17,14 +17,14 @@
   <ArmorRating_Sharp.description>弾丸,ナイフ,爆発,動物の咬傷などの鋭利なダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力で打撲系ダメージに変換されます.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Sharp.description>
   
   <!-- EN: Shield max energy -->
-  <EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.label>障壁エネルギー最大量</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です.エネルギーが多いほど,より多くのダメージを吸収します.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>障壁ベルトが一度に保持できるエネルギーの最大量です。エネルギーが多いほど、多くのダメージを吸収します。</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
-  <EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.label>障壁エネルギー回復速度</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
-  <EnergyShieldRechargeRate.description>シールドベルトが壊れてさえなければ,単位時間あたりのリチャージ量です.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.description>正常に動作している障壁ベルトが、単位時間あたりに回復する障壁エネルギーの量です。</EnergyShieldRechargeRate.description>
   <!-- EN: {0}/s -->
   <EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
   
@@ -46,11 +46,11 @@
   <Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
   
   <!-- EN: Smokepop belt radius -->
-  <SmokepopBeltRadius.label>スモークポップベルト展張半径</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.label>煙幕ベルト展張半径</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop belt detonates. -->
-  <SmokepopBeltRadius.description>スモークポップベルトが発動したときに,見えにくくする半径です.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.description>煙幕ベルトが発動したときに、視界を遮る半径です。</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>アーマー - 素材効果の掛け率</StuffEffectMultiplierArmor.label>

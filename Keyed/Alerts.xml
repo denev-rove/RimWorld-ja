@@ -96,12 +96,12 @@
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>食材ホッパーが取り付けられていないペーストディスペンサーがあります。\n\nペーストディスペンサーが機能するには、生の食材で満たされた食材ホッパーと隣接していなければなりません。\n\nペーストディスペンサーの隣に食材ホッパーを設置しましょう。</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>食材ホッパーが取り付けられていない自動給食機があります。\n\n自動給食機が機能するには、生の食材で満たされた食材ホッパーと隣接していなければなりません。\n\n自動給食機の隣に食材ホッパーを設置しましょう。</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>調理場が必要</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>生の食材を、きちんとした食事に調理する手段がありません。\n\n焚き火、コンロ、またはペーストディスペンサを設置しましょう。\n\n(囚人部屋に設置するのは避けてください。入植者が使用できません。)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>生の食材を、きちんとした食事に調理する手段がありません。\n\n焚き火、コンロ、もしくは自動給食機を設置しましょう。\n\n(囚人部屋に設置するのは避けてください。入植者が使用できません。)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
@@ -132,9 +132,9 @@
   <BrawlerHasRangedWeaponDesc>格闘家の個性を備えた入植者がいますが、遠距離武器を装備しています。これでは格闘家に不満を抱かせるでしょう。</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>障壁ベルトと遠距離武器</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>シールドベルトと遠距離武器を同時に身に付けた入植者がいます。 シールド越しに遠距離武器の発射はできません。(標的と接している場合は除きます)</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>障壁ベルトと遠距離武器を同時に身に付けた入植者がいます。 障壁越しに遠距離武器の発射はできません。(標的と接している場合は除きます)</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>研究計画が必要</NeedResearchProject>
@@ -179,9 +179,9 @@
   <BilliardsNeedsSpaceDesc>ビリヤード台の隣に障害物があるため、入植者がビリヤードで遊べません。\n\nビリヤードで遊ぶには、台の周囲すべての空間を空けておく必要があります。</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>猟師とシールド</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>猟師と障壁ベルト</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <ShieldUserHasRangedWeaponDesc>遠距離武器と同時にシールドベルトを身に付けている猟師がいます。\nシールド越しに遠距離武器の発射はできません。ベルトを脱がない限り狩りができません。</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>遠距離武器と同時に障壁ベルトを身に付けている猟師がいます。\n障壁越しに遠距離武器の発射はできません。ベルトを脱がない限り狩りはできません。</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>防寒着が必要</NeedWarmClothes>

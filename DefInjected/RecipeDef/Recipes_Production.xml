@@ -30,18 +30,18 @@
   <Make_ChemfuelFromWood.jobString>木材から燃料を精製している</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>コンポーネントを作成する</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>電子部品を作る</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>コンポーネントを作成します.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>電子部品を作製します。</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>コンポーネントを作成中</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>電子部品を作っている</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>先進コンポーネントを作成する</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>先端電子部品を作る</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>先進コンポーネントを作成する.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>先端電子部品を作製します。</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>先進コンポーネントを作成中</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>先端電子部品を作っている</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
   <Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
@@ -51,11 +51,11 @@
   <Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>石材に切り出す</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>石材を切り出す</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>岩の塊を使いやすい石材に切り出します.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>岩の塊から使いやすい石材を切り出します。</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>石材を切り出している</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>

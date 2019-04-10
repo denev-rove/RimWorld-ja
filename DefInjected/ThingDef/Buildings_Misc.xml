@@ -4,93 +4,93 @@
   <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです.中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>この冬眠カプセルは遙か昔からここにあったようです。誰が中身を知るでしょう？</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>キャラバン隊物流拠点</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>キャラバン隊編成拠点</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します.備蓄庫のそばに置くと荷積み作業がスピードアップします.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>キャラバン隊を編成する場所を指定します。備蓄庫のそばに置くと荷積み作業が捗ります。</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>通信機</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>軌道上にいる船や, 他の派閥と,貿易や交渉を行うために必要な通信機です.</CommsConsole.description>
+  <CommsConsole.description>他の派閥や、惑星軌道上の商船と通信ができます。</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>自家発電式の石棺は,人を何年間も仮死状態のままで保つために設計されました.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>自家発電式の棺です。長期間人を仮死状態のまま保つために設計されたものです。</CryptosleepCasket.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>泡消火器</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>火災を検知した時,この安全装置が起動し泡消火剤を,機器を中心にして円状にまき散らします.手動でも操作できます.</FirefoamPopper.description>
+  <FirefoamPopper.description>火災を検知すると、この防火装置が作動して周囲の一定半径内に泡消火剤をまき散らします。手動で起動することもできます。</FirefoamPopper.description>
   <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>泡消火器を起動する</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>墓</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>死者に安らかな眠りを与える場所です.入植者達は,瞑想にふけるために訪れるでしょう.</Grave.description>
+  <Grave.description>死者が最後の休息を得る厳かな場所です。入植者たちは、死者を悼むために訪れます。娯楽として機能します。</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>地殻深部 スキャナー</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
-  <GroundPenetratingScanner.description>ソナーと磁気映像装置を組み合わせた,下向きのレーダーで,地面より深いところに埋蔵されている鉱物を探知することができます(種類までは判別不能).稼働させるには大量の電力を必要とします.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>音波探知と磁気映像装置を組み合わせた下向きのレーダーで、地面より深い場所に埋蔵されている鉱物を探知することができます。 種類までは判別できません。大量の電力を必要とします。</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>広域鉱物 スキャナー</LongRangeMineralScanner.label>
   <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
-  <LongRangeMineralScanner.description>研究者が使用することで,惑星上に存在する任意の鉱物資源を探知することができます.資源が見つかるまでの時間は不定期ですが,使用者のスキルが影響します.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>惑星上に存在する任意の鉱物資源を探知します。研究者による操作が必要です。資源が見つかるまでの時間は不定期ですが、使用者の知力スキルが影響します。</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>結婚を誓う場</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>結婚式を執り行う場所を指定します.列席者は反対側で式に参列します.</MarriageSpot.description>
+  <MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は両側で式に参列します。</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
+  <MoisturePump.label>土壌改良 ポンプ</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
-  <MoisturePump.description>非常にゆっくりと,周辺の地形から水分を取り除いて,沼地や浅瀬を乾いた土地に転換します.また柔砂も普通の砂地に変わります.海には効果がありません.</MoisturePump.description>
+  <MoisturePump.description>付近の地形の水分量を非常にゆっくりと均一化します。沼地や浅瀬を乾いた土地に転換したり、柔砂を普通の砂地に変えたりします。 海には効果がありません。</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
+  <MultiAnalyzer.label>複合分析機</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>研究速度が上がります,研究設備のそばに配置してから,新しく研究をアンロックすると機能します.一つの研究設備は,一つのマルチ・アナライザとだけ接続できます.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>先端研究卓のそばに設置すると研究速度が向上し、さらに新たなプロジェクトが研究可能になります。一つの研究卓に複数の複合分析機を設置しても効果はありません。</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>軌道貿易 ビーコン</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です.ビーコンの周りに配置したアイテムを orbital traderに売却できます.室内でも利用可能です.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>惑星軌道上の商船と貿易するために必要です。軌道商船に売却できるのはビーコンの付近に配置した物資のみです。屋内にも設置できます。</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>パーティ スポット</PartySpot.label>
+  <PartySpot.label>パーティ会場</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>パーティを開催する場所を指定します.ここを中心にパーティが行われます.</PartySpot.description>
+  <PartySpot.description>パーティを開催する場所を指定します。</PartySpot.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>ポッドランチャー</PodLauncher.label>
+  <PodLauncher.label>ポッド ランチャー</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>一機の輸送ポッドを射出するための燃料を使用した射出機です.ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合,ランチャーはお互いに隣接して配置しなければなりません.</PodLauncher.description>
+  <PodLauncher.description>一機の輸送ポッドを射出するための給油装置です。ポッドランチャーは集団で射出することもできます。その場合、ランチャーは互いに隣接して配置しなければなりません。</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
-  <Sarcophagus.label>石棺</Sarcophagus.label>
+  <Sarcophagus.label>死者の棺</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>名誉ある死者を埋葬する為の,装飾を施した棺です.</Sarcophagus.description>
+  <Sarcophagus.description>装飾が施された棺です。名誉ある死者を埋葬します。</Sarcophagus.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
+  <ToolCabinet.label>工具収納棚</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>作業速度が上がります,工作台のそばに配置する必要があります.一つの工作台は,二つのツールキャビネットとだけ接続できます.</ToolCabinet.description>
+  <ToolCabinet.description>作業台の付近に設置すると、作業速度が向上します。一つの作業台は収納棚を二つまで利用できます。</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>輸送ポッド</TransportPod.label>
   <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>人や,動物,アイテムを乗せて運べる,打ち上げ可能な大気圏外輸送カーゴポッドです.人や物資,贈り物の輸送,大気圏外からの奇襲降下や,増援などを行うことができます.</TransportPod.description>
+  <TransportPod.description>準軌道を飛行する打ち上げ式貨物ポッドです。人や動物、物資を運ぶことができます。貢ぎ物を届けたり、人や物資の輸送、強襲降下や戦闘への増援などに活用できます。</TransportPod.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>病院用ベッドのそばに配置すると,医療看護品質,手術成功率,免疫獲得速度が上がります.病院用ベッドのみ作用します - 通常のベッドには恩恵はありません.一つのベッドに複数のバイタルモニターを付けても効果はありません.</VitalsMonitor.description>
+  <VitalsMonitor.description>病院用ベッドに隣接して設置すると、治療品質、手術成功率および免疫獲得速度が向上します。病院用ベッドにのみ作用し、通常のベッドには無意味です。一つのベッドに複数のバイタルモニターを設置しても効果はありません。</VitalsMonitor.description>
   
 </LanguageData>

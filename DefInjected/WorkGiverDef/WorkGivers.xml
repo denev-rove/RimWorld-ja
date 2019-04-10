@@ -149,9 +149,9 @@
   <DoBillsCremate.verb>で焼却処理する</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
-  <DoBillsFabricationBench.label>アイテム作製 (組立製造台)</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.label>アイテム作製 (デジタル工作台)</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
-  <DoBillsFabricationBench.gerund>で組立製造する</DoBillsFabricationBench.gerund>
+  <DoBillsFabricationBench.gerund>で作業する</DoBillsFabricationBench.gerund>
   <!-- EN: fabricating things -->
   <DoBillsFabricationBench.verb>で作業する</DoBillsFabricationBench.verb>
   
@@ -163,9 +163,9 @@
   <DoBillsHaulCampfire.verb>で燃やす</DoBillsHaulCampfire.verb>
   
   <!-- EN: make things at machining table -->
-  <DoBillsMachiningTable.label>アイテム作製 (工作機械台)</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.label>アイテム作製 (機械加工台)</DoBillsMachiningTable.label>
   <!-- EN: working at -->
-  <DoBillsMachiningTable.gerund>で機械加工を行う</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.gerund>で作業する</DoBillsMachiningTable.gerund>
   <!-- EN: work -->
   <DoBillsMachiningTable.verb>で作業する</DoBillsMachiningTable.verb>
   
@@ -179,9 +179,9 @@
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>アイテム作製 (鍛造台)</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
-  <DoBillsMakeWeapons.gerund>で武器を鍛える</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.gerund>で武具を鍛える</DoBillsMakeWeapons.gerund>
   <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>で武器を鍛える</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.verb>で武具を鍛える</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
   <DoBillsMedicalAnimalOperation.label>動物の手術</DoBillsMedicalAnimalOperation.label>
