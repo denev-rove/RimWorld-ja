@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: archer -->
-  <Tribal_Archer.label>弓士</Tribal_Archer.label>
+  <Tribal_Archer.label>弓使い</Tribal_Archer.label>
   
   <!-- EN: berserker -->
-  <Tribal_Berserker.label>狂戦士</Tribal_Berserker.label>
+  <Tribal_Berserker.label>獣戦士</Tribal_Berserker.label>
   
   <!-- EN: berserker chief -->
-  <Tribal_ChiefMelee.label>狂戦士頭</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.label>獣戦士の頭</Tribal_ChiefMelee.label>
   
   <!-- EN: archer chief -->
-  <Tribal_ChiefRanged.label>大弓士頭</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.label>弓使いの頭</Tribal_ChiefRanged.label>
   
   <!-- EN: heavy archer -->
-  <Tribal_HeavyArcher.label>大弓士</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.label>剛弓使い</Tribal_HeavyArcher.label>
   
   <!-- EN: hunter -->
   <Tribal_Hunter.label>狩人</Tribal_Hunter.label>
   
   <!-- EN: penitent -->
-  <Tribal_Penitent.label>penitent</Tribal_Penitent.label>
+  <Tribal_Penitent.label>元罪人</Tribal_Penitent.label>
   
   <!-- EN: trader -->
   <Tribal_Trader.label>行商人</Tribal_Trader.label>

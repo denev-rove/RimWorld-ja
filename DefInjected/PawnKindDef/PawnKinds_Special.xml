@@ -5,13 +5,13 @@
   <Slave.label>奴隷</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>黒衣の不審者</StrangerInBlack.label>
+  <StrangerInBlack.label>黒衣の来訪者</StrangerInBlack.label>
   <!-- EN: woman in black -->
   <StrangerInBlack.labelFemale>黒衣の女</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
   <StrangerInBlack.labelMale>黒衣の男</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>黒衣の不審者達</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>黒衣の来訪者たち</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
   <WildMan.label>野蛮人</WildMan.label>

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: town councilman -->
-  <Town_Councilman.label>議員</Town_Councilman.label>
+  <Town_Councilman.label>町の議員</Town_Councilman.label>
   <!-- EN: town councilmen -->
-  <Town_Councilman.labelPlural>議員達</Town_Councilman.labelPlural>
+  <Town_Councilman.labelPlural>町の議員たち</Town_Councilman.labelPlural>
   
   <!-- EN: town guard -->
-  <Town_Guard.label>衛兵</Town_Guard.label>
+  <Town_Guard.label>自警団員</Town_Guard.label>
   
   <!-- EN: town trader -->
-  <Town_Trader.label>商人</Town_Trader.label>
+  <Town_Trader.label>町の商人</Town_Trader.label>
   
   <!-- EN: villager -->
   <Villager.label>村民</Villager.label>

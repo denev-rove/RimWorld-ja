@@ -11,7 +11,7 @@
   <FluidReprocessor.label>循環液再処理装置</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>聴覚センサ</HearingSensor.label>
+  <HearingSensor.label>聴覚センサー</HearingSensor.label>
   
   <!-- EN: arm -->
   <MechanicalArm.label>腕</MechanicalArm.label>
@@ -74,9 +74,9 @@
   <Reactor.label>反応炉</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>視覚センサ</SightSensor.label>
+  <SightSensor.label>視覚センサー</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
-  <SmellSensor.label>臭覚センサ</SmellSensor.label>
+  <SmellSensor.label>臭覚センサー</SmellSensor.label>
   
 </LanguageData>
