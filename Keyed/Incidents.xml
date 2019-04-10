@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} 暴走</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort}の暴走</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>この地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>この地域の{ANIMAL_label}が狂気に駆られました。目にした人物を手当たり次第に攻撃します。</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>{0}の大暴走</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>精神的な波動の一種が、この辺り一帯に吹き荒れました。\n\n入植者たちは無事です。しかし...\n\n多くの{0}は狂気に駆られ、暴れだしたようです。</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
   <LetterLabelCropBlight>疫病</LetterLabelCropBlight>
@@ -91,17 +91,17 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>墜落した船体の一部が、精神的な波動を照射して付近の動物を狂気に駆り立てました。</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>墜落した船体の一部が、精神的な波動を照射して入植者の{0}を狂気に駆り立てました。</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>精神干渉波の強度: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>精神干渉波の増大</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました. このエリアの 人間は, 不安と, 恐怖と, 偏執衝動に さらされます.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>墜落した宇宙船の一部は、今やさらに強力な精神干渉波を発散しています。このエリアにいるあらゆる人間は、不安や恐怖、被害妄想に襲われます。</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -111,14 +111,14 @@
 
   <!-- Distant psychic drone -->
   <!-- EN: Psychic drone -->
-  <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
+  <LetterLabelPsychicDrone>精神干渉波</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>入植者の全{0}が痛みに顔をしかめます!\n\n少し遠い所にある 憎悪エンジンが 活発に活動しています.それは この一帯に 強力な サイコドローンを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当悪くなります.\n\nドローンレベル:{1}</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>入植者の全ての{0}が不快感に顔をしかめています！\n\nどこか遠くにある、憎悪を司る動力機関が活性化しています。それはこの地域一帯に強力な精神干渉波を照射しており、周波数の関係で{0}だけに影響を及ぼしているようです。数日のあいだ、影響を受ける人々の"心情"は相当に悪くなるでしょう。\n\n干渉波の強度: {1}</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
-  <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
+  <LetterLabelPsychicSoothe>精神安定波</LetterLabelPsychicSoothe>
   <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>入植者の全{0}が満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています. それは この一帯に 強力な サイコスードを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当良くなります.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>入植者の全ての{0}が満足げな微笑みを浮かべています！\n\nどこか遠くにある、幸福を司る動力機関が活性化しています！それはこの地域一帯に強力な精神安定波を照射しており、周波数の関係で{0}だけに影響を及ぼしているようです。数日のあいだ、影響を受ける人々の"心情"は相当に改善するでしょう。</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->

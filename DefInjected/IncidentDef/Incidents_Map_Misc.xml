@@ -46,17 +46,17 @@
   <HerdMigration.letterText>{0}の群れが,このエリアを通り過ぎようとしています.\n\n彼らは挑発されない限り,攻撃してきません.</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>隕石衝突</MeteoriteImpact.label>
+  <MeteoriteImpact.label>隕石の衝突</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>隕石</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
   <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました.それは{0}の塊を残しました.</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>サイコドローン</PsychicDrone.label>
+  <PsychicDrone.label>精神干渉波</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>サイコスード</PsychicSoothe.label>
+  <PsychicSoothe.label>精神安定波</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
   <RansomDemand.label>身代金要求</RansomDemand.label>

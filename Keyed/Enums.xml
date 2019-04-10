@@ -279,12 +279,12 @@
   <!-- EN: medium -->
   <PsychicDroneLevel_GoodMedium>中</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>低</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>弱</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
   <PsychicDroneLevel_BadMedium>中</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>高</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>強</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>極度</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>最強</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>
