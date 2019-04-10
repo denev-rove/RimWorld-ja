@@ -473,7 +473,7 @@
   <!-- EN: sleeping. -->
   <ReportSleeping>睡眠中</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>休憩中</ReportResting>
+  <ReportResting>休息中</ReportResting>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -491,7 +491,7 @@
   <!-- EN: area -->
   <AreaLower>エリア</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>ちじこまる</ReportCowering>
+  <ReportCowering>縮こまっている</ReportCowering>
   <!-- EN: standing. -->
   <ReportStanding>立っている</ReportStanding>
   <!-- EN: extinguishing fire. -->

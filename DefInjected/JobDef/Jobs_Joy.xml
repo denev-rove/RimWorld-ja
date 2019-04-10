@@ -11,22 +11,22 @@
   <Meditate.reportString>瞑想している</Meditate.reportString>
   
   <!-- EN: playing billiards. -->
-  <Play_Billiards.reportString>ビリヤードをして遊んでいる</Play_Billiards.reportString>
+  <Play_Billiards.reportString>ビリヤードを楽しんでいる</Play_Billiards.reportString>
   
   <!-- EN: playing chess. -->
-  <Play_Chess.reportString>チェスをして遊んでいる</Play_Chess.reportString>
+  <Play_Chess.reportString>チェスを楽しんでいる</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
   <Play_GameOfUr.reportString>ウル王朝のゲームで遊んでいる</Play_GameOfUr.reportString>
   
   <!-- EN: playing hoopstone. -->
-  <Play_Hoopstone.reportString>フープストーンをして遊んでいる</Play_Hoopstone.reportString>
+  <Play_Hoopstone.reportString>フープストーンで遊んでいる</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
-  <Play_Horseshoes.reportString>輪投げをして遊んでいる</Play_Horseshoes.reportString>
+  <Play_Horseshoes.reportString>輪投げで遊んでいる</Play_Horseshoes.reportString>
   
   <!-- EN: playing poker. -->
-  <Play_Poker.reportString>ポーカーをして遊んでいる</Play_Poker.reportString>
+  <Play_Poker.reportString>ポーカーを楽しんでいる</Play_Poker.reportString>
   
   <!-- EN: praying. -->
   <Pray.reportString>祈りを捧げている</Pray.reportString>
@@ -47,7 +47,7 @@
   <VisitGrave.reportString>墓参りをしている</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>TargetA を励ましている</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>TargetAを励ましている</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>テレビを見ている</WatchTelevision.reportString>

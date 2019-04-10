@@ -11,8 +11,8 @@
   <!-- EN: disassemble mechanoid -->
   <ButcherCorpseMechanoid.label>メカノイドを分解する</ButcherCorpseMechanoid.label>
   <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>機能停止したメカノイドを,部品毎に分解します.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>機能停止したメカノイドを、部品ごとに分解します。</ButcherCorpseMechanoid.description>
   <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>メカノイドを分解中</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>メカノイドを分解している</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>

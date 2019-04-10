@@ -4,16 +4,16 @@
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>武器を破壊する</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>不要な武器を高温で溶かして破壊します.この作業は溶解するより早く,溶解できないアイテムにも可能ですが,何の資源も得られません.</DestroyWeapon.description>
+  <DestroyWeapon.description>不要な武器を高温で滅却します。この作業は溶解するより早く、また溶解できない武器にも可能ですが、何の資源も得られません。</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
-  <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
+  <DestroyWeapon.jobString>武器を破壊している</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>屑鉄を精錬する</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄から使える金属を抽出します.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、屑鉄から使える金属を抽出します。</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>屑鉄を精錬している</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>有機物から燃料を精製する</Make_ChemfuelFromOrganics.label>
@@ -44,11 +44,11 @@
   <Make_ComponentSpacer.jobString>先端電子部品を作っている</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
+  <Make_Patchleather.label>パッチレザーを作る</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します.</Make_Patchleather.description>
+  <Make_Patchleather.description>様々な種類の革を継ぎはぎして、あまり強度のないパッチレザーにします。</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>パッチレザーを作っている</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>石材を切り出す</Make_StoneBlocksAny.label>
@@ -60,8 +60,8 @@
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>高温と強力な磁石を使い,武器から使える資源を取り出します.</SmeltWeapon.description>
+  <SmeltWeapon.description>高温と強力な電磁石を使い、武器から使える資源を取り出します。</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>武器を溶解している</SmeltWeapon.jobString>
   
 </LanguageData>

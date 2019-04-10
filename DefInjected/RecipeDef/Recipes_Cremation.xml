@@ -4,22 +4,22 @@
   <!-- EN: burn apparel -->
   <BurnApparel.label>衣服を焼却する</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
-  <BurnApparel.description>不要な衣服を完全に焼却します.</BurnApparel.description>
+  <BurnApparel.description>不要な衣服を跡形もなく焼却します。</BurnApparel.description>
   <!-- EN: Burning apparel. -->
-  <BurnApparel.jobString>衣服を焼却中</BurnApparel.jobString>
+  <BurnApparel.jobString>衣服を焼却している</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
   <BurnDrugs.label>ドラッグを焼却する</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>不要なドラッグを完全に焼却します.</BurnDrugs.description>
+  <BurnDrugs.description>不要なドラッグを跡形もなく焼却します。</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>ドラッグを焼却中</BurnDrugs.jobString>
+  <BurnDrugs.jobString>ドラッグを焼却している</BurnDrugs.jobString>
   
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>火葬にする</CremateCorpse.label>
+  <CremateCorpse.label>遺体を火葬する</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
-  <CremateCorpse.description>遺体を荼毘に付します.</CremateCorpse.description>
+  <CremateCorpse.description>人間の遺体を荼毘に付します。</CremateCorpse.description>
   <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>火葬中</CremateCorpse.jobString>
+  <CremateCorpse.jobString>遺体を火葬している</CremateCorpse.jobString>
   
 </LanguageData>

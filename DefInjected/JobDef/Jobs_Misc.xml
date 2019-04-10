@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>TargetA と格闘中</AttackMelee.reportString>
+  <AttackMelee.reportString>TargetAと白兵戦をしている</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>TargetA を攻撃中</AttackStatic.reportString>
+  <AttackStatic.reportString>TargetAを攻撃している</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
-  <BeatFire.reportString>消火中</BeatFire.reportString>
+  <BeatFire.reportString>火を消している</BeatFire.reportString>
   
   <!-- EN: clearing snow. -->
-  <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
+  <ClearSnow.reportString>雪かきしている</ClearSnow.reportString>
   
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetAを手放している</DropEquipment.reportString>
@@ -20,10 +20,10 @@
   <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込んでいる</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>TargetA に乗り込んでいる</EnterTransporter.reportString>
+  <EnterTransporter.reportString>TargetAに乗り込んでいる</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
-  <Equip.reportString>TargetA を装備中</Equip.reportString>
+  <Equip.reportString>TargetAを装備している</Equip.reportString>
   
   <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>自分自身を消火中</ExtinguishSelf.reportString>
@@ -32,10 +32,10 @@
   <FillFermentingBarrel.reportString>TargetAを満たしている</FillFermentingBarrel.reportString>
   
   <!-- EN: fleeing. -->
-  <Flee.reportString>逃走中</Flee.reportString>
+  <Flee.reportString>逃走している</Flee.reportString>
   
   <!-- EN: fleeing. -->
-  <FleeAndCower.reportString>逃走中</FleeAndCower.reportString>
+  <FleeAndCower.reportString>逃走している</FleeAndCower.reportString>
   
   <!-- EN: flicking switch. -->
   <Flick.reportString>電源を切り替えている</Flick.reportString>
@@ -53,49 +53,49 @@
   <Goto.reportString>移動中</Goto.reportString>
   
   <!-- EN: seeking safe temperature. -->
-  <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
+  <GotoSafeTemperature.reportString>安全な気温を求めている</GotoSafeTemperature.reportString>
   
   <!-- EN: wandering. -->
   <GotoWander.reportString>うろうろしている</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>TargetA を運んでいる</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>TargetAを運んでいる</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>TargetAを運んでいる</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
-  <Ignite.reportString>TargetA に着火中</Ignite.reportString>
+  <Ignite.reportString>TargetAに火を付けている</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>TargetA に脱走をそそのかしている</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>TargetAに脱走を唆している</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
-  <Ingest.reportString>TargetA を摂っている</Ingest.reportString>
+  <Ingest.reportString>TargetAを摂っている</Ingest.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>TargetA を侮辱している</Insult.reportString>
+  <Insult.reportString>TargetAを侮辱している</Insult.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>睡眠中</LayDown.reportString>
   
   <!-- EN: lovin'. -->
-  <Lovin.reportString>ウフフ,アハハ</Lovin.reportString>
+  <Lovin.reportString>うふふ、大好き！</Lovin.reportString>
   
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
+  <ManTurret.reportString>砲塔を操作している</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>TargetA を助けている</OfferHelp.reportString>
+  <OfferHelp.reportString>TargetAを救助している</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
-  <Open.reportString>TargetA を開封中</Open.reportString>
+  <Open.reportString>TargetAを開封している</Open.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TargetA を再装填中</RearmTurret.reportString>
+  <RearmTurret.reportString>TargetAを再装填している</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>TargetA を再装填中</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>TargetAを再装填している</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
   <Refuel.reportString>TargetAに燃料を追加している</Refuel.reportString>
@@ -104,25 +104,25 @@
   <RefuelAtomic.reportString>TargetAに燃料を追加している</RefuelAtomic.reportString>
   
   <!-- EN: removing TargetA. -->
-  <RemoveApparel.reportString>TargetA を脱いでいる</RemoveApparel.reportString>
+  <RemoveApparel.reportString>TargetAを脱いでいる</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>TargetA を蘇生している</Resurrect.reportString>
+  <Resurrect.reportString>TargetAを蘇生している</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>TargetA とケンカ中</SocialFight.reportString>
+  <SocialFight.reportString>TargetAとケンカしている</SocialFight.reportString>
   
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>TargetAを裸に剥いている</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>TargetAから中身を注いでいる</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA. -->
   <TakeInventory.reportString>TargetAを拾っている</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>TargetA と売買中</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>TargetAと取引している</TradeWithPawn.reportString>
   
   <!-- EN: triggering firefoam popper. -->
   <TriggerFirefoamPopper.reportString>泡消火器を起動している</TriggerFirefoamPopper.reportString>
@@ -137,16 +137,16 @@
   <UseArtifact.reportString>アーティファクトを起動している</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>TargetA を使用中</UseItem.reportString>
+  <UseItem.reportString>TargetAを使用している</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>メカナイトを使用している</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>学習用メカナイト血清を使用している</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>何かしている</UseVerbOnThing.reportString>
   
   <!-- EN: vomiting. -->
-  <Vomit.reportString>吐いている</Vomit.reportString>
+  <Vomit.reportString>嘔吐している</Vomit.reportString>
   
   <!-- EN: standing. -->
   <Wait.reportString>ぼんやりしている</Wait.reportString>
@@ -161,7 +161,7 @@
   <Wait_MaintainPosture.reportString>立っている</Wait_MaintainPosture.reportString>
   
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>適温な場所でぼんやりしている</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>安全な気温の場所で待機中</Wait_SafeTemperature.reportString>
   
   <!-- EN: wandering. -->
   <Wait_Wander.reportString>うろうろしている</Wait_Wander.reportString>
