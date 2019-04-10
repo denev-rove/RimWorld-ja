@@ -1,20 +1,22 @@
 ﻿// Things that natural objects could conceivably be (with some flex for poetry)
+// Animals, body parts
+
 大きな
-粗雑な
-ザラザラした
-背の高い
+毛深い
+刺々しい
+のっぽな
 鋭い
-ゴツゴツとした
-フサフサした
-用がない
+厳つい
+自由な
 最上の
-小さな
-古い
-円形の
+ちびの
+老いた
+丸い
 奇妙な
-賢そうな
-icy
-悪い
-良い
-遠い
-活気のない
+賢い
+凍える
+善良な
+邪悪な
+遥かな
+死んだ
+頑丈な

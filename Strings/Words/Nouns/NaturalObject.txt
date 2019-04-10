@@ -1,13 +1,13 @@
 ﻿//Intended as small-scale objects, not major terrain formations
 //Includes animal, vegetable, and mineral
-岩石
+岩
 石
-ゴロタ石
+巨岩
 木
-低木
-茂み
+灌木
+繁み
 泉
-水たまり
+水溜り
 湖
 丘
 洞穴
@@ -29,9 +29,8 @@
 爪
 尾
 皮
-皮膚
+肌
 角
 歯
 翼
 櫛
-森

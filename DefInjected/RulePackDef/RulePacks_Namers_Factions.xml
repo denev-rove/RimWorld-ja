@@ -14,7 +14,7 @@
     <li>r_name(p=3)->[nearnameinitial]</li>
     <li>r_name->[nearnameinitial][political_union_outlander]</li>
     <li>r_name->[nearnameinitial][political_adjective][political_union_outlander]</li>
-    <li>r_name->「[nearnameinitial]」[political_union_outlander]</li>
+    <li>r_name->[political_union_outlander]名"[nearnameinitial]"</li>
     <li>r_name->[political_adjective][nearnameinitial][political_union_outlander]</li>
     <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
     <li>nearnameinitial->[Direction][PlaceOutlander]</li>
@@ -71,7 +71,7 @@
     <li>r_name->[AdjectiveBadass][Enemy]団</li>
     <li>r_name->[AdjectiveBadass][PersonBadass]一家</li>
     <li>r_name->[ConceptBadass]らの[PersonAlly]一味</li>
-    <li>r_name(p=0.4)->[Gore]食人狼</li>
+    <li>r_name(p=0.4)->[Gore]を喰らうもの</li>
     <li>r_name->[NamePerson]らの[Enemy]団</li>
     <li>r_name->[NamePerson]らの[AnimalBadass]賊</li>
     <li>r_name->[NamePerson]らの[Weapon]一家</li>
@@ -88,11 +88,11 @@
     <li>r_name->The [WordTribal] of the [TerrainFeature]</li>
   -->
   <NamerFactionTribal.rulePack.rulesStrings>
-    <li>r_name->[WordTribal][political_union_tribal]</li>
-    <li>r_name->"[WordTribal]"[political_union_tribal]</li>
-    <li>r_name->[Color]の[TerrainFeature][political_union_tribal]</li>
-    <li>r_name->[WordTribal]らの[political_union_tribal]</li>
-    <li>r_name->[Color]色[Animal]"[WordTribal]"</li>
+    <li>r_name->[tribalworld][political_union_tribal]</li>
+    <li>r_name->"[tribalworld]"[political_union_tribal]</li>
+    <li>r_name->[Color]色[TerrainFeature][political_union_tribal]</li>
+    <li>r_name->[political_union_tribal]名"[WordTribal]"</li>
+    <li>r_name->[Color][Animal]の[WordTribal]</li>
     <li>r_name->[TerrainFeature]に住む[WordTribal]</li>
   </NamerFactionTribal.rulePack.rulesStrings>
   
@@ -190,29 +190,29 @@
     <li>townname_wordgen(p=2)->[sylE][sylE][townend]</li>
     <li>townname_wordgen->[TerrainFeature]</li>
     <li>townname_wordgen->[topicalnoun]</li>
-    <li>townend->ville</li>
-    <li>townend->town</li>
-    <li>townend->hurst</li>
-    <li>townend->bourne</li>
-    <li>townend->brad</li>
-    <li>townend->dale</li>
-    <li>townend->hope</li>
-    <li>townend->ing</li>
-    <li>townend->ness</li>
-    <li>townend->mere</li>
-    <li>townend->shaw</li>
-    <li>townend->wick</li>
-    <li>townend->ton</li>
-    <li>townend->ston</li>
-    <li>townend->os</li>
-    <li>townend->den</li>
-    <li>townend->tas</li>
-    <li>townend->wood</li>
-    <li>townend->land</li>
-    <li>townend->worth</li>
-    <li>townend->roon</li>
-    <li>townend->ron</li>
-    <li>townend->well</li>
+    <li>townend->ビラ</li>
+    <li>townend->タウン</li>
+    <li>townend->ハースト</li>
+    <li>townend->ボーン</li>
+    <li>townend->ブラド</li>
+    <li>townend->デイル</li>
+    <li>townend->ホープ</li>
+    <li>townend->ング</li>
+    <li>townend->ネス</li>
+    <li>townend->メア</li>
+    <li>townend->ショウ</li>
+    <li>townend->ウィック</li>
+    <li>townend->トン</li>
+    <li>townend->ストン</li>
+    <li>townend->ス</li>
+    <li>townend->デン</li>
+    <li>townend->タス</li>
+    <li>townend->ウッド</li>
+    <li>townend->ランド</li>
+    <li>townend->ワース</li>
+    <li>townend->ルーン</li>
+    <li>townend->ロン</li>
+    <li>townend->ウェル</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
@@ -277,27 +277,27 @@
     <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
     <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
     <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
-    <li>townendevil->vast</li>
-    <li>townendevil->varg</li>
-    <li>townendevil->vix</li>
-    <li>townendevil->tor</li>
-    <li>townendevil->tear</li>
-    <li>townendevil->cut</li>
-    <li>townendevil->lop</li>
-    <li>townendevil->oze</li>
-    <li>townendevil->ozzle</li>
-    <li>townendevil->latch</li>
-    <li>townendevil->lock</li>
-    <li>townendevil->burn</li>
-    <li>townendevil->sear</li>
-    <li>townendevil->shank</li>
-    <li>townendevil->hurt</li>
-    <li>townendevil->vash</li>
-    <li>townendevil->warg</li>
-    <li>townendevil->wug</li>
-    <li>townendevil->thot</li>
-    <li>townendevil->thard</li>
-    <li>townendevil->thad</li>
+    <li>townendevil->ヴァスト</li>
+    <li>townendevil->ヴァルグ</li>
+    <li>townendevil->ヴィクス</li>
+    <li>townendevil->トール</li>
+    <li>townendevil->ティア</li>
+    <li>townendevil->カット</li>
+    <li>townendevil->ロップ</li>
+    <li>townendevil->ズ</li>
+    <li>townendevil->ズル</li>
+    <li>townendevil->ラッチ</li>
+    <li>townendevil->ロック</li>
+    <li>townendevil->バーン</li>
+    <li>townendevil->シア</li>
+    <li>townendevil->シャンク</li>
+    <li>townendevil->ハート</li>
+    <li>townendevil->ヴァッシュ</li>
+    <li>townendevil->ワーグ</li>
+    <li>townendevil->ワグ</li>
+    <li>townendevil->トート</li>
+    <li>townendevil->サード</li>
+    <li>townendevil->サド</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -308,9 +308,11 @@
   -->
   <NamerSettlementTribal.rulePack.rulesStrings>
     <li>r_name(p=2)->[WordTribal]</li>
-    <li>r_name->[Color]色[WordTribal]</li>
+    <li>r_name->[Color]の[WordTribal]</li>
     <li>r_name->[Color]色[TerrainFeature]</li>
     <li>r_name->[WordTribal][TerrainFeature]</li>
+    <!-- local addition -->
+    <li>r_name(p=0.5)->[Color]の[TerrainFeature]</li>
   </NamerSettlementTribal.rulePack.rulesStrings>
   
 </LanguageData>
