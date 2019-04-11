@@ -378,53 +378,53 @@
   <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>燃料搭載量を設定する</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>燃料搭載量を決定します.入植者は,燃料搭載量まで,燃料を注入しようとします.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>燃料搭載量を設定します。入植者は設定量まで給油しようとします。</CommandSetTargetFuelLevelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>荷積みを中止</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>荷積みを中止して,既に積んであるものを下ろします.</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>荷積み作業を中止して、既に積んである荷物を下ろします。</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch group -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>輸送ポッドの目標座標設定プロセスを開始します.次のステップは目的地を選びます.輸送ポッドは飛翔し,きちんと着陸します.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>輸送ポッドの発射手続きを開始します。次の手順で目的地を選択します。複数の輸送ポッドは一斉に発射され、到着するのも同時です。</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドは,給油口に接続されていません.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドが、ポッド発射台の給油口に接続されていません。</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>一部のポッドランチャーは,燃料がありません.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>一部のポッド発射台に燃料がありません。</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>一部のポッドランチャーは,屋根の下にあります.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>一部のポッド発射台が、屋根の下にあります。</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>{0}グループを発射</CommandLoadTransporter>
+  <CommandLoadTransporter>発射グループを編成 ({0}機)</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>選択した輸送ポッド(群)をグループとします."荷積み"ダイアログを開いて,誰が,何を運ぶべきか決めることができます.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>選択中の輸送ポッド同士で、一つの発射グループを編成します。編成画面を開き輸送する人員と物資を指定します。</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドは,給油口に接続されていません.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドが、ポッド発射台の給油口に接続されていません。</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>ポッドランチャーは,燃料がありません.</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>ポッド発射台に燃料がありません。</CommandLoadTransporterFailNoFuel>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>前のグループを選択</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>前のポッドを選択</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>一つ前のグループを選択します.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>同じグループ内の一つ前の輸送ポッドを選択します。</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
-  <CommandSelectAllTransporters>グループを選択</CommandSelectAllTransporters>
+  <CommandSelectAllTransporters>発射グループ選択</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>グループの全輸送ポッドを選択します.</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>同じグループ内の全ての輸送ポッドを 選択します。</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>次のグループを選択</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>次のポッドを選択</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>一つ後のグループを選択します.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>同じグループ内の一つ後の輸送ポッドを選択します。</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->

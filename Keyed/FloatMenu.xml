@@ -363,13 +363,13 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>ズームインして,{0}の着陸地点を選択する</LandInExistingMap>
+  <LandInExistingMap>ズームインして、{0}の 着陸地点を選択する</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>内容物を失うだろう</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>警告: 積載物が失われます。</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>此処でキャラバン隊を編成する</FormCaravanHere>
+  <FormCaravanHere>ここでキャラバン隊を編成する</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>{0}に与える</GiveToCaravan>
+  <GiveToCaravan>{0}に届ける</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>貢ぎ物として{0}に差し出す ({1})</GiveGiftViaTransportPods>
 

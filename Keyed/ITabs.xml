@@ -286,8 +286,8 @@
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>削除 {{0}}x {0}</RemoveSliderText>
+  <RemoveSliderText>{{0}}x {0} を取り除く</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>{0}を本当に取り除きますか?</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>{0}を本当に取り除きますか？</ConfirmRemoveItemDialog>
 
 </LanguageData>

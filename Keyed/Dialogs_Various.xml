@@ -659,17 +659,17 @@
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
-  <LoadTransporters>{0}を荷積み</LoadTransporters>
+  <LoadTransporters>発射グループを編成</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>指示された人とアイテムは,輸送ポッドには重すぎます.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>指定した人物と物資は、輸送ポッドには重すぎます。</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>空の輸送ポッドを送る事はできません.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>空っぽの輸送ポッドを送る事はできません。</CantSendEmptyTransportPods>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort}は輸送ポッドに到達できません.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort}は輸送ポッドまで辿り着けません。</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>{0}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>{0}を輸送ポッドまで運ぶ経路がありません。</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>{0}x {1}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>{0}x {1}を輸送ポッドまで運ぶ経路がありません。</TransporterItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -847,7 +847,7 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>発射グループの荷積みが完了していません。{1_labelShort}が所在不明です。\n\n構わず発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->

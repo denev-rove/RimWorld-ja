@@ -286,35 +286,35 @@
   <MessageRescueeJoined>{!_objective}救出したことで{1_labelShort}が あなたのグループに加わりました!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません.</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>いくつかの輸送ポッドは航続距離が足りません。</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>全てのポッドランチャーは輸送ポッドの隣に配置してください.</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>複数の輸送ポッドを選択する場合、全てのポッド発射台が繋がっていなければなりません。</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>輸送ポッドの一つが破壊されたので荷積み作業は中止されました.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>輸送ポッドの一つが破壊されたため、荷積み作業は中止されました。</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ポッドランチャーの一つが破壊されたので荷積み作業は中止されました.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ポッド発射台の一つが破壊されたため、荷積み作業は中止されました。</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>入植者達は 輸送ポッドに指定のアイテムを積み込もうとします.</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>入植者たちは、輸送ポッドに指定の物資を積み込もうとしています。</MessageTransportersLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>輸送ポッドは到着しました.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>輸送ポッドが目的地に到着しました。</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>輸送ポッドは,いま到着しましたが,入植者が一人も乗っていないため,荷物は失われました.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>輸送ポッドが目的地に到着しましたが、入植者が一人も乗っていなかったため、積み荷は失われました。</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>あなたの輸送ポッドは,いま到着しました.積み荷は{0}に追加されました.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>輸送ポッドが目的地に到着しました。積み荷は{0}に届けられました。</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
-  <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>輸送ポッドへの積み込みを完了しました。</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>輸送ポッドへの積み込みを完了できません。有効ではない人員もしくは物資を指定しています。({2_labelShort})</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
-  <MessageTransportPodsDestinationIsInvalid>目的地が不正です.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsInvalid>目的地が正しくありません。</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくても x{0}の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>それぞれのポッド発射台は、輸送ポッドを飛ばすために少なくとも燃料 x{0}を必要とします。</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>キャラバン隊を再編成しました。</MessageReformedCaravan>

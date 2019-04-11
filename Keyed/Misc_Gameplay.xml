@@ -7,7 +7,7 @@
   <!-- EN: Work left -->
   <WorkLeft>残り工数</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>運んだ資材</Contents>
+  <Contents>積載物</Contents>
   <!-- EN: Contained resources -->
   <ContainedResources>作成に必要なリソース</ContainedResources>
   <!-- EN: For prisoner use -->
@@ -131,7 +131,7 @@
   <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>燃料積載量を {0}に設定</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>燃料積載量を {0}に設定\n航続距離: {1} タイル</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>燃料積載量を {0}に設定\n航続距離: {1}タイル</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>目標の燃料積載量: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
@@ -807,7 +807,7 @@
   <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>全ての面において,人が立てるスペースが必要です.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>ポッド発射台の燃料口に繋げて配置してください。</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>掘削可能な資源の上に配置してください.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
@@ -1045,8 +1045,8 @@
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: オーダーを見る...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: 出せる指示を確認する...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>オーダーを見る...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>出せる指示を確認する...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

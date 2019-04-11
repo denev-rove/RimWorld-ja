@@ -69,9 +69,9 @@
   <PartySpot.description>パーティを開催する場所を指定します。</PartySpot.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>ポッド ランチャー</PodLauncher.label>
+  <PodLauncher.label>ポッド発射台</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>一機の輸送ポッドを射出するための給油装置です。ポッドランチャーは集団で射出することもできます。その場合、ランチャーは互いに隣接して配置しなければなりません。</PodLauncher.description>
+  <PodLauncher.description>一機の輸送ポッドを発射するための給油装置です。輸送ポッドは集団で発射することもできます。その場合、発射台を互いに繋げて配置しなければなりません。</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
   <Sarcophagus.label>死者の棺</Sarcophagus.label>
