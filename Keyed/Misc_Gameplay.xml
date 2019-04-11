@@ -703,7 +703,7 @@
   <!-- EN: Year-round -->
   <GrowYearRound>一年中</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
+  <GrowSeasonHereNow>栽培に適した時期です。</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>生育不可 (気温不適合)</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->

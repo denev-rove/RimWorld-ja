@@ -27,14 +27,14 @@
   <ForagedNutritionPerDay.description>このキャラクターが,キャラバン隊として旅行中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>全般的な学習速度</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>全てのスキルについて学習速度に乗算する倍率です。</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>飢えやすさ</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>空腹になる速度</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>この生物が,どのくらい早く空腹になるかの掛け率です.</HungerRateMultiplier.description>
+  <HungerRateMultiplier.description>空腹になる速度に乗算する倍率です。</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>免疫を得る速度</ImmunityGainSpeed.label>
@@ -57,9 +57,9 @@
   <MentalBreakThreshold.description>"心情"が,この値より少ないと精神崩壊する危険性があります.精神崩壊時の症状の大きさは,どのくらい閾値よりも少ないかで決まります.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
-  <MinimumHandlingSkill.label>生き物スキル必要量</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.label>必要な動物スキル</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
-  <MinimumHandlingSkill.description>この必要量より生き物スキルが低い人は,この生物を手なずけたり,調教したり,命令することができません.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.description>動物スキルがこの値に満たない者は、この生物に対して手懐けや調教、命令などを行えません。</MinimumHandlingSkill.description>
   
   <!-- EN: move speed -->
   <MoveSpeed.label>移動速度</MoveSpeed.label>
@@ -79,9 +79,9 @@
   <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>休息しやすさ</RestRateMultiplier.label>
+  <RestRateMultiplier.label>睡眠をとる速度</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
-  <RestRateMultiplier.description>どのくらい寝ている間に速く休息を得られるかの掛け率です.</RestRateMultiplier.description>
+  <RestRateMultiplier.description>睡眠中に回復する睡眠量に乗算する倍率です。</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
   <ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>

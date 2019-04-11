@@ -520,6 +520,6 @@
   <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
+  <MessageCantShootInMelee>白兵戦中は射撃できません。</MessageCantShootInMelee>
 
 </LanguageData>

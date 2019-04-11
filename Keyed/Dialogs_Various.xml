@@ -343,7 +343,7 @@
   <!-- EN: days -->
   <Days>日</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>種を蒔くのに,最低限必要な"栽培"スキル値</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>種蒔きに必要な植物スキル</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
@@ -431,7 +431,7 @@
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>手懐け失敗時の逆襲率</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>必要な地盤</TerrainRequirement>
+  <TerrainRequirement>設置に必要な地盤</TerrainRequirement>
   <!-- EN: Supports -->
   <Supports>地盤</Supports>
   <!-- EN: Trap armor penetration -->
@@ -819,7 +819,7 @@
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0}の種を蒔くのには, 栽培スキルが{1}必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられません.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}の種を蒔くには、{1}以上の植物スキルが必要です。\n\n動ける者が誰も十分なスキルを持っていないため、この植物は育てられません。</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->

@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: bridgeable -->
-  <Bridgeable.label>橋梁可</Bridgeable.label>
+  <Bridgeable.label>橋架け可能</Bridgeable.label>
   
   <!-- EN: diggable -->
-  <Diggable.label>掘削可</Diggable.label>
+  <Diggable.label>掘削可能</Diggable.label>
   
   <!-- EN: growable -->
-  <GrowSoil.label>栽培可</GrowSoil.label>
+  <GrowSoil.label>耕作可能</GrowSoil.label>
   
   <!-- EN: heavy -->
-  <Heavy.label>大型</Heavy.label>
+  <Heavy.label>固い地盤</Heavy.label>
   
   <!-- EN: light -->
-  <Light.label>小型</Light.label>
+  <Light.label>緩い地盤</Light.label>
   
   <!-- EN: medium -->
-  <Medium.label>中型</Medium.label>
+  <Medium.label>普通の地盤</Medium.label>
   
   <!-- EN: moving water -->
   <MovingFluid.label>流水</MovingFluid.label>
@@ -26,6 +26,6 @@
   <ShallowWater.label>浅瀬</ShallowWater.label>
   
   <!-- EN: smoothable -->
-  <SmoothableStone.label>平滑可</SmoothableStone.label>
+  <SmoothableStone.label>研磨可能</SmoothableStone.label>
   
 </LanguageData>
