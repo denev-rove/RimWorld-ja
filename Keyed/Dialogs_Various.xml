@@ -387,17 +387,17 @@
   <!-- EN: Mood change -->
   <MoodChange>心情変化</MoodChange>
   <!-- EN: Wildness -->
-  <Wildness>野性</Wildness>
+  <Wildness>野性度</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>野性に近い動物は,手なずけたり,調教するのが,より難しくなります.</WildnessExplanation>
+  <WildnessExplanation>野性に近い動物は、手懐けや調教の難度が高まります。</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>調教値減衰間隔</TrainingDecayInterval>
+  <TrainingDecayInterval>調教が風化する間隔</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
   <TamenessWillNotDecay>一度懐くと忘れません</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
+  <AnimalFilthRate>床汚れの頻度</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>動物は,作られた床の上を歩き回ると,床を汚してしまいます.この動物が床を汚す平均の量は {0}セルです.\n\n大きくて,ペットには向かない動物は,より汚すようになります.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>動物が歩き回ると、人工の床は汚れてしまいます。この動物は、{0}セル歩く度にこのような汚れを生み出します。\n\n大きくて愛玩に向かない動物は、より多くの汚れを生み出します。</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>時</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -407,7 +407,7 @@
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>この動物は,キャラバン隊が長い距離,アイテムを運ぶのに適しています.</PackAnimalExplanation>
+  <PackAnimalExplanation>この動物が、キャラバン隊として長距離の荷物の運搬に向いているかどうかです。</PackAnimalExplanation>
   <!-- EN: Skill -->
   <Skill>スキル</Skill>
   <!-- EN: Success rate multiplier -->

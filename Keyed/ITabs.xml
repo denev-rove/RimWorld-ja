@@ -193,14 +193,14 @@
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>調教しやすさ</Trainability>
+  <Trainability>調教適正</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>{0} 以上の調教適正が必要です。</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>この調教をするには {1_labelShort}は あまりにも小さすぎます.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>この調教をするには体格が足りません。</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>前提となる調教: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: (no relationships) -->

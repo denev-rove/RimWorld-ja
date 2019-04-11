@@ -331,9 +331,9 @@
   <!-- EN: your caravan -->
   <yourCaravan>あなたのキャラバン隊</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>{0} 野生</CreatureWildness>
+  <CreatureWildness>{0}の野生度</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>{0} 訓練しやすさ</CreatureTrainability>
+  <CreatureTrainability>{0}の調教適性</CreatureTrainability>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
