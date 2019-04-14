@@ -39,21 +39,21 @@
   <!-- EN: deliver resources to blueprints -->
   <ConstructDeliverResourcesToBlueprints.label>建材の運搬 (設計段階)</ConstructDeliverResourcesToBlueprints.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToBlueprints.gerund>に建材を運ぶ</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.gerund>に 建材を 運ぶ</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: work on -->
   <ConstructDeliverResourcesToBlueprints.verb>に建材を運ぶ</ConstructDeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
   <ConstructDeliverResourcesToFrames.label>建材の運搬 (施工途中)</ConstructDeliverResourcesToFrames.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToFrames.gerund>に建材を運ぶ</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.gerund>に 建材を 運ぶ</ConstructDeliverResourcesToFrames.gerund>
   <!-- EN: work on -->
   <ConstructDeliverResourcesToFrames.verb>に建材を運ぶ</ConstructDeliverResourcesToFrames.verb>
   
   <!-- EN: construct placed frames -->
   <ConstructFinishFrames.label>構造物の建設</ConstructFinishFrames.label>
   <!-- EN: constructing -->
-  <ConstructFinishFrames.gerund>を仕上げる</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.gerund>を 仕上げる</ConstructFinishFrames.gerund>
   <!-- EN: construct -->
   <ConstructFinishFrames.verb>を仕上げる</ConstructFinishFrames.verb>
   
@@ -95,21 +95,21 @@
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>囚人の食事 (配達)</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>に食事を届ける</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>に 食事を 届ける</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
   <DeliverFoodToPrisoner.verb>に食事を届ける</DeliverFoodToPrisoner.verb>
   
   <!-- EN: deliver resources to blueprints -->
   <DeliverResourcesToBlueprints.label>建材の運搬 (設計段階)</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToBlueprints.gerund>に建材を届ける</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.gerund>に 建材を 届ける</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
   <DeliverResourcesToBlueprints.verb>に建材を届ける</DeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
   <DeliverResourcesToFrames.label>建材の運搬 (施工途中)</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToFrames.gerund>に建材を届ける</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.gerund>に 建材を 届ける</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->
   <DeliverResourcesToFrames.verb>に建材を届ける</DeliverResourcesToFrames.verb>
   
@@ -249,21 +249,21 @@
   <!-- EN: feed patients -->
   <DoctorFeedHumanlikes.label>患者の食事 (介助)</DoctorFeedHumanlikes.label>
   <!-- EN: feeding -->
-  <DoctorFeedHumanlikes.gerund>の食事を介助する</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.gerund>の 食事を 介助する</DoctorFeedHumanlikes.gerund>
   <!-- EN: feed -->
   <DoctorFeedHumanlikes.verb>の食事を介助する</DoctorFeedHumanlikes.verb>
   
   <!-- EN: rescue downed allies to bed -->
   <DoctorRescue.label>倒れた味方の救助</DoctorRescue.label>
   <!-- EN: rescuing -->
-  <DoctorRescue.gerund>を救急搬送する</DoctorRescue.gerund>
+  <DoctorRescue.gerund>を 救急搬送する</DoctorRescue.gerund>
   <!-- EN: rescue -->
   <DoctorRescue.verb>を救助する</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
   <DoctorTendEmergency.label>患者の治療</DoctorTendEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendEmergency.gerund>を救命治療する</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.gerund>を 救命治療する</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->
   <DoctorTendEmergency.verb>を救命治療する</DoctorTendEmergency.verb>
   
@@ -284,7 +284,7 @@
   <!-- EN: tend to self -->
   <DoctorTendToSelf.label>自己治療</DoctorTendToSelf.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelf.gerund>に自己治療させる</DoctorTendToSelf.gerund>
+  <DoctorTendToSelf.gerund>に 自己治療させる</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
   <DoctorTendToSelf.verb>に自己治療させる</DoctorTendToSelf.verb>
   
@@ -305,14 +305,14 @@
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>囚人の食事 (介助)</FeedPrisoner.label>
   <!-- EN: feeding -->
-  <FeedPrisoner.gerund>の食事を介助する</FeedPrisoner.gerund>
+  <FeedPrisoner.gerund>の 食事を 介助する</FeedPrisoner.gerund>
   <!-- EN: feed -->
   <FeedPrisoner.verb>の食事を介助する</FeedPrisoner.verb>
   
   <!-- EN: fight fires -->
   <FightFires.label>消火活動</FightFires.label>
   <!-- EN: extinguishing -->
-  <FightFires.gerund>の火を消す</FightFires.gerund>
+  <FightFires.gerund>の 火を消す</FightFires.gerund>
   <!-- EN: extinguish -->
   <FightFires.verb>の火を消す</FightFires.verb>
   
@@ -361,7 +361,7 @@
   <!-- EN: haul corpses -->
   <HaulCorpses.label>死体の運搬</HaulCorpses.label>
   <!-- EN: hauling -->
-  <HaulCorpses.gerund>の 死体を運搬する</HaulCorpses.gerund>
+  <HaulCorpses.gerund>の 死体を 運搬する</HaulCorpses.gerund>
   <!-- EN: haul -->
   <HaulCorpses.verb>の 死体を片付ける</HaulCorpses.verb>
   
@@ -515,7 +515,7 @@
   <!-- EN: strip corpses -->
   <Strip.label>死体を剥ぐ</Strip.label>
   <!-- EN: stripping -->
-  <Strip.gerund>の装備を剥ぐ</Strip.gerund>
+  <Strip.gerund>の 装備を 剥ぐ</Strip.gerund>
   <!-- EN: strip -->
   <Strip.verb>の装備を剥ぐ</Strip.verb>
   
@@ -536,7 +536,7 @@
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>患者の搬送 (手術)</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
-  <TakeToBedToOperate.gerund>を手術室へ搬送する</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.gerund>を 手術室へ 搬送する</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>を搬送する</TakeToBedToOperate.verb>
   
@@ -571,7 +571,7 @@
   <!-- EN: visit sick people -->
   <VisitSickPawn.label>患者の激励</VisitSickPawn.label>
   <!-- EN: visiting -->
-  <VisitSickPawn.gerund>を元気付ける</VisitSickPawn.gerund>
+  <VisitSickPawn.gerund>を 元気付ける</VisitSickPawn.gerund>
   <!-- EN: visit -->
   <VisitSickPawn.verb>を見舞う</VisitSickPawn.verb>
   

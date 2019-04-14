@@ -71,7 +71,7 @@
   <!-- EN: Allow -->
   <DesignatorUnforbid>許可</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>禁制されている物資に触れることを許可します。 入植者は、解禁された物資を利用するようになります。</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>禁制されている物資に触れることを許可します。 入植者は、許可された物資を利用するようになります。</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>居住エリア</DesignatorAreaHomeExpand>

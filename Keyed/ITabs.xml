@@ -45,7 +45,7 @@
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>新しい 加工</AddBill>
+  <AddBill>新しい加工</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
@@ -75,7 +75,7 @@
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>敵対心が残っています</RecruitmentResistance>
+  <RecruitmentResistance>反抗心の強さ</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
   <!-- EN: Gets food -->
@@ -85,7 +85,7 @@
   <!-- EN: Gets medicine -->
   <GetsMedicine>薬を 与えます</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
+  <ShouldTryToRecruit>勧誘を試みる</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
 

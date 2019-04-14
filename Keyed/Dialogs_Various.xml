@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Confirm -->
-  <Confirm>了承</Confirm>
+  <Confirm>承認</Confirm>
   <!-- EN: Go back -->
   <GoBack>戻る</GoBack>
   <!-- EN: OK -->
@@ -248,11 +248,11 @@
   <!-- EN: Infinite -->
   <Infinite>無限に</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>スキル範囲: {0}</AllowedSkillRange>
+  <AllowedSkillRange>作業を許可する{0}スキル: </AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>不適合</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>作業者(誰でも)</AnyWorker>
+  <AnyWorker>作業者の指定なし</AnyWorker>
   <!-- EN: Unlimited -->
   <Unlimited>無制限</Unlimited>
   
@@ -263,7 +263,7 @@
   <!-- EN: Minimum skills: -->
   <MinimumSkills>必要スキル：</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>{0}個の"{1}"が必要(同一種類)</BillRequires>
+  <BillRequires>{0}個の{1}が必要</BillRequires>
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>{0}個の"栄養"が必要</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
@@ -439,11 +439,11 @@
   <!-- EN: Rearm cost -->
   <RearmCost>再装填コスト</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>このタレットを再装填するには資源が必要です(難易度の影響を受けます).</RearmCostExplanation>
+  <RearmCostExplanation>この砲塔を再装填するには資源が必要です。(難易度の影響を受けます)</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>残弾数</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です。</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>電力消費量</PowerConsumption>
 
