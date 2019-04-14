@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: turrets -->
-  <Turrets.label>タレット</Turrets.label>
+  <Turrets.label>砲塔</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>タレット群</Turrets.description>
+  <Turrets.description>砲塔群</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>敵のタレットがこのエリアにあります.</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>このエリアには敵の砲塔があります。</Turrets.arrivedLetter>
   <!-- EN: {0} defend the site -->
-  <Turrets.descriptionDialogue>タレットが {0}あります.</Turrets.descriptionDialogue>
+  <Turrets.descriptionDialogue>この地は {0}が 守りを 固めて いる</Turrets.descriptionDialogue>
   
 </LanguageData>

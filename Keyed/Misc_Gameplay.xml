@@ -135,7 +135,7 @@
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>目標の燃料積載量: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>敵</Enemies>
+  <Enemies>人の敵</Enemies>
   <!-- EN: time passed -->
   <TimePassed>経過時間</TimePassed>
   <!-- EN: current radius -->
@@ -347,15 +347,15 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>タレット</Turret>
+  <Turret>基の砲塔</Turret>
   <!-- EN: turrets -->
-  <Turrets>タレット群</Turrets>
+  <Turrets>基の砲塔</Turrets>
   <!-- EN: mortar -->
-  <Mortar>迫撃砲</Mortar>
+  <Mortar>門の迫撃砲</Mortar>
   <!-- EN: mortars -->
-  <Mortars>迫撃砲群</Mortars>
+  <Mortars>門の迫撃砲</Mortars>
   <!-- EN: enemy -->
-  <Enemy>敵対者</Enemy>
+  <Enemy>人の敵</Enemy>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->

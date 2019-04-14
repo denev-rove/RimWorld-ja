@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: orbital trader arrival -->
-  <OrbitalTraderArrival.label>軌道上トレーダー飛来</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>軌道商船の飛来</OrbitalTraderArrival.label>
   
   <!-- EN: enemy raid (special locations) -->
   <RaidEnemyBeacon.label>敵襲 (特別配置)</RaidEnemyBeacon.label>
@@ -11,20 +11,20 @@
   <RaidFriendly.label>援軍</RaidFriendly.label>
   
   <!-- EN: ship chunk drop -->
-  <ShipChunkDrop.label>宇宙船のガラクタ落下</ShipChunkDrop.label>
+  <ShipChunkDrop.label>宇宙船の残骸の墜落</ShipChunkDrop.label>
   
   <!-- EN: man in black -->
-  <StrangerInBlackJoin.label>黒衣の男</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.label>黒衣の来訪者</StrangerInBlackJoin.label>
   <!-- EN: Man in black -->
-  <StrangerInBlackJoin.letterLabel>黒衣の男</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterLabel>黒衣の来訪者</StrangerInBlackJoin.letterLabel>
   <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
-  <StrangerInBlackJoin.letterText>トラブルの気配が・・・,不思議な[PAWN_kind]が到着した.\n\n[PAWN_pronoun]は,この状況をどうにかできないだろうか？</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterText>緊急事態を察知し、謎に包まれた[PAWN_kind]が来訪しました。\n\n[PAWN_pronoun]は、この状況をどうにかできるのでしょうか？</StrangerInBlackJoin.letterText>
   
   <!-- EN: trader caravan arrival -->
-  <TraderCaravanArrival.label>トレーダーキャラバン訪問</TraderCaravanArrival.label>
+  <TraderCaravanArrival.label>キャラバン隊の訪問</TraderCaravanArrival.label>
   
   <!-- EN: traveler group -->
-  <TravelerGroup.label>旅行者</TravelerGroup.label>
+  <TravelerGroup.label>旅人の一行</TravelerGroup.label>
   
   <!-- EN: visitor group -->
   <VisitorGroup.label>訪問者</VisitorGroup.label>

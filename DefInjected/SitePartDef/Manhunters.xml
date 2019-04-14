@@ -4,10 +4,10 @@
   <!-- EN: manhunter pack -->
   <Manhunters.label>人狩りの群れ</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->
-  <Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
+  <Manhunters.description>人間を狩ろうとしている動物の群れです。</Manhunters.description>
   <!-- EN: There are manhunting animals in this area. -->
-  <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます.</Manhunters.arrivedLetter>
+  <Manhunters.arrivedLetter>人狩りの動物たちがこのエリアに居ます。</Manhunters.arrivedLetter>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
-  <Manhunters.descriptionDialogue>ヒト狩り,{1}頭の{0}の群れが辺りをうろついています.</Manhunters.descriptionDialogue>
+  <Manhunters.descriptionDialogue>{0}匹の{1}による人狩りの群れが付近を徘徊している</Manhunters.descriptionDialogue>
   
 </LanguageData>

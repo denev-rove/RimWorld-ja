@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: incapacitated refugee -->
-  <DownedRefugee.label>行き倒れの難民</DownedRefugee.label>
+  <DownedRefugee.label>負傷した遭難者</DownedRefugee.label>
   <!-- EN: A stranded, incapacitated refugee begging for help. -->
-  <DownedRefugee.description>取り残され助けを乞う行き倒れの難民</DownedRefugee.description>
+  <DownedRefugee.description>負傷して身動きできなくなった遭難者が助けを求めています。</DownedRefugee.description>
   
 </LanguageData>
