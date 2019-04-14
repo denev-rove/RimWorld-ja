@@ -37,7 +37,7 @@
   <FoodPoisonChance.label>食中毒発生率</FoodPoisonChance.label>
   
   <!-- EN: grave visiting recreation factor -->
-  <GraveVisitingJoyGainFactor.label>やすらぎ効果倍率</GraveVisitingJoyGainFactor.label>
+  <GraveVisitingJoyGainFactor.label>墓参り 娯楽への倍率</GraveVisitingJoyGainFactor.label>
   
   <!-- EN: impressiveness -->
   <Impressiveness.label>総合評価</Impressiveness.label>

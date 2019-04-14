@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeedFactor.label>建造速度</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>建設速度</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
-  <ConstructionSpeedFactor.description>建築速度への掛率です.石材などのある素材で建てる場合に遅くなり,木材のような素材では早くなります.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.description>この素材を構造物の建材として用いる際に、作業速度に乗算する倍率です。石材などは、木材などと比較して作業が遅くなります。</ConstructionSpeedFactor.description>
   
   <!-- EN: medical potency -->
   <MedicalPotency.label>薬効</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>手術,病気や怪我の治療時に使用したときの効果を表します.薬効が高い程,治療の品質が相応に向上し手術の成功率に作用します.薬効は医療成果の一つの要因でしかありません,他にも,医師の能力,装備,清潔さ,そして運があります.</MedicalPotency.description>
+  <MedicalPotency.description>病気や怪我の治療、あるいは手術の際に、この薬がどれだけ効果的に働くかです。薬効が高いほど治療品質や手術の成功率が向上します。薬効は医療成果の一つの要因でしかありません。他にも、医師の能力、医療設備、部屋の清潔度、運などが影響します。</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
-  <MedicalQualityMax.label>最大看護品質</MedicalQualityMax.label>
+  <MedicalQualityMax.label>治療品質の最大値</MedicalQualityMax.label>
   <!-- EN: The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
-  <MedicalQualityMax.description>医療看護の最大品質表します.良い看護品質は,スキルを持った医者により良い怪我の治療と確実性を可能にします.</MedicalQualityMax.description>
+  <MedicalQualityMax.description>この薬を使用した治療で達成できる、治療品質の上限です。上限が高いほど、腕の良い医師がより高品質で確実な治療を施すことができます。</MedicalQualityMax.description>
   
 </LanguageData>

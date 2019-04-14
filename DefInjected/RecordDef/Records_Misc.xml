@@ -7,9 +7,9 @@
   <AnimalsSlaughtered.description>屠殺した動物の数</AnimalsSlaughtered.description>
   
   <!-- EN: animals tamed -->
-  <AnimalsTamed.label>手なずけた動物数</AnimalsTamed.label>
+  <AnimalsTamed.label>手懐けた動物数</AnimalsTamed.label>
   <!-- EN: The number of animals I have tamed. -->
-  <AnimalsTamed.description>手なずけた動物の数</AnimalsTamed.description>
+  <AnimalsTamed.description>手懐けた動物の数</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
   <ArtifactsActivated.label>有効にしたアーティファクト数</ArtifactsActivated.label>
@@ -162,14 +162,14 @@
   <SwitchesFlicked.description>スイッチを操作した回数</SwitchesFlicked.description>
   
   <!-- EN: things constructed -->
-  <ThingsConstructed.label>建築した構造物数</ThingsConstructed.label>
+  <ThingsConstructed.label>建設した構造物数</ThingsConstructed.label>
   <!-- EN: The number of things I have constructed. -->
-  <ThingsConstructed.description>建築した構造物の数</ThingsConstructed.description>
+  <ThingsConstructed.description>建設した構造物の数</ThingsConstructed.description>
   
   <!-- EN: things crafted -->
-  <ThingsCrafted.label>加工した物数</ThingsCrafted.label>
+  <ThingsCrafted.label>作製した数</ThingsCrafted.label>
   <!-- EN: The number of things I have crafted. -->
-  <ThingsCrafted.description>加工した物の数</ThingsCrafted.description>
+  <ThingsCrafted.description>作製した製品の数</ThingsCrafted.description>
   
   <!-- EN: things deconstructed -->
   <ThingsDeconstructed.label>解体した構造物数</ThingsDeconstructed.label>

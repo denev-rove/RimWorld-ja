@@ -297,29 +297,29 @@
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>ダメージ</Damage>
+  <Damage>ダメージ量</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>アーマー貫通力(AP)</ArmorPenetration>
+  <ArmorPenetration>貫通率</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>アーマー貫通力(AP)とは,この武器が命中する度に無視できるアーマーの値です.\n\nもしAP値がターゲットのアーマー値よりも大きい場合,そのターゲットは「非装甲」とみなせます.逆にそうでないときは,ターゲットのアーマー値からAP値を引き算します.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>貫通率とは、この武器が攻撃対象の防御率を無視できる度合いです。\n\n攻撃対象の防御率よりも貫通率が大きい攻撃は、相手を非装甲と見なします。そうでない場合、攻撃対象の防御率から貫通率を差し引きます。</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
-  <Accuracy>命中度</Accuracy>
+  <Accuracy>命中精度</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>一回の弾数</BurstShotCount>
+  <BurstShotCount>1射毎の弾数</BurstShotCount>
   <!-- EN: Warmup -->
   <WarmupTime>準備時間</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>構える時間</MeleeWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>排出時間</CooldownTime>
+  <CooldownTime>硬直時間</CooldownTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>連射速度</BurstShotFireRate>
   <!-- EN: Range -->
-  <Range>射程</Range>
+  <Range>有効射程</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>威力</StoppingPower>
+  <StoppingPower>阻止力</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>この武器が命中すると,ターゲットをよろめかせ,動作が数秒間ほど遅くなります.ターゲットの体格が「威力」よりも大きいと効果を示さなくなります.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>この武器が命中すると、攻撃対象はよろめいて数秒間ほど動きが鈍くなります。体格が阻止力より大きい対象には効果がありません。</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>直撃率</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -357,7 +357,7 @@
   <!-- EN: Nutrition -->
   <Nutrition>栄養</Nutrition>
   <!-- EN: Recreation -->
-  <Joy>娯楽</Joy>
+  <Joy>娯楽性能</Joy>
   <!-- EN: Food quality -->
   <FoodQuality>食材タイプ</FoodQuality>
   <!-- EN: Walk speed -->
@@ -373,15 +373,15 @@
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>説得の難易度</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>標準小売価格</MarketValue>
+  <MarketValue>標準価格</MarketValue>
   <!-- EN: Covers -->
-  <Covers>カバー</Covers>
+  <Covers>保護する部位</Covers>
   <!-- EN: Layer -->
   <Layer>層</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>カバー効力</CoverEffectiveness>
+  <CoverEffectiveness>遮蔽力</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>銃撃戦において,このカバーに身を隠したときの効力を表します.％の数値が高いほど,より銃弾をブロックします.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>銃撃戦における遮蔽物としての有効性です。数値が高いほど効果的に銃弾を遮ります。</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -417,9 +417,9 @@
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>作業個数:</EfficiencyStat>
   <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>必要な建築スキルレベル</ConstructionSkillRequired>
+  <ConstructionSkillRequired>必要な建築スキル</ConstructionSkillRequired>
   <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>建てるために必要な建築スキルのレベル</ConstructionSkillRequiredExplanation>
+  <ConstructionSkillRequiredExplanation>このオブジェクトを建設するのに必要となる建築スキルの値です。</ConstructionSkillRequiredExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->

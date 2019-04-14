@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <ArmorRating_Blunt.label>アーマー - 打撲系</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.label>防御率 (打撲系)</ArmorRating_Blunt.label>
   <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Blunt.description>拳・クラブによる殴打,落石などの殴打系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>拳や棍棒、落石などの打撲系ダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Blunt.description>
   
   <!-- EN: Armor - Heat -->
-  <ArmorRating_Heat.label>アーマー - 熱系</ArmorRating_Heat.label>
+  <ArmorRating_Heat.label>防御率 (高熱系)</ArmorRating_Heat.label>
   <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Heat.description>炎のような温度系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>火炎や凍傷など、極端な温度のダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Heat.description>
   
   <!-- EN: Armor - Sharp -->
-  <ArmorRating_Sharp.label>アーマー - 突刺系</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.label>防御率 (鋭利系)</ArmorRating_Sharp.label>
   <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is converted into blunt damage and reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Sharp.description>弾丸,ナイフ,爆発,動物の咬傷などの鋭利なダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力で打撲系ダメージに変換されます.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>銃弾やナイフの刺突、爆発、噛みつきなどの鋭利系ダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減した上で、打撲系のダメージに転換します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Sharp.description>
   
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>障壁エネルギー最大量</EnergyShieldEnergyMax.label>
@@ -31,19 +31,19 @@
   <!-- EN: equip delay -->
   <EquipDelay.label>装着し易さ</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>アイテムの装着・脱着に要する時間です.</EquipDelay.description>
+  <EquipDelay.description>装備の脱着に要する時間です。</EquipDelay.description>
   <!-- EN: {0} s -->
   <EquipDelay.formatString>{0}秒</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
-  <Insulation_Cold.label>断熱材(低温)</Insulation_Cold.label>
+  <Insulation_Cold.label>断熱効果 (低気温)</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>この衣服が改善する,快適温度の低温側への補正値です.大きいほど低い温度でも何とかなります.</Insulation_Cold.description>
+  <Insulation_Cold.description>この衣類を身に着けることで、快適に過ごせる最低気温がどれだけ改善するかです。この値が大きいほど、極寒の環境でも生き延びることができます。</Insulation_Cold.description>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>断熱材(高温)</Insulation_Heat.label>
+  <Insulation_Heat.label>断熱効果 (高気温)</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
+  <Insulation_Heat.description>この衣類を身に着けることで、快適に過ごせる最高気温がどれだけ改善するかです。この値が大きいほど、酷暑の環境でも生き延びることができます。</Insulation_Heat.description>
   
   <!-- EN: Smokepop belt radius -->
   <SmokepopBeltRadius.label>煙幕ベルト展張半径</SmokepopBeltRadius.label>
@@ -53,12 +53,12 @@
   <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
-  <StuffEffectMultiplierArmor.label>アーマー - 素材効果の掛け率</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>防御率 - 素材による倍率</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>断熱材 - 低温 - 素材効果の掛け率</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>断熱効果 (低気温) - 素材による倍率</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>断熱材 - 高温 - 素材効果の掛け率</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>断熱効果 (高気温) - 素材による倍率</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: category -->
-  <Category.label>カテゴリー順</Category.label>
+  <Category.label>種別順</Category.label>
   
   <!-- EN: hit points percentage -->
-  <HitPointsPercentage.label>HP順</HitPointsPercentage.label>
+  <HitPointsPercentage.label>耐久率順</HitPointsPercentage.label>
   
   <!-- EN: market value -->
   <MarketValue.label>価値順</MarketValue.label>

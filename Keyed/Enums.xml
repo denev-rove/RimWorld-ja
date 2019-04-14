@@ -47,23 +47,23 @@
   <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>草・牧草</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>野草・牧草</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>生きた樹木</FoodTypeFlags_Tree>
   <!-- EN: meals -->
   <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>加工食品</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>アルコール飲料</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>酒類</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>ペットフード</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
+  <QualityCategory_Awful>粗悪品</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>低品質</QualityCategory_Poor>
+  <QualityCategory_Poor>低級品</QualityCategory_Poor>
   <!-- EN: normal -->
   <QualityCategory_Normal>標準品</QualityCategory_Normal>
   <!-- EN: good -->
@@ -73,11 +73,11 @@
   <!-- EN: masterwork -->
   <QualityCategory_Masterwork>名品</QualityCategory_Masterwork>
   <!-- EN: legendary -->
-  <QualityCategory_Legendary>幻の一品</QualityCategory_Legendary>
+  <QualityCategory_Legendary>幻の逸品</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>半壊</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>悪</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>劣</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>低</QualityCategoryShort_Poor>
   <!-- EN: norm -->
   <QualityCategoryShort_Normal>並</QualityCategoryShort_Normal>
   <!-- EN: good -->

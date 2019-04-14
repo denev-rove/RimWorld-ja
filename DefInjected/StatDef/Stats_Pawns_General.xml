@@ -4,32 +4,32 @@
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>輸送能力</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>この生物が,手や口,その他の器官を使って運べる物量です.これはワールドマップを縦断するときの運搬能力とは別です.</CarryingCapacity.description>
+  <CarryingCapacity.description>この生物が手や口などの器官で拾い上げて運搬できる物資の量です。これは世界地図を移動するときの積載量とは別です。</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>快適と感じる最高気温 </ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>快適と感じる最高気温</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
-  <ComfyTemperatureMax.description>この温度を上回るとキャラクターは不満を感じるでしょう. 大きく上回ると,熱中症,そして死に至ります.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.description>気温がこの値を上回ると不快感を抱きます。特に大幅に上回ると熱中症を患い、最終的には死に至ります。</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
   <ComfyTemperatureMin.label>快適と感じる最低気温</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
-  <ComfyTemperatureMin.description>この温度を下回るとキャラクターは不満を感じるでしょう. 大きく下回ると,低体温,凍傷,そして死に至ります.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>気温がこの値を下回ると不快感を抱きます。特に大幅に下回ると、低体温症、凍傷を経て、最終的には死に至ります。</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
-  <EatingSpeed.label>食事の早さ</EatingSpeed.label>
+  <EatingSpeed.label>食事速度</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
-  <EatingSpeed.description>食事の早さに掛ける倍率です.</EatingSpeed.description>
+  <EatingSpeed.description>食事を食べる早さに乗算する倍率です。</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>このキャラクターが,キャラバン隊として旅行中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>この人物がキャラバン隊として移動中に、自動的に調達する一日当たりの食料の量です。</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>全般的な学習速度</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>全般的な学習倍率</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>全てのスキルについて学習速度に乗算する倍率です。</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>全てのスキルについて学習速度に乗算する倍率です。同様の効果とは互いに乗算する関係になります。</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
   <HungerRateMultiplier.label>空腹になる速度</HungerRateMultiplier.label>
@@ -37,24 +37,24 @@
   <HungerRateMultiplier.description>空腹になる速度に乗算する倍率です。</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
-  <ImmunityGainSpeed.label>免疫を得る速度</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.label>免疫獲得速度</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
-  <ImmunityGainSpeed.description>病気に対しての免疫を得るために掛かる時間です. もしこの時間が遅ければ,この人物は免疫を得る前に病原菌に侵されて死ぬでしょう.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.description>病気に対する免疫を獲得する速度です。この値が低いと、免疫を獲得するより先に病死することになります。</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>生皮の量</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>この生物を屠殺して捌いたときに得られる皮の量です.</LeatherAmount.description>
+  <LeatherAmount.description>この生物を屠殺して捌いたときに得られる皮の量です。</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>生肉の量</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>この生物を屠殺して捌いたときに得られる肉の量です.</MeatAmount.description>
+  <MeatAmount.description>この生物を屠殺して捌いたときに得られる肉の量です。</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
-  <MentalBreakThreshold.label>精神的弱さ</MentalBreakThreshold.label>
+  <MentalBreakThreshold.label>精神崩壊の閾値</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>"心情"が,この値より少ないと精神崩壊する危険性があります.精神崩壊時の症状の大きさは,どのくらい閾値よりも少ないかで決まります.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>"心情"が閾値よりも低い状態では、精神崩壊に陥る危険があります。精神崩壊による症状の深刻さは、心情が閾値よりどの程度低いかで決まります。</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>必要な動物スキル</MinimumHandlingSkill.label>
@@ -64,28 +64,28 @@
   <!-- EN: move speed -->
   <MoveSpeed.label>移動速度</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
-  <MoveSpeed.description>1秒間に移動できるセル数です.</MoveSpeed.description>
+  <MoveSpeed.description>1秒間に移動できるセル数です。</MoveSpeed.description>
   <!-- EN: {0} c/s -->
   <MoveSpeed.formatString>{0} セル/秒</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
-  <PainShockThreshold.label>痛みへの限界値</PainShockThreshold.label>
+  <PainShockThreshold.label>痛みの限界値</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
-  <PainShockThreshold.description>痛みによって失神する値です.</PainShockThreshold.description>
+  <PainShockThreshold.description>痛みのあまり動けなくなる閾値です。</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
   <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
-  <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.</PsychicSensitivity.description>
+  <PsychicSensitivity.description>精神的な現象から受ける影響度への倍率です。敏感なほどマイナスの影響に多く苦しみ、プラスの影響に多くの幸せを感じます。</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>睡眠をとる速度</RestRateMultiplier.label>
+  <RestRateMultiplier.label>睡眠を得る速度</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>睡眠中に回復する睡眠量に乗算する倍率です。</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>
+  <ToxicSensitivity.label>毒への感受性</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>有毒なものの影響を受けやすい倍率を表します.</ToxicSensitivity.description>
+  <ToxicSensitivity.description>毒の蓄積による効果に乗算する倍率です。</ToxicSensitivity.description>
   
 </LanguageData>

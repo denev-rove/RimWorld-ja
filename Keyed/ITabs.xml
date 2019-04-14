@@ -95,17 +95,17 @@
   <!-- EN: Efficiency -->
   <Efficiency>効率</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>部位 能力</PartEfficiency>
+  <PartEfficiency>部位効率</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>部位 能力</BodyPartEfficiency>
+  <BodyPartEfficiency>義体効率</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>失われた</MissingBodyPart>
+  <MissingBodyPart>失われている</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>破壊された</DestroyedBodyPart>
+  <DestroyedBodyPart>破壊されている</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>粉砕された</ShatteredBodyPart>
+  <ShatteredBodyPart>粉砕されている</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>取り外された</RemovedBodyPart>
+  <RemovedBodyPart>切除されている</RemovedBodyPart>
   <!-- EN: Healthy -->
   <Healthy>健康</Healthy>
   <!-- EN: In pain -->
@@ -129,7 +129,7 @@
   <!-- EN: death in {0} -->
   <TimeToDeath>{0}で死亡</TimeToDeath>
   <!-- EN: no immediate danger -->
-  <WontBleedOutSoon>出血が止まる</WontBleedOutSoon>
+  <WontBleedOutSoon>直ちに危険はない</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>概要</HealthOverview>
   <!-- EN: Operations ({0}) -->
@@ -224,7 +224,7 @@
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>総アーマー</OverallArmor>
+  <OverallArmor>総防御率</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>積載重量: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
@@ -232,9 +232,9 @@
   <!-- EN: Blunt -->
   <ArmorBlunt>打撲系</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>突刺系</ArmorSharp>
+  <ArmorSharp>鋭利系</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>熱系</ArmorHeat>
+  <ArmorHeat>高熱系</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
