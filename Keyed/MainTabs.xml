@@ -155,6 +155,6 @@
   <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>研究時間の倍率</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>コロニーの技術水準を考慮した結果,プロジェクトにかかる時間 {0} は最終的に {1} になりました.</ResearchCostComparison>
+  <ResearchCostComparison>コロニーの技術水準により、プロジェクトの研究時間 {0}は 最終的に {1}に なりました。</ResearchCostComparison>
   
 </LanguageData>

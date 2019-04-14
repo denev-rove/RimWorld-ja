@@ -302,13 +302,13 @@
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
   <CommandSettleDesc>この地に定住します。入植者たちはこの地に入植し、新たな本拠地の建設が可能になります。</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>あなたの派閥は,ただ一つだけしか本拠地を持てません.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>あなたの派閥は、ただ一つだけしか本拠地を持てません。</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました。</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
   <CommandSettleFailNoColonists>この入植地の領有を宣言する者が誰もいません。</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>ここには,敵がいます.</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>ここには、敵がいます。</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
@@ -316,7 +316,7 @@
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
   <CommandAbandonHomeDesc>このエリアを放棄します。ここには二度と戻ることができなくなります。本拠地を放棄した後は、キャラバン隊の一つが新たなエリアに入植することができます。</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>入植者全員が集合しています.</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>全ての入植者が、このエリアにいます。</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->

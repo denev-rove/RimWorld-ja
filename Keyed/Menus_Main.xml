@@ -347,7 +347,7 @@
   <!-- EN: Health -->
   <Health>健康状態</Health>
   <!-- EN: Relations -->
-  <Relations>続柄</Relations>
+  <Relations>親族</Relations>
   <!-- EN: Team skills -->
   <TeamSkills>チームスキル</TeamSkills>
   <!-- EN: Selected -->
@@ -367,9 +367,9 @@
   <!-- EN: Gameplay -->
   <Gameplay>ゲームの設定</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます.</ConfirmQuit>
+  <ConfirmQuit>本当に終了してよろしいですか？ セーブされていない状況は失われます。</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>全ての人物には姓と個人名が必要です。</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
   <RequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->

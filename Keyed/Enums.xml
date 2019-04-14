@@ -265,13 +265,13 @@
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>下手なコック</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>腕の悪い料理人</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
   <FoodPoisonCause_FilthyKitchen>不潔な調理場</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>腐敗した食材</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>腐敗した食物</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>毒を持った食物</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>危険な種類の食物</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->

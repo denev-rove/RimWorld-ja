@@ -76,7 +76,7 @@
   <!-- EN: Initializing game -->
   <InitializingGame>ゲームを初期化中</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>キャラクタを配置中</SpawningAllThings>
+  <SpawningAllThings>オブジェクトを配置中</SpawningAllThings>
   <!-- EN: Spawning colonists -->
   <SpawningColonists>入植者を配置中</SpawningColonists>
   
@@ -120,25 +120,25 @@
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>あなたが,この地に腰を下ろそうとして以来,あなたが派閥のネーミングをするべきだと,{0}は考えています.あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>当面はこの地に腰を下ろすようなので、{0}は自分たちの派閥を立ち上げるべきだと考えています。我々の派閥を何と呼べばよいでしょう？</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
-  <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました.</PlayerFactionGainsName>
+  <PlayerFactionGainsName>あなたは {0} という派閥の名乗りを上げました。</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionNameIsInvalid>その名前は適当ではありません.</PlayerFactionNameIsInvalid>
+  <PlayerFactionNameIsInvalid>その派閥名は適当ではありません。</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0}は、この入植地に名前を付けるべきだと考えています。この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
-  <PlayerFactionBaseGainsName>ここを {0}と命名しました.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseGainsName>ここを {0} と命名しました。</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>その地名は適当ではありません。</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}は更に、この入植地に名前を付けるべきだと考えています。この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り,ここを {1}と命名しました.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>あなたは派閥を {0} と名乗り、ここを {1} と命名しました。</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
@@ -150,9 +150,9 @@
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>この人のニックネームを {0}としました.[PAWN_possessive]肩書きは {PAWN_title} です.</PawnGainsName>
+  <PawnGainsName>この人物の通称を {0} としました。[PAWN_possessive]肩書きは {PAWN_title} です。</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>この動物の名前を {0}としました.</AnimalGainsName>
+  <AnimalGainsName>この動物の名前を {0}としました。</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -166,7 +166,7 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>このセーブデータは、有効になっているMODが現状と一致しません。 MOD次第では、このことが原因で問題を起こすかもしれません。\n\n\n\nセーブデータで有効なMOD（導入順）:\n\n{0}\n\n\n\n現状で有効になっているMOD（導入順）:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>このセーブデータは、有効になっているMODが現状と一致しません。 MOD次第では、このことが原因で問題を起こすかもしれません。\n\n\n\nセーブデータで有効になっているMOD（導入順）:\n\n{0}\n\n\n\n現状で有効になっているMOD（導入順）:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -194,7 +194,7 @@
   <!-- EN: Locked -->
   <Locked>未解禁</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>研究設備を作成し, 入植者に"研究"作業を 割り振らないかぎり, 研究は 始まりません.\n\nしかし, あらかじめ 研究計画を 指定することは できます. </ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>研究設備を設置するまで、入植者が研究を行うことはできません。\n\nしかし、あらかじめ研究するプロジェクトを指定しておくことは できます。</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>必要条件</ResearchPrerequisites>
   <!-- EN: Required research bench -->
@@ -551,7 +551,7 @@
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
   <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の存在がどれだけ気付かれ易いかを示します。\n\nこれは、キャラバン隊が敵に待ち伏せされる確率に乗算する値です。\n\nキャラバン隊が目当ての物を発見する能力には影響しません。\n\n目立ちやすさは、キャラバン隊に所属する家畜を含めた全員の体格を合計した値に基づいて決まります。</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
+  <DaysWorthOfFood>食料 (日数)</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
   <DaysWorthOfFoodInfoRot>腐敗まで{0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
@@ -569,7 +569,7 @@
   <!-- EN: Forage per day -->
   <ForagedFoodPerDay>食料調達量 / 日</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が,すぐに腐敗するでしょう.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が、すぐに腐敗するでしょう。</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
   <CaravanIncapableOfSocial>キャラバン隊の中に、外交や取引ができる者がいません。</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
@@ -677,7 +677,7 @@
   
   <!--Research-->
   <!-- EN: Research finished: {0} -->
-  <ResearchFinished>研究が完了した： {0}</ResearchFinished>
+  <ResearchFinished>研究が完了しました: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>研究メニュー</ResearchScreen>
   
@@ -831,19 +831,19 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>家畜や囚人がキャラバン隊に加わろうとしています.あなたがキャラバン隊を移動させると,彼らはどうすることもできません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それは放棄したとみなして敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>キャラバン隊に加わろうとしている家畜や囚人がいます。移動を始めると、彼らはどうすることもできません。\n\n家畜、囚人、動けない入植者が置き去りにされると、見捨てたものと見なして敵の捕虜になります。\n本当にキャラバン隊を移動させてよろしいですか？</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか？</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は、確実に野垂れ死ぬでしょう。</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます{1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort}は次の物資を持ち出します:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員が次の心情を抱きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると,以下の人々に,つぎの感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると、以下の人々が次の心情を抱きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
@@ -851,7 +851,7 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>この場所は他派閥の拠点から{0}タイル以内なので、彼らは自分たちの領土が侵されたと感じ、彼らの派閥との関係が{1}日毎に悪化していきます。\n\n構わずこの地に居を構えるのですか？</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
