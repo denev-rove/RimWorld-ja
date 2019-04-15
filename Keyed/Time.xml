@@ -29,13 +29,13 @@
   <SeasonPermanentWinter>常冬</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>春分</QuadrumAprimay>
+  <QuadrumAprimay>春分節</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>夏至</QuadrumJugust>
+  <QuadrumJugust>夏至節</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>秋分</QuadrumSeptober>
+  <QuadrumSeptober>秋分節</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>冬至</QuadrumDecembary>
+  <QuadrumDecembary>冬至節</QuadrumDecembary>
   
   <!-- EN: Born: {0} -->
   <Born>生年月日: {0}</Born>
