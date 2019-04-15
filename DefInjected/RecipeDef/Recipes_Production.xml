@@ -44,11 +44,11 @@
   <Make_ComponentSpacer.jobString>先端電子部品を作っている</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>パッチレザーを作る</Make_Patchleather.label>
+  <Make_Patchleather.label>継ぎ合わせた革を作る</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>様々な種類の革を継ぎはぎして、あまり強度のないパッチレザーにします。</Make_Patchleather.description>
+  <Make_Patchleather.description>様々な種類の革を縫い合わせて、あまり丈夫ではない革素材にします。</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>パッチレザーを作っている</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>革を継ぎ合わせている</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>石材を切り出す</Make_StoneBlocksAny.label>

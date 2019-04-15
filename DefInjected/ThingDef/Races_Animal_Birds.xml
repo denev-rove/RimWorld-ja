@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>ヒクイドリ</Cassowary.label>
+  <Cassowary.label>火喰い鳥</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
   <Cassowary.description>大型の色鮮やかな羽を持った飛べない鳥です.本当に美しい鳥ですが,その蹴りは非常に危険です.暴力によって傷つけられたり,能力のない飼い主と対峙したとき,直ぐに攻撃的になることが知られています.</Cassowary.description>
   <!-- EN: bird meat -->
@@ -37,7 +37,7 @@
   <Ostrich.tools.head.label>頭部</Ostrich.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>シチメンチョウ</Turkey.label>
+  <Turkey.label>七面鳥</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
   <Turkey.description>小さい,太った,飛べない鳥で,とても,可笑しな鳴き声で有名です.飼い慣らされて長いこと経ちますが,いまだに野性を残しています.</Turkey.description>
   <!-- EN: claws -->

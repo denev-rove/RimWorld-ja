@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>カリブー</Caribou.label>
+  <Caribou.label>トナカイ</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>シカ科のなかでも数が多く,寒冷な気候に適応しています.</Caribou.description>
+  <Caribou.description>シカ科の中でも数が多く、寒冷な気候に適応しています。飼い慣らされたトナカイは搾乳することができますが、荷物を運ぶことは嫌がります。</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>左蹄</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -13,7 +13,7 @@
   <Caribou.tools.head.label>頭部</Caribou.tools.head.label>
   
   <!-- EN: deer -->
-  <Deer.label>シカ</Deer.label>
+  <Deer.label>鹿</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
   <Deer.description>森と平野が入り交じる場所を好んで住む中型の草食動物です.シカは非常に動きが素早いです.性質的にとても従順で,危害を加えなければ攻撃してきません.</Deer.description>
   <!-- EN: venison -->
@@ -30,7 +30,7 @@
   <!-- EN: elk -->
   <Elk.label>ヘラジカ</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>大きなシカ科の生き物.寒冷な気候に適応しています.飼い慣らされたヘラジカは搾乳する事ができますが,荷物を運ぶことは嫌がります.</Elk.description>
+  <Elk.description>シカ科の中でも数が多く、寒冷な気候に適応しています。飼い慣らされたヘラジカは搾乳することができますが、荷物を運ぶことは嫌がります。</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>左蹄</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -39,9 +39,9 @@
   <Elk.tools.head.label>頭部</Elk.tools.head.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>アイベックス</Ibex.label>
+  <Ibex.label>山羊</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>飼いならされたヤギの,野生で頑健な祖先です.アイベックスは,ほとんどのカモシカが生きていけない山岳の辺境に住んでおり,地衣類や,わずかな山岳植物を食べています.彼らは,岩肌の露出した崖を,巧みにジャンプすることで有名です. - それはまた,強烈な体当たり攻撃にもなります.</Ibex.description>
+  <Ibex.description>家畜化されたヤギの祖先に当たる野生種です。野生の山羊は、普通の羚羊類では生息することのできない険しい土地で、地衣類やまばらな山岳植物を食べて暮らしています。山羊は岩肌の露出した崖の斜面を巧みに跳び越えて行くことでことで有名です&#xA0;－&#xA0;また、強烈な体当たり攻撃をしてくることでも。</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>左蹄</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -50,7 +50,7 @@
   <Ibex.tools.head.label>頭部</Ibex.tools.head.label>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>カメ</Tortoise.label>
+  <Tortoise.label>亀</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>この硬い甲羅で覆われた爬虫類は,歩く速度がとても遅い反面,びっくりするぐらい 素早く噛むことで知られています.Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
   <!-- EN: beak -->
@@ -59,7 +59,7 @@
   <Tortoise.tools.head.label>頭部</Tortoise.tools.head.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>イノシシ</WildBoar.label>
+  <WildBoar.label>猪</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
   <WildBoar.description>この毛むくじゃらな雑食動物は,逃げ出したブタの子孫で,野性で生きられるよう進化しました.\n\nその牙は,飼い慣らされたブタよりも戦いを有利にさせています.残念ながら,ほとんどの複雑な作業を訓練するには,あまりにも手に負えません.</WildBoar.description>
   <!-- EN: tusk -->

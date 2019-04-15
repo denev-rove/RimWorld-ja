@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>ヒクイドリ</Cassowary.label>
+  <Cassowary.label>火喰い鳥</Cassowary.label>
   <!-- EN: cassowaries -->
-  <Cassowary.labelPlural>ヒクイドリ</Cassowary.labelPlural>
+  <Cassowary.labelPlural>火喰い鳥</Cassowary.labelPlural>
   
   <!-- EN: emu -->
   <Emu.label>エミュー</Emu.label>
@@ -15,6 +15,6 @@
   <Ostrich.labelPlural>ダチョウ</Ostrich.labelPlural>
   
   <!-- EN: turkey -->
-  <Turkey.label>シチメンチョウ</Turkey.label>
+  <Turkey.label>七面鳥</Turkey.label>
   
 </LanguageData>

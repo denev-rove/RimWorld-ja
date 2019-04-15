@@ -13,9 +13,9 @@
   <Cougar.tools.head.label>頭部</Cougar.tools.head.label>
   
   <!-- EN: lynx -->
-  <Lynx.label>ヤマネコ</Lynx.label>
+  <Lynx.label>山猫</Lynx.label>
   <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
-  <Lynx.description>イエネコより大きく,クーガーよりは小さい野生のネコです.ヤマネコは,小さな鳥や,小動物を食べて生きています.とても暖かな毛皮のおかげで,北方の極寒の地においても,安全に生き続けられます.</Lynx.description>
+  <Lynx.description>家猫より大きく、クーガーよりは小さいネコ科の野生動物です。山猫は、小さな鳥や小動物を食べて暮らしています。とても暖かな毛皮のおかげで、極寒の生息地においても凍えることがありません。</Lynx.description>
   <!-- EN: left claw -->
   <Lynx.tools.left_claw.label>左爪</Lynx.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -24,9 +24,9 @@
   <Lynx.tools.head.label>頭部</Lynx.tools.head.label>
   
   <!-- EN: panther -->
-  <Panther.label>パンサー</Panther.label>
+  <Panther.label>豹</Panther.label>
   <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
-  <Panther.description>古代のジャングル原産の,身の軽い,力強い大型のネコです.単独で待ち伏せして狩りをする肉食動物で,パンサーは,大きい,小さいどちらの獲物でも倒すことにかけては達人です.その姿を見たものは,そのしなやかな動きに目が行きがちですが,より近くで接触した者は,たいてい,その頭蓋骨も砕く力強さに気が付きます.</Panther.description>
+  <Panther.description>敏捷で力強いネコ科の動物で、古代の地球のジャングルが原産です。豹は単独で待ち伏せを行う肉食動物であり、大きな獲物も小さな獲物も巧みに仕留める狩りの達人です。その姿を見た者は、しなやかな動きに目が行きがちですが、より近くで触れ合えば大抵の場合、頭蓋骨を砕くほどの力強さに気が付きます。</Panther.description>
   <!-- EN: left claw -->
   <Panther.tools.left_claw.label>左爪</Panther.tools.left_claw.label>
   <!-- EN: right claw -->

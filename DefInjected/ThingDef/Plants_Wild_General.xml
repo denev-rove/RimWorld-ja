@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: brambles -->
-  <Plant_Brambles.label>イバラ</Plant_Brambles.label>
+  <Plant_Brambles.label>茨</Plant_Brambles.label>
   <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
-  <Plant_Brambles.description>棘だらけで絡み合う木質の苗条で、葉に覆われています。イバラは群生して育ち、この上を歩く者は歩みが遅くなります。</Plant_Brambles.description>
+  <Plant_Brambles.description>棘だらけで絡み合う木質の苗条で、葉に覆われています。茨は群生して育ち、この上を進む者は歩みが遅くなります。</Plant_Brambles.description>
   
   <!-- EN: bush -->
   <Plant_Bush.label>灌木</Plant_Bush.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush.description>背丈の低い木です。</Plant_Bush.description>
+  <Plant_Bush.description>背丈の低い木です。確かにブッシュですが、通常は喋ったりしません。</Plant_Bush.description>
   
   <!-- EN: grass -->
   <Plant_Grass.label>雑草</Plant_Grass.label>
@@ -22,7 +22,7 @@
   <Plant_HealrootWild.description>成長の遅い植物で、採集すると薬草になります。\n\nこの癒し根の野生種は、栽培種よりも丈夫ですが、栽培するのは困難です。寒い気候に暮らす部族民にとって貴重なものです。</Plant_HealrootWild.description>
   
   <!-- EN: tall grass -->
-  <Plant_TallGrass.label>丈高の雑草</Plant_TallGrass.label>
+  <Plant_TallGrass.label>背の高い雑草</Plant_TallGrass.label>
   <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
   <Plant_TallGrass.description>背丈の高い野生の植物です。この草が生い茂った中は歩みが遅くなります。</Plant_TallGrass.description>
   

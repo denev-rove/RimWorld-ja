@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: chokevine -->
-  <Plant_Chokevine.label>チョークバイン</Plant_Chokevine.label>
+  <Plant_Chokevine.label>締め付け蔦</Plant_Chokevine.label>
   <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
-  <Plant_Chokevine.description>地面に沿って大量に巻かれた,コードのようなトゲがついた蔓植物です.チョークバインは,その上を歩く人ならだれでも,歩きが遅くなります.複数の部族は個別に,子供たちを夜になる前に家に帰す方法として,チョークバインは,夜になると子どもを絞め殺すストーリーを生み出しました.</Plant_Chokevine.description>
+  <Plant_Chokevine.description>塊のように絡み合う、棘の付いた紐状の蔓植物です。地面に沿ってとぐろを巻き、大きな塊をなします。その上を進む者は大幅に歩みが遅くなります。いくつもの部族が、暗くなる前に子供が怖がって家に戻るよう、夜中に締め付け蔦が子供の首を絞めて殺してしまう物語を、それぞれ独自に生み出しました。</Plant_Chokevine.description>
   
   <!-- EN: cypress tree -->
   <Plant_TreeCypress.label>糸杉</Plant_TreeCypress.label>
   <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
-  <Plant_TreeCypress.description>沼地でよく見かける果実をつける高い樹です.成長が遅いにも関わらず,この木の植樹は,使いみちが多く手間がかからず,長い木材がとれるので採算がとれます.</Plant_TreeCypress.description>
+  <Plant_TreeCypress.description>沼地でよく見られる、背の高い針葉樹です。成長は遅いものの、この木を植えるのは長期的に見て割に合う投資です。手間もかからず、とても役立つ木材が得られるからです。</Plant_TreeCypress.description>
   
   <!-- EN: maple tree -->
   <Plant_TreeMaple.label>楓</Plant_TreeMaple.label>

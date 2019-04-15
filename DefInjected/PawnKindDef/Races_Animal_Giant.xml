@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: elephant -->
-  <Elephant.label>ゾウ</Elephant.label>
+  <Elephant.label>象</Elephant.label>
   <!-- EN: elephant calf -->
-  <Elephant.lifeStages.elephant_calf.label>子ゾウ</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.elephant_calf.label>仔象</Elephant.lifeStages.elephant_calf.label>
   
   <!-- EN: megasloth -->
   <Megasloth.label>メガスロス</Megasloth.label>
   
   <!-- EN: rhinoceros -->
-  <Rhinoceros.label>サイ</Rhinoceros.label>
+  <Rhinoceros.label>犀</Rhinoceros.label>
   <!-- EN: rhinoceroses -->
-  <Rhinoceros.labelPlural>サイ</Rhinoceros.labelPlural>
+  <Rhinoceros.labelPlural>犀</Rhinoceros.labelPlural>
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>スランボ</Thrumbo.label>
   <!-- EN: thrumbo calf -->
-  <Thrumbo.lifeStages.thrumbo_calf.label>子スランボ</Thrumbo.lifeStages.thrumbo_calf.label>
+  <Thrumbo.lifeStages.thrumbo_calf.label>スランボの仔</Thrumbo.lifeStages.thrumbo_calf.label>
   <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>子スランボ</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>スランボの仔</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   
 </LanguageData>

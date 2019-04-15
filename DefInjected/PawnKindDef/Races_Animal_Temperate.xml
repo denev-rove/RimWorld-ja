@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>カリブー</Caribou.label>
+  <Caribou.label>トナカイ</Caribou.label>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>カリブー</Caribou.labelPlural>
+  <Caribou.labelPlural>トナカイ</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>子カリブー</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.label>トナカイの仔</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>子カリブー</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>トナカイの仔</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: deer -->
-  <Deer.label>シカ</Deer.label>
+  <Deer.label>鹿</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>メスジカ</Deer.labelFemale>
+  <Deer.labelFemale>雌鹿</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>オスジカ</Deer.labelMale>
+  <Deer.labelMale>雄鹿</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>シカ</Deer.labelPlural>
+  <Deer.labelPlural>鹿</Deer.labelPlural>
   
   <!-- EN: elk -->
   <Elk.label>ヘラジカ</Elk.label>
   <!-- EN: elk -->
   <Elk.labelPlural>ヘラジカ</Elk.labelPlural>
   <!-- EN: elk calf -->
-  <Elk.lifeStages.elk_calf.label>子ヘラジカ</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.label>ヘラジカの仔</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>子ヘラジカ</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>ヘラジカの仔</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: ibex -->
-  <Ibex.label>アイベックス</Ibex.label>
+  <Ibex.label>山羊</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>メスアイベックス</Ibex.labelFemale>
+  <Ibex.labelFemale>雌山羊</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>オスアイベックス</Ibex.labelMale>
+  <Ibex.labelMale>雄山羊</Ibex.labelMale>
   <!-- EN: ibex -->
-  <Ibex.labelPlural>アイベックス</Ibex.labelPlural>
+  <Ibex.labelPlural>山羊</Ibex.labelPlural>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>カメ</Tortoise.label>
+  <Tortoise.label>亀</Tortoise.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>イノシシ</WildBoar.label>
+  <WildBoar.label>猪</WildBoar.label>
   
 </LanguageData>

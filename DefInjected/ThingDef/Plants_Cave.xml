@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: agarilux -->
-  <Agarilux.label>アガリラックス</Agarilux.label>
+  <Agarilux.label>光茸</Agarilux.label>
   <!-- EN: An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light. -->
-  <Agarilux.description>非常に大きい紫色のキノコ.その大きさと,傘が伸びていくさまは,このキノコを美しいものさせる.陽に当たると死にます.</Agarilux.description>
+  <Agarilux.description>非常に大型の紫色をしたキノコです。淡く光を放つ大きな傘が突き出ている様子は、このキノコを美しいものに見せています。光に当たると枯れてしまいます。</Agarilux.description>
   
   <!-- EN: bryolux -->
-  <Bryolux.label>ブライオラックス</Bryolux.label>
+  <Bryolux.label>光苔</Bryolux.label>
   <!-- EN: A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light. -->
-  <Bryolux.description>大抵は,深くて暗い洞窟の中で見つかる碧い苔.繊維質が非常に絡み合いネバネバしているので,その上を歩く者なら誰でも足が遅くなります.陽に当たると死にます.</Bryolux.description>
+  <Bryolux.description>青みがかった苔類で、深くて暗い洞窟の中で見つかります。粘り気のある繊維質が絡み合っており、この上を進む者は歩みが遅くなります。光に当たると枯れてしまいます。</Bryolux.description>
   
   <!-- EN: glowstool -->
-  <Glowstool.label>紅茸</Glowstool.label>
+  <Glowstool.label>光の腰掛け</Glowstool.label>
   <!-- EN: A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light. -->
-  <Glowstool.description>大抵は洞窟の中で見つかる小さい茶色のキノコ.その臭いは,腐敗が進むマッファローの胃から取り出した古くて汚れた雑巾のようです - しかし,調理すると驚くほどに美味しくなります.陽にさらされると死にます.</Glowstool.description>
+  <Glowstool.description>茶色がかった小さなキノコで、大抵は洞窟の中で見つかります。その臭いは、腐ったマッファローの胃袋から取り出した古くて汚い雑巾のようです&#xA0;－&#xA0;しかし調理をすれば驚くほど美味です。光に当たると枯れてしまいます。</Glowstool.description>
   
 </LanguageData>

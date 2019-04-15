@@ -5,32 +5,32 @@
   <Alpaca.label>アルパカ</Alpaca.label>
   
   <!-- EN: chicken -->
-  <Chicken.label>ニワトリ</Chicken.label>
+  <Chicken.label>鶏</Chicken.label>
   <!-- EN: hen -->
-  <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
+  <Chicken.labelFemale>雌鳥</Chicken.labelFemale>
   <!-- EN: rooster -->
-  <Chicken.labelMale>オンドリ</Chicken.labelMale>
+  <Chicken.labelMale>雄鶏</Chicken.labelMale>
   <!-- EN: chick -->
-  <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.label>ひよこ</Chicken.lifeStages.chick.label>
   <!-- EN: cockerel -->
-  <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.cockerel.labelMale>ひよこ</Chicken.lifeStages.cockerel.labelMale>
   
   <!-- EN: cow -->
-  <Cow.label>ウシ</Cow.label>
+  <Cow.label>牛</Cow.label>
   <!-- EN: cow -->
-  <Cow.labelFemale>メウシ</Cow.labelFemale>
+  <Cow.labelFemale>雌牛</Cow.labelFemale>
   <!-- EN: bull -->
-  <Cow.labelMale>オウシ</Cow.labelMale>
+  <Cow.labelMale>雄牛</Cow.labelMale>
   <!-- EN: calf -->
-  <Cow.lifeStages.calf.label>子ウシ</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.label>仔牛</Cow.lifeStages.calf.label>
   <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>子ウシ</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.calf.labelPlural>仔牛</Cow.lifeStages.calf.labelPlural>
   
   <!-- EN: pig -->
-  <Pig.label>ブタ</Pig.label>
+  <Pig.label>豚</Pig.label>
   <!-- EN: sow -->
   <Pig.labelFemale>メスブタ</Pig.labelFemale>
   <!-- EN: piglet -->
-  <Pig.lifeStages.piglet.label>子ブタ</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.label>仔豚</Pig.lifeStages.piglet.label>
   
 </LanguageData>

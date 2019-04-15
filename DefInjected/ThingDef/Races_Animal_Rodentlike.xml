@@ -13,7 +13,7 @@
   <Alphabeaver.tools.head.label>頭部</Alphabeaver.tools.head.label>
   
   <!-- EN: boomrat -->
-  <Boomrat.label>ボムネズミ</Boomrat.label>
+  <Boomrat.label>爆弾ねずみ</Boomrat.label>
   <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
   <Boomrat.description>慎重な遺伝子操作による武器化であったとしても,又は一風変わった防御機構だとしても,この齧歯類のような生き物は,死ぬ間際に強烈な爆発を起こします.</Boomrat.description>
   <!-- EN: left claw -->
@@ -57,7 +57,7 @@
   <Raccoon.tools.head.label>頭部</Raccoon.tools.head.label>
   
   <!-- EN: rat -->
-  <Rat.label>ネズミ</Rat.label>
+  <Rat.label>ねずみ</Rat.label>
   <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>キッチンを汚し,病気を蔓延させることで知られ,広く嫌われている齧歯類です.ネズミは,ヒトが行くところなら,何処にでもついて行く習性を持ちます.ほとんど何でも食べ,何処にでも生きています.</Rat.description>
   <!-- EN: left claw -->

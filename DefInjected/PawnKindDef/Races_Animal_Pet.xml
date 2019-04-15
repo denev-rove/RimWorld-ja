@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: cat -->
-  <Cat.label>ネコ</Cat.label>
+  <Cat.label>猫</Cat.label>
   <!-- EN: kitten -->
-  <Cat.lifeStages.kitten.label>子ネコ</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.kitten.label>仔猫</Cat.lifeStages.kitten.label>
   
   <!-- EN: husky -->
   <Husky.label>ハスキー</Husky.label>
   <!-- EN: huskies -->
   <Husky.labelPlural>ハスキー</Husky.labelPlural>
   <!-- EN: husky puppy -->
-  <Husky.lifeStages.husky_puppy.label>子ハスキー</Husky.lifeStages.husky_puppy.label>
+  <Husky.lifeStages.husky_puppy.label>ハスキーの仔犬</Husky.lifeStages.husky_puppy.label>
   <!-- EN: husky puppies -->
-  <Husky.lifeStages.husky_puppy.labelPlural>子ハスキー</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.husky_puppy.labelPlural>ハスキーの仔犬</Husky.lifeStages.husky_puppy.labelPlural>
   
   <!-- EN: labrador retriever -->
-  <LabradorRetriever.label>ラブラドールリトリーバー</LabradorRetriever.label>
+  <LabradorRetriever.label>ラブラドールレトリバー</LabradorRetriever.label>
   <!-- EN: labrador puppy -->
-  <LabradorRetriever.lifeStages.labrador_puppy.label>子ラブラドールリトリーバー</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <LabradorRetriever.lifeStages.labrador_puppy.label>ラブラドールレトリバーの仔犬</LabradorRetriever.lifeStages.labrador_puppy.label>
   <!-- EN: labrador puppies -->
-  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>子ラブラドールリトリーバー</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>ラブラドールレトリバーの仔犬</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
   
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>ヨークシャーテリア</YorkshireTerrier.label>
   <!-- EN: yorkshire terrier puppy -->
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>子ヨークシャーテリア</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>ヨークシャーテリアの仔犬</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
   <!-- EN: yorkshire terrier puppies -->
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>子ヨークシャーテリア</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>ヨークシャーテリアの仔犬</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
   
 </LanguageData>

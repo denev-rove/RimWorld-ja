@@ -5,13 +5,13 @@
   <Cougar.label>クーガー</Cougar.label>
   
   <!-- EN: lynx -->
-  <Lynx.label>ヤマネコ</Lynx.label>
+  <Lynx.label>山猫</Lynx.label>
   <!-- EN: lynx -->
-  <Lynx.labelPlural>ヤマネコ</Lynx.labelPlural>
+  <Lynx.labelPlural>山猫</Lynx.labelPlural>
   <!-- EN: lynx kitten -->
-  <Lynx.lifeStages.lynx_kitten.label>子ヤマネコ</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.label>山猫の仔</Lynx.lifeStages.lynx_kitten.label>
   
   <!-- EN: panther -->
-  <Panther.label>パンサー</Panther.label>
+  <Panther.label>豹</Panther.label>
   
 </LanguageData>

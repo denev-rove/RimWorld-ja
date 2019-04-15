@@ -17,14 +17,14 @@
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
   <Cobra.description>大蛇,怒らせると非常に攻撃的になるので,近寄らない方が良いですし,噛むと被害者の体内に毒を注入します.</Cobra.description>
   <!-- EN: cobraflesh -->
-  <Cobra.race.meatLabel>コブラ肉</Cobra.race.meatLabel>
+  <Cobra.race.meatLabel>蛇肉</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
   <Cobra.tools.venomfangs.label>毒牙</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
   <Cobra.tools.head.label>頭部</Cobra.tools.head.label>
   
   <!-- EN: monkey -->
-  <Monkey.label>サル</Monkey.label>
+  <Monkey.label>猿</Monkey.label>
   <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
   <Monkey.description>小さな霊長類で,縮れたしっぽで枝をつかむことができるので,両手を他のことに使えます.サルは自分勝手ですが,賢く,わりと複雑な仕事もこなせるように訓練することができます.</Monkey.description>
   <!-- EN: left fist -->

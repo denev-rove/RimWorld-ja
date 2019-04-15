@@ -6,9 +6,9 @@
   <!-- EN: dromedaries -->
   <Dromedary.labelPlural>ヒトコブラクダ</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>子ヒトコブラクダ</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.label>ヒトコブラクダの仔</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>子ヒトコブラクダ</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>ヒトコブラクダの仔</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: gazelle -->
   <Gazelle.label>ガゼル</Gazelle.label>
@@ -19,8 +19,8 @@
   <!-- EN: muffalo -->
   <Muffalo.label>マッファロー</Muffalo.label>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>子マッファロー</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.label>マッファローの仔</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>子マッファロー</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>マッファローの仔</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
 </LanguageData>
