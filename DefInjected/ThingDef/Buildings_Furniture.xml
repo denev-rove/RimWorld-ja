@@ -77,9 +77,9 @@
   <RoyalBed.description>高貴な生まれの方にぴったりな、豪華な金が散りばめられたベッドです。非常に快適で美しく、それ自体が芸術品です。二人用です。</RoyalBed.description>
   
   <!-- EN: shelf -->
-  <Shelf.label>ロッカー</Shelf.label>
+  <Shelf.label>保管庫</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
-  <Shelf.description>雑多な物資を保管するためのロッカーです。この中に収納した物資はロッカーが外気に触れていても劣化しません。</Shelf.description>
+  <Shelf.description>雑多な物資を仕舞うための保管庫です。この中に収納した物資は保管庫が外気に触れていても劣化しません。</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>寝床</SleepingSpot.label>

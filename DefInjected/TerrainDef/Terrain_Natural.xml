@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: stony soil -->
-  <Gravel.label>砂利</Gravel.label>
+  <Gravel.label>砂利土</Gravel.label>
   <!-- EN: gravel -->
-  <Gravel.tools.gravel.label>グラベル</Gravel.tools.gravel.label>
+  <Gravel.tools.gravel.label>砂利</Gravel.tools.gravel.label>
   
   <!-- EN: Ice -->
   <Ice.label>氷面</Ice.label>
   
   <!-- EN: marshy soil -->
-  <MarshyTerrain.label>湿地</MarshyTerrain.label>
+  <MarshyTerrain.label>泥濘</MarshyTerrain.label>
   <!-- EN: mud -->
   <MarshyTerrain.tools.mud.label>泥</MarshyTerrain.tools.mud.label>
   

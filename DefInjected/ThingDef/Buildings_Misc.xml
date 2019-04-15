@@ -79,9 +79,9 @@
   <Sarcophagus.description>装飾が施された棺です。名誉ある死者を埋葬します。</Sarcophagus.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>工具収納棚</ToolCabinet.label>
+  <ToolCabinet.label>工具整理棚</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>作業台の付近に設置すると、作業速度が向上します。一つの作業台は収納棚を二つまで利用できます。</ToolCabinet.description>
+  <ToolCabinet.description>作業台の付近に設置すると、作業速度が向上します。一つの作業台は整理棚を二つまで利用できます。</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>輸送ポッド</TransportPod.label>

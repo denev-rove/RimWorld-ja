@@ -5,9 +5,9 @@
   <!-- EN: Dark -->
   <Dark>暗い</Dark>
   <!-- EN: Lit -->
-  <Lit>光がある</Lit>
+  <Lit>明るい</Lit>
   <!-- EN: Brightly lit -->
-  <LitBrightly>明るい</LitBrightly>
+  <LitBrightly>とても明るい</LitBrightly>
 
   <!-- Price types -->
   <!-- EN: very cheap -->
@@ -97,25 +97,25 @@
   <!-- EN: Hungry -->
   <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
   <!-- EN: Fed -->
-  <HungerLevel_Fed>摂食した</HungerLevel_Fed>
+  <HungerLevel_Fed>食事済み</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>疲れ果てている</HungerLevel_VeryTired>
   <!-- EN: Tired -->
-  <HungerLevel_Tired>疲れた</HungerLevel_Tired>
+  <HungerLevel_Tired>疲れている</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>休息した</HungerLevel_Rested>
+  <HungerLevel_Rested>休養十分</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <!-- EN: flat -->
   <Hilliness_Flat>平地</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>小さな丘陵</Hilliness_SmallHills>
+  <Hilliness_SmallHills>低い丘陵</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>大きな丘陵</Hilliness_LargeHills>
+  <Hilliness_LargeHills>高い丘陵</Hilliness_LargeHills>
   <!-- EN: mountainous -->
   <Hilliness_Mountainous>山岳</Hilliness_Mountainous>
   <!-- EN: impassable -->
@@ -155,7 +155,7 @@
   <!-- EN: Industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>治療する(医薬品まで使用)</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>治療する(最先端医薬品まで使用)</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>治療する(超科学医薬品まで使用)</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: bulk goods trader -->
-  <Caravan_Outlander_BulkGoods.label>貿易商</Caravan_Outlander_BulkGoods.label>
+  <Caravan_Outlander_BulkGoods.label>雑貨商</Caravan_Outlander_BulkGoods.label>
   
   <!-- EN: combat supplier -->
-  <Caravan_Outlander_CombatSupplier.label>武器商</Caravan_Outlander_CombatSupplier.label>
+  <Caravan_Outlander_CombatSupplier.label>兵器商</Caravan_Outlander_CombatSupplier.label>
   
   <!-- EN: exotic goods trader -->
-  <Caravan_Outlander_Exotic.label>エキゾチックトレーダー</Caravan_Outlander_Exotic.label>
+  <Caravan_Outlander_Exotic.label>星間商</Caravan_Outlander_Exotic.label>
   
   <!-- EN: pirate merchant -->
-  <Caravan_Outlander_PirateMerchant.label>闇商</Caravan_Outlander_PirateMerchant.label>
+  <Caravan_Outlander_PirateMerchant.label>闇市商</Caravan_Outlander_PirateMerchant.label>
   
 </LanguageData>

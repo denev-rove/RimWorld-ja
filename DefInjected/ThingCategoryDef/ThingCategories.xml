@@ -20,10 +20,10 @@
   <BodyPartsNatural.label>生体</BodyPartsNatural.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>建築物</Buildings.label>
+  <Buildings.label>設置物</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>絵画</BuildingsArt.label>
+  <BuildingsArt.label>芸術品</BuildingsArt.label>
   
   <!-- EN: furniture -->
   <BuildingsFurniture.label>家具</BuildingsFurniture.label>
@@ -35,19 +35,19 @@
   <BuildingsMisc.label>その他</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>パワー</BuildingsPower.label>
+  <BuildingsPower.label>電力</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>生産物</BuildingsProduction.label>
+  <BuildingsProduction.label>作業台</BuildingsProduction.label>
   
   <!-- EN: security -->
   <BuildingsSecurity.label>防衛</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>スペシャル</BuildingsSpecial.label>
+  <BuildingsSpecial.label>特別</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>温度</BuildingsTemperature.label>
+  <BuildingsTemperature.label>冷暖房</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
   <Chunks.label>塊</Chunks.label>
@@ -59,7 +59,7 @@
   <CorpsesAnimal.label>動物の死骸</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>ヒト型の死骸</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>人間の死体</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
   <CorpsesInsect.label>虫の死骸</CorpsesInsect.label>

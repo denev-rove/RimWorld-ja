@@ -8,7 +8,7 @@
   <UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedArmor.label>アーマー(未完成)</UnfinishedArmor.label>
+  <UnfinishedArmor.label>防具(未完成)</UnfinishedArmor.label>
   
   <!-- EN: unfinished belt -->
   <UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
@@ -20,13 +20,13 @@
   <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedMetallicTechArmor.label>アーマー(未完成)</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>防具(未完成)</UnfinishedMetallicTechArmor.label>
   
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedTechArmor.label>アーマー(未完成)</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>防具(未完成)</UnfinishedTechArmor.label>
   
   <!-- EN: unfinished weapon -->
   <UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>

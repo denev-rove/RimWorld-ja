@@ -37,7 +37,7 @@
   <!-- EN: context -->
   <context>対象</context>
   <!-- EN: multiplier -->
-  <multiplier>掛け率</multiplier>
+  <multiplier>倍率</multiplier>
   <!-- EN: damage -->
   <damage>ダメージ</damage>
   <!-- EN: radius -->
@@ -72,38 +72,38 @@
   <!-- Content generation-->
   
   <!-- EN: {0} meat -->
-  <MeatLabel>{0} の肉</MeatLabel>
+  <MeatLabel>{0}の肉</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</MeatDesc>
+  <MeatDesc>解体処理された生肉です。食事として調理したり、あるいは生のまま食べることもできます。</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.極めてマズイ</MeatInsectDesc>
+  <MeatInsectDesc>解体処理された生肉です。どうしても必要なら食事として調理したり、あまつさえ生のまま食べることもできます。全く食欲をそそらない代物です。</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う</MeatHumanDesc>
+  <MeatHumanDesc>解体処理された生肉です。食事として調理したり、あるいは生のまま食べることもできます。とはいえ、普通の人間はそのような考えを嫌うでしょう。</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} の死骸</CorpseLabel>
+  <CorpseLabel>{0}の死骸</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>{0} の死骸</CorpseDesc>
+  <CorpseDesc>死んだ{0}の体です。</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
   <DeadLabel>{1_label} (死亡)</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>粗い{0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>粗く自然な {0}</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>天然の粗い{0}の地面です。</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>荒けずりの {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>粗削りの{0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>ざっくりとカットされた 自然な {0} の床</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>ざっくりと切り出された天然の{0}の床です。</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>滑らかな {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>滑らかな{0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>滑らかで自然な {0} の床</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>滑らかに磨かれた天然の{0}の床です。</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra>(設計)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (設計図)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra>(施工)</FrameLabelExtra>
+  <FrameLabelExtra> (施工中)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>仲間では無い</FactionUnaffiliated>
@@ -111,12 +111,12 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
+  <SomeonesRoom>{PAWN_labelShort}の{1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
+  <CouplesRoom>{PAWN1_labelShort}と{PAWN2_labelShort}の{2}</CouplesRoom>
   
   <!-- EN: (various) -->
   <VariousLabel>(色々)</VariousLabel>
