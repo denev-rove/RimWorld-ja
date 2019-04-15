@@ -50,7 +50,7 @@
   <Harvest.reportString>TargetAを収穫している</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>自生のTargetAを収穫している</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>TargetAを採集している</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>TargetAを運んでいる</HaulToCell.reportString>

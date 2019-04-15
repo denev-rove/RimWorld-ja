@@ -39,29 +39,29 @@
   <!-- EN: dying -->
   <DyingLower>瀕死</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>足跡：</FilthOnFeet>
+  <FilthOnFeet>足跡の汚れ:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
+  <NotEnoughStoredLower>十分な在庫がありません</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>なし</NothingLower>
   <!-- EN: Adapted -->
   <Adapted>順応した</Adapted>
   <!-- EN: fresh -->
-  <FreshMissingBodyPart>生々しい</FreshMissingBodyPart>
+  <FreshMissingBodyPart>真新しい</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>免疫がついた</DevelopedImmunityLower>
+  <DevelopedImmunityLower>免疫を獲得</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
+  <NeedsTendingNow>治療が必要</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>今面倒を見る事ができる</CanTendNow>
+  <CanTendNow>治療可能</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>看病の期限切れまで{0}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>治療の有効期限まで残り{0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Can be tended in {0}</NextTendIn>
+  <NextTendIn>次に治療できるまで残り{0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>看病品質</TendQuality>
+  <TendQuality>治療品質</TendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>{0}がない</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>免疫</Immunity>
   <!-- EN: Race -->
@@ -199,7 +199,7 @@
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} 効果掛け率: {1}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0}効果による倍率: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>{0}を目指している</CaravanVisiting>
   <!-- EN: Entering {0}. -->
@@ -209,9 +209,9 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れている</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>死体が着用して穢れた</WasWornByCorpse>
+  <WasWornByCorpse>死体が着用していた遺品のため、穢れています。</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>霊</WornByCorpseChar>
+  <WornByCorpseChar>遺</WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
   <!-- EN: outdoors -->
@@ -257,11 +257,11 @@
   <!-- EN: Closed -->
   <VentClosed>閉</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>{1_labelShort}が着ている</WornBy>
+  <WornBy>{1_labelShort}が着用している</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>{1_labelShort}が装備している</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0}は、この地の破壊を求めている。\n    報酬: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
@@ -335,7 +335,7 @@
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0}の調教適性</CreatureTrainability>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{1}との関係 {0}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>あと{0}後まで再び訪問することはできません。</EnterCooldown>
   <!-- EN: Caravan -->
@@ -363,17 +363,17 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>内容物 {0} / {1} ビール</ContainsBeer>
   <!-- EN: Fermented -->
-  <Fermented>発酵した</Fermented>
+  <Fermented>発酵済み</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
   <FermentationProgress>発酵中: {0} (残り{1})</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません.発酵速度 掛け率: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません。発酵速度: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
   <Headshot>ヘッドショット</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>治療に成功!\n成功率 {0}</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>治療に成功！\n成功率 {0}</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>治療に失敗\n成功率 {0}</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
@@ -385,11 +385,11 @@
   <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>勧誘に失敗\n成功率 {0}</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>敵対心\n{0} から {1}</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>反抗心\n{0} から {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
+  <TextMote_TameFail>手懐けられなかった\n成功率 {0}</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
+  <TextMote_TameSuccess>手懐けた！\n成功率 {0}</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -397,11 +397,11 @@
   <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>修理に失敗</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>建設に失敗</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>回避</TextMote_Dodge>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} 看病された</TextMote_Tended>
+  <TextMote_Tended>{0} 治療された</TextMote_Tended>
   <!-- EN: low mood -->
   <lowMood>低心情</lowMood>
   <!-- EN: low opinion -->
@@ -411,11 +411,11 @@
   <!-- EN: Home -->
   <Home>居住区</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>屋根建築</BuildRoof>
+  <BuildRoof>屋根あり</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>屋根無し</NoRoof>
+  <NoRoof>屋根なし</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>除雪済み</SnowClear>
+  <SnowClear>除雪</SnowClear>
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
@@ -437,15 +437,15 @@
 
   <!-- Snow -->
   <!-- EN: No snow -->
-  <SnowNone>積雪ゼロ</SnowNone>
+  <SnowNone>積雪なし</SnowNone>
   <!-- EN: Snow (dusting) -->
-  <SnowDusting>粉雪</SnowDusting>
+  <SnowDusting>積雪 (薄っすら）</SnowDusting>
   <!-- EN: Snow (thin) -->
-  <SnowThin>積雪(薄)</SnowThin>
+  <SnowThin>積雪 (浅い)</SnowThin>
   <!-- EN: Snow (medium) -->
   <SnowMedium>積雪</SnowMedium>
   <!-- EN: Snow (thick) -->
-  <SnowThick>積雪(厚)</SnowThick>
+  <SnowThick>積雪 (深い)</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
@@ -555,11 +555,11 @@
   <!-- EN: Finishes expiring in: {0} -->
   <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>精神崩壊：しきい値</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>精神崩壊の閾値</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>精神衰弱：しきい値</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>精神衰弱の閾値</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>精神変調：しきい値</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>精神変調の閾値</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
@@ -617,7 +617,7 @@
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>電力断</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>余剰電力 {0} W /蓄電量 {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>余剰電力 / 蓄電量: {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>消費電力</PowerNeeded>
   <!-- EN: Power output -->
@@ -633,19 +633,19 @@
   <!-- EN: Target temperature -->
   <TargetTemperature>設定温度</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>消費電力</PowerConsumptionMode>
+  <PowerConsumptionMode>現在の運転モード</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>高</PowerConsumptionHigh>
+  <PowerConsumptionHigh>高出力</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>低</PowerConsumptionLow>
+  <PowerConsumptionLow>省電力</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
   <Indoors>室内温度</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
+  <IndoorsUnroofed>室内温度 (天井開放中)</IndoorsUnroofed>
   <!-- EN: Outdoors -->
-  <Outdoors>外気温</Outdoors>
+  <Outdoors>屋外</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
@@ -655,13 +655,13 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>乾燥</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>冷凍(永久保存)</CurrentlyFrozen>
+  <CurrentlyFrozen>冷凍 (永久保存)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
   <CurrentlyRefrigerated>冷蔵 (腐敗まで {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
   <NotRefrigerated>常温 (腐敗まで {0})</NotRefrigerated>
   <!-- EN: over a decade -->
-  <OverADecade>10年間</OverADecade>
+  <OverADecade>10年以上</OverADecade>
   <!-- EN: less than a day -->
   <LessThanADay>本日中</LessThanADay>
 
@@ -687,11 +687,11 @@
   <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>成長していない (活動停止中)</PlantResting>
+  <PlantResting>休養中 (成長停止)</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>気温が適していません。(成長速度: {0}% )</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>気温が適していません。(成長停止)</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -729,7 +729,7 @@
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>HP : {0}</HitPoints>
+  <HitPoints>耐久度: {0}</HitPoints>
   <!-- EN: any quality -->
   <AnyQuality>全ての品質</AnyQuality>
   <!-- EN: {0} only -->
@@ -771,11 +771,11 @@
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>{1_label} が 燃えている</FireOn>
+  <FireOn>燃えている{1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>炎上中</Burning>
   <!-- EN: fire size {0} -->
-  <FireSizeLower>炎上サイズ {0}</FireSizeLower>
+  <FireSizeLower>炎の大きさ: {0}</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
@@ -847,7 +847,7 @@
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>反応炉は出力上昇の準備が整いました。\n\nこの工程は約15日程かかり、そのエネルギー波紋は、かなり離れた場所からでも探知されます。このエネルギー波紋のようなものは恒星間航行能力の保有を示しており、命知らずのギャングどもや最悪なメカノイドの大群を引き寄せます。\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう。まずは万全の防衛体制を整えてください。</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
@@ -859,9 +859,9 @@
 
   <!-- Minification -->
   <!-- EN: Installed -->
-  <Installed>インストール済</Installed>
+  <Installed>設置済み</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>未インストール</NotInstalled>
+  <NotInstalled>未設置</NotInstalled>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -871,9 +871,9 @@
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>未完の {0}</UnfinishedItem>
+  <UnfinishedItem>未完成な{0}</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>未完の {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>未完成な{0}{1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
@@ -923,11 +923,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の {1}は 進行している.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の{1}は進行しています。</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の {1}は 安定している.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の{1}は安定しています。</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の {1}は 寛解している.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の{1}は縮小しています。</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -955,7 +955,7 @@
   <!-- EN: Sleeping -->
   <ActivityIconSleeping>睡眠中</ActivityIconSleeping>
   <!-- EN: Fleeing -->
-  <ActivityIconFleeing>逃亡中</ActivityIconFleeing>
+  <ActivityIconFleeing>逃走中</ActivityIconFleeing>
   <!-- EN: Fighting -->
   <ActivityIconAttacking>戦闘中</ActivityIconAttacking>
   <!-- EN: Idle -->
@@ -973,17 +973,17 @@
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>次の鉱脈にむけて進行中</ProgressToNextLump>
+  <ProgressToNextLump>次の鉱脈に向けて掘削中</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>発見した鉱脈</ResourceBelow>
+  <ResourceBelow>地下資源</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>次に向けて進行中</ProgressToNextPortion>
+  <ProgressToNextPortion>次の油層にむけて掘削中</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>地下資源無し</DeepDrillNoResources>
+  <DeepDrillNoResources>地下資源なし</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した,自動的に取り扱い禁止となる.{0}を掘削し始めるために許可せよ.</DeepDrillExhausted>
+  <DeepDrillExhausted>資源が枯渇したため、大深度ドリルは自動的に停止しました。作業を続行すると今後は{0}を採掘します。</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>大深度ドリルの資源は枯渇しました。</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->

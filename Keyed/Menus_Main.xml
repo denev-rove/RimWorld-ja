@@ -211,7 +211,7 @@
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AIストーリーテラー（AI脚本家）は、宙賊の襲撃、貨物カプセルの飛来、動物の襲撃などのイベントを生成します。脚本家の選択は、あなたのコロニーの物語に大きく影響します。この設定はオプションメニューからいつでも変更できます。</HowStorytellersWork>
+  <HowStorytellersWork>AIストーリーテラー（AI脚本家）は、宙賊の襲撃や貨物カプセルの飛来、動物の襲撃といったイベントを生成します。脚本家の選択は、あなたのコロニーの物語に大きく影響します。この設定は環境設定メニューからいつでも変更できます。</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>難易度を選択してください。</MustChooseDifficulty>
   <!-- EN: Difficulty -->

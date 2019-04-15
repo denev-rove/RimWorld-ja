@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>TargetAと白兵戦をしている</AttackMelee.reportString>
+  <AttackMelee.reportString>TargetAに近接攻撃している</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
   <AttackStatic.reportString>TargetAを攻撃している</AttackStatic.reportString>

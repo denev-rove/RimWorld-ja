@@ -29,7 +29,7 @@
   <!-- EN: Need defenses -->
   <NeedDefenses>侵略に備えよ</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>あなたがここに定住してからしばらくが経ちます。おそらく既に見つかっていることでしょう。宙賊がいつ襲撃を始めてもおかしくありません。\n\n備えあれば憂いなしです。罠や土嚢などの準備をしましょう。</NeedDefensesDesc>
+  <NeedDefensesDesc>あなたがここに定住してしばらくが経ちます。おそらく既に見つかっていることでしょう。宙賊がいつ襲撃を始めてもおかしくありません。\n\n備えあれば憂いなしです。罠や土嚢などの準備をしましょう。</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>医師が必要</NeedDoctor>
@@ -61,7 +61,7 @@
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>入植者用ベッドより入植者のほうが多くなっています。誰かが寝る場所に困ることになります。\n\n新たなベッドを用意するか、囚人用ベッドを入植者用ベッドに切り替えましょう。\n\n資源が無ければ、"寝床"なら資源なしで即座に設置できます。</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>入植者用ベッドより入植者のほうが多くなっています。誰かが寝る場所に困ることになります。\n\n新たなベッドを用意するか、囚人用ベッドを入植者用ベッドに切り替えましょう。\n\n"寝床"なら資源なしで即座に設置できます。</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>飛び道具のない猟師</HunterLacksWeapon>
@@ -71,12 +71,12 @@
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>次の入植者は、自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない衣服を確保しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は、擦り切れた衣服を着ているために悲しんでいます:\n\n{0}\nそれほど酷く傷んでいない衣服を確保しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>次の入植者は、全裸であることに不満を抱いています:\n\n{0}\n彼らに何か衣服を用意しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>次の入植者は、裸を晒していることに不満を抱いています:\n\n{0}\n何か着るものを用意しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>飢えている</Starvation>
@@ -181,12 +181,12 @@
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>猟師と障壁ベルト</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <ShieldUserHasRangedWeaponDesc>遠距離武器と同時に障壁ベルトを身に付けている猟師がいます。\n障壁越しに遠距離武器の発射はできません。ベルトを脱がない限り狩りはできません。</ShieldUserHasRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>遠距離武器と同時に障壁ベルトを身に付けている猟師がいます。\n障壁越しに遠距離武器の発射はできません。ベルトを脱がない限り狩りはできません。</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>寒い時期は、入植者の少なくとも {0}人に防寒着が不足します。</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>寒い時期は、入植者の少なくとも&#xA0;{0}人に防寒着が不足します。</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1All>寒い時期は入植者全員分の防寒着が不足します。</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->

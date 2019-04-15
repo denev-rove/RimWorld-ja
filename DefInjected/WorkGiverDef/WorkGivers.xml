@@ -123,9 +123,9 @@
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>動物の解体</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
-  <DoBillsButcherFlesh.gerund>で獣を解体する</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.gerund>で肉を捌く</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>で動物を捌く</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>で肉を捌く</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>調理 (コンロ)</DoBillsCook.label>

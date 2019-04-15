@@ -167,11 +167,11 @@
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>増大</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>増大傾向</HediffGrowthMode_Growing>
   <!-- EN: stable -->
   <HediffGrowthMode_Stable>安定</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>縮小傾向</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
@@ -191,17 +191,17 @@
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>惑星上</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>初めから立っている</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
   <PlayerPawnsArriveMethod_DropPods>脱出ポッド</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>全キャラクター</PawnGenerationContext_All>
+  <PawnGenerationContext_All>全ての登場人物</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>プレイヤー初期キャラクター</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>開始時の入植者</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>非プレイヤーキャラクター</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>入植者以外の人物</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->

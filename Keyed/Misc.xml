@@ -53,9 +53,9 @@
   <!-- EN: distance -->
   <distance>距離</distance>
   <!-- EN: YES -->
-  <YesUppercase>ハイ</YesUppercase>
+  <YesUppercase>はい</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>イイエ</NoUppercase>
+  <NoUppercase>いいえ</NoUppercase>
   <!-- EN: kg -->
   <kg>kg</kg>
   <!-- EN: Day -->
@@ -63,7 +63,7 @@
   <!-- EN: day -->
   <day>日</day>
   <!-- EN: Default -->
-  <Default>デフォルト</Default>
+  <Default>既定値</Default>
   <!-- EN: Average -->
   <Average>平均</Average>
   <!-- EN: ${0} -->

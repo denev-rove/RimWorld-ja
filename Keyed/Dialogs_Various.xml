@@ -457,19 +457,19 @@
   <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>コロニーが取引可能なこのアイテムの数です.\n\nトレードビーコン近くの,軌道上トレーダーにだけアイテムを売ることができます.</ColonyCount>
+  <ColonyCount>この品目について、取引の準備が整っているものの数量です。\n\n軌道商船に売却できるのは、軌道貿易ビーコンの周囲にある物品のみです。</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
+  <TraderCount>この品目について、取引の相手が所持している数量です。</TraderCount>
   <!-- EN: Accept -->
-  <AcceptButton>受諾</AcceptButton>
+  <AcceptButton>取引成立</AcceptButton>
   <!-- EN: Reset -->
-  <ResetButton>リセット</ResetButton>
+  <ResetButton>白紙に戻す</ResetButton>
   <!-- EN: Cancel -->
   <CancelButton>中止</CancelButton>
   <!-- EN: Close -->
   <CloseButton>閉じる</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
+  <YourTradeableSilver>取引に使えるシルバー: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
   <YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->

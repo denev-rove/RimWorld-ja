@@ -5,7 +5,7 @@
   <!-- EN: Bills -->
   <TabBills>加工</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>栽培</TabGrowing>
+  <TabGrowing>農耕</TabGrowing>
   <!-- EN: Bio -->
   <TabCharacter>略歴</TabCharacter>
   <!-- EN: Training -->
@@ -212,13 +212,13 @@
   <!-- EN: Slave -->
   <Slave>奴隷</Slave>
   <!-- EN: Faction leader -->
-  <FactionLeader>派閥のリーダー</FactionLeader>
+  <FactionLeader>派閥の指導者</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>{1_labelShort}への評価</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{1_labelShort}がする 私への評価</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>{1_labelShort}からの評価</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
-  <IAmDead>私は死んだ</IAmDead>
+  <IAmDead>私は死んでいる</IAmDead>
   <!-- EN: I'm a psychopath -->
   <IAmPsychopath>私はサイコパス</IAmPsychopath>
   
@@ -250,25 +250,25 @@
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>家畜を集める</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>家畜を集めている</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集める(待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集めている (待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>積み荷を集める</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>積み荷を集めている</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>積み荷を集める (待機中)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>積み荷を集めている (待機中)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>奴隷を集める</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves>奴隷を集めている</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>奴隷を集める(待機中)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringSlaves_Pause>奴隷を集めている (待機中)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>行動不能の人を集める</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>行動不能の人を集めている</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>行動不能の人を集める(待機中)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>行動不能の人を集めている (待機中)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>離脱</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>出発</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>離脱(待機中)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>出発 (待機中)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>待機中</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->

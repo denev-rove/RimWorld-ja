@@ -15,15 +15,15 @@
 
   <!-- Gift offer -->
   <!-- EN: Offer gift -->
-  <OfferGift>贈り物</OfferGift>
+  <OfferGift>貢ぎ物を 申し出る</OfferGift>
   <!-- EN: must be ally -->
-  <MustBeAlly>同盟である必要</MustBeAlly>
+  <MustBeAlly>同盟が必要</MustBeAlly>
   <!-- EN: need {0} goodwill -->
   <NeedGoodwill>{0}友好値が必要</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です.</NeedSilverLaunchable>
+  <NeedSilverLaunchable>貿易ビーコンの周囲に&#xA0;{0}シルバーが必要</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>シルバーが 足りない.</NotEnoughSilver>
+  <NotEnoughSilver>シルバーが足りない</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
   <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
@@ -31,9 +31,9 @@
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}友好値)</RequestTrader>
+  <RequestTrader>キャラバン隊の派遣を要請する (コスト: {0}友好値)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0}は, あなたが必要としているトレーダーキャラバンの種別を聞いています.</ChooseTraderKind>
+  <ChooseTraderKind>{0}は、必要なキャラバン隊の種別を質問しています。</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
   <TraderSent>{0}は, あなたにトレーダーキャラバンを送ることに承諾しました.2～3日以内には到着するでしょう.</TraderSent>
   <!-- EN: wait {0} -->
