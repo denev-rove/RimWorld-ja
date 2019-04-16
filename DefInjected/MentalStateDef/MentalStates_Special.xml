@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: manhunter -->
-  <Manhunter.label>殺人鬼</Manhunter.label>
+  <Manhunter.label>人狩り</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
-  <Manhunter.baseInspectLine>精神状態: 殺人鬼</Manhunter.baseInspectLine>
+  <Manhunter.baseInspectLine>精神状態: 人狩り</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <Manhunter.beginLetter>{0}は殺人鬼となり殺し始めた!.</Manhunter.beginLetter>
+  <Manhunter.beginLetter>{0}は人狩りとなった！</Manhunter.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>{0}の血に飢えた殺人は終わりをむかえた.</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた。</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
-  <ManhunterPermanent.label>殺人鬼</ManhunterPermanent.label>
+  <ManhunterPermanent.label>人狩り</ManhunterPermanent.label>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterPermanent.baseInspectLine>狂気: 殺人鬼</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.baseInspectLine>狂気: 人狩り</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>{0}は殺人鬼となった！</ManhunterPermanent.beginLetter>
-  <ManhunterPermanent.beginLetterLabel>殺人鬼</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0}は人狩りとなった！</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>人狩り</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}の殺人衝動は無くなった.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた。</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
   <PanicFlee.label>パニックになり逃げ出した</PanicFlee.label>
