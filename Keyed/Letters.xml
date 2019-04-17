@@ -282,7 +282,7 @@
   <!-- EN: Precious minerals found -->
   <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>広域鉱物スキャナーで探査をしていた{WORKER_labelShort}は、付近に{0}鉱床を発見しました。\n\n残念ながら気の長い話ではなく、我々が何もしなければ、{1}日後には誰かが先に採掘してしまうでしょう。\n\n{2}</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>広域鉱物スキャナーで探査していた{WORKER_labelShort}は、付近に{0}の塊を発見しました。\n\n残念ながら気の長い話ではなく、我々が何もしなければ、{1}日後には誰かが先に採掘してしまうでしょう。\n\n{2}</LetterFoundPreciousLump>
   
   <!-- Ambush -->
   <!-- EN: Ambush -->

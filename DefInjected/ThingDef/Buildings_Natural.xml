@@ -19,7 +19,7 @@
   <!-- EN: compacted machinery -->
   <MineableComponentsIndustrial.label>圧壊した機械の層</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
-  <MineableComponentsIndustrial.description>太古の機械が、長い歳月により押し潰されたものです。使えそうな電子部品を掘り出せます。</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.description>太古の機械が、長い歳月により押し潰されたものです。使えそうな機械部品を掘り出せます。</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
   <MineableGold.label>ゴールド鉱石</MineableGold.label>

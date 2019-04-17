@@ -7,12 +7,12 @@
   <Chemfuel.description>揮発性の液体化学薬品です。エンジンやロケットの燃料、発射体の推進剤、あるいは焼夷弾として使用されます。</Chemfuel.description>
   
   <!-- EN: component -->
-  <ComponentIndustrial.label>電子部品</ComponentIndustrial.label>
+  <ComponentIndustrial.label>機械部品</ComponentIndustrial.label>
   <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
   <ComponentIndustrial.description>歯車、コンデンサ、回路基盤、真空管、回転盤、センサー、ワイヤー、集積回路、演算装置および他の電子部品や工業部品の寄せ集めです。複雑な機械や電子機器を組み立てる際に必須です。</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
-  <ComponentSpacer.label>先端電子部品</ComponentSpacer.label>
+  <ComponentSpacer.label>先進機械部品</ComponentSpacer.label>
   <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
   <ComponentSpacer.description>高度な演算を行うエネルギー指向性の機械です。最も要求の厳しい用途向けに、小型化と堅牢性の強化がされています。</ComponentSpacer.description>
   

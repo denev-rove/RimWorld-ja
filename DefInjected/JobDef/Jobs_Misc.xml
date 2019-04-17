@@ -140,7 +140,7 @@
   <UseItem.reportString>TargetAを使用している</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>学習用メカナイト血清を使用している</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>学習用メカナイト製剤を使用している</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>何かしている</UseVerbOnThing.reportString>

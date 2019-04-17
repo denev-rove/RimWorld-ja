@@ -91,7 +91,7 @@
   <!-- EN: construction skill too low -->
   <ConstructionSkillTooLow>建築スキルが低すぎる</ConstructionSkillTooLow>
   <!-- EN: need components -->
-  <NoComponentsToRepair>電子部品が必要</NoComponentsToRepair>
+  <NoComponentsToRepair>機械部品が必要</NoComponentsToRepair>
   <!-- EN: need {0} -->
   <NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
   <!-- EN: need wort -->
@@ -117,7 +117,7 @@
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>掘削する能力がない</IncapableOfMining>
+  <IncapableOfMining>採掘する能力がない</IncapableOfMining>
   <!-- EN: angers faction -->
   <AngersFaction>怒っている派閥</AngersFaction>
   

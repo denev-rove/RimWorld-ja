@@ -32,7 +32,7 @@
   <!-- EN: crafting -->
   <Crafting.label>工作</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>武器、電子部品、精製された資源を含む全般的な物資の作製を行います。</Crafting.description>
+  <Crafting.description>武器、機械部品、精製された資源を含む全般的な物資の作製を行います。</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.skillLabel>工作</Crafting.skillLabel>
   

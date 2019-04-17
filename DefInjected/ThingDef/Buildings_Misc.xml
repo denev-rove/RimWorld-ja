@@ -34,7 +34,7 @@
   <Grave.description>死者が最後の休息を得る厳かな場所です。入植者たちは、死者を悼むために訪れます。娯楽として機能します。</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>地殻深部 スキャナー</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>地中透過 スキャナー</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
   <GroundPenetratingScanner.description>音波探知と磁気映像装置を組み合わせた下向きのレーダーで、地面より深い場所に埋蔵されている鉱物を探知することができます。 種類までは判別できません。大量の電力を必要とします。</GroundPenetratingScanner.description>
   

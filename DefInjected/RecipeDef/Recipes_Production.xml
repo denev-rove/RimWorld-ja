@@ -30,18 +30,18 @@
   <Make_ChemfuelFromWood.jobString>木材から燃料を精製している</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>電子部品を作る</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>機械部品を作る</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>電子部品を作製します。</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>機械部品を作製します。</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>電子部品を作っている</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>機械部品を作っている</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>先端電子部品を作る</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>先進機械部品を作る</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>先端電子部品を作製します。</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>先進機械部品を作製します。</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>先端電子部品を作っている</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>先進機械部品を作っている</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
   <Make_Patchleather.label>継ぎ合わせた革を作る</Make_Patchleather.label>

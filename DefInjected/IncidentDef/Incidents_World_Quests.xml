@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: bandit camp quest -->
-  <Quest_BanditCamp.label>山賊のねぐらクエスト</Quest_BanditCamp.label>
+  <Quest_BanditCamp.label>ならず者のねぐらクエスト</Quest_BanditCamp.label>
   <!-- EN: Bandit camp quest -->
-  <Quest_BanditCamp.letterLabel>山賊のねぐらクエスト</Quest_BanditCamp.letterLabel>
+  <Quest_BanditCamp.letterLabel>ならず者のねぐらクエスト</Quest_BanditCamp.letterLabel>
   <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
-  <Quest_BanditCamp.letterText>{2}の{1}である{0}が、我々にメッセージを送ってきました。\n\nどうやら付近にねぐらを構えた山賊どもが、彼らのキャラバン隊を襲い続けているようです。我々に山賊退治を要請しています。これは、全ての敵と砲塔の排除を意味します。\n\n{0}は「{5}」と言っています。\n\n成功すれば、彼らとの関係は改善し、{6}相当の報酬が送られるでしょう:\n\n{3}\n\nもし{4}日以内に排除できなければ、彼ら自身で対処するでしょう。</Quest_BanditCamp.letterText>
+  <Quest_BanditCamp.letterText>{2}の{1}である{0}が、我々にメッセージを送ってきました。\n\nどうやら付近にねぐらを構えたならず者どもが、彼らのキャラバン隊を襲い続けているようです。我々にならず者退治を要請しています。これは、全ての敵と砲塔の排除を意味します。\n\n{0}は「{5}」と言っています。\n\n成功すれば、彼らとの関係は改善し、{6}相当の報酬が送られるでしょう:\n\n{3}\n\nもし{4}日以内に排除できなければ、彼ら自身で対処するでしょう。</Quest_BanditCamp.letterText>
   
   <!-- EN: incapacitated refugee quest -->
   <Quest_DownedRefugee.label>負傷した遭難者クエスト</Quest_DownedRefugee.label>

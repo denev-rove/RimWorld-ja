@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: constructed roof -->
-  <RoofConstructed.label>屋根</RoofConstructed.label>
+  <RoofConstructed.label>人工の屋根</RoofConstructed.label>
   
   <!-- EN: overhead mountain -->
-  <RoofRockThick.label>岩天井(岩盤)</RoofRockThick.label>
+  <RoofRockThick.label>岩天井(山岳)</RoofRockThick.label>
   
   <!-- EN: rock roof (thin) -->
   <RoofRockThin.label>岩天井(薄)</RoofRockThin.label>

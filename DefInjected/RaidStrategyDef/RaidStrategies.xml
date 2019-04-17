@@ -6,21 +6,21 @@
   <!-- EN: They are moving in to help you immediately. -->
   <ImmediateAttack.arrivalTextFriendly>彼らは、直ちに援軍として駆け付けます。</ImmediateAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttack.letterLabelEnemy>力任せの襲撃</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
   <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
   <ImmediateAttackSappers.arrivalTextEnemy>奴らは、四方を囲む防壁を突破するため、トンネル工兵を使うつもりのようです。</ImmediateAttackSappers.arrivalTextEnemy>
   <!-- EN: Raid -->
-  <ImmediateAttackSappers.letterLabelEnemy>工兵部隊の襲撃</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
   <ImmediateAttackSmart.arrivalTextEnemy>奴らは、今すぐにでも襲ってきます。\n\n注意してください&#xA0;－&#xA0;連中は常になく狡猾な戦術を駆使しているように見えます。砲塔の射程を避け、罠を見抜く者もいるでしょう。</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
   <ImmediateAttackSmart.arrivalTextFriendly>彼らは、直ちに援軍として駆け付けます。</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackSmart.letterLabelEnemy>規律ある襲撃</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>襲撃</ImmediateAttackSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
   <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
   
@@ -29,9 +29,9 @@
   <!-- EN: It looks like they want to use siege tactics to help you. -->
   <Siege.arrivalTextFriendly>彼らは、あなたを掩護するため砲撃戦の構えを取るようです。</Siege.arrivalTextFriendly>
   <!-- EN: Siege -->
-  <Siege.letterLabelEnemy>砲兵部隊の襲撃</Siege.letterLabelEnemy>
+  <Siege.letterLabelEnemy>襲撃</Siege.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <Siege.letterLabelFriendly>砲兵部隊の援軍</Siege.letterLabelFriendly>
+  <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
   <StageThenAttack.arrivalTextEnemy>彼らは、しばらく準備を整えた後で攻撃を始めるでしょう。\n\n防衛体制を整えるか、機先を制してこちらから仕掛けましょう。</StageThenAttack.arrivalTextEnemy>

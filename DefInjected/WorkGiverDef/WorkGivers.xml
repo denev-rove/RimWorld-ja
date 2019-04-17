@@ -326,7 +326,7 @@
   <!-- EN: fix broken-down buildings -->
   <FixBrokenDownBuilding.label>故障の修理</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
-  <FixBrokenDownBuilding.gerund>の壊れた電子部品を交換する</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.gerund>の壊れた機械部品を交換する</FixBrokenDownBuilding.gerund>
   <!-- EN: replace broken components in -->
   <FixBrokenDownBuilding.verb>を修理する</FixBrokenDownBuilding.verb>
   
@@ -410,9 +410,9 @@
   <!-- EN: mine -->
   <Mine.label>採掘</Mine.label>
   <!-- EN: mining -->
-  <Mine.gerund>を掘削する</Mine.gerund>
+  <Mine.gerund>を採掘する</Mine.gerund>
   <!-- EN: mine -->
-  <Mine.verb>を掘削する</Mine.verb>
+  <Mine.verb>を採掘する</Mine.verb>
   
   <!-- EN: open containers -->
   <Open.label>箱開け</Open.label>

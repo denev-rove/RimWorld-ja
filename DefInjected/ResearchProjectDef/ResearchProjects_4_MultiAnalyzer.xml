@@ -4,7 +4,7 @@
   <!-- EN: advanced fabrication -->
   <AdvancedFabrication.label>先進デジタル工作</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>通常の電子部品と他の素材を用いて、先端電子部品を製造します。</AdvancedFabrication.description>
+  <AdvancedFabrication.description>通常の機械部品と他の素材を用いて、先進機械部品を製造します。</AdvancedFabrication.description>
   
   <!-- EN: bionics -->
   <Bionics.label>生体工学</Bionics.label>
@@ -14,7 +14,7 @@
   <!-- EN: pulse-charged munitions -->
   <ChargedShot.label>パルス荷電式兵器</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>パルス荷電され、威力の増した銃弾を発射する武器を作製します。これらの武器にも先端電子部品が必要です。</ChargedShot.description>
+  <ChargedShot.description>パルス荷電され、威力の増した銃弾を発射する武器を作製します。これらの武器にも先進機械部品が必要です。</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
   <Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
@@ -24,17 +24,17 @@
   <!-- EN: deep drilling -->
   <DeepDrilling.label>大深度掘削</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>地殻深部から資源を採掘する大深度ドリルを製造します。資源を見つけるには地殻深部スキャナーが必要です。</DeepDrilling.description>
+  <DeepDrilling.description>地中から資源を採掘する大深度ドリルを製造します。資源を見つけるには地中透過スキャナーが必要です。</DeepDrilling.description>
   
   <!-- EN: fabrication -->
   <Fabrication.label>デジタル工作</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>デジタル工作台の設置を行います。研究の進行に応じて、電子部品の製造からマリーンアーマーの製造まで可能になります。</Fabrication.description>
+  <Fabrication.description>デジタル工作台の設置を行います。研究の進行に応じて、機械部品の製造からマリーンアーマーの製造まで可能になります。</Fabrication.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>地中透過スキャナー</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
-  <GroundPenetratingScanner.description>地殻深部スキャナーを設置します。地表より深部にある採掘可能な資源を探知します。設置には先端電子部品が必要です。</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>地中透過スキャナーを設置します。地表より深部にある採掘可能な資源を探知します。設置には先進機械部品が必要です。</GroundPenetratingScanner.description>
   
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>複合分析機</MultiAnalyzer.label>
@@ -44,7 +44,7 @@
   <!-- EN: powered armor -->
   <PoweredArmor.label>強化装甲</PoweredArmor.label>
   <!-- EN: Build the power armor and power armor helmets. Note that these also require advanced components. -->
-  <PoweredArmor.description>マリーンアーマー、マリーンヘルメットを作製します。これらの兵装にも先端電子部品が必要です。</PoweredArmor.description>
+  <PoweredArmor.description>マリーンアーマー、マリーンヘルメットを作製します。これらの兵装にも先進機械部品が必要です。</PoweredArmor.description>
   
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>ウランスラグ砲塔</SniperTurret.label>

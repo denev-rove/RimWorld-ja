@@ -134,11 +134,11 @@
   <Hunting.verb>Hunt</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>岩盤の掘削や地下を掘るドリルの操作を行います。</Mining.description>
+  <Mining.description>岩壁の掘削や地下を掘るドリルの操作を行います。</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>掘削</Mining.gerundLabel>
+  <Mining.gerundLabel>採掘</Mining.gerundLabel>
   <!-- EN: Mine -->
-  <Mining.labelShort>掘削</Mining.labelShort>
+  <Mining.labelShort>採掘</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>鉱員</Mining.pawnLabel>
   <!-- EN: Mine -->

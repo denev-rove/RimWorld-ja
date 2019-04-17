@@ -25,7 +25,7 @@
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>故障修理 成功率</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>故障した構造物を、電子部品で修理する際の成功率です。失敗すれば時間と資源を無駄にします。これは故障の修理にのみ影響し、単にダメージを受けた構造物を修復するのとは違います。</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>故障した構造物を、機械部品で修理する際の成功率です。失敗すれば時間と資源を無駄にします。これは故障の修理にのみ影響し、単にダメージを受けた構造物を修復するのとは違います。</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>狩猟 隠密率</HuntingStealth.label>
@@ -33,14 +33,14 @@
   <HuntingStealth.description>狩りの獲物が猟師に逆襲してくる確率に対する減衰率です。0%なら何の変化もありません。100%なら動物は決して逆襲してきません。</HuntingStealth.description>
   
   <!-- EN: mining speed -->
-  <MiningSpeed.label>掘削 作業速度</MiningSpeed.label>
+  <MiningSpeed.label>採掘 作業速度</MiningSpeed.label>
   <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
   <MiningSpeed.description>壁を掘削したり、地下資源をドリルで採掘する速度です。</MiningSpeed.description>
   
   <!-- EN: mining yield -->
-  <MiningYield.label>掘削 収率</MiningYield.label>
+  <MiningYield.label>採掘 収率</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
-  <MiningYield.description>採掘で得られる資源の量に対する倍率です。壁の掘削と、ドリルによる採掘の両方に影響します。石材の切り出しには影響しません。</MiningYield.description>
+  <MiningYield.description>採掘で得られる資源の量に対する倍率です。岩壁の採掘と、ドリルによる採掘の両方に影響します。石材の切り出しには影響しません。</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>収穫 収率</PlantHarvestYield.label>

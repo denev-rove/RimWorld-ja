@@ -29,7 +29,7 @@
   <!-- EN: drug cooking speed -->
   <DrugCookingSpeed.label>ドラッグ調理 作業速度</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>ビールの醸造やサイカイト茶の煮出し、あるいはジョイントのような単純なドラッグを作製する速度です。</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>ビールの醸造やサイカイトティーの煮出し、あるいはジョイントのような単純なドラッグを作製する速度です。</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
   <DrugSynthesisSpeed.label>ドラッグ合成 作業速度</DrugSynthesisSpeed.label>

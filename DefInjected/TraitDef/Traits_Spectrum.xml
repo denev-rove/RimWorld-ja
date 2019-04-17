@@ -131,7 +131,7 @@
   <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
   <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef]は,どこに行ったかと思えば,いつもグループから遅れた所にいます.</SpeedOffset.degreeDatas.slowpoke.description>
   <!-- EN: fast walker -->
-  <SpeedOffset.degreeDatas.fast_walker.label>せかせか歩き</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.label>早歩き</SpeedOffset.degreeDatas.fast_walker.label>
   <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
   <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef]は好きな所へ行きたがります. [PAWN_pronoun]は,ほとんどの人より早く歩きます.</SpeedOffset.degreeDatas.fast_walker.description>
   <!-- EN: jogger -->

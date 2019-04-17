@@ -44,7 +44,7 @@
   <FinishFrame.reportString>TargetAを仕上げている</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
-  <FixBrokenDownBuilding.reportString>TargetAの壊れた電子部品を交換している</FixBrokenDownBuilding.reportString>
+  <FixBrokenDownBuilding.reportString>TargetAの壊れた機械部品を交換している</FixBrokenDownBuilding.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>TargetAを収穫している</Harvest.reportString>

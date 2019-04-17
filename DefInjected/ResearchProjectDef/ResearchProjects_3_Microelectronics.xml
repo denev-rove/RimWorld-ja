@@ -24,7 +24,7 @@
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>広域鉱物スキャナー</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>広域鉱物スキャナーを設置します。研究者の操作で惑星の全域に渡って希少鉱物を探査できます。探査は特定の鉱物に絞って行えます。製造には先端電子部品が必要です。</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>広域鉱物スキャナーを設置します。研究者の操作で惑星の全域に渡って希少鉱物を探査できます。探査は特定の鉱物に絞って行えます。製造には先進機械部品が必要です。</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
   <MedicineProduction.label>製薬</MedicineProduction.label>

@@ -250,17 +250,17 @@
   <MessageMaxPlanetCoveragePerformanceWarning>警告:惑星データの生成に 非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0}は 凍って枯れました.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>{0}は凍って枯れました。</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0}は 収穫されなかった為に腐って枯れました.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0}は 収穫しなかったせいで腐って枯れました。</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0}は 陽にあたって枯れました.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0}は光に晒されて枯れました。</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0}は 腐って枯れました.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0}は腐って枯れました。</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0}は 毒によって枯れました.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0}は毒によって枯れました。</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{1_label}は 疫病によって枯れました.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label}は疫病によって枯れました。</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort}は高温に達した大気で火傷を負いました。</MessagePawnBeingBurned>
@@ -400,7 +400,7 @@
   <MessagePeaceTalksNoDiplomat>意識がないため外交もできません。</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
-  <MessageWarningCavePlantsExposedToLight>警告：{0}は陽に当たると生きていけません.</MessageWarningCavePlantsExposedToLight>
+  <MessageWarningCavePlantsExposedToLight>警告: {0}は光に晒されると生きていけません。</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageTargetedTantrumChangedTarget>{PAWN_labelShort}は{OLDTARGET_label}まで辿り着けなかったので、怒りの矛先を{TARGET_label}に向けました。</MessageTargetedTantrumChangedTarget>

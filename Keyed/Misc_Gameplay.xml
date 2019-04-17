@@ -341,9 +341,9 @@
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there -->
-  <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>ここには危険があるかもしれません。</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
+  <PreciousLumpLabel>{0}の塊</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
@@ -709,7 +709,7 @@
   <!-- EN: Blighted -->
   <Blighted>疫病</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>陽に晒されて死亡</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>光に晒されて枯死</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -855,7 +855,7 @@
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{USER_labelShort}は、学習用メカナイト血清を使って{1}スキルを{2}から{3}に上げました。</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort}は、学習用メカナイト製剤を使って{1}スキルを{2}から{3}に上げました。</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -973,11 +973,11 @@
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>次の鉱脈に向けて掘削中</ProgressToNextLump>
+  <ProgressToNextLump>次の塊に向けて掘削中</ProgressToNextLump>
   <!-- EN: Resource below -->
   <ResourceBelow>地下資源</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>次の油層にむけて掘削中</ProgressToNextPortion>
+  <ProgressToNextPortion>次の塊に向けて掘削中</ProgressToNextPortion>
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>地下資源なし</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
