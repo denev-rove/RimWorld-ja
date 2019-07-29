@@ -4,7 +4,7 @@
   <!-- EN: cougar -->
   <Cougar.label>クーガー</Cougar.label>
   <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
-  <Cougar.description>もっとも危険な大型の猫類のひとつ,クーガーは,鋭くて長い爪と牙を持った孤独なハンターです.彼らは獲物に襲い掛かるとき,見えない場所からこっそりと忍び寄ります.\n\nヒトが彼らの獲物ではない間,彼らは弱い人間が与えるエサを拒否しないでしょう.</Cougar.description>
+  <Cougar.description>ネコ科の中でも特に危険な種のひとつです。クーガーは長く鋭い牙と爪を持ち、単独で狩りをします。見えない位置から隠れて忍び寄り、獲物に飛びかかります。\n\n通常は人間を襲ったりはしませんが、か弱い人間の肉という御馳走を敢えて拒むこともありません。</Cougar.description>
   <!-- EN: left claw -->
   <Cougar.tools.left_claw.label>左爪</Cougar.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -26,7 +26,7 @@
   <!-- EN: panther -->
   <Panther.label>豹</Panther.label>
   <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
-  <Panther.description>敏捷で力強いネコ科の動物で、古代の地球のジャングルが原産です。豹は単独で待ち伏せを行う肉食動物であり、大きな獲物も小さな獲物も巧みに仕留める狩りの達人です。その姿を見た者は、しなやかな動きに目が行きがちですが、より近くで触れ合えば大抵の場合、頭蓋骨を砕くほどの力強さに気が付きます。</Panther.description>
+  <Panther.description>敏捷で力強いネコ科の動物で、古代の地球のジャングルが原産です。豹は単独で待ち伏せを行う肉食獣であり、大きな獲物も小さな獲物も巧みに仕留める狩りの達人です。その姿を見た者はしなやかな動きに目を向けがちですが、近くで触れ合えば頭蓋骨を砕くほどの力強さに気付かざるを得ないでしょう。</Panther.description>
   <!-- EN: left claw -->
   <Panther.tools.left_claw.label>左爪</Panther.tools.left_claw.label>
   <!-- EN: right claw -->

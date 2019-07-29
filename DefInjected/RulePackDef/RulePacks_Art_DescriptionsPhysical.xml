@@ -7,9 +7,9 @@
     <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_Furniture.rulePack.rulesStrings>
-    <li>physical_description_root->この家具には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
-    <li>physical_description_root->この家具には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
-    <li>physical_description_root->家具の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+    <li>physical_description_root->この家具には「[image]」の[depiction]が彫り込まれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この家具には「[image]」の[depiction]が描かれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この家具に施された彫刻画は「[image]」[depicts]。[desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
@@ -19,10 +19,9 @@
     <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
-    <li>physical_description_root->この石棺には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
-    <li>physical_description_root->この石棺には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
-    <li>physical_description_root->この石棺には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
-    <li>physical_description_root->石棺の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+    <li>physical_description_root->この棺には「[image]」の[depiction]が彫り込まれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この棺には「[image]」の[depiction]が描かれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この棺に施された彫刻画は「[image]」[depicts]。[desc_sentence_group]</li>
   </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -35,13 +34,15 @@
     <li>sculpture->carving</li>
   -->
   <ArtDescription_Sculpture.rulePack.rulesStrings>
-    <li>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]. [desc_sentence_group]</li>
-    <li>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている. [desc_sentence_group]</li>
-    <li>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある. [desc_sentence_group]</li>
-    <li>sculpture->彫塑</li>
+    <li>physical_description_root->この[sculpture]は「[image]」[depicts]。[desc_sentence_group]</li>
+    <li>physical_description_root->この[sculpture]には「[image]」の[depiction]が描かれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この[sculpture]の表面には「[image]」の[depiction]がある。[desc_sentence_group]</li>
+    <li>sculpture->彫像</li>
     <li>sculpture->作品</li>
-    <li>sculpture->一篇の作品</li>
+    <li>sculpture->創作物</li>
     <li>sculpture->彫刻</li>
+    <li>sculpture->塑像</li>
+    <li>sculpture->彫塑</li>
   </ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
@@ -50,9 +51,9 @@
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponGun.rulePack.rulesStrings>
-    <li>physical_description_root->この銃には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
-    <li>physical_description_root->この銃には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
-    <li>physical_description_root->銃の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+    <li>physical_description_root->この武器には「[image]」の[depiction]が彫り込まれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この武器には「[image]」の[depiction]が描かれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この武器に施された彫刻画は「[image]」[depicts]。[desc_sentence_group]</li>
   </ArtDescription_WeaponGun.rulePack.rulesStrings>
   
   <!-- EN:
@@ -61,9 +62,9 @@
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponMelee.rulePack.rulesStrings>
-    <li>physical_description_root->この武器には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
-    <li>physical_description_root->この武器には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
-    <li>physical_description_root->武器の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+    <li>physical_description_root->この武器には「[image]」の[depiction]が彫り込まれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この武器には「[image]」の[depiction]が描かれている。[desc_sentence_group]</li>
+    <li>physical_description_root->この武器に施された彫刻画は「[image]」[depicts]。[desc_sentence_group]</li>
   </ArtDescription_WeaponMelee.rulePack.rulesStrings>
   
 </LanguageData>

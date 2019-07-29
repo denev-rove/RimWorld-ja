@@ -36,6 +36,17 @@
     <li>r_seed->[businessname]</li>
     <li>r_seed->[businesstype]</li>
     <li>r_seed->[Community]</li>
+    <li>r_seed(p=2)->[Color][Animal]</li>
+    <li>r_seed(p=2)->[Color]の[TerrainFeature]</li>
+    <li>r_seed(p=2)->[AdjectiveAny][PersonJob]</li>
+    <li>r_seed(p=2)->[AdjectiveAny][Enemy]</li>
+    <li>r_seed->[AdjectiveAny][Gore]</li>
+    <li>r_seed(p=2)->[Color]色の[Apparel]</li>
+    <li>r_seed(p=2)->[AdjectiveAny][ConceptAny]</li>
+    <li>r_seed(p=2)->[AdjectiveAny][Weapon]</li>
+    <li>r_seed(p=2)->[Color][Vegetable]</li>
+    <li>r_seed(p=2)->[AdjectiveAny][Game]</li>
+    <li>r_seed(p=2)->[AdjectiveLarge][Community]</li>
   </SeedGenerator.rulePack.rulesStrings>
   
 </LanguageData>

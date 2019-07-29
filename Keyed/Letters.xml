@@ -11,16 +11,16 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>夏が来た！でも直ぐに,冬もやってきます.\n\n作物は寒い冬の間は育ちません.食料を保存する準備をしましょう.\n\n冷凍庫となる部屋を造り,食料の腐敗を防ぐのです.\n\nパーカーを買うか,盗むか,作るかしておかないと,外に出た時に凍えてしまいます.</FirstSummerWarning>
+  <FirstSummerWarning>夏がやってきました！でも冬が近づいています。\n\n作物は寒い冬の間は育ちません。十分な食料を備蓄しましょう。\n\n冷凍庫となる部屋を作り、食料の腐敗を防ぐのです。\n\nパーカーを買うなり、盗むなり、作るなりしておかないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です.\n\n彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({1})が{2}以下の時に起きます.中立の関係に戻す目的なら,友好値を再び{3}に到達させなければなりません.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_Hostile>{0}との関係が断絶しました。彼らは今や敵です。\n\n彼らは、あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう、さらにトレードを拒否します。あなたに関係改善の意思があるなら、キャラバン隊や輸送ポッドを使って、彼らに貢ぎ物を申し出ることはできます。\n\nこれは友好値({1})が{2}以下の時に起きます。中立の関係に戻す目的なら、友好値を再び{3}に到達させなければなりません。</LetterRelationsChange_Hostile>
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.\n\nこれは友好値({1})が{2}を超えれば発生します.もし友好値が{3}を下回れば,{0}は再び敵対します.もし友好値が{4}を上回れば,彼らはあなたと同盟を組み,あなたの為に戦うでしょう.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました。もう彼らは、あなたを攻撃しようともせず、中立とみなしています。\n\nこれは友好値({1})が{2}を超えれば発生します。もし友好値が{3}を下回れば、{0}は再び敵対します。もし友好値が{4}を上回れば、彼らはあなたと同盟を組み、あなたの為に戦うでしょう。</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました.いまや彼らは,あなたを同盟ではなく中立とみなしています.\n\nあなたと円満な関係を続けますが,彼らは,貴方が脅威に晒されても援軍を送ってくることはありません.\n\nこれは友好値({1})が{2}を下回れば起きます.もし{3}を下回ると,{0}は敵対するでしょう.もし{4}を上回れば,彼らは再び,あなたと同盟を組むでしょう.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました。いまや彼らは、あなたを同盟ではなく中立とみなしています。\n\nあなたと円満な関係を続けますが、彼らは、貴方が脅威に晒されても援軍を送ってくることはありません。\n\nこれは友好値({1})が{2}を下回れば起きます。もし{3}を下回ると、{0}は敵対するでしょう。もし{4}を上回れば、彼らは再び、あなたと同盟を組むでしょう。</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました.彼らは,あなたと同盟とみなしています.\n\n同盟を結ぶと,あなたが戦時下にあると,あなたの敵と戦う援軍が到着することがあります.あなたは,対価として友好値を費やすことで,いつでも彼らを呼び出すこともできます.\n\n友好値({1})が{2}を超えれば同盟となります.もし{3}を下回ると,関係は中立へと戻ります.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました。彼らは、あなたと同盟とみなしています。\n\n同盟を結ぶと、あなたが戦時下にあると、あなたの敵と戦う援軍が到着することがあります。あなたは、対価として友好値を費やすことで、いつでも彼らを呼び出すこともできます。\n\n友好値({1})が{2}を超えれば同盟となります。もし{3}を下回ると、関係は中立へと戻ります。</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
   <goodwill>友好</goodwill>
@@ -59,16 +59,16 @@
   <!-- EN: Birthday -->
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>今日は,{0}の誕生日です!,生物学的には {1}は {3}才になります.\n\n暦上では,{1}は,{2}になりました.\n\nノート:冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
+  <BirthdayChronological>今日は{0}の誕生日です！\n\n{1}の生物学的な年齢は{3}才です。\n\n暦の上では、{1}は{2}になりました。\n\n注意:&#xA0;冬眠カプセルで眠っている間は老化しないため、暦の上での年齢は生物学的な年齢と乖離します。</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
   <BirthdayBiologicalAgeInjuries>今日は,{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました.</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN}は{1}の病に倒れました。\n\n医療用ベッドと医師を確保してください。{PAWN_definite}が適切な治療を受けられるよう体制を整え、なるべくベッドで過ごすようにしてください。</NewDisease>
+  <NewDisease>{PAWN}は{1}を患いました。\n\n医療用ベッドと医師を確保してください。{PAWN_definite}が適切な治療を受けられるよう体制を整え、なるべくベッドで過ごすようにしてください。</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN}は{3}の病に倒れました。感染源は{PAWN_possessive}{1}です。\n\n医療用ベッドと医師を確保してください。{PAWN_definite}が適切な治療を受けられるよう体制を整え、なるべくベッドで過ごすようにしてください。</NewPartDisease>
+  <NewPartDisease>{PAWN}は{3}を患いました。感染源は{PAWN_possessive}{1}です。\n\n医療用ベッドと医師を確保してください。{PAWN_definite}が適切な治療を受けられるよう体制を整え、なるべくベッドで過ごすようにしてください。</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -84,17 +84,17 @@
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
   <!-- EN: As {0} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>予感が,近くにある古代建造物に {0}を 引き寄せました.なぜだか解りませんが,この塵と埃にまみれた廃墟は,大きな危険をはらんでいると {PAWN_pronoun} は感じています.</AncientShrineWarning>
+  <AncientShrineWarning>{0}が古代の壁に近づくと、不思議な予感が襲ってきました。\n\n確信はありませんが、この埃だらけの建造物には大いなる危険が潜んでいる感じがします。</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
   <StruckMineable>{0}の鉱脈に突き当たりました！</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>{0}の逆襲</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinite}は手負いになって襲いかかってきました！\n\n手負いの獣は目に付く人間を見境なく襲おうとします。眠りにつくと落ち着きを取り戻すでしょう。</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite}が手負いになって襲いかかってきました！\n\n手負いの獣は、目に付く人間を見境なく襲います。眠りに就けば落ち着きを取り戻すでしょう。</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>手懐けに失敗したせいで、{1_indefinite}は襲いかかってきました！</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>手懐けに失敗したせいで、{1_indefinite}が襲いかかってきました！</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
   <AnimalManhunterOthers>そばにいた他の{1_kindBasePlural}も一斉に怒り狂いました！</AnimalManhunterOthers>
 
@@ -126,13 +126,13 @@
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>最後に引き金を引いた出来事: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>心情の低下によって発生しました。</MentalStateReason_Mood>
+  <MentalStateReason_Mood>これは心情の低下が原因です。</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>個性によって発生しました: {0}。</MentalStateReason_Trait>
+  <MentalStateReason_Trait>これは次の個性が原因です: {0}</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
-  <MentalStateReason_Hediff>{0}によって発生しました。</MentalStateReason_Hediff>
+  <MentalStateReason_Hediff>これは次の理由が原因です: {0}</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>{0_definite}の死が引き金になり発生しました。</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>これは{0_definite}の死が原因です。</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>引き金となった出来事</LastFactionRelationsEvent>
 
@@ -204,7 +204,7 @@
   <!-- EN: Ally now neutral: {0} -->
   <LetterLabelRelationsChange_NeutralFromAlly>同盟から中立へ: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
-  <LetterLabelShortCircuit>バチバチ...</LetterLabelShortCircuit>
+  <LetterLabelShortCircuit>バチバチ…</LetterLabelShortCircuit>
   <!-- EN: Mental break -->
   <LetterLabelMentalBreakdown>精神崩壊</LetterLabelMentalBreakdown>
   
@@ -218,15 +218,15 @@
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>脱獄</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>囚人たちが脱走しました!.どうやったかは知らないが,彼らは,ドアのロックを壊して逃げ出しました.彼らは武器を探し,戦ってでも逃げようとします.\n\n指名手配：\n\n{0}\n\n囚人たちを,多数ひとまとめにして,不満を放っておいたり,不健康のままにしておくと,より脱走を試みるようになります.</LetterPrisonBreak>
+  <LetterPrisonBreak>囚人たちが脱獄しました！\n\n脱獄囚たちは、どういうわけか扉の鍵を破り、逃げ道を作り出しました。彼らは武器を探し、戦ってでも逃げようとします。\n\n指名手配:\n\n{0}\n\n囚人たちは、人数が多く健康な場合に脱獄を試みやすくなります。</LetterPrisonBreak>
   
   <!-- Party -->
   <!-- EN: Party -->
   <LetterLabelNewParty>パーティ</LetterLabelNewParty>
   <!-- EN: {1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <LetterNewParty>{1_labelShort}はパーティを催しています！みんな会話や娯楽を楽しむでしょう。これは"心情"を高める効果が長く続きます。</LetterNewParty>
+  <LetterNewParty>{1_labelShort}がパーティーを開催しています！\n\n参加すれば誰もが娯楽や交流を通じて活力を得るでしょう。心情を高める効果が長く続きます。</LetterNewParty>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
@@ -236,21 +236,21 @@
   
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>{0}に耽溺</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>{0}の濫用</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{2_label}は {1}に耽溺しています。</LetterDrugBinge>
+  <LetterDrugBinge>{2_label}は {1}を 濫用する 状態に 陥りました。</LetterDrugBinge>
   
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>キャラバン隊壊滅</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>{0}の全員が死亡しました.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>{0}の全員が死亡しました。</LetterAllCaravanColonistsDied>
   
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
   <LetterLabelCaravanEnteredMap>{0_label}に到着</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>{0}は,{1_definite}に到着しました.</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0}は{1_definite}に到着しました。</LetterCaravanEnteredMap>
   
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
@@ -372,7 +372,7 @@
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>要救助者の参加</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>{PAWN_nameDef}を救出したことで、{PAWN_pronoun}はあなたの一行に加わりました。\n\n世界地図からこの場所を選び"キャラバン隊の再編成"を行うことで、{PAWN_objective}連れて行くことができます。</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>{PAWN_nameDef}を救出すると、我々の仲間に加わってくれました。\n\n世界地図からこの場所を選び"キャラバン隊の再編成"を行うことで、{PAWN_objective}連れて行くことができます。</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->

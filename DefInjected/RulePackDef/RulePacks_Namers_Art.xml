@@ -64,10 +64,9 @@
     <li>r_art_name->[ConceptAny] No. [art_name_numeric]</li>
     <li>r_art_name->[ANYPAWN_nameIndef][Trans][art_name_numeric]</li>
     <!-- Person. High probability; if we can use these we want to -->
-    <li>r_art_name(p=6)->[ANYPAWN_nameIndef]作 「[Artwork]」</li>
+    <li>r_art_name(p=6)->[ANYPAWN_nameIndef]の[Artwork]</li>
     <li>r_art_name(p=3)->[maybe_a][ANYPAWN_nameIndef][Trans][Color]</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[PersonalCharacteristic]」</li>
-    <li>r_art_name(p=3)->「[PersonalCharacteristic]」[ANYPAWN_nameIndef]製</li>
+    <li>r_art_name(p=5)->[ANYPAWN_nameIndef]の[PersonalCharacteristic]</li>
     <li>r_art_name(p=3)->[ANYPAWN_nameIndef][Trans][ConceptAny]</li>
     <li>r_art_name(p=3)->[maybe_a][ANYPAWN_nameIndef][Trans][Artwork]</li>
     <li>art_name_numeric->[maybe_letter][Digit][maybe_letter]</li>
@@ -111,12 +110,12 @@
     <li>r_art_name->[ColorBadass]の[AnimalBadass]</li>
     <li>r_art_name->[ColorBadass]の[ConceptBadass]</li>
     <!-- Person. High probability; if we can use these we want to -->
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[ConceptBadass]」</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[AnimalBadass]」</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[PersonBadass]」</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[PersonAlly]」</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[PersonFamily]」</li>
-    <li>r_art_name(p=3)->「[ConceptBadass]」[ANYPAWN_nameIndef]製</li>
+    <li>r_art_name(p=2)->[ANYPAWN_nameIndef]の[ConceptBadass]</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]の[AnimalBadass]</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]の[PersonBadass]</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]の[PersonAlly]</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]の[PersonFamily]</li>
+    <li>r_art_name(p=1)->[ANYPAWN_nameIndef]の[ConceptBadass]</li>
     <li>r_art_name(p=3)->[ColorBadass][ANYPAWN_nameIndef]</li>
   </NamerArtWeapon.rulePack.rulesStrings>
   

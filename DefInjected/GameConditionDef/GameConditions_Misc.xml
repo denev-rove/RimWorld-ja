@@ -28,11 +28,11 @@
   <Eclipse.endMessage>日食は終わりました。</Eclipse.endMessage>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+  <Flashstorm.label>ゲリラ落雷</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>局所的な異常な嵐が狭い範囲に吹き荒れ、落雷が繰り返し発生します。</Flashstorm.description>
+  <Flashstorm.description>とんでもなく激しい嵐が狭い範囲に吹き荒れ、落雷が繰り返し発生します。</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>ゲリラ雷雨は過ぎ去りました。</Flashstorm.endMessage>
+  <Flashstorm.endMessage>ゲリラ落雷は過ぎ去りました。</Flashstorm.endMessage>
   
   <!-- EN: heat wave -->
   <HeatWave.label>熱波</HeatWave.label>
@@ -47,18 +47,18 @@
   <Planetkiller.description>恒星間戦争で使用する惑星破壊兵器が、この惑星に向けて接近しています。それはこの星を粉々にするでしょう。まるでライフル弾で卵を打ち抜くように。生物は全滅します。</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>精神干渉波</PsychicDrone.label>
+  <PsychicDrone.label>思念干渉波</PsychicDrone.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
-  <PsychicDrone.description>遠方に存在する強力なAIが、人々を狂気へ駆り立てようと精神波を照射しています。</PsychicDrone.description>
+  <PsychicDrone.description>遠方に存在する強力なAIが、人々を狂気へ駆り立てる思念波を照射しています。</PsychicDrone.description>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>精神干渉波は終わりました。</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>思念干渉波は終わりました。</PsychicDrone.endMessage>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>精神安定波</PsychicSoothe.label>
+  <PsychicSoothe.label>思念安静波</PsychicSoothe.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>遠方に存在する強力なAIが、人々の心を穏やかにさせようと精神波を照射しています。</PsychicSoothe.description>
+  <PsychicSoothe.description>遠方に存在する強力なAIが、人々の心を穏やかにさせる思念波を照射しています。</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>精神安定波は終わりました。</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>思念安静波は終わりました。</PsychicSoothe.endMessage>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>太陽フレア</SolarFlare.label>

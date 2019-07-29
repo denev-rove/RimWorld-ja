@@ -11,7 +11,7 @@
   <!-- EN: lancer -->
   <Mech_Lancer.label>ランサー</Mech_Lancer.label>
   <!-- EN: A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
-  <Mech_Lancer.description>人間サイズの戦闘用メカノイドです。遠距離から武器で狙いを定めるため、顔部分に巨大な光学センサーを備えています。離れた相手には強力ですが、白兵戦は得意ではありません。メカノイドとの戦闘に慣れた歴戦の兵士なら、多くの場合ランサーに対抗する最も安全な策は突撃戦術であることを知っています。</Mech_Lancer.description>
+  <Mech_Lancer.description>人間と同程度の大きさの戦闘用メカノイドです。遠距離から武器で狙いを定めるため、顔部分に巨大な光学センサーを備えています。離れた相手には強力ですが、白兵戦は得意ではありません。メカノイドとの戦闘に慣れた歴戦の兵士なら、多くの場合ランサーに対抗する最も安全な策は突撃戦術であることを知っています。</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>左拳</Mech_Lancer.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -22,7 +22,7 @@
   <!-- EN: scyther -->
   <Mech_Scyther.label>サイザー</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>細身で軽快な動きをする人間サイズの戦闘用メカノイドです。素早く接近して白兵戦を展開することに特化しています。その身は鋭い突起と刃に覆われていますが、彼らは主に両腕の刃を振るい、生きたまま犠牲者の四肢を切り落としたり、はらわたを切り裂いたりします。</Mech_Scyther.description>
+  <Mech_Scyther.description>細身で軽快な動きをする、人間と変わらない大きさの戦闘用メカノイドです。素早く接近して白兵戦を展開することに特化しています。その身は鋭い突起と刃に覆われていますが、彼らは主に両腕の刃を振るい、生きたまま犠牲者の四肢を切り落としたり、はらわたを切り裂いたりします。</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>左刃</Mech_Scyther.tools.left_blade.label>
   <!-- EN: right blade -->

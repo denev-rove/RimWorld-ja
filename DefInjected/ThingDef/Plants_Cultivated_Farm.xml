@@ -47,9 +47,9 @@
   <Plant_Rice.description>背丈が低く、成長の早い作物です。小さな食用の実が収穫できます。とても栄養豊富で栽培が容易なため、多くの偉大な文明で経済の中心的な役割を果たしました。成長が早い一方、肥沃度に過敏で痩せた土地ではよく育ちません。</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
-  <Plant_Smokeleaf.label>スモークリーフの木</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.label>ケムリクサの木</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>葉の生い茂る作物で、葉の中に含まれる化学物質の心理的効果を目的として栽培されています。スモークリーフの葉は簡易作業場でジョイントに加工することができます。スモークリーフは使用者の気持ちを落ち着かせますが、やる気を削ぎ、依存症を引き起こすこともあります。</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>葉の生い茂る作物で、葉の中に含まれる化学物質の心理的効果を目的として栽培されています。ケムリクサの葉は簡易作業場でジョイントに加工することができます。ケムリクサは使用者の気持ちを落ち着かせますが、やる気を削ぎ、依存症を引き起こすこともあります。</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>苺</Plant_Strawberry.label>

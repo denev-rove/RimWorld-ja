@@ -57,9 +57,9 @@
   <Dresser.description>衣服を収納する家具です。 ベッドのそばに置くことで、僅かに快適性が向上します。一つのベッドに複数の箪笥を置いても効果はありません。</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>エンド テーブル</EndTable.label>
+  <EndTable.label>ベッド用 脇机</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>小型のベッドサイドテーブルです。ベッドの頭部分に隣接して置くことで僅かに快適性が向上します。同じベッドに複数のエンドテーブルを置いても効果はありません。</EndTable.description>
+  <EndTable.description>ベッドに備え付けて、少しだけ快適性を向上させる小型の補助机です。ベッドの頭部分に直に接するよう設置しなければなりません。同じベッドに複数の脇机を置いても効果はありません。</EndTable.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>病院用ベッド</HospitalBed.label>

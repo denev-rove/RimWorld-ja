@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: advanced helmet -->
-  <Apparel_AdvancedHelmet.label>次世代型ヘルメット</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.label>新型ヘルメット</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
   <Apparel_AdvancedHelmet.description>複雑な設計を施し、プラスチールで補強した軽量の戦闘用ヘルメットです。打撲系の攻撃には効果がありません。</Apparel_AdvancedHelmet.description>
   
@@ -22,9 +22,9 @@
   <Apparel_PowerArmorHelmet.description>マリーンアーマー用のヘルメットです。プラスチール繊維を何層にも織り込んだ装甲に、状態管理を行うコンピューターを内蔵しています。\n\nこのような装備は、大帝国の精鋭兵士や、強襲作戦を行う宇宙海兵隊がよく使います。</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
-  <Apparel_PsychicFoilHelmet.label>精神波遮断ヘルメット</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.label>思念波遮断ヘルメット</Apparel_PsychicFoilHelmet.label>
   <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
-  <Apparel_PsychicFoilHelmet.description>金属箔に包まれた薄手のヘルメットです。金属箔は精神波を効率的に吸収するよう調整してあります。精神干渉波による心情への悪影響を軽減するほか、アーティファクトによる精神攻撃も防ぎます。</Apparel_PsychicFoilHelmet.description>
+  <Apparel_PsychicFoilHelmet.description>金属箔に包まれた薄手のヘルメットです。金属箔は思念波を効率的に吸収するよう調整してあります。思念干渉波による心情への悪影響を軽減するほか、アーティファクトによる思念攻撃も防ぎます。</Apparel_PsychicFoilHelmet.description>
   
   <!-- EN: simple helmet -->
   <Apparel_SimpleHelmet.label>ヘルメット</Apparel_SimpleHelmet.label>

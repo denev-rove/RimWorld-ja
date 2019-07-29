@@ -81,29 +81,29 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[nuzzleadverb][nuzzled]</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameDef]の[rubbedpart]に[nuzzleadverb]擦りつけた</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]へ[nuzzleadverb][nuzzled]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameDef]の[rubbedpart]に[nuzzleadverb]擦り付けた。</li>
     <li>nuzzled(p=2)->擦り寄ってきた</li>
     <li>nuzzled->寄り添ってきた</li>
     <li>nuzzleadverb(p=4)-></li>
     <li>nuzzleadverb->優しく</li>
-    <li>nuzzleadverb->励まそうとして</li>
-    <li>nuzzleadverb->喜んで</li>
-    <li>nuzzleadverb->ソフトに</li>
-    <li>nuzzleadverb->支えようと</li>
-    <li>nuzzleadverb->陽気に</li>
-    <li>nuzzleadverb->心から</li>
+    <li>nuzzleadverb->励ますように</li>
+    <li>nuzzleadverb->嬉しそうに</li>
+    <li>nuzzleadverb->柔らかく</li>
+    <li>nuzzleadverb->支えるように</li>
+    <li>nuzzleadverb->軽快に</li>
+    <li>nuzzleadverb->熱烈に</li>
     <li>nuzzleadverb->悲しげに</li>
-    <li>nuzzleadverb->愛をこめて</li>
-    <li>nuzzleadverb->愛情込めて</li>
+    <li>nuzzleadverb->愛おしげに</li>
+    <li>nuzzleadverb->愛情を込めて</li>
     <li>rubbedpart->脚</li>
     <li>rubbedpart->膝</li>
     <li>rubbedpart->足</li>
     <li>rubbedpart->肘</li>
-    <li>rubbedpart->尻</li>
+    <li>rubbedpart->お尻</li>
     <li>rubbedpart->肩</li>
     <li>rubbedpart->手</li>
-    <li>rubbedpart->脇</li>
+    <li>rubbedpart->脇腹</li>
     <li>rubbedpart->腕</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
   
@@ -159,16 +159,16 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [trained] .</li>
-    <li>trained(p=2)->は[RECIPIENT_nameDef]を訓練しようと[tried]</li>
-    <li>trained->は[RECIPIENT_nameDef]に新しい芸を示そうと[tried]</li>
-    <li>trained->は[RECIPIENT_nameDef]をしつけようと[tried]</li>
-    <li>trained->は[RECIPIENT_nameDef]に教えようと[tried]</li>
-    <li>trained->は[RECIPIENT_nameDef]に新しい芸を促そうと[tried]</li>
-    <li>trained->は[RECIPIENT_nameDef]に芸をやってみせた</li>
-    <li>trained->は新しく教えた芸の[RECIPIENT_nameDef]の反応をみて励ました</li>
-    <li>tried->努力した</li>
-    <li>tried->試みた</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef][trained]。</li>
+    <li>trained(p=2)->を調教しよ[tried]</li>
+    <li>trained->に新たな芸を示そ[tried]</li>
+    <li>trained->を躾よ[tried]</li>
+    <li>trained->を指導しよ[tried]</li>
+    <li>trained->に新たな芸をさせよ[tried]</li>
+    <li>trained->に対して実際に芸をやってみせた</li>
+    <li>trained->から新たな反応を引き出そ[tried]</li>
+    <li>tried->うと努めた</li>
+    <li>tried->うと試みた</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

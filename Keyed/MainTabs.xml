@@ -13,7 +13,7 @@
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
-  <CannotDoThisWork>{1_labelShort} は この作業が できません</CannotDoThisWork>
+  <CannotDoThisWork>{1_labelShort}は、この作業ができません。</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>（なし）</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
@@ -33,7 +33,7 @@
   <!-- EN: Forced apparel -->
   <ForcedApparel>強制されている服装</ForcedApparel>
   <!-- EN: Edit... -->
-  <AssignTabEdit>編集...</AssignTabEdit>
+  <AssignTabEdit>編集…</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>ドラッグ処方箋の管理</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
@@ -129,23 +129,23 @@
   <!-- EN: Storyteller -->
   <Storyteller>AI脚本家</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>コロニーの資産価値 (このマップ)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>コロニーの資産価値 (物資) (このマップ)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>コロニーの資産価値 (建物) (このマップ)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>コロニーの資産価値 (住民と家畜) (このマップ)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>大きな脅威</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>総ダメージ量 (このマップ)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
-  <ColonistsKilled>殺された 入植者数</ColonistsKilled>
+  <ColonistsKilled>殺された入植者数</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
-  <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
+  <ColonistsLaunched>宇宙へ旅立った入植者数</ColonistsLaunched>
 
   <!-- Research tab -->
   <!-- EN: project tech level -->

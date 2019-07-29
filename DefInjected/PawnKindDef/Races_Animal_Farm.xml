@@ -7,9 +7,9 @@
   <!-- EN: chicken -->
   <Chicken.label>鶏</Chicken.label>
   <!-- EN: hen -->
-  <Chicken.labelFemale>雌鳥</Chicken.labelFemale>
+  <Chicken.labelFemale>めんどり</Chicken.labelFemale>
   <!-- EN: rooster -->
-  <Chicken.labelMale>雄鶏</Chicken.labelMale>
+  <Chicken.labelMale>おんどり</Chicken.labelMale>
   <!-- EN: chick -->
   <Chicken.lifeStages.chick.label>ひよこ</Chicken.lifeStages.chick.label>
   <!-- EN: cockerel -->

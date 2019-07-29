@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: carrying capacity -->
-  <CarryingCapacity.label>輸送能力</CarryingCapacity.label>
+  <CarryingCapacity.label>運搬能力</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>この生物が手や口などの器官で拾い上げて運搬できる物資の量です。これは世界地図を移動するときの積載量とは別です。</CarryingCapacity.description>
   
@@ -74,9 +74,9 @@
   <PainShockThreshold.description>痛みのあまり動けなくなる閾値です。</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
-  <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
+  <PsychicSensitivity.label>思念波への感受性</PsychicSensitivity.label>
   <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
-  <PsychicSensitivity.description>精神的な現象から受ける影響度への倍率です。敏感なほどマイナスの影響に多く苦しみ、プラスの影響に多くの幸せを感じます。</PsychicSensitivity.description>
+  <PsychicSensitivity.description>思念波による現象から受ける効果に乗算する倍率です。敏感な者はマイナスの効果に多く苦しむ代わり、プラスの効果には多くの幸せを感じます。</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>睡眠を得る速度</RestRateMultiplier.label>

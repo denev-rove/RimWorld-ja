@@ -81,7 +81,7 @@
   <!-- EN: Gets food -->
   <GetsFood>食べ物を 与えます</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>医者に 診せます</DoctorsCare>
+  <DoctorsCare>医師に 診せます</DoctorsCare>
   <!-- EN: Gets medicine -->
   <GetsMedicine>薬を 与えます</GetsMedicine>
   <!-- EN: Try to recruit -->
@@ -226,7 +226,7 @@
   <!-- EN: Overall armor -->
   <OverallArmor>総防御率</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>積載重量: {0} / {1} kg</MassCarried>
+  <MassCarried>携帯重量: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
   <!-- EN: Blunt -->

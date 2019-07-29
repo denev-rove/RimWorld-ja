@@ -5,11 +5,11 @@
   <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>精神変調の懸念</BreakRiskMinor>
+  <BreakRiskMinor>軽度の精神変調の懸念</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>精神衰弱の懸念</BreakRiskMajor>
+  <BreakRiskMajor>重度の精神衰弱の懸念</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>精神崩壊の懸念</BreakRiskExtreme>
+  <BreakRiskExtreme>極度の精神崩壊の懸念</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>次の入植者の"心情"が低下しているため、軽度の精神変調を起こす懸念があります:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
@@ -39,7 +39,7 @@
   <!-- EN: Need miner -->
   <NeedMiner>坑夫が必要</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>あなたは岩盤の掘削を指示していますが、"掘削"の作業を任された入植者が一人もいません。\n\n入植者に"掘削"の作業を割り当てましょう。</NeedMinerDesc>
+  <NeedMinerDesc>あなたは岩壁の採掘を指示していますが、"採掘"の作業を任された入植者が一人もいません。\n\n入植者に"採掘"の作業を割り当てましょう。</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>囚人に看守を</NeedWarden>
@@ -54,9 +54,9 @@
   <!-- EN: Low medicine -->
   <LowMedicine>薬品が少ない</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>備蓄した薬品が {0}単位しかありません。\n\nもっと多くの薬品をトレーダーから手に入れましょう。</LowMedicineDesc>
+  <LowMedicineDesc>備蓄した薬品が {0}単位しかありません。\n\nもっと多くの薬品を商人から購入しましょう。</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>備蓄した薬品が底を突きました。\n\nすぐにでもトレーダーから購入しましょう。</NoMedicineDesc>
+  <NoMedicineDesc>備蓄した薬品が底を突きました。\n\nすぐにでも商人から購入しましょう。</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
@@ -71,12 +71,12 @@
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>次の入植者は、擦り切れた衣服を着ているために悲しんでいます:\n\n{0}\nそれほど酷く傷んでいない衣服を確保しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は、擦り切れた衣服を着ているために悲しんでいます:\n\n{0}\nそれほど酷く傷んでいない衣服を確保しましょう。\n\n衣服は仕立て台で縫製するか、商人から購入することができます。</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>次の入植者は、裸を晒していることに不満を抱いています:\n\n{0}\n何か着るものを用意しましょう。\n\n衣服は仕立て台で縫製するか、トレーダーから購入することができます。</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>次の入植者は、裸を晒していることに不満を抱いています:\n\n{0}\n何か着るものを用意しましょう。\n\n衣服は仕立て台で縫製するか、商人から購入することができます。</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>飢えている</Starvation>
@@ -96,7 +96,7 @@
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>食材ホッパーが取り付けられていない自動給食機があります。\n\n自動給食機が機能するには、生の食材で満たされた食材ホッパーと隣接していなければなりません。\n\n自動給食機の隣に食材ホッパーを設置しましょう。</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>食材ホッパーが取り付けられていない自動給食機があります。\n\n自動給食機が機能するには生の食材で満たされた食材ホッパーと隣接していなければなりません。\n\n自動給食機の隣に食材ホッパーを置きましょう。</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>調理場が必要</NeedMealSource>
@@ -190,7 +190,7 @@
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1All>寒い時期は入植者全員分の防寒着が不足します。</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>外気温は {0}になる見込みです。\n\n防寒着は仕立て台で縫製するか、トレーダーから購入することができます。</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>外気温は {0}になる見込みです。\n\n防寒着は仕立て台で縫製するか、商人から購入することができます。</NeedWarmClothesDesc2>
   
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>キャラバン隊 立ち往生</ImmobileCaravan>

@@ -9,13 +9,13 @@
   <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>畜産 収率</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>乳絞りや毛刈りなど、生きた家畜から得られる畜産物の量に対する倍率です。数値が低すぎると、うっかり丸ごと資源を無駄にする可能性があります。</AnimalGatherYield.description>
+  <AnimalGatherYield.description>乳絞りや毛刈りなど、生きた家畜から得られる畜産物の量に乗算する倍率です。数値が低すぎると、うっかり丸ごと資源を無駄にする可能性があります。</AnimalGatherYield.description>
 
   
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>建設 作業速度</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>新たな構造物を建設したり、損傷した構造物を修復する速度です.</ConstructionSpeed.description>
+  <ConstructionSpeed.description>新たな構造物を建設したり、損傷した構造物を修復する速度です。</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>建設 成功率</ConstructSuccessChance.label>
@@ -40,12 +40,12 @@
   <!-- EN: mining yield -->
   <MiningYield.label>採掘 収率</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
-  <MiningYield.description>採掘で得られる資源の量に対する倍率です。岩壁の採掘と、ドリルによる採掘の両方に影響します。石材の切り出しには影響しません。</MiningYield.description>
+  <MiningYield.description>採掘で得られる資源の量に乗算する倍率です。岩壁の採掘と、ドリルによる採掘の両方に影響します。石材の切り出しには影響しません。</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>収穫 収率</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>植物の収穫で得られる資源の量に対する倍率です。数値が低すぎると、うっかり丸ごと資源を無駄にする可能性があります。</PlantHarvestYield.description>
+  <PlantHarvestYield.description>植物を収穫して得られる資源の量に乗算する倍率です。数値が低すぎると、うっかり丸ごと資源を無駄にする可能性があります。</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
   <PlantWorkSpeed.label>収穫 作業速度</PlantWorkSpeed.label>
@@ -55,7 +55,7 @@
   <!-- EN: research speed -->
   <ResearchSpeed.label>研究 作業速度</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>研究プロジェクトをどれだけ速く進められるかです。また、スキャナー施設による探査で目的のものをどれだけ速く発見できるかです。</ResearchSpeed.description>
+  <ResearchSpeed.description>研究プロジェクトをどれだけ速く進められるかです。またスキャナー設備を使用した探査で目的のものをどれだけ速く発見できるかです。</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
   <SmoothingSpeed.label>研磨 作業速度</SmoothingSpeed.label>

@@ -37,9 +37,9 @@
   <MegascreenTelevision.description>超大型の高性能テレビです。巨大で活気に満ちた映像は、ほとんど画面から飛び出るほどです。とても楽しませてくれます。古代の通信衛星やユビキタスデータカードからの映像信号を拾います。</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>ポーカー テーブル</PokerTable.label>
+  <PokerTable.label>ポーカー台</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
-  <PokerTable.description>ポーカーなど、賭け事に使うカードゲームを楽しむために誂えた机です。 戦略眼と、ちょっとした運を試すには良い方法です。</PokerTable.description>
+  <PokerTable.description>ポーカーなど、賭け事に使うカードゲームを楽しむために誂えた台です。 戦略眼と、ちょっとした運を試すには良い方法です。</PokerTable.description>
   
   <!-- EN: telescope -->
   <Telescope.label>望遠鏡</Telescope.label>

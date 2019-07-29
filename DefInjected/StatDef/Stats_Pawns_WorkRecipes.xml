@@ -4,17 +4,17 @@
   <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>解体(動物) 収率</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>動物を解体して得られる資源の量に対する倍率です。実際の収量は、解体する動物の体格も影響します。</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>動物を解体して得られる資源の量に乗算する倍率です。実際の収量は解体する動物の体格も影響します。</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>解体(動物) 作業速度</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>動物を解体する速度です.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>動物を解体する速度です。</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid disassembly efficiency -->
   <ButcheryMechanoidEfficiency.label>解体(ﾒｶﾉｲﾄﾞ) 収率</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>メカノイドを分解して得られる資源の量に対する倍率です。実際の収量は、分解するメカノイドの体格も影響します。</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>メカノイドを分解して得られる資源の量に乗算する倍率です。実際の収量は、分解するメカノイドの体格も影響します。</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid disassembly speed -->
   <ButcheryMechanoidSpeed.label>解体(ﾒｶﾉｲﾄﾞ) 作業速度</ButcheryMechanoidSpeed.label>
@@ -29,7 +29,7 @@
   <!-- EN: drug cooking speed -->
   <DrugCookingSpeed.label>ドラッグ調理 作業速度</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>ビールの醸造やサイカイトティーの煮出し、あるいはジョイントのような単純なドラッグを作製する速度です。</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>ビールの醸造やサイカイト茶の煮出し、あるいはジョイントのような単純なドラッグを作製する速度です。</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
   <DrugSynthesisSpeed.label>ドラッグ合成 作業速度</DrugSynthesisSpeed.label>
@@ -39,7 +39,7 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>食中毒 発生率</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
-  <FoodPoisonChance.description>調理の際に、うっかり食事を汚染してしまう確率です。食中毒は中った人を一時的に衰弱させます。</FoodPoisonChance.description>
+  <FoodPoisonChance.description>調理の際に、うっかり食事を汚染してしまう確率です。食中毒になると一時的に衰弱します。</FoodPoisonChance.description>
   
   <!-- EN: sculpting speed -->
   <SculptingSpeed.label>彫刻 作業速度</SculptingSpeed.label>

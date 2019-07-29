@@ -12,9 +12,9 @@
   <Cleanliness.description>配置された部屋の清潔度に寄与する値です。</Cleanliness.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>快適さ</Comfort.label>
+  <Comfort.label>快適性</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>座ったり横たわったときの快適さです。快適な家具は、使用者の快適さへの欲求を満たします。</Comfort.description>
+  <Comfort.description>ここに座ったり寝そべったときの快適さです。快適性の高い家具は、使用者の快適性への欲求を満たします。</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>劣化速度</DeteriorationRate.label>

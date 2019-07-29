@@ -39,11 +39,11 @@
   <!-- EN: settlement -->
   <Settlement.label>入植地</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>ある派閥の本拠地です.</Settlement.description>
+  <Settlement.description>ある派閥の本拠地です。</Settlement.description>
   
   <!-- EN: transport pods -->
   <TravelingTransportPods.label>輸送ポッド</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>飛翔中の輸送ポッドです.</TravelingTransportPods.description>
+  <TravelingTransportPods.description>飛翔中の輸送ポッドです。</TravelingTransportPods.description>
   
 </LanguageData>

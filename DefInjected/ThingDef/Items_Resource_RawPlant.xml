@@ -12,9 +12,9 @@
   <PsychoidLeaves.description>サイコイドの木の生の切り葉です。様々な形のサイカイト系覚醒剤に精製できます。</PsychoidLeaves.description>
   
   <!-- EN: agave fruit -->
-  <RawAgave.label>竜舌蘭の果実</RawAgave.label>
+  <RawAgave.label>竜舌蘭の果肉</RawAgave.label>
   <!-- EN: Raw agave fruit. -->
-  <RawAgave.description>竜舌蘭の果実です。</RawAgave.description>
+  <RawAgave.description>竜舌蘭の果肉です。</RawAgave.description>
   
   <!-- EN: berries -->
   <RawBerries.label>野苺</RawBerries.label>
@@ -47,8 +47,8 @@
   <RawRice.description>生の米です。</RawRice.description>
   
   <!-- EN: smokeleaf leaves -->
-  <SmokeleafLeaves.label>スモークリーフの葉</SmokeleafLeaves.label>
+  <SmokeleafLeaves.label>ケムリクサの葉</SmokeleafLeaves.label>
   <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
-  <SmokeleafLeaves.description>スモークリーフの木の生の切り葉です。簡易作業場で巻きタバコのジョイントに加工できます。</SmokeleafLeaves.description>
+  <SmokeleafLeaves.description>ケムリクサの木の生の切り葉です。簡易作業場で巻きタバコのジョイントに加工できます。</SmokeleafLeaves.description>
   
 </LanguageData>

@@ -14,7 +14,7 @@
   <!-- EN: ship cryptosleep casket -->
   <Ship_CryptosleepCasket.label>耐圧冬眠 カプセル</Ship_CryptosleepCasket.label>
   <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
-  <Ship_CryptosleepCasket.description>宇宙空間の危険性に対抗して強化を施された冬眠カプセルです。何世紀にも渡って乗組員を保護し、大気圏への再突入も可能です。</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket.description>宇宙空間の危険性に備えて強化を施された冬眠カプセルです。何世紀にも渡って乗員の生命を維持し、大気圏への再突入にも耐えられます。</Ship_CryptosleepCasket.description>
   
   <!-- EN: ship engine -->
   <Ship_Engine.label>推進エンジン</Ship_Engine.label>

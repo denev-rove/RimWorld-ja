@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textEnemy>{1}から来た{0}が,どんぴしゃり,あなたの頭上に降下してきた!</CenterDrop.textEnemy>
+  <CenterDrop.textEnemy>{1}に所属する{0}の一団が、ちょうど我々の頭上に降下してきました！</CenterDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textFriendly>{1}から来た友好的な{0}が,どんぴしゃり,あなたの頭上に降下してきた!</CenterDrop.textFriendly>
+  <CenterDrop.textFriendly>{1}に所属する友好的な{0}の一団が、ちょうど我々の頭上に降下してきました！</CenterDrop.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>{1}から来た{0}が,すぐ近くに輸送ポッドで到着しました.</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>{1}に所属する{0}の一団が、すぐ近くに輸送ポッドで到着しました。</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>{1}から来た友好的な{0}が,すぐ近くに輸送ポッドで到着しました.</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>{1}に所属する友好的な{0}の一団が、すぐ近くに輸送ポッドで到着しました。</EdgeDrop.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textEnemy>{1}から来た{0}が,いくつもに分かれて,すぐ近くに輸送ポッドで到着しました.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textEnemy>{1}に所属する{0}が幾つかの集団に分かれて、すぐ近くに輸送ポッドで到着しました。</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>{1}から来た友好的な{0}が,いくつもに分かれて,すぐ近くに輸送ポッドで到着しました.</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>{1}に所属する友好的な{0}が幾つかの集団に分かれて、すぐ近くに輸送ポッドで到着しました。</EdgeDropGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textEnemy>{1}から来た{0}が,すぐ近くに到着しました.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textEnemy>{1}に所属する{0}の一団が、すぐ近くに到着しました。</EdgeWalkIn.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textFriendly>{1}から来た友好的な{0}が,すぐ近くに到着しました.</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textFriendly>{1}に所属する友好的な{0}の一団が、すぐ近くに到着しました。</EdgeWalkIn.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textEnemy>{1}から来た{0}が,いくつもに分かれて,すぐ近くに到着しました.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textEnemy>{1}に所属する{0}が幾つかの集団に分かれて、すぐ近くに到着しました。</EdgeWalkInGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textFriendly>{1}から来た友好的な{0}が,いくつもに分かれて,すぐ近くに到着しました.</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textFriendly>{1}に所属する友好的な{0}が幾つかの集団に分かれて、すぐ近くに到着しました。</EdgeWalkInGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>{1}から来た{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸している!</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>{1}に所属する{0}の一団が、輸送ポッドで到着しました。輸送ポッドの編成には規律がなく、このエリア一帯に散り散りになって着陸しています！</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>{1}からの友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラになって,このエリア一体に散在して着陸している!</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>{1}に所属する友好的な{0}の一団が、輸送ポッドで到着しました。輸送ポッドの編成には規律がなく、このエリア一帯に散り散りになって着陸しています！</RandomDrop.textFriendly>
   
 </LanguageData>

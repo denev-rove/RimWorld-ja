@@ -9,12 +9,12 @@
   <!-- EN: large sculpture -->
   <SculptureLarge.label>大ぶりの彫刻</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
-  <SculptureLarge.description>人間と同じくらいの大きさの素材に、芸術的な彫刻を施したものです。</SculptureLarge.description>
+  <SculptureLarge.description>人間と同程度の大きさの素材を、芸術的な形状に彫刻したものです。</SculptureLarge.description>
   
   <!-- EN: small sculpture -->
   <SculptureSmall.label>小ぶりの彫刻</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
-  <SculptureSmall.description>胴像と同じくらいの大きさの素材に、芸術的な彫刻を施したものです。</SculptureSmall.description>
+  <SculptureSmall.description>胴像と同程度の大きさの素材を、芸術的な形状に彫刻したものです。</SculptureSmall.description>
   
   <!-- EN: snowman -->
   <Snowman.label>雪ダルマ</Snowman.label>

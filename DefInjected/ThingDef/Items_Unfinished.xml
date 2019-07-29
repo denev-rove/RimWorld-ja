@@ -5,7 +5,7 @@
   <MinifiedThing.label>(梱包)</MinifiedThing.label>
   
   <!-- EN: unfinished apparel -->
-  <UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
+  <UnfinishedApparel.label>衣類(未完成)</UnfinishedApparel.label>
   
   <!-- EN: unfinished armor -->
   <UnfinishedArmor.label>防具(未完成)</UnfinishedArmor.label>
@@ -14,7 +14,7 @@
   <UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
   
   <!-- EN: unfinished component -->
-  <UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
+  <UnfinishedComponent.label>機械部品(未完成)</UnfinishedComponent.label>
   
   <!-- EN: unfinished gun -->
   <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>

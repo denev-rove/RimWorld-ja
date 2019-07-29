@@ -59,6 +59,10 @@
     <li>Character(p=4)->[Animal]</li>
     <li>Character(p=3)->[Enemy]</li>
     <li>Character->[Mechanoid]</li>
+    <li>Character_Plural(p=6)->[Quantity_Human]の[PersonJob]</li>
+    <li>Character_Plural(p=4)->[Quantity_Animal]の[Animal]</li>
+    <li>Character_Plural(p=3)->[Quantity_General]の[Enemy]</li>
+    <li>Character_Plural->[Quantity_General]の[Mechanoid]</li>
     <li>Quantity_adjphrase->二つ</li>
     <li>Quantity_adjphrase->三つ</li>
     <li>Quantity_adjphrase->四つ</li>
@@ -72,9 +76,9 @@
     <li>Quantity_adjphrase->複数</li>
     <li>Quantity_adjphrase->大多数</li>
     <li>Quantity_adjphrase->1ダース</li>
-    <li>Quantity_adjphrase->百の</li>
+    <li>Quantity_adjphrase->百</li>
     <li>Quantity_adjphrase->千</li>
-    <li>Quantity_adjphrase->千の</li>
+    <li>Quantity_adjphrase->たくさん</li>
     <li>Shape->三角形</li>
     <li>Shape->正方形</li>
     <li>Shape->長方形</li>
@@ -91,6 +95,29 @@
     <li>ConceptAny->[ConceptPositive]</li>
     <li>ConceptAny->[ConceptBadass]</li>
     <li>ConceptAny->[ConceptAngsty]</li>
+    <li>Quantity_NeedCounterWord->二</li>
+    <li>Quantity_NeedCounterWord->三</li>
+    <li>Quantity_NeedCounterWord->四</li>
+    <li>Quantity_NeedCounterWord->五</li>
+    <li>Quantity_NeedCounterWord->六</li>
+    <li>Quantity_NeedCounterWord->七</li>
+    <li>Quantity_NeedCounterWord->八</li>
+    <li>Quantity_NeedCounterWord->九</li>
+    <li>Quantity_NeedCounterWord->十</li>
+    <li>Quantity_NeedCounterWord->百</li>
+    <li>Quantity_NeedCounterWord->千</li>
+    <li>Quantity_NeedCounterWord->数</li>
+    <li>Quantity_NeedCounterWord->複数</li>
+    <li>Quantity_NoCounterWord->複数</li>
+    <li>Quantity_NoCounterWord->多数</li>
+    <li>Quantity_NoCounterWord->数多</li>
+    <li>Quantity_NoCounterWord->沢山</li>
+    <li>Quantity_Human->[Quantity_NeedCounterWord]人</li>
+    <li>Quantity_Human(p=0.2)->[Quantity_NoCounterWord]</li>
+    <li>Quantity_Animal->[Quantity_NeedCounterWord]匹</li>
+    <li>Quantity_Animal(p=0.2)->[Quantity_NoCounterWord]</li>
+    <li>Quantity_General->[Quantity_NeedCounterWord]体</li>
+    <li>Quantity_General(p=0.2)->[Quantity_NoCounterWord]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

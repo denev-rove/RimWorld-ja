@@ -8,7 +8,7 @@
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>入植者</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
-  <PlayerColony.pawnsPlural>入植者達</PlayerColony.pawnsPlural>
+  <PlayerColony.pawnsPlural>入植者たち</PlayerColony.pawnsPlural>
   
   <!-- EN: New Tribe -->
   <PlayerTribe.label>新たな部族</PlayerTribe.label>

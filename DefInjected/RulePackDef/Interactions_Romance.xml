@@ -5,21 +5,21 @@
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
   <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
-    <li>sent->[RECIPIENT_nameDef]はプロポーズを受け入れて二人は結ばれた.</li>
+    <li>sent->[RECIPIENT_nameDef]は結婚の申し込みを受け入れて二人は結ばれた.</li>
   </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
   <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
-    <li>sent->[RECIPIENT_nameDef]はプロポーズを断った.</li>
+    <li>sent->[RECIPIENT_nameDef]は結婚の申し込みを断った.</li>
   </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
   <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
-    <li>sent->二人の関係は,あまりにも長い間続いてきたが,いま二人に別れが訪れた.</li>
+    <li>sent->二人の関係は長いあいだ続いてきたが,いま二人に別れが訪れた.</li>
   </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:

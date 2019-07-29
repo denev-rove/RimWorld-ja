@@ -29,13 +29,13 @@
   <Elk.lifeStages.elk_calf.labelPlural>ヘラジカの仔</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: ibex -->
-  <Ibex.label>山羊</Ibex.label>
+  <Ibex.label>アイベックス</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>雌山羊</Ibex.labelFemale>
+  <Ibex.labelFemale>雌アイベックス</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>雄山羊</Ibex.labelMale>
+  <Ibex.labelMale>雄アイベックス</Ibex.labelMale>
   <!-- EN: ibex -->
-  <Ibex.labelPlural>山羊</Ibex.labelPlural>
+  <Ibex.labelPlural>アイベックス</Ibex.labelPlural>
   
   <!-- EN: tortoise -->
   <Tortoise.label>亀</Tortoise.label>

@@ -72,7 +72,7 @@
   <!-- Content generation-->
   
   <!-- EN: {0} meat -->
-  <MeatLabel>{0}の肉</MeatLabel>
+  <MeatLabel>{0}肉</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>解体処理された生肉です。食事として調理したり、あるいは生のまま食べることもできます。</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
@@ -101,12 +101,12 @@
   <SmoothStoneTerrainDesc>滑らかに磨かれた天然の{0}の床です。</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (設計図)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>&#xA0;(設計図)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (施工中)</FrameLabelExtra>
+  <FrameLabelExtra>&#xA0;(施工中)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>仲間では無い</FactionUnaffiliated>
+  <FactionUnaffiliated>無所属</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->

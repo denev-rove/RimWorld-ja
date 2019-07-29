@@ -83,9 +83,9 @@
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>MODを選択...</SelectMod>
+  <SelectMod>MODを選択…</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>設定可能なMODがロードされていません.</NoConfigurableMods>
+  <NoConfigurableMods>設定可能なMODが読み込まれていません。</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->

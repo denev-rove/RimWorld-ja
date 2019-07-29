@@ -4,7 +4,7 @@
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>入植者の遺体を許可</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>入植者の遺体を許可します.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>入植者の遺体を許可します。</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>来訪者の死体を許可</AllowCorpsesStranger.label>
@@ -19,7 +19,7 @@
   <!-- EN: allow fresh -->
   <AllowFresh.label>新鮮を許可</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
-  <AllowFresh.description>腐敗していない,新鮮な有機物を許可します.</AllowFresh.description>
+  <AllowFresh.description>腐敗していない、新鮮な有機物を許可します。</AllowFresh.description>
   
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>通常の衣服を許可</AllowNonDeadmansApparel.label>
@@ -37,7 +37,7 @@
   <!-- EN: allow rotten -->
   <AllowRotten.label>腐敗を許可 </AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
-  <AllowRotten.description>腐敗した有機物を許可します.</AllowRotten.description>
+  <AllowRotten.description>腐敗した有機物を許可します。</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
   <AllowSmeltable.label>溶ける武器を許可</AllowSmeltable.label>

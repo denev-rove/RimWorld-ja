@@ -493,9 +493,9 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past],それは [destroyed_suffix]になった.</li>
-    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]が [RECIPIENT_definite]の [destroyed_targets]を [expertly] [destroyed_past].</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past]。</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past_and]、それは[destroyed_suffix]になった。</li>
+    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]が[RECIPIENT_definite]の[destroyed_targets]を[expertly][destroyed_past]。</li>
     <li>r_logentry(p=2)->[INITIATOR_definite]の [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
     <li>r_logentry(p=2)->[INITIATOR_definite]の [ORIGINALTARGET_definite]を狙って [WEAPON_projectile_label]は [missed],しかし [RECIPIENT_definite]の [destroyed_targets]を [destroyed_present].</li>
     <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past].</li>
@@ -526,6 +526,13 @@
     <li>destroyed_past->突き刺した</li>
     <li>destroyed_past->貫通した</li>
     <li>destroyed_past->穴だらけにした</li>
+    <li>destroyed_past_and->粉々にし</li>
+    <li>destroyed_past_and->砕いて</li>
+    <li>destroyed_past_and->完全に破壊し</li>
+    <li>destroyed_past_and->ダメにし</li>
+    <li>destroyed_past_and->突き刺し</li>
+    <li>destroyed_past_and->貫通し</li>
+    <li>destroyed_past_and->穴だらけにし</li>
     <li>destroyed_present->粉々にする</li>
     <li>destroyed_present->砕く</li>
     <li>destroyed_present->完全に破壊する</li>
@@ -877,21 +884,21 @@
     <li>damaged_targets->[RECIPIENT_part_damaged0_label], [RECIPIENT_part_damaged1_label],[RECIPIENT_part_damaged2_label]と [RECIPIENT_part_damaged3_label]</li>
     <!-- fallback for 4+ -->
     <li>expertly->巧妙に</li>
-    <li>expertly->賢く</li>
+    <li>expertly->巧みに</li>
     <li>expertly->芸術的に</li>
     <li>expertly->手腕を発揮して</li>
-    <li>expertly->素晴らしい経験を持って</li>
+    <li>expertly->優れた技量で</li>
     <li>expertly->ひらめきを持って</li>
     <li>expertly->専門的に</li>
     <li>expertly->上手に</li>
     <li>expertly->器用に</li>
-    <li>expertly->巧みに</li>
-    <li>expertly->賢く</li>
+    <li>expertly->如才なく</li>
+    <li>expertly->優れた手腕で</li>
     <li>expertly->芸術的に</li>
     <li>expertly->手腕を発揮して</li>
     <li>expertly->素晴らしい経験をもって</li>
     <li>expertly->鋭い勘をもって</li>
-    <li>expertly->心配がちに</li>
+    <li>expertly->注意深く</li>
     <li>expertly->精度をもって</li>
     <li>expertly->熟練度をもって</li>
     <li>expertly->長所を活かして</li>
@@ -899,11 +906,11 @@
     <li>expertly->精通して</li>
     <li>expertly->芸術的手腕を持って</li>
     <li>expertly->職業意識をもって</li>
-    <li>expertly->巨匠のように</li>
-    <li>expertly->専門家のように</li>
-    <li>expertly->マスターのように</li>
-    <li>expertly->芸術家のように</li>
-    <li>expertly->プロのように</li>
+    <li>expertly->名人の如く</li>
+    <li>expertly->専門家の如く</li>
+    <li>expertly->達人の如く</li>
+    <li>expertly->芸術家の如く</li>
+    <li>expertly->プロの如く</li>
     <li>expert->専門家</li>
     <li>expert->名人的な</li>
     <li>expert->機敏な</li>

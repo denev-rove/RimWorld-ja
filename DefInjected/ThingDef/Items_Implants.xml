@@ -9,6 +9,6 @@
   <!-- EN: painstopper -->
   <Painstopper.label>ペインストッパー</Painstopper.label>
   <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
-  <Painstopper.description>痛みを感じる受容体を抑制する、脳に埋め込むインプラントです。使用者は多くのことを成し遂げられるようになりますが、痛みには意味があるということも分かります。痛みを感じなければ、本当にひどい怪我を、いとも簡単に負ってしまいます。</Painstopper.description>
+  <Painstopper.description>痛みを感じる受容体を抑制する、脳に埋め込むインプラントです。\n\n使用者が任務を遂行する能力は向上しますが、同時に痛みには意味があるということも判明します。\n\n痛みを感じない者は、本当に安易に酷い怪我を負ってしまいます。</Painstopper.description>
   
 </LanguageData>

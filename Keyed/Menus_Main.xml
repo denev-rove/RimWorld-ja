@@ -109,17 +109,17 @@
   <!-- EN: Select -->
   <WorldChooseButton>選択</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>保存されたデータがありません,先に惑星を創造してください</NoWorldsFilesFound>
+  <NoWorldsFilesFound>保存されたデータがありません。先に惑星を創造してください。</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>新しい バージョン {0} が でました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
+  <BuildNowAvailable>新しい バージョン {0} が 公開されました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
   <BuildUpToDate>最新バージョン です.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
+  <LoadingVersionInfo>バージョン情報を 読み込んでいます…</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
@@ -139,17 +139,17 @@
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。 本当によろしいですか？</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <Unsubscribe>サブスクライブ解除</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>{0}のサブスクライブを解除しようとしています。 本当によろしいですか？</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>作者</Author>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Workshop page</WorkshopPage>
+  <WorkshopPage>Workshopのページ</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Steam Workshopにｱｯﾌﾟﾛｰﾄﾞ</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Steam Workshopを更新</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
@@ -205,7 +205,7 @@
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>あなたが作者なので、ワークショップを更新することができます。</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -217,11 +217,11 @@
   <!-- EN: Difficulty -->
   <Difficulty>難易度</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>コミットメントモード</CommitmentMode>
+  <CommitmentMode>断固とした決意モード</CommitmentMode>
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>コミットメントモードか、無制限リロードモードを選択してください。</MustChoosePermadeath>
+  <MustChoosePermadeath>断固とした決意モードか、無制限リロードモードを選択してください。</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>いつでもセーブとロードができます。\n\nまだゲームに慣れていないか、これがあなたの性に合っているか、バランス崩壊を気にせずMODを山盛りにしたいか、強制されずに巻き戻しを自制するつもりなら良い選択です。</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
@@ -231,7 +231,7 @@
   <!-- EN: Merciless mode -->
   <UnlockExtremeDifficulty>鬼畜モード</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>鬼畜モードは、全てのイベントが極端な難度に引き上げられる特別なゲームモードです。\n\n鬼畜モードは本来、ゲームの進捗が特定の段階に到達すると自動的に解禁されるものです。しかし、ここで今すぐ解禁することもできます。\n\nこの設定は、高い難易度で数回ほど遊んだことのある者が、最善の努力をしてもなお死に至る可能性が高いゲームを望むときにのみ推奨されます。</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>鬼畜モードは、全てのイベントが極端な難度に引き上げられる特別なゲームモードです。\n\n鬼畜モードは本来、ゲームの達成度が特定の段階に到達すると自動的に解禁されるものです。しかし、ここで今すぐ解禁することもできます。\n\nこの設定は、高い難易度で数回ほど遊んだことのある者が、最善の努力をしてもなお死に至る可能性が高いゲームを望むときにのみ推奨されます。</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->

@@ -115,7 +115,7 @@
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorClearAreaAllowedDesc>制限エリアを消去します。</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>制限エリアの管理...</ManageAreas>
+  <ManageAreas>制限エリアの管理…</ManageAreas>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>入植者が任意の作物の栽培を試みる区域を作成します。</DesignatorGrowingZoneDesc>

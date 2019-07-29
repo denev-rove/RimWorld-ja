@@ -99,7 +99,7 @@
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>自動給食機</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>有機原料から栄養ペーストを合成する機械で食材ホッパーの隣に置きます。料理するのに比べて、より少ない原料と時間で済みます。しかし栄養ペーストを好んで食べたがる人は一人も居ません。 生の食材は原料になりますが干し草などの植物は原料にはなりません。</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>食用となる栄養ペーストを合成する機械です。隣接する食材ホッパーから原料となる肉や野菜を補充します。料理するのに比べて原料と時間を節約できます。しかし栄養ペーストを好んで食べたがる者は誰も居ません。 原料となるのは生の食材ですが、干し草などの植物は原料にはなりません。</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>研究卓</SimpleResearchBench.label>

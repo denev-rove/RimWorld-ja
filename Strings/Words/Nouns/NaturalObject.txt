@@ -1,30 +1,25 @@
 ﻿//Intended as small-scale objects, not major terrain formations
 //Includes animal, vegetable, and mineral
-岩
+岩石
 石
 巨岩
-木
+樹木
 灌木
 繁み
 泉
 水溜り
 湖
 丘
-洞穴
+洞窟
 切り株
-錐
-殻
+莢
 羽毛
-ベリー
 種子
-葉
 幹
-皮
 果実
 針
 甲虫
 昆虫
-蠅
 蹄
 爪
 尾
@@ -33,4 +28,4 @@
 角
 歯
 翼
-櫛
+木材

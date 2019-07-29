@@ -31,15 +31,15 @@
   <Naked.stages.naked.description>私は裸。なんて屈辱的なんだ。</Naked.stages.naked.description>
   
   <!-- EN: minor pain -->
-  <Pain.stages.minor_pain.label>わずかな痛み</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.label>僅かな痛み</Pain.stages.minor_pain.label>
   <!-- EN: Ow... That hurts. -->
   <Pain.stages.minor_pain.description>うっ…これは辛いな。</Pain.stages.minor_pain.description>
   <!-- EN: serious pain -->
-  <Pain.stages.serious_pain.label>深刻な痛み</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.label>相当な痛み</Pain.stages.serious_pain.label>
   <!-- EN: Ughhh... When will it end? -->
   <Pain.stages.serious_pain.description>うぐぐ、この痛みはいつ終わるんだ？</Pain.stages.serious_pain.description>
   <!-- EN: intense pain -->
-  <Pain.stages.intense_pain.label>激しい痛み</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.label>強烈な痛み</Pain.stages.intense_pain.label>
   <!-- EN: Make it stop... make it stop... make it stop... -->
   <Pain.stages.intense_pain.description>痛みを止めてくれ…痛みを止めてくれ…痛みを止めてくれ…。</Pain.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->
@@ -48,30 +48,30 @@
   <Pain.stages.mindshattering_pain.description>ぎゃあぁぁぁぁ！</Pain.stages.mindshattering_pain.description>
   
   <!-- EN: psychic soothe -->
-  <PsychicDrone.stages.psychic_soothe.label>精神安定波</PsychicDrone.stages.psychic_soothe.label>
+  <PsychicDrone.stages.psychic_soothe.label>思念安静波</PsychicDrone.stages.psychic_soothe.label>
   <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
-  <PsychicDrone.stages.psychic_soothe.description>心の奥から穏やかな声がするようだ。私をなだめ、神経を落ち着かせてくれる。</PsychicDrone.stages.psychic_soothe.description>
+  <PsychicDrone.stages.psychic_soothe.description>心の奥から穏やかな声がするようだ。 私をなだめ、ささくれた神経を落ち着かせてくれる。</PsychicDrone.stages.psychic_soothe.description>
   <!-- EN: low psychic drone -->
-  <PsychicDrone.stages.low_psychic_drone.label>精神干渉波 (弱)</PsychicDrone.stages.low_psychic_drone.label>
+  <PsychicDrone.stages.low_psychic_drone.label>思念干渉波 (弱)</PsychicDrone.stages.low_psychic_drone.label>
   <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
-  <PsychicDrone.stages.low_psychic_drone.description>心の奥を爪で引っ掻かれているようだ。声が、囁くような声が。ほんの幾つかしか聞き取れないが、嫌な言葉だ。</PsychicDrone.stages.low_psychic_drone.description>
+  <PsychicDrone.stages.low_psychic_drone.description>心の奥を爪で引っ掻かれているようだ。声が、囁くような声が。ほんの数語しか聞き取れないが、嫌な言葉だ。</PsychicDrone.stages.low_psychic_drone.description>
   <!-- EN: moderate psychic drone -->
-  <PsychicDrone.stages.moderate_psychic_drone.label>精神干渉波 (中)</PsychicDrone.stages.moderate_psychic_drone.label>
+  <PsychicDrone.stages.moderate_psychic_drone.label>思念干渉波 (中)</PsychicDrone.stages.moderate_psychic_drone.label>
   <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
-  <PsychicDrone.stages.moderate_psychic_drone.description>いつも見えない誰かが私に話しかけている感じだ。声が変わっても、内容は変わらない。このままでは誰かを傷付けてしまう。あっちへ行け！</PsychicDrone.stages.moderate_psychic_drone.description>
+  <PsychicDrone.stages.moderate_psychic_drone.description>常に何者かが見えない場所にいて、私に話しかけている気がする。声が変わろうが、言っていることは同じだ。このまま誰かを傷付けてしまいそうだ。この声を何処かへやってくれ！</PsychicDrone.stages.moderate_psychic_drone.description>
   <!-- EN: high psychic drone -->
-  <PsychicDrone.stages.high_psychic_drone.label>精神干渉波 (強)</PsychicDrone.stages.high_psychic_drone.label>
+  <PsychicDrone.stages.high_psychic_drone.label>思念干渉波 (強)</PsychicDrone.stages.high_psychic_drone.label>
   <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
   <PsychicDrone.stages.high_psychic_drone.description>その声は耐え難いほどに煩い。集中することができない。そいつに言い返して、大声で怒鳴っている自分に気付く。でもそいつは叫び続けるだけなんだ！</PsychicDrone.stages.high_psychic_drone.description>
   <!-- EN: extreme psychic drone -->
-  <PsychicDrone.stages.extreme_psychic_drone.label>精神干渉波 (最強)</PsychicDrone.stages.extreme_psychic_drone.label>
+  <PsychicDrone.stages.extreme_psychic_drone.label>思念干渉波 (最強)</PsychicDrone.stages.extreme_psychic_drone.label>
   <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
-  <PsychicDrone.stages.extreme_psychic_drone.description>動悸が激しく、汗も止まらない。考えられるのはただ、痛みと苦しみ、そして私を取り囲む悪い連中のことだけだ。こいつらは悪夢だ、私の悪夢だ、悪夢だ…。</PsychicDrone.stages.extreme_psychic_drone.description>
+  <PsychicDrone.stages.extreme_psychic_drone.description>動悸が激しく汗も止まらない。考えられるのはただ、痛みと苦しみ、そして私を取り囲む悪い連中のことだけだ。こいつらは悪夢だ、私の悪夢だ、悪夢だ…。</PsychicDrone.stages.extreme_psychic_drone.description>
   
   <!-- EN: psychic emanator soothe -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>サイコスード波動器</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>思念波照射器</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
   <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>サイコスード波動器は不思議な感覚がするけど、とても落ち着くね。</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>思念波照射器は奇妙な感覚がするけど、とても落ち着くね。</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
   
   <!-- EN: sharing bed -->
   <SharedBed.stages.sharing_bed.label>寝具の共有</SharedBed.stages.sharing_bed.label>

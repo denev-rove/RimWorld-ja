@@ -50,33 +50,40 @@
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
   <NamerFactionPirate.rulePack.rulesStrings>
-    <li>r_name->[AnimalBadass]団</li>
-    <li>r_name->[AnimalBadass]一家</li>
-    <li>r_name->[ConceptBadass]な[AnimalBadass]団</li>
-    <li>r_name->[ConceptBadass]な[PersonBadass]賊</li>
-    <li>r_name->[PersonBadass]賊</li>
-    <li>r_name->[Enemy]賊</li>
-    <li>r_name->[Weapon]一家</li>
-    <li>r_name->[Weapon]団</li>
-    <li>r_name->[AnimalBadass]の[Weapon]団</li>
-    <li>r_name->[Enemy]の[Weapon]団</li>
-    <li>r_name->[ColorBadass][Weapon]一家</li>
-    <li>r_name->[ColorBadass][AnimalBadass]団</li>
-    <li>r_name->[ColorBadass][PersonBadass]賊</li>
-    <li>r_name->[ColorBadass][Enemy]団</li>
-    <li>r_name->[PersonBadass][groupname]組</li>
-    <li>r_name->[Enemy][Enemy]賊</li>
-    <li>r_name->[AdjectiveBadass][groupname]団</li>
-    <li>r_name->[AdjectiveBadass][AnimalBadass]団</li>
-    <li>r_name->[AdjectiveBadass][Enemy]団</li>
-    <li>r_name->[AdjectiveBadass][PersonBadass]一家</li>
-    <li>r_name->[ConceptBadass]らの[PersonAlly]一味</li>
+    <li>r_name->[AnimalBadass][group_suffix]</li>
+    <li>r_name->[AnimalBadass][group_suffix]</li>
+    <li>r_name->[ConceptBadass]の[AnimalBadass][group_suffix]</li>
+    <li>r_name->[ConceptBadass]の[PersonBadass][group_suffix]</li>
+    <li>r_name->[PersonBadass][group_suffix]</li>
+    <li>r_name->[Enemy][group_suffix]</li>
+    <li>r_name(p=2)->[Weapon][group_suffix]</li>
+    <li>r_name->[Weapon]の[AnimalBadass][group_suffix]</li>
+    <li>r_name->[Weapon]の[Enemy][group_suffix]</li>
+    <li>r_name->[color_suffix][Weapon][group_suffix]</li>
+    <li>r_name->[color_suffix][AnimalBadass][group_suffix]</li>
+    <li>r_name->[color_suffix][PersonBadass][group_suffix]</li>
+    <li>r_name->[color_suffix][Enemy][group_suffix]</li>
+    <li>r_name->[PersonBadass][groupname]</li>
+    <li>r_name->[Enemy]の[Enemy][group_suffix]</li>
+    <li>r_name->[AdjectiveBadass][groupname]</li>
+    <li>r_name->[AdjectiveBadass][AnimalBadass][group_suffix]</li>
+    <li>r_name->[AdjectiveBadass][Enemy][group_suffix]</li>
+    <li>r_name->[AdjectiveBadass][PersonBadass][group_suffix]</li>
+    <li>r_name->[ConceptBadass]の[PersonAlly][group_suffix]</li>
     <li>r_name(p=0.4)->[Gore]を喰らうもの</li>
-    <li>r_name->[NamePerson]らの[Enemy]団</li>
-    <li>r_name->[NamePerson]らの[AnimalBadass]賊</li>
-    <li>r_name->[NamePerson]らの[Weapon]一家</li>
-    <li>r_name->[Weapon][groupname]組</li>
-    <li>r_name->[ConceptBadass]の[groupname]賊</li>
+    <li>r_name->[NamePerson]らの[Enemy][group_suffix]</li>
+    <li>r_name->[NamePerson]らの[AnimalBadass][group_suffix]</li>
+    <li>r_name->[NamePerson]らの[Weapon][group_suffix]</li>
+    <li>r_name->[Weapon][groupname]</li>
+    <li>r_name->[ConceptBadass][groupname]</li>
+    <li>group_suffix->団</li>
+    <li>group_suffix->組</li>
+    <li>group_suffix->一賊</li>
+    <li>group_suffix->一家</li>
+    <li>group_suffix->一味</li>
+    <li>color_suffix->[ColorBadass]色</li>
+    <li>color_suffix->[ColorBadass]の</li>
+    <li>color_suffix->[ColorBadass]色の</li>
   </NamerFactionPirate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -90,10 +97,13 @@
   <NamerFactionTribal.rulePack.rulesStrings>
     <li>r_name->[tribalworld][political_union_tribal]</li>
     <li>r_name->"[tribalworld]"[political_union_tribal]</li>
-    <li>r_name->[Color]色[TerrainFeature][political_union_tribal]</li>
+    <li>r_name->[color_suffix][TerrainFeature][political_union_tribal]</li>
     <li>r_name->[political_union_tribal]名"[WordTribal]"</li>
     <li>r_name->[Color][Animal]の[WordTribal]</li>
     <li>r_name->[TerrainFeature]に住む[WordTribal]</li>
+    <li>color_suffix->[Color]色</li>
+    <li>color_suffix->[Color]の</li>
+    <li>color_suffix->[Color]色の</li>
   </NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:

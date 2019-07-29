@@ -27,7 +27,7 @@
   <!-- EN: Other stats -->
   <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>健全度</StatsReport_Health>
+  <StatsReport_Health>耐久度</StatsReport_Health>
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>重要度 {0}</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
@@ -47,15 +47,15 @@
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>利幅の上限</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>年齢 {0}歳による倍率</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>年齢{0}歳による倍率</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>健全度 ({0})による倍率</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>耐久度({0})による倍率</StatsReport_HealthMultiplier>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>"心情" {0}による倍率</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>"心情"{0}による倍率</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>明るさ {0}による倍率</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>明るさ{0}による倍率</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>難易度 {0}による倍率</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>難易度{0}による倍率</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
   <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
   <!-- EN: Facilities -->

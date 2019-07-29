@@ -16,7 +16,7 @@
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>異常な寒波が始まります。\n\n寒波は低体温症を引き起こし、いとも簡単に死に至ります。寒さを乗り切るため、暖かな部屋を用意して適切な防寒着を着込んだら、農作物が凍りつく前に収穫してしまいましょう。</ColdSnap.letterText>
+  <ColdSnap.letterText>異常な寒波が押し寄せています。\n\n寒さが原因で低体温症に罹れば、簡単に命を落としてしまいます。寒さを乗り切るため、暖かな部屋を用意して適切な防寒着を着込んでください。できれば、農作物が凍りつく前に収穫してしまいましょう。</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>農作物の疫病</CropBlight.label>
@@ -25,18 +25,18 @@
   <FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+  <Flashstorm.label>ゲリラ落雷</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>ゲリラ落雷</Flashstorm.letterLabel>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>とんでもなく激しい雷雨が局所的に吹き荒れています。大規模な火災の発生もありえます。</Flashstorm.letterText>
+  <Flashstorm.letterText>とんでもなく激しい落雷の嵐が発生し、ごく狭い範囲で暴れ回っています。\n大規模な火災の可能性もあります。</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>熱波</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
-  <HeatWave.letterText>異常な熱波が始まります。\n\n熱波は熱中症を引き起こし、いとも簡単に死に至ります。暑さを乗り切るため、クーラーを使って涼しい部屋を用意するか、山奥にでも引きこもりましょう。</HeatWave.letterText>
+  <HeatWave.letterText>異常な熱波が押し寄せています。\n\n暑さが原因で熱中症に罹れば、簡単に命を落としてしまいます。暑さを乗り切るため、クーラーを設置して涼しい部屋を用意するか、山の地下深くに引きこもりましょう。</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>群れの大移動</HerdMigration.label>
@@ -53,10 +53,10 @@
   <MeteoriteImpact.letterText>巨大な隕石がこのエリアを襲いました。隕石は落下地点に{0}の塊を残しました。</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>精神干渉波</PsychicDrone.label>
+  <PsychicDrone.label>思念干渉波</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>精神安定波</PsychicSoothe.label>
+  <PsychicSoothe.label>思念安静波</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
   <RansomDemand.label>身代金要求</RansomDemand.label>
@@ -64,7 +64,7 @@
   <RansomDemand.letterLabel>身代金要求</RansomDemand.letterLabel>
   
   <!-- EN: chased refugee -->
-  <RefugeeChased.label>遭難者の墜落</RefugeeChased.label>
+  <RefugeeChased.label>追われる逃亡者</RefugeeChased.label>
   
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>輸送ポッドの墜落</RefugeePodCrash.label>
@@ -96,11 +96,11 @@
   <VolcanicWinter.letterText>遠方で巨大な火山が噴火し、数百万立方キロメートルもの火山灰を大気中に撒き散らしています。\n\n撒き散らされた火山灰は太陽光を遮り、気温は低下するでしょう。日照量が少なくなれば作物の成長も悪くなります。この影響は数週間から数ヶ月にも及ぶでしょう。</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>さまよい人の仲間入り</WandererJoin.label>
+  <WandererJoin.label>流れ者の仲間入り</WandererJoin.label>
   <!-- EN: Wanderer joins -->
-  <WandererJoin.letterLabel>迷い人の加入</WandererJoin.letterLabel>
+  <WandererJoin.letterLabel>流れ者の加入</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>{PAWN_nameDef}と名乗る{PAWN_kind}がこの地を訪れ、仲間に加わりました。{PAWN_pronoun}は{PAWN_title}です。\n\n{PAWN_pronoun}は役に立ちたいと願っているため、自分から立ち去ることはないでしょう。{PAWN_nameDef}を必要としないなら、追放するなり、奴隷として売り払うなり、あるいはもっと単純に始末してしまうなりできます。しかしながら、他の入植者はそうした騒ぎに気付くでしょう。</WandererJoin.letterText>
+  <WandererJoin.letterText>{PAWN_nameDef}と名乗る{PAWN_kind}がこの地を訪れ、仲間に加わりました。{PAWN_pronoun}は{PAWN_title}です。\n\n{PAWN_pronoun}は役に立ちたいと願っているため、自分から立ち去ることはないでしょう。{PAWN_nameDef}を必要としないなら、追放するなり、奴隷として売り払うなり、あるいはもっと単純に始末してしまうこともできます。しかしながら、他の入植者はそうした騒ぎに気付くでしょう。</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>流浪の野生人</WildManWandersIn.label>

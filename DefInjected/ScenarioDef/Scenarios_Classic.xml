@@ -10,7 +10,7 @@
   <!-- EN: Crashlanded -->
   <Crashlanded.scenario.name>不時着</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Crashlanded.scenario.summary>不時着した三人の生存者&#xA0;－&#xA0;標準的なRimworldの世界をお楽しみください。</Crashlanded.scenario.summary>
+  <Crashlanded.scenario.summary>不時着した三人の生存者&#xA0;―&#xA0;標準的なRimworldの世界をお楽しみください。</Crashlanded.scenario.summary>
   
   <!-- EN: Lost Tribe -->
   <LostTribe.label>滅びた部族</LostTribe.label>
@@ -23,32 +23,32 @@
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
   <LostTribe.scenario.parts.GameStartDialog.text>神々は大変にお怒りでした。血まみれの殺戮マシーン達は夜にやってきました。\nマシーン達は、あなたの村を一掃しました。刃と地獄の業火とで、住民達を切り刻んで焼き払ったのです。\n\nあなたを含めた数人だけが逃げ延びました。\n悲惨な徒歩での旅の末、親友を頼みにもできず、今あなたは、荒野に新しい住処を築かねばなりません。あなたの祖先達がしたように。</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
-  <LostTribe.scenario.summary>滅びた部族の原住民&#xA0;5人で再起を試みます。難しいです。</LostTribe.scenario.summary>
+  <LostTribe.scenario.summary>滅びた部族の原住民&#xA0;―&#xA0;5人で再起を試みます。難しいシナリオです。</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>全裸の残酷さ</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>あなたは簡単な手術を受けるため、麻酔による深い眠りに落ちました。今あなたは、遠く離れた惑星に墜落しつつある降下ポッドの中で目覚めました。あなたは全裸で、孤独で、全く何の覚悟もできていません。生き残ることができますか？\n\n【警告】このシナリオに公正なことなど何もありません&#xA0;－&#xA0;極めて難しく、どんな事でも死に直結します。</NakedBrutality.description>
+  <NakedBrutality.description>あなたは簡単な手術を受けるため、麻酔による深い眠りに落ちました。今あなたは、遠く離れた惑星に墜落しつつある降下ポッドの中で目覚めました。あなたは全裸で、孤独で、全く何の覚悟もできていません。生き残ることができますか？\n\n【警告】このシナリオに公正なことなど何もありません。極めて難しく、どんな事でも死に直結します。</NakedBrutality.description>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.scenario.description>あなたは簡単な手術を受けるため、麻酔による深い眠りに落ちました。今あなたは、遠く離れた惑星に墜落しつつある降下ポッドの中で目覚めました。あなたは全裸で、孤独で、全く何の覚悟もできていません。生き残ることができますか？\n\n【警告】このシナリオに公正なことなど何もありません&#xA0;－&#xA0;極めて難しく、どんな事でも死に直結します。</NakedBrutality.scenario.description>
+  <NakedBrutality.scenario.description>あなたは簡単な手術を受けるため、麻酔による深い眠りに落ちました。今あなたは、遠く離れた惑星に墜落しつつある降下ポッドの中で目覚めました。あなたは全裸で、孤独で、全く何の覚悟もできていません。生き残ることができますか？\n\n【警告】このシナリオに公正なことなど何もありません。極めて難しく、どんな事でも死に直結します。</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>全裸の残酷さ</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
   <NakedBrutality.scenario.parts.GameStartDialog.text>簡単な手術のはずでした。麻酔でほんの1時間。あなたは完全に安全だと思っていました。\n\n今あなたは、遙かなる辺境世界の大気圏に突入する降下ポッドの中で目覚めました。\n\n全身を覆う、べたべたする奇妙な保護膜を除けば、あなたは完全に全裸です。何の準備もなく、物資もなく、道具もないような状態で、生き残ることができるでしょうか？</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
-  <NakedBrutality.scenario.summary>全裸、孤独、徹底的に何の準備もなし。生き残ることができますか？ 極めて非常に難しく、理不尽です。</NakedBrutality.scenario.summary>
+  <NakedBrutality.scenario.summary>全裸、孤独、徹底的に何の準備もなし。生き残ることができますか？ 極めて難しく、理不尽なシナリオです。</NakedBrutality.scenario.summary>
   
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>金持ち探検家</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.description>グリッターワールドでの生活を捨てたあなたを、人々は気違い呼ばわりしましたが、あなたはいつも星々を探検したいと渇望していました&#xA0;－&#xA0;神経接続シミュレーターを横目に。\n今あなたは、冬眠カプセルで過ごす長い旅路の終わりを迎えています。未知なる辺境世界に降り立ちながら、その地を自分の眼で確かめるために。\n\n〔注意〕開始時の人物はスキルに乏しいため、ゲームの序盤は特に難しいシナリオです。</TheRichExplorer.description>
+  <TheRichExplorer.description>グリッター文明での生活を捨てたあなたは、周囲の人々から頭がおかしくなったのだと言われました。しかしあなたは、神経接続シミュレーターを飛び出して、星々を股にかける冒険をしてみたいとずっと心から願っていました。\nあなたは今、冬眠カプセルで過ごす長い旅路の終わりを迎えています。未知なる辺境世界に降り立ちながら、その地を自分の眼で確かめるために。\n\n〔注意〕開始時の人物はスキルに乏しいため、ゲームの序盤は特に難しいシナリオです。</TheRichExplorer.description>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.scenario.description>グリッターワールドでの生活を捨てたあなたを、人々は気違い呼ばわりしましたが、あなたはいつも星々を探検したいと渇望していました&#xA0;－&#xA0;神経接続シミュレーターを横目に。\n今あなたは、冬眠カプセルで過ごす長い旅路の終わりを迎えています。未知なる辺境世界に降り立ちながら、その地を自分の眼で確かめるために。\n\n〔注意〕開始時の人物はスキルに乏しいため、ゲームの序盤は特に難しいシナリオです。</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.description>グリッター文明での生活を捨てたあなたは、周囲の人々から頭がおかしくなったのだと言われました。しかしあなたは、神経接続シミュレーターを飛び出して、星々を股にかける冒険をしてみたいとずっと心から願っていました。\nあなたは今、冬眠カプセルで過ごす長い旅路の終わりを迎えています。未知なる辺境世界に降り立ちながら、その地を自分の眼で確かめるために。\n\n〔注意〕開始時の人物はスキルに乏しいため、ゲームの序盤は特に難しいシナリオです。</TheRichExplorer.scenario.description>
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.scenario.name>金持ち探検家</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>神経接続シミュレーション、立体映像ゲーム、奔放な乱交パーティーなどは、あなたにとって決して十分なものではありませんでした。あなたはそれ以上のものを求めました&#xA0;－&#xA0;現実の生における奮闘とその結末、人々が歴史書で語っているようなものです。あなたは本当の挑戦とそれによる結果というのは、どのようなものか知りたいと思っていました。\n\n今、数十年にも渡る冷凍冬眠の旅が終わり、あなたはこの未知なる辺境世界に降り立っています。本当の結末があなたを待っています。</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>神経接続シミュレーション、立体映像ゲーム、奔放な乱交パーティーなどは、あなたにとって決して十分なものではありませんでした。あなたはそれ以上のものを求めました。現実の生における奮闘とその結末、人々が歴史書で語っているようなものです。あなたは本当の挑戦とそれによる結果というのは、どのようなものか知りたいと思っていました。\n\n今、数十年にも渡る冷凍冬眠の旅が終わり、あなたはこの未知なる辺境世界に降り立っています。本当の結末があなたを待っています。</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>宇宙を体験しようとする、ひとりの裕福な冒険者です。特に難しいです。</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>宇宙を体験しようとする、ひとりの裕福な探検家です。 特に難しいシナリオです。</TheRichExplorer.scenario.summary>
   
 </LanguageData>

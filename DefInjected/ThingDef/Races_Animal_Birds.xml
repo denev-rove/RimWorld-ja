@@ -4,9 +4,9 @@
   <!-- EN: cassowary -->
   <Cassowary.label>火喰い鳥</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>大型の色鮮やかな羽を持った飛べない鳥です.本当に美しい鳥ですが,その蹴りは非常に危険です.暴力によって傷つけられたり,能力のない飼い主と対峙したとき,直ぐに攻撃的になることが知られています.</Cassowary.description>
+  <Cassowary.description>色鮮やかな羽を持つ、大型の飛べない鳥です。見た目は美しいですが、その蹴りは危険です。傷付けられたり、手懐けようとする者の手際が悪いと、すぐに攻撃的になることで知られています。</Cassowary.description>
   <!-- EN: bird meat -->
-  <Cassowary.race.meatLabel>鶏肉</Cassowary.race.meatLabel>
+  <Cassowary.race.meatLabel>鳥肉</Cassowary.race.meatLabel>
   <!-- EN: claws -->
   <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
   <!-- EN: beak -->
@@ -17,7 +17,7 @@
   <!-- EN: emu -->
   <Emu.label>エミュー</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
-  <Emu.description>大型の醜い顔にビーズのような目を持った飛べない鳥です.悪い姿勢が原因で,自然界の愚か者とされています.ちょっかいをださないで,復讐してくること間違いなしです.</Emu.description>
+  <Emu.description>醜い顔につぶらな瞳を持つ大型の飛べない鳥です。態度が悪いため、自然界の嫌われ者です。ちょっかいを出せば、仕返ししてくることは間違いないでしょう。</Emu.description>
   <!-- EN: claws -->
   <Emu.tools.claws.label>爪</Emu.tools.claws.label>
   <!-- EN: beak -->
@@ -28,7 +28,7 @@
   <!-- EN: ostrich -->
   <Ostrich.label>ダチョウ</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>鳥類最大の種で,ダチョウは,早い足,巨大な卵,そして力強いキックで有名です.</Ostrich.description>
+  <Ostrich.description>天然の種としては最大の鳥類です。俊足、巨大な卵、強力な蹴りといった特徴で有名です。すぐに怒ります。</Ostrich.description>
   <!-- EN: claws -->
   <Ostrich.tools.claws.label>爪</Ostrich.tools.claws.label>
   <!-- EN: beak -->
@@ -39,7 +39,7 @@
   <!-- EN: turkey -->
   <Turkey.label>七面鳥</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>小さい,太った,飛べない鳥で,とても,可笑しな鳴き声で有名です.飼い慣らされて長いこと経ちますが,いまだに野性を残しています.</Turkey.description>
+  <Turkey.description>背が低く、太った飛べない鳥です。歓声のような独特の鳴き声で知られています。家畜としての歴史は長いですが、野生種も存在します。</Turkey.description>
   <!-- EN: claws -->
   <Turkey.tools.claws.label>爪</Turkey.tools.claws.label>
   <!-- EN: beak -->

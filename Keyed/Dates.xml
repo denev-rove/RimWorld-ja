@@ -11,11 +11,11 @@
   <DateReadoutTip>惑星での生存日数: {0}\n\n暦上の節気: {4}\n実際の四季: {2}\n\n一年は4つの節気に分けられ、それぞれが{3}日間の長さを持ちます。暦上の節気は惑星上どの場所でも同じですが、四季の移ろいは緯度によって異なります。\n\n節気に対応する四季:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{2}年 {1} {0}日</FullDate>
+  <FullDate>{2}年&#xA0;{1}&#xA0;{0}日</FullDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>{2}年 {1} {0}日</DateReadout>
+  <DateReadout>{2}年&#xA0;{1}&#xA0;{0}日</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>{1} {0}日</SeasonFullDate>
+  <SeasonFullDate>{1}&#xA0;{0}日</SeasonFullDate>
   <!-- EN: Whole year -->
   <WholeYear>一年中</WholeYear>
   

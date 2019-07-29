@@ -136,25 +136,25 @@
   <!-- EN: Set forced target -->
 <!--
   <CommandSetForceAttackTarget>砲撃対象の 指定</CommandSetForceAttackTarget>
-  v1.0現在、砲塔は完全自動化されているため、榴弾砲専用のテキストとなっている
+  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
 -->
   <CommandSetForceAttackTarget>砲撃開始</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
 <!--
   <CommandSetForceAttackTargetDesc>砲塔の砲撃対象を指定して、その対象だけを狙うようにします。</CommandSetForceAttackTargetDesc>
-  v1.0現在、砲塔は完全自動化されているため、榴弾砲専用のテキストとなっている
+  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
 -->
-  <CommandSetForceAttackTargetDesc>榴弾砲の砲撃対象を指定します。</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>迫撃砲の砲撃対象を指定します。</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
 <!--
   <CommandStopForceAttack>砲撃対象の 解除</CommandStopForceAttack>
-  v1.0現在、砲塔は完全自動化されているため、榴弾砲専用のテキストとなっている
+  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
 -->
   <CommandStopForceAttack>砲撃停止</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
 <!--
   <CommandStopForceAttackDesc>砲撃対象の指定を解除し、砲塔に自律判断させます。</CommandStopForceAttackDesc>
-  v1.0現在、砲塔は完全自動化されているため、榴弾砲専用のテキストとなっている
+  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
 -->
   <CommandStopForceAttackDesc>砲撃対象の指定を解除します。</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
@@ -174,15 +174,15 @@
   <!-- EN: Launch ship -->
   <CommandShipLaunch>宇宙船を発進させる</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
   <CommandShipLaunchReport>発進レポートを表示</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>船が 発進できるかどうか, 性能レポートを 表示します.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
   <CommandShipStartup>宇宙船を起動</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>休止状態の船体コンポーネントを起動します.</CommandShipStartupDesc>
+  <CommandShipStartupDesc>休止状態の船体コンポーネントを起動します。</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
@@ -218,7 +218,7 @@
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>この設備は保管と移動のために梱包されています。この命令を使って指定した場所に設置させます。</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>再設置...</CommandReinstall>
+  <CommandReinstall>再設置…</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>この設備を一旦撤去し、再設置する場所を指定します。</CommandReinstallDesc>
   
@@ -296,19 +296,19 @@
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>キャラバン隊の人員を変更します。選ばれた入植者たちはこのエリアを出たあと、次の指示を待ちます。</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
-  <CommandReformCaravanFailHostilePawns>まだ,このエリアには敵が存在します.</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravanFailHostilePawns>まだ、このエリアには敵が存在します。</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
   <!-- EN: Split -->
   <CommandSplitCaravan>分割</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます.キャラバン隊は,お互いが近くにいれば,あとで一つにまとめることも出来ます.</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます。キャラバン隊は、お互いが近くにいれば、あとで一つに纏めることもできます。</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
   <CommandMergeCaravans>合流</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます。</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します。キャラバン隊は互いに近くにいる必要があります。</CommandMergeCaravansFailCaravansNotSelected>
   
@@ -364,7 +364,7 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>この派閥と取引します。</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -446,7 +446,7 @@
   <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>開/閉を指示</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>換気口の開閉を指示します.入植者は直ぐに作業に掛かります.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>換気口の開閉を指示します。入植者は直ぐに作業に掛かります。</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
@@ -458,7 +458,7 @@
   <!-- EN: Rest -->
   <CommandPauseCaravan>休息</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>休息を取ります.これは以下の恩恵があります:\n\n- 隊員同士で交流することができます.\n- 食料調達が {0}倍 早くなります.\n- 目立ちやすさが {1} になります.</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>休息を取ります。これは以下の恩恵があります:\n\n-&#xA0;隊員同士で交流することができます。\n-&#xA0;食料調達が {0}倍 早くなります。\n-&#xA0;目立ちやすさが {1} になります。</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
@@ -470,6 +470,6 @@
   <!-- EN: Attack -->
   <CommandAttackSettlement>襲撃</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>この集落を襲撃します.</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>この集落を襲撃します。</CommandAttackSettlementDesc>
 
 </LanguageData>

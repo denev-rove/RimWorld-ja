@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: raw humanlike meat eaten -->
-  <AteRawHumanlikeMeat.label>raw humanlike meat eaten</AteRawHumanlikeMeat.label>
+  <AteRawHumanlikeMeat.label>生の人肉を食べる</AteRawHumanlikeMeat.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
     <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
@@ -30,17 +30,17 @@
     <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
   -->
   <AteRawHumanlikeMeat.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の人喰い</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] 同じヒューマノイドの肉を[eat_gerund]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] 人の腕のような肉を[eat_gerund]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] ヒューマノイドの新鮮な肉を[eat_gerund]</li>
-    <li>eat_gerund->食べている</li>
-    <li>eat_gerund->摂っている</li>
-    <li>eat_gerund->噛んでいる</li>
-    <li>eat_gerund->引きちぎっている</li>
-    <li>eat_gerund->食べ尽くしている</li>
-    <li>eat_gerund->丸呑みしている</li>
-    <li>eat_gerund->共食いしている</li>
+    <li>tale_noun->人肉を食べる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]同じ人間の肉を[eat_gerund][PAWN_nameDef]</li>
+    <li>image->[circumstance_group]人の腕のような肉を[eat_gerund][PAWN_nameDef]</li>
+    <li>image->[circumstance_group]人間の新鮮な肉を[eat_gerund][PAWN_nameDef]</li>
+    <li>eat_gerund->食べる</li>
+    <li>eat_gerund->摂取する</li>
+    <li>eat_gerund->噛みしめる</li>
+    <li>eat_gerund->噛み千切る</li>
+    <li>eat_gerund->食べ尽くす</li>
+    <li>eat_gerund->丸呑みする</li>
+    <li>eat_gerund->共食いする</li>
     <li>circumstance_phrase->目的意識をもって</li>
     <li>circumstance_phrase->恥ずかしげもなく</li>
     <li>circumstance_phrase->不名誉なことと思いながら</li>
@@ -60,7 +60,7 @@
   <ButcheredHumanlikeCorpse.label>humanlike corpse butchered</ButcheredHumanlikeCorpse.label>
   
   <!-- EN: art crafted -->
-  <CraftedArt.label>art crafted</CraftedArt.label>
+  <CraftedArt.label>芸術の創作</CraftedArt.label>
   <!-- EN:
     <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
     <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
@@ -89,13 +89,13 @@
     <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
   -->
   <CraftedArt.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を作る時間</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [THING_indefinite]を製作している.[quality_sentence] [title_sentence]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [THING_indefinite]の[PAWN_possessive]作業を完成させている.[quality_sentence] [title_sentence] </li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [THING_indefinite]の作業をしている.[quality_sentence] [title_sentence]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [THING_indefinite]を作っている.[quality_sentence] [title_sentence]</li>
-    <li>circumstance_phrase->集中力の総力をあげて</li>
-    <li>circumstance_phrase->[PAWN_possessive]顔に満足の笑みをたたえながら</li>
+    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を創作するひととき</li>
+    <li>image->[circumstance_group][THING_indefinite]を製作する[PAWN_nameDef]。[quality_sentence]。[title_sentence]</li>
+    <li>image->[circumstance_group][THING_indefinite]の作業を完了する[PAWN_nameDef]。[quality_sentence]。[title_sentence]</li>
+    <li>image->[circumstance_group][THING_indefinite]の作業をする[PAWN_nameDef]。[quality_sentence]。[title_sentence]</li>
+    <li>image->[circumstance_group][THING_indefinite]を作っている[PAWN_nameDef]。[quality_sentence]。[title_sentence]</li>
+    <li>circumstance_phrase->全ての集中力を注いで</li>
+    <li>circumstance_phrase->満足げな表情を湛えながら</li>
     <li>circumstance_phrase->[PAWN_possessive]作業台で</li>
     <li>circumstance_phrase->大きな緊張をもって</li>
     <li>desc_sentence->工作ツールがあたり一面に散らばっている.</li>
@@ -108,12 +108,12 @@
     <li>desc_sentence->[PAWN_nameDef]は,[PAWN_possessive]新しく創造した強調部分が目立たなくなっている.</li>
     <li>desc_sentence->[Quantity_adjphrase]の見物人が[PAWN_objective]取り囲んでいる.</li>
     <li>desc_sentence->仲間たちが経歴に喝采を送っている.</li>
-    <li>quality_sentence->[THING_definite]は,見た目[THING_quality]品質のようだ.</li>
-    <li>quality_sentence->[THING_definite]は,[THING_quality]品質だ.</li>
-    <li>quality_sentence->[PAWN_nameDef]は,[THING_quality]品質の仕事をした.</li>
-    <li>title_sentence->[PAWN_nameDef]は,[THING_definite]の底面にタイトルを,このようにつけた: [thing_title]</li>
-    <li>title_sentence->[THING_definite]は,そのタイトルで飾られている: [thing_title]</li>
-    <li>title_sentence->[THING_definite]のタイトル, [thing_title]の背景は不明となっている.</li>
+    <li>quality_sentence->[THING_definite]は,見た目[THING_quality]品質のようだ</li>
+    <li>quality_sentence->[THING_definite]は,[THING_quality]品質だ</li>
+    <li>quality_sentence->[PAWN_nameDef]は,[THING_quality]品質の仕事をした</li>
+    <li>title_sentence->[PAWN_nameDef]が[THING_definite]に名付けた題名が底面に記載されている:&#xA0;「[thing_title]」</li>
+    <li>title_sentence->[THING_definite]は題名と共に飾られている:&#xA0;「[thing_title]」</li>
+    <li>title_sentence->[THING_definite]の題名「[thing_title]」が背後に掲示されている。</li>
   </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->
@@ -151,12 +151,12 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <Drunk.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の酒好き</li>
-    <li>tale_noun->大酒飲みの[PAWN_nameDef]</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,飲みすぎて千鳥足になっている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,頭を後ろにたおし,大きな口を開けてリキュールをガブガブと飲んでいる</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,貪欲にリキュールの瓶を集めている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,酒を飲みすぎている</li>
+    <li>tale_noun->[PAWN_nameDef]の深酒</li>
+    <li>tale_noun->大いに飲みすぎた[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]飲みすぎて千鳥足になっている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]頭を後ろにたおし,大きな口を開けて酒をガブ飲みしている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]貪欲に酒瓶を集めている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]酒を飲みすぎている[PAWN_nameDef]</li>
     <li>circumstance_phrase->辺り構わずに</li>
     <li>circumstance_phrase->意識朦朧で気が滅入っているなか</li>
     <li>circumstance_phrase->自身の存在価値を思いつめてる間</li>
@@ -176,7 +176,7 @@
     <li>desc_sentence->[PAWN_possessive]顔は,むくんでいる.</li>
     <li>desc_sentence->[PAWN_pronoun]は, 気を失いかけ,舌がだらりと口からはみ出し,よだれをポタポタと垂らしている.</li>
     <li>desc_sentence->[PAWN_pronoun]には,幸せと悲しみが同居しているように見える.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,ズボンの前にシミを付けた.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,ズボンの前にシミを付けている.</li>
     <li>desc_sentence->[PAWN_pronoun]の背後には,飲み物の箱が点々と捨てられている.</li>
     <li>desc_sentence->[PAWN_possessive]パンツに白いシミをつけている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,立場が無さそうだ.</li>
@@ -184,7 +184,7 @@
   </Drunk.rulePack.rulesStrings>
   
   <!-- EN: research project finished -->
-  <FinishedResearchProject.label>research project finished</FinishedResearchProject.label>
+  <FinishedResearchProject.label>研究プロジェクトの完了</FinishedResearchProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
     <li>image->[PAWN_nameFull] working on [PROJECT_label] research project [circumstance_group]</li>
@@ -200,22 +200,22 @@
     <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
   -->
   <FinishedResearchProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の,[PROJECT_label]研究の完成</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [PROJECT_label]研究プロジェクトの作業を続けている</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [PROJECT_label]の秘訣を学習している</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [PROJECT_label]を研究している</li>
+    <li>tale_noun->[PROJECT_label]の研究の完成させる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group][PROJECT_label]研究プロジェクトの作業を続けている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group][PROJECT_label]の秘訣を学習している[PAWN_nameDef]</li>
+    <li>image->[circumstance_group][PROJECT_label]を研究している[PAWN_nameDef]</li>
     <li>circumstance_phrase->集中力の総力をあげて</li>
     <li>circumstance_phrase->こつこつと,[PAWN_possessive]作業台で</li>
     <li>circumstance_phrase->手に,設計図を握り締めながら</li>
     <li>circumstance_phrase->作業に没頭しながら</li>
     <li>desc_sentence->[PAWN_nameDef]は,汗をかいている.</li>
-    <li>desc_sentence->その作業は,群を抜いて複雑に込み入った形となって現れる.</li>
+    <li>desc_sentence->その作業は,群を抜いて複雑に込み入った形となって現れている.</li>
     <li>desc_sentence->[PAWN_nameDef]は,実験器具やツールがずらりと並んだものに完全に埋もれている.</li>
     <li>desc_sentence->[PAWN_nameDef]は,好奇心から[PAWN_possessive]発見をジロジロ見ている.</li>
   </FinishedResearchProject.rulePack.rulesStrings>
   
   <!-- EN: landed in pod -->
-  <LandedInPod.label>landed in pod</LandedInPod.label>
+  <LandedInPod.label>降下ポッドの着陸</LandedInPod.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
     <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
@@ -240,31 +240,31 @@
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
   <LandedInPod.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef],着陸船での着陸</li>
-    <li>image->[circumstance_group], [PAWN_nameFull]は 脱出カプセルで 着陸しようと している</li>
-    <li>image->[circumstance_group], [PAWN_nameFull]は 脱出カプセルで 地上に 降り立たとうと している</li>
-    <li>image->[circumstance_group], [PAWN_nameFull]は 脱出カプセルごと 地表に 叩き つけられようと している</li>
-    <li>image->[circumstance_group], [PAWN_nameFull]は 脱出カプセルの 中で 目を 覚まそうと している</li>
-    <li>circumstance_phrase->[TerrainFeature]を 目前にして</li>
-    <li>circumstance_phrase->いきなり 途方もない力を 受けつつあり</li>
-    <li>circumstance_phrase->高速度で 吹き出した チリや 隕石群に 襲われてしまい</li>
-    <li>circumstance_phrase->レトロな ミサイルで 攻撃を 受けているなか</li>
-    <li>circumstance_phrase->精密着陸操作を 行っている 最中に</li>
-    <li>desc_sentence->[PAWN_pronoun]は, 姿勢制御だけ 一点に 集中している.</li>
-    <li>desc_sentence->[PAWN_pronoun]は, 恐怖のあまり 両目を 閉じている.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,気を失い, 舌が だらりと 口から はみ出し, よだれを ポタポタと 垂らしている.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,うす気味の 悪い 笑みを 浮かべている.</li>
-    <li>desc_sentence->[PAWN_pronoun]には, もう 何も 手の 施しようが 無い.</li>
-    <li>desc_sentence->[PAWN_pronoun]は, 自分では どうすることも できないまま, 目を 閉じて シートに 固定されている.</li>
-    <li>desc_sentence->摩擦熱で おきた炎が 脱出ポッドの 後ろから 巻き起こる.</li>
-    <li>desc_sentence->近くにいた [Animal]は, 空を 見上げて 驚いている.</li>
-    <li>desc_sentence->[Animal]は, 恐れにおののき 着地点から一斉に逃げ出している.</li>
-    <li>desc_sentence->背景には [TerrainFeature]がある.</li>
-    <li>desc_sentence->はるか彼方から, [PersonJob]は, 無言で事の成り行きを見ている.</li>
+    <li>tale_noun->降下ポッドで地表に降り立つ[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]降下ポッドで着陸しようとしている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]降下ポッドで地上に降り立とうとしている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]降下ポッドごと地表に叩きつけられようとしている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]降下ポッドの中で目を覚まそうとしている[PAWN_nameDef]</li>
+    <li>circumstance_phrase->[TerrainFeature]を目前にして</li>
+    <li>circumstance_phrase->いきなり途方もない力を受けつつあり</li>
+    <li>circumstance_phrase->高速度で吹き出したチリや隕石群に襲われてしまい</li>
+    <li>circumstance_phrase->レトロなミサイルで攻撃を受けているなか</li>
+    <li>circumstance_phrase->精密着陸操作を行っている最中に</li>
+    <li>desc_sentence->[PAWN_pronoun]は,姿勢制御だけ一点に集中している.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,恐怖のあまり両目を閉じている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,気を失い,舌がだらりと口からはみ出し,よだれをポタポタと垂らしている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,うす気味の悪い笑みを浮かべている.</li>
+    <li>desc_sentence->[PAWN_pronoun]には,もう何も手の施しようが無い.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,自分ではどうすることもできないまま,目を閉じてシートに固定されている.</li>
+    <li>desc_sentence->摩擦熱でおきた炎が脱出ポッドの後ろから巻き起こっている.</li>
+    <li>desc_sentence->近くにいた[Animal]は,空を見上げて驚いている.</li>
+    <li>desc_sentence->[Animal]は,恐れにおののき着地点から一斉に逃げ出している.</li>
+    <li>desc_sentence->背景には[TerrainFeature]の姿が見える。</li>
+    <li>desc_sentence->はるか彼方から,[PersonJob]は,無言で事の成り行きを見ている.</li>
   </LandedInPod.rulePack.rulesStrings>
   
   <!-- EN: berserk rage -->
-  <MentalStateBerserk.label>berserk rage</MentalStateBerserk.label>
+  <MentalStateBerserk.label>狂暴化する怒り</MentalStateBerserk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] going berserk</li>
     <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
@@ -291,33 +291,33 @@
     <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
   -->
   <MentalStateBerserk.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の狂暴化</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は 烈火のごとく怒り凶暴になる</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は気が狂い,狂ったように乱暴になる</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,病的な顔つきで,よろよろと前に進んでいる</li>
+    <li>tale_noun->狂暴化する[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]烈火のごとく怒り凶暴になる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]気が狂い,狂ったように乱暴になる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]病的な顔つきで,よろよろと前に進んでいる[PAWN_nameDef]</li>
     <li>circumstance_phrase->服を脱ぎ捨てながら</li>
     <li>circumstance_phrase->見たところ理由も無く</li>
     <li>circumstance_phrase->他の者は恐れに身をちじこませるなか</li>
     <li>circumstance_phrase->友人も逃げ出すなか</li>
     <li>circumstance_phrase->ストレスによって</li>
     <li>circumstance_phrase->最後の段階として</li>
-    <li>desc_sentence->[PAWN_pronoun]は 抑えきれない怒りに身を震わせている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は抑えきれない怒りに身を震わせている.</li>
     <li>desc_sentence->[PAWN_possessive]歯を剥き出しにして,憎悪に満ちて唸っている.</li>
     <li>desc_sentence->[PAWN_possessive]眼には狂気にみちた光が宿っている.</li>
     <li>desc_sentence->[PAWN_possessive]口から唾を吐きながら,激しい怒りに叫んでいる.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,服の一部分を失う.</li>
-    <li>desc_sentence->[PAWN_pronoun]は 自身の窮状に顔をしかめる.</li>
-    <li>desc_sentence->[PAWN_pronoun]は 狂気に満ちた薄笑いを浮かべている.</li>
-    <li>desc_sentence->[PAWN_pronoun]は [Animal]が歯を剥いてうなる顔つきをしている.</li>
-    <li>desc_sentence->[PAWN_possessive]頭の周りを 象徴的に[Animal]達が取り囲んでいるようだ.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,服の一部分を失っている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は自身の窮状に顔をしかめている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は狂気に満ちた薄笑いを浮かべている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は[Animal]が歯を剥いてうなる顔つきをしている.</li>
+    <li>desc_sentence->[PAWN_possessive]頭の周りを象徴的に[Animal]たちが取り囲んでいるようだ.</li>
     <li>desc_sentence->[PAWN_pronoun]の眼にキラリと残忍さが光っている.</li>
     <li>desc_sentence->[PAWN_possessive]全身が,憎悪に震えているようだ.</li>
     <li>desc_sentence->[PAWN_possessive]顔が,穏やかさのひん曲がった表情になりつつある.</li>
-    <li>desc_sentence->一粒の涙が[PAWN_possessive]顔からこぼれ落ちる.</li>
+    <li>desc_sentence->一粒の涙が[PAWN_possessive]顔からこぼれ落ちている.</li>
   </MentalStateBerserk.rulePack.rulesStrings>
   
   <!-- EN: gave up -->
-  <MentalStateGaveUp.label>gave up</MentalStateGaveUp.label>
+  <MentalStateGaveUp.label>精神崩壊</MentalStateGaveUp.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
     <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
@@ -340,10 +340,10 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <MentalStateGaveUp.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の絶望と降参</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group],最終的にはストレスに押しつぶされてあきらめる</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group],抑えきれずにすすり泣いている</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group],[PAWN_possessive]顔をくちゃくちゃにしながら,あたりをよろめいている</li>
+    <li>tale_noun->[PAWN_nameDef]の諦めと絶望</li>
+    <li>image->[circumstance_group]、とうとう重圧に押し潰されて諦める[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、抑えきれずにすすり泣く[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、完全に心を砕かれた表情を浮かべて辺りをふらつく[PAWN_nameDef]</li>
     <li>circumstance_phrase->服を脱ぎ捨てるふりをしつつ</li>
     <li>circumstance_phrase->見たところ大した理由も無しに</li>
     <li>circumstance_phrase->他人に同情されながら</li>
@@ -362,7 +362,7 @@
   </MentalStateGaveUp.rulePack.rulesStrings>
   
   <!-- EN: struck mineable -->
-  <StruckMineable.label>struck mineable</StruckMineable.label>
+  <StruckMineable.label>鉱脈を掘り当てる</StruckMineable.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
     <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
@@ -380,8 +380,8 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <StruckMineable.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[THING_label]を掘り当てる</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group] [THING_label]を掘り当てる</li>
+    <li>tale_noun->[THING_label]を掘り当てる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group][THING_label]を掘り当てる[PAWN_nameDef]</li>
     <li>circumstance_phrase->採鉱している間に</li>
     <li>circumstance_phrase->掘っている間に</li>
     <li>circumstance_phrase->トンネルを掘削している間に</li>
@@ -397,7 +397,7 @@
   </StruckMineable.rulePack.rulesStrings>
   
   <!-- EN: vomited -->
-  <Vomited.label>vomited</Vomited.label>
+  <Vomited.label>嘔吐</Vomited.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
     <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
@@ -418,11 +418,11 @@
     <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
   -->
   <Vomited.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]のゲロ</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は床に吐いている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,床一面を覆う乾いてカピカピになったゲロを見てうんざりしている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は,吐き気が二倍になっている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は床に膝をついて吐いている</li>
+    <li>tale_noun->[PAWN_nameDef]の嘔吐</li>
+    <li>image->[circumstance_group]床に吐く[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]床一面を覆う乾いた吐瀉物を見てうんざりする[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]吐き気が二倍になっている[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]床に膝をついて吐く[PAWN_nameDef]</li>
     <li>circumstance_phrase->病んでいる間じゅう</li>
     <li>circumstance_phrase->とても恥ずかしい思いをしながら</li>
     <li>circumstance_phrase->皆が見ている前で</li>
@@ -430,7 +430,7 @@
     <li>desc_sentence->[PAWN_possessive]顔が腫れたように見える.</li>
     <li>desc_sentence->[PAWN_pronoun]は気を失いかけ,舌がだらりと口からはみ出し,よだれをポタポタと垂らしている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,強烈なケイレンに襲われている</li>
-    <li>desc_sentence->[PAWN_pronoun]は, きまりが悪そうにしている.</li>
+    <li>desc_sentence->[PAWN_pronoun]は,きまりが悪そうにしている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,場を取り繕うとして,つくり笑いをしている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,激しく吐いたので,あたかも,しぼんでしまったかのように見える.</li>
     <li>desc_sentence->[PAWN_pronoun]は,芸術的ともとれる,まき散らしたゲロに囲まれている.</li>
@@ -438,7 +438,7 @@
   </Vomited.rulePack.rulesStrings>
   
   <!-- EN: walked naked -->
-  <WalkedNaked.label>walked naked</WalkedNaked.label>
+  <WalkedNaked.label>全裸の徘徊</WalkedNaked.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] walking around naked</li>
     <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
@@ -465,33 +465,33 @@
     <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
   -->
   <WalkedNaked.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の素っ裸</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group],ありのままの姿で[nude_action]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group],ヌードで[nude_action]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group], 裸で[nude_action]</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_group], 一糸まとわぬ姿で[nude_action]</li>
-    <li>nude_action->意気揚々と歩き回っている</li>
-    <li>nude_action->陽気に騒いでいる</li>
-    <li>nude_action->跳ね回っている</li>
-    <li>nude_action->歩いている</li>
-    <li>nude_action->[PAWN_possessive]アレを気取って歩いている</li>
-    <li>nude_action->気取って歩いている</li>
-    <li>nude_action->つま先立ちして歩いている</li>
-    <li>nude_action->散策している</li>
-    <li>nude_action->辺りを調査している</li>
+    <li>tale_noun->全裸で歩き回る[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、ありのままの姿で[nude_action][PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、ヌードで[nude_action][PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、裸で[nude_action][PAWN_nameDef]</li>
+    <li>image->[circumstance_group]、一糸まとわぬ姿で[nude_action][PAWN_nameDef]</li>
+    <li>nude_action->意気揚々と歩き回る</li>
+    <li>nude_action->陽気に騒ぐ</li>
+    <li>nude_action->跳ね回る</li>
+    <li>nude_action->歩き回る</li>
+    <li>nude_action->自分の性器を見せびらかして歩く</li>
+    <li>nude_action->気取る</li>
+    <li>nude_action->爪先立ちする</li>
+    <li>nude_action->散策する</li>
+    <li>nude_action->辺りを調査する</li>
     <li>circumstance_phrase->目的意識をもって</li>
     <li>circumstance_phrase->恥ずかしげもなく</li>
     <li>circumstance_phrase->他の人が傍観しているなか</li>
     <li>circumstance_phrase->明確なわけもなく</li>
     <li>circumstance_phrase->混乱した動物が見ているなか</li>
-    <li>desc_sentence->[PAWN_nameDef]は,みるみる性的に興奮している.</li>
-    <li>desc_sentence->[PAWN_nameDef]は,説明のつかない湿気にしっとりと包まれている.</li>
-    <li>desc_sentence->[PAWN_nameDef]は,明確な理由もないのに,荒い息遣いをしている.</li>
-    <li>desc_sentence->[PAWN_nameDef]は,低木を撫で回している.</li>
+    <li>desc_sentence->[PAWN_nameDef]が見るからに欲情している。</li>
+    <li>desc_sentence->[PAWN_nameDef]が説明しがたい湿気を纏っている。</li>
+    <li>desc_sentence->[PAWN_nameDef]が不思議な理由で荒い息遣いをしている。</li>
+    <li>desc_sentence->[PAWN_nameDef]が繁みを愛撫している。</li>
   </WalkedNaked.rulePack.rulesStrings>
   
   <!-- EN: on fire -->
-  <WasOnFire.label>on fire</WasOnFire.label>
+  <WasOnFire.label>火だるま</WasOnFire.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] catching fire</li>
     <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
@@ -513,24 +513,24 @@
     <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
   -->
   <WasOnFire.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が火だるま</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は 気も狂わんばかりに [PAWN_possessive]身体についた炎を叩き消している</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は 炎に包まれている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は膝をついて,両手で頭に降りかかった火の粉を消そうとしている</li>
-    <li>image->[circumstance_group],[PAWN_nameFull]は 床のうえで燃えながらゴロゴロと転がっている</li>
+    <li>tale_noun->火だるまになる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]気も狂わんばかりに身体についた炎を叩き消す[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]炎に包まれる[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]膝をついて,両手で頭に降りかかった火の粉を消そうとする[PAWN_nameDef]</li>
+    <li>image->[circumstance_group]床のうえで燃えながらゴロゴロと転がる[PAWN_nameDef]</li>
     <li>circumstance_phrase->他の人が傍観しているなか</li>
     <li>circumstance_phrase->裸に近い姿のまま</li>
     <li>circumstance_phrase->一心になりゆきを見守る眼をあつめ</li>
-    <li>desc_sentence->[PAWN_possessive]肌は みるみる黒焦げになっている.</li>
+    <li>desc_sentence->[PAWN_possessive]肌はみるみる黒焦げになっている.</li>
     <li>desc_sentence->[PAWN_possessive]眼は,パニックで大きく見開いている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,かろうじて意識があるようだが,その眼には生気がない.</li>
     <li>desc_sentence->[PAWN_possessive]口は,大きく助けを叫ぶために大きく開いている.</li>
-    <li>desc_sentence->まさに頭を炎が包もうとしている.</li>
-    <li>desc_sentence->炎を象徴化したものが顔を包み込む.</li>
-    <li>desc_sentence->[PAWN_pronoun]は 気が狂ったかのように笑っている.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,負けた.</li>
-    <li>desc_sentence->身体から火柱が立ち昇る.</li>
-    <li>desc_sentence->[PAWN_pronoun]は,死骸のようなものを芸術的に描写した.</li>
+    <li>desc_sentence->まさに炎が[PAWN_possessive]頭部を包み込もうとしている。</li>
+    <li>desc_sentence->炎の象徴ともいえる後光が[PAWN_possessive]顔を包み込んでいる。</li>
+    <li>desc_sentence->[PAWN_pronoun]は気が狂ったかのように笑っている。</li>
+    <li>desc_sentence->[PAWN_pronoun]は諦めてしまった様子だ。</li>
+    <li>desc_sentence->[PAWN_possessive]身体から煙の柱が立ち昇っている。</li>
+    <li>desc_sentence->[PAWN_pronoun]は死体のようなものを芸術的に体現している。</li>
   </WasOnFire.rulePack.rulesStrings>
   
 </LanguageData>

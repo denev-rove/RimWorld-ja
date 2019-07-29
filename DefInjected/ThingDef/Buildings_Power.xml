@@ -4,17 +4,17 @@
   <!-- EN: battery -->
   <Battery.label>バッテリー</Battery.label>
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
-  <Battery.description>余剰電力を蓄えることができます。充電済みのバッテリーは雨や火災に曝すと爆発の原因となります。</Battery.description>
+  <Battery.description>余剰電力を蓄えることができます。充電済みのバッテリーは、雨や火災に曝すと爆発の原因となります。</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
   <ChemfuelPoweredGenerator.label>火力発電 (化学燃料)</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>化学燃料を燃やして発電します。定期的に手で給油しなければなりません。</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>化学燃料を燃焼させてで発電します。 定期的に手で給油する必要があります。</ChemfuelPoweredGenerator.description>
   
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
-  <GeothermalGenerator.description>間欠泉の蒸気を使って発電します。間欠泉の上に設置しなければなりません。</GeothermalGenerator.description>
+  <GeothermalGenerator.description>間欠泉の蒸気を使って発電します。 間欠泉の上に設置する必要があります。</GeothermalGenerator.description>
   
   <!-- EN: power conduit -->
   <PowerConduit.label>電力線</PowerConduit.label>
@@ -49,6 +49,6 @@
   <!-- EN: wood-fired generator -->
   <WoodFiredGenerator.label>火力発電 (木材)</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>木材を燃やして発電します。定期的に手で薪をくべなければなりません。</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>木材を燃焼させて発電します。定期的に手で薪をくべる必要があります。</WoodFiredGenerator.description>
   
 </LanguageData>
