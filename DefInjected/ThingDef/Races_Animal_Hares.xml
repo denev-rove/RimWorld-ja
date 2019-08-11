@@ -5,10 +5,9 @@
   <Hare.label>野兎</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>この小型の草食動物は単独で行動し、素早く飛び跳ねて危険から遠ざかります。</Hare.description>
+  <Hare.race.meatLabel>兎肉</Hare.race.meatLabel>
   <!-- EN: head -->
   <Hare.tools.head.label>頭部</Hare.tools.head.label>
-  
-  <Hare.race.meatLabel>兎肉</Hare.race.meatLabel>
   
   <!-- EN: snowhare -->
   <Snowhare.label>雪兎</Snowhare.label>

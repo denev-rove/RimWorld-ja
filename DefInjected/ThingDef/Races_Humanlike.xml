@@ -5,6 +5,7 @@
   <Human.label>人間</Human.label>
   <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
   <Human.description>標準的な人類です。ほとんどの者は遺伝子操作されておらず、地球外環境からの淘汰圧による影響も受けていません。</Human.description>
+  <Human.race.meatLabel>&#xA0;人肉</Human.race.meatLabel>
   <!-- EN: left fist -->
   <Human.tools.left_fist.label>左拳</Human.tools.left_fist.label>
   <!-- EN: right fist -->
@@ -13,7 +14,5 @@
   <Human.tools.teeth.label>歯</Human.tools.teeth.label>
   <!-- EN: head -->
   <Human.tools.head.label>頭部</Human.tools.head.label>
-  
-  <Human.race.meatLabel>&#xA0;人肉</Human.race.meatLabel>
   
 </LanguageData>
