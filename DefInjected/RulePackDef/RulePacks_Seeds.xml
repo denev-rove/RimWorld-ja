@@ -20,22 +20,22 @@
     <li>r_seed->[Community]</li>
   -->
   <SeedGenerator.rulePack.rulesStrings>
-    <li>r_seed(p=3)->[NamePerson]</li>
-    <li>r_seed->[Animal]</li>
-    <li>r_seed->[TerrainFeature]</li>
-    <li>r_seed->[PersonJob]</li>
-    <li>r_seed->[Enemy]</li>
-    <li>r_seed->[Gore]</li>
-    <li>r_seed->[Apparel]</li>
-    <li>r_seed->[AdjectiveAny]</li>
-    <li>r_seed->[ConceptAny]</li>
-    <li>r_seed->[Weapon]</li>
-    <li>r_seed->[Color]</li>
-    <li>r_seed->[Vegetable]</li>
-    <li>r_seed->[Game]</li>
-    <li>r_seed->[businessname]</li>
-    <li>r_seed->[businesstype]</li>
-    <li>r_seed->[Community]</li>
+    <li>r_seed(p=6)->[NamePerson]</li>
+    <li>r_seed(p=.5)->[Animal]</li>
+    <li>r_seed(p=.5)->[TerrainFeature]</li>
+    <li>r_seed(p=.5)->[PersonJob]</li>
+    <li>r_seed(p=.5)->[Enemy]</li>
+    <li>r_seed(p=.5)->[Gore]</li>
+    <li>r_seed(p=.5)->[Apparel]</li>
+    <li>r_seed(p=.5)->[AdjectiveAny]</li>
+    <li>r_seed(p=.5)->[ConceptAny]</li>
+    <li>r_seed(p=.5)->[Weapon]</li>
+    <li>r_seed(p=.5)->[Color]</li>
+    <li>r_seed(p=.5)->[Vegetable]</li>
+    <li>r_seed(p=.5)->[Game]</li>
+    <li>r_seed(p=.5)->[businessname]</li>
+    <li>r_seed(p=.5)->[businesstype]</li>
+    <li>r_seed(p=.5)->[Community]</li>
     <li>r_seed(p=2)->[Color][Animal]</li>
     <li>r_seed(p=2)->[Color]の[TerrainFeature]</li>
     <li>r_seed(p=2)->[AdjectiveAny][PersonJob]</li>
