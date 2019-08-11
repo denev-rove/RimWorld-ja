@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>自動保存中</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>冬眠カプセルで眠るあなた達三人は、警報音と船体が引き裂かれる音で目覚めます。あなた達は宇宙船がバラバラに四散する前に、かろうじて脱出ポッドに乗り込みます。少しの時を経て、あなた達は、この未知なる辺境世界に着陸します。\n\n寸断された宇宙船の破片があなたの周囲に墜落すると、あなたはこれから生き延びるための方策を練り始めます。</GameStartDialog>
+  <GameStartDialog>冬眠カプセルで眠るあなた達三人は､警報音と船体が引き裂かれる音で目覚めました｡あなた達は宇宙船がバラバラに四散する前に､かろうじて脱出ポッドに乗り込みました｡しばらくして､あなた達は､この未知なる&lt;color=orange>辺境星域&lt;/color>の星に着陸しました｡\n\n寸断された宇宙船の破片があなたの周囲に墜落すると､あなたはこれから生き延びるための方策を練り始めました｡</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>あなたのコロニー</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
