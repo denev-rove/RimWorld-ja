@@ -120,10 +120,10 @@
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定は別のゾーンにペーストできます。</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定は別のゾーンに貼り付けできます。</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>貼り付け</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
   <CommandPasteZoneSettingsDesc>クリップボードにコピーしたゾーン設定を、このゾーンに上書きします。</CommandPasteZoneSettingsDesc>
 

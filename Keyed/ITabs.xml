@@ -57,7 +57,7 @@
   <!-- EN: Plant -->
   <PlantVerb>植物</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>ここにはペーストできません.</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>ここには貼り付けできません。</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>上へ</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -69,7 +69,7 @@
   <!-- EN: Suspend -->
   <SuspendBillTip>一時停止</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>ペースト</PasteBillTip>
+  <PasteBillTip>貼り付け</PasteBillTip>
   <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>これ以上追加できません</PasteBillTip_LimitReached>
 
