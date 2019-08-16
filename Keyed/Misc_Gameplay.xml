@@ -641,11 +641,11 @@
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
-  <Indoors>室温</Indoors>
+  <Indoors>屋内</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>室温 (屋根なし)</IndoorsUnroofed>
+  <IndoorsUnroofed>屋内 (屋根なし)</IndoorsUnroofed>
   <!-- EN: Outdoors -->
-  <Outdoors>外気温</Outdoors>
+  <Outdoors>屋外</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->

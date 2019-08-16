@@ -103,19 +103,19 @@
   <!-- EN: Rename -->
   <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
   <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>このゾーンの名前を変更します。</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>このゾーンの名前を変更します｡</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
   <CommandHideZoneLabel>非表示</CommandHideZoneLabel>
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>このゾーンの表示/非表示を切り替えます。</CommandHideZoneDesc>
+  <CommandHideZoneDesc>このゾーンの表示/非表示を切り替えます｡</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>ゾーン 削除</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>このゾーン自体を削除します。</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>このゾーン自体を削除します｡</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
@@ -270,7 +270,7 @@
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>作物: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
   

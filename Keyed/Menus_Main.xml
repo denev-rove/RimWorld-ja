@@ -77,7 +77,7 @@
   <!-- EN: Reset -->
   <Reset>リセット</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>地表データの生成範囲</PlanetCoverage>
+  <PlanetCoverage>惑星表面の陸地率</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>平均降水量</PlanetRainfall>
   <!-- EN: Overall temperature -->
@@ -169,7 +169,7 @@
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>順序変更はドラッグする</DragToReorder>
+  <DragToReorder>ドラッグすれば順序を変更できます｡</DragToReorder>
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
@@ -361,7 +361,7 @@
   <!-- EN: Advanced -->
   <Advanced>高度な設定</Advanced>
   <!-- EN: Next -->
-  <Next>次</Next>
+  <Next>次へ</Next>
   <!-- EN: Back -->
   <Back>戻る</Back>
   <!-- EN: Gameplay -->
@@ -379,7 +379,7 @@
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>世界を生成しています</GeneratingWorld>
+  <GeneratingWorld>世界を創造しています</GeneratingWorld>
   <!-- EN: Generating planet -->
   <GeneratingPlanet>惑星を生成しています</GeneratingPlanet>
   <!-- EN: Generating map -->

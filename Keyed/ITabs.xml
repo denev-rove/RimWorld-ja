@@ -3,7 +3,7 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>加工</TabBills>
+  <TabBills>指示書</TabBills>
   <!-- EN: Growing -->
   <TabGrowing>農耕</TabGrowing>
   <!-- EN: Bio -->
@@ -45,9 +45,9 @@
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>新しい加工</AddBill>
+  <AddBill>新規の指示書</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>{0}には､スキルが不足しています｡\n必要なスキルを習得している入植者がいないため､実行できる者が誰もいません｡</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>必要スキル</MinimumSkill>
   <!-- EN: SUSPENDED -->

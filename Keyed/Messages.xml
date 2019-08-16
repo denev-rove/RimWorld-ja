@@ -45,7 +45,7 @@
   <MessageNeedBeaconToTradeWithShip>軌道商船との取引には電源の入った軌道貿易ビーコンが必要です。</MessageNeedBeaconToTradeWithShip>
 
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>作業終了：{0}</MessageBillComplete>
+  <MessageBillComplete>作業完了:&#xA0;{0}</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
   <MessageFullyHealed>{1_label}の怪我が完治しました。</MessageFullyHealed>

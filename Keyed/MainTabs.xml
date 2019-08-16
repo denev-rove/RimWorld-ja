@@ -57,7 +57,7 @@
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>この生物は肉食獣です。空腹になれば、小動物を襲います&#xA0;-&#xA0;あるいは、人間も。</IsPredator>
+  <IsPredator>この生物は肉食獣です。空腹になれば、小動物を襲います。…あるいは、人間も。</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->

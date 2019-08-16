@@ -55,7 +55,7 @@
   <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>この人物は既に登録済みです。</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>脚本家 選択</ChangeStoryteller>
+  <ChangeStoryteller>脚本家 変更</ChangeStoryteller>
   <!-- EN: Autosave interval -->
   <AutosaveInterval>自動保存間隔</AutosaveInterval>
   <!-- EN: Temperature mode -->
