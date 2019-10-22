@@ -4,7 +4,7 @@
   <!-- EN: bearskin -->
   <Leather_Bear.label>熊の毛皮</Leather_Bear.label>
   <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
-  <Leather_Bear.description>丈夫な熊の毛皮です｡大抵の革と比べても相当に頑丈で､体温調節機能も少しだけ優れています｡</Leather_Bear.description>
+  <Leather_Bear.description>丈夫な熊の毛皮です｡大抵の革と比べても相当に頑丈で､体温調節機能にも少しだけ優れています｡</Leather_Bear.description>
   <Leather_Bear.stuffProps.stuffAdjective>熊の毛皮製 </Leather_Bear.stuffProps.stuffAdjective>
   
   <!-- EN: birdskin -->
@@ -40,13 +40,13 @@
   <!-- EN: elephant leather -->
   <Leather_Elephant.label>象の革</Leather_Elephant.label>
   <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
-  <Leather_Elephant.description>脂を削ぎ落とし､なめして乾燥させた象の皮です｡とても丈夫ですが､断熱効果は薄いようです｡</Leather_Elephant.description>
+  <Leather_Elephant.description>脂を削ぎ落とし､なめして乾燥させた象の皮です｡とても丈夫ですが､断熱効果には乏しいようです｡</Leather_Elephant.description>
   <Leather_Elephant.stuffProps.stuffAdjective>象革製 </Leather_Elephant.stuffProps.stuffAdjective>
   
   <!-- EN: foxfur -->
   <Leather_Fox.label>狐の毛皮</Leather_Fox.label>
   <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
-  <Leather_Fox.description>狐の毛皮です｡寒さをよく防ぐ､とても贅沢な品です｡高値で取引されます｡</Leather_Fox.description>
+  <Leather_Fox.description>狐の毛皮です｡寒さを防ぐことに適した､とても贅沢な品です｡高値で取引されています｡</Leather_Fox.description>
   <Leather_Fox.stuffProps.stuffAdjective>狐の毛皮製 </Leather_Fox.stuffProps.stuffAdjective>
   
   <!-- EN: heavy fur -->
@@ -58,13 +58,13 @@
   <!-- EN: human leather -->
   <Leather_Human.label>人皮</Leather_Human.label>
   <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Human.description>脂を削ぎ落とし､なめして乾燥させた人間の皮です｡大抵の人間は､この素材に恐怖を覚えます｡中にはこれに魅入られる者もいます｡革素材として見劣りはしませんが､とりわけ断熱効果や保護効果に優れているということもありません｡</Leather_Human.description>
+  <Leather_Human.description>脂を削ぎ落とし､なめして乾燥させた人間の皮です｡大抵の人間は､この素材に恐怖を覚えます｡中にはこれに魅入られる者もいます｡\n\n革素材として見劣りこそしませんが､特に断熱効果や保護効果に優れているということもありません｡</Leather_Human.description>
   <Leather_Human.stuffProps.stuffAdjective>人皮製 </Leather_Human.stuffProps.stuffAdjective>
   
   <!-- EN: lightleather -->
   <Leather_Light.label>軽量な革</Leather_Light.label>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
-  <Leather_Light.description>軽量な薄手の革です｡おそらく小動物から剥ぎ取ったものです｡厚い革ほどの身を守る効果はありません｡</Leather_Light.description>
+  <Leather_Light.description>軽量な薄手の革です｡おそらく小動物から剥ぎ取ったものです｡厚い革ほど身を守る効果はありません｡</Leather_Light.description>
   <Leather_Light.stuffProps.stuffAdjective>軽皮製 </Leather_Light.stuffProps.stuffAdjective>
   
   <!-- EN: lizardskin -->
@@ -76,19 +76,19 @@
   <!-- EN: panthera fur -->
   <Leather_Panthera.label>豹の毛皮</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
-  <Leather_Panthera.description>ネコ科の大型種から剥ぎ取った柔らかな毛皮です｡突き通すのが難しいほど丈夫で､暑さを防ぐ効果に優れています｡</Leather_Panthera.description>
+  <Leather_Panthera.description>ネコ科の大型種から剥ぎ取った柔らかな毛皮です｡突き通すのが難しいほど丈夫で暑さを防ぐ効果に優れています｡</Leather_Panthera.description>
   <Leather_Panthera.stuffProps.stuffAdjective>豹革製 </Leather_Panthera.stuffProps.stuffAdjective>
   
   <!-- EN: patchleather -->
   <Leather_Patch.label>継ぎ合わせた革</Leather_Patch.label>
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
-  <Leather_Patch.description>様々な種類の革を切り揃え､縫い合わせて作った革素材です｡もとの革の種類が何であれ､不規則な縫い目のせいで､断熱効果や保護効果は､どんな種類の一枚革にも及びません｡</Leather_Patch.description>
+  <Leather_Patch.description>様々な種類の革を切り揃え､縫い合わせて作った革素材です｡もとの革の種類が何であれ､不規則な縫い目のせいで断熱効果や保護効果は低めです｡どんな種類の一枚革にも及びません｡</Leather_Patch.description>
   <Leather_Patch.stuffProps.stuffAdjective>継ぎ革製 </Leather_Patch.stuffProps.stuffAdjective>
   
   <!-- EN: pigskin -->
   <Leather_Pig.label>豚の革</Leather_Pig.label>
   <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Pig.description>脂を削ぎ落とし､なめして乾燥させた豚の皮です｡革素材として見劣りはしませんが､とりわけ断熱効果や保護効果に優れているということもありません｡</Leather_Pig.description>
+  <Leather_Pig.description>脂を削ぎ落とし､なめして乾燥させた豚の皮です｡革素材として見劣りこそしませんが､特に断熱効果や保護効果に優れているということもありません｡</Leather_Pig.description>
   <Leather_Pig.stuffProps.stuffAdjective>豚革製 </Leather_Pig.stuffProps.stuffAdjective>
   
   <!-- EN: plainleather -->
@@ -100,7 +100,7 @@
   <!-- EN: rhinoceros leather -->
   <Leather_Rhinoceros.label>犀の革</Leather_Rhinoceros.label>
   <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
-  <Leather_Rhinoceros.description>脂を削ぎ落とし､なめして乾燥させた犀の皮です｡戦闘における頑丈さは群を抜いていますが､断熱効果はそれほどありません｡</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.description>脂を削ぎ落とし､なめして乾燥させた犀の皮です｡戦闘における頑丈さは群を抜いていますが､断熱効果はあまりありません｡</Leather_Rhinoceros.description>
   <Leather_Rhinoceros.stuffProps.stuffAdjective>犀革製 </Leather_Rhinoceros.stuffProps.stuffAdjective>
   
   <!-- EN: thrumbofur -->
@@ -112,7 +112,7 @@
   <!-- EN: wolfskin -->
   <Leather_Wolf.label>狼の毛皮</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>狼から剥ぎ取った柔らかな毛皮です｡突き通すのが難しいほど丈夫で､寒さを防ぐ効果に優れています｡</Leather_Wolf.description>
+  <Leather_Wolf.description>狼から剥ぎ取った柔らかな毛皮です｡突き通すのが難しいほど丈夫で､寒さに対する保温性に優れています｡</Leather_Wolf.description>
   <Leather_Wolf.stuffProps.stuffAdjective>狼の毛皮製 </Leather_Wolf.stuffProps.stuffAdjective>
   
 </LanguageData>

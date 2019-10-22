@@ -14,12 +14,12 @@
   <!-- EN: lavish meal -->
   <MealLavish.label>豪華な食事</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>料理という芸術の最高傑作です｡身も心も､そして魂までも癒します｡</MealLavish.description>
+  <MealLavish.description>料理という芸術が極めた､最高傑作です｡身も心も､そして魂までも癒します｡</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>栄養ペースト</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>蛋白質､炭水化物､ビタミン､アミノ酸､ミネラルをバランスよく配合した食品です｡必要な栄養素は全て含まれていますが､うんざりするほど不味いです｡</MealNutrientPaste.description>
+  <MealNutrientPaste.description>蛋白質､炭水化物､ビタミン､アミノ酸､ミネラルをバランスよく配合した食品です｡必要な栄養素はすべて含まれていますが､うんざりするほど不味いです｡</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
   <MealSimple.label>簡単な食事</MealSimple.label>
@@ -29,11 +29,11 @@
   <!-- EN: packaged survival meal -->
   <MealSurvivalPack.label>非常用食品</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>高品質の密封食品で､非常時の利用を想定して作られています｡腐敗しませんが､野外に放置すれば劣化します｡旅に最適です｡</MealSurvivalPack.description>
+  <MealSurvivalPack.description>高品質の密封食品で､非常時の利用を想定して作られています｡腐敗はしませんが､野外に放置すれば劣化します｡旅の食事に最適です｡</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>ペミカン</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>脂肪と植物を混ぜ合わせて､すり潰した保存食です｡風味は乏しいですが､まずくはありません｡常温で非常に長い期間､保存できます｡旅に最適です｡</Pemmican.description>
+  <Pemmican.description>食べられる脂肪と植物を擂り潰して､混ぜ合わせた保存食です｡風味は乏しいですが不味いというほどではありません｡常温で非常に長期間､保存できます｡旅の食事に最適です｡</Pemmican.description>
   
 </LanguageData>

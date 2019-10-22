@@ -19,7 +19,7 @@
   <!-- EN: herbal medicine -->
   <MedicineHerbal.label>薬草</MedicineHerbal.label>
   <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>植物の癒し根から抽出した薬草の調合物です｡医薬品より薬効は劣りますが､なにも使わないよりはずっと良いです｡</MedicineHerbal.description>
+  <MedicineHerbal.description>植物の&lt;color=cyan>癒し根&lt;/color>から抽出した薬草の調合物です｡医薬品より薬効は劣りますが､なにも使わないよりはずっとましです｡</MedicineHerbal.description>
   
   <!-- EN: medicine -->
   <MedicineIndustrial.label>医薬品</MedicineIndustrial.label>
@@ -29,7 +29,7 @@
   <!-- EN: glitterworld medicine -->
   <MedicineUltratech.label>超科学医薬品</MedicineUltratech.label>
   <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
-  <MedicineUltratech.description>発達した超科学における医療用品の一式です｡おそらく遠く離れたグリッターワールドで製造されたものです｡内容物は､進歩した多形薬品､診断と治療を補助するナノマシン､小型の撮像装置､そして豊富な種類の多目的用具類です｡</MedicineUltratech.description>
+  <MedicineUltratech.description>発達した超科学における医療用品の一式です｡おそらく遠く離れた&lt;color=orange>グリッター星域&lt;/color>で製造されたものです｡内容物は､進歩した多形薬品､診断と治療を補助するナノマシン､小型の撮像装置､そして豊富な種類の多目的用具類です｡</MedicineUltratech.description>
   
   <!-- EN: neutroamine -->
   <Neutroamine.label>ニュートロアミン</Neutroamine.label>

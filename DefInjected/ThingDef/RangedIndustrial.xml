@@ -81,7 +81,7 @@
   <!-- EN: heavy SMG -->
   <Gun_HeavySMG.label>サブマシンガン</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
-  <Gun_HeavySMG.description>小型ながら､口径の広いスラグ弾を発射する短機関銃です｡射程はとても短いですが､決定力があり取り回しにも優れます｡</Gun_HeavySMG.description>
+  <Gun_HeavySMG.description>小型ながら､口径の広いスラグ弾を発射できる短機関銃です｡射程はとても短いですが､決定力があり取り回しにも優れます｡</Gun_HeavySMG.description>
   <!-- EN: grip -->
   <Gun_HeavySMG.tools.grip.label>銃把</Gun_HeavySMG.tools.grip.label>
   <!-- EN: barrel -->
@@ -103,7 +103,7 @@
   <!-- EN: LMG -->
   <Gun_LMG.label>軽機関銃</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
-  <Gun_LMG.description>ガス圧作動式(燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種)の軽機関銃です｡いくぶん扱いづらく精度も低いですが長時間の連射が可能で多数の敵に対して効果的です｡</Gun_LMG.description>
+  <Gun_LMG.description>ガス圧作動式(燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種)の軽機関銃です｡いくぶん扱いづらく精度も低いですが､長時間の連射が可能で多数の敵に対して効果的です｡</Gun_LMG.description>
   <!-- EN: stock -->
   <Gun_LMG.tools.stock.label>銃床</Gun_LMG.tools.stock.label>
   <!-- EN: barrel -->
@@ -156,7 +156,7 @@
   <!-- EN: sniper rifle -->
   <Gun_SniperRifle.label>狙撃銃</Gun_SniperRifle.label>
   <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
-  <Gun_SniperRifle.description>太古の設計による精密狙撃銃です｡ボルトアクション方式(遊底を手動で操作して弾薬の装填と排莢を行う方式)です｡特別に長い射程を持ち､狙いも正確で威力も申し分ありません｡そのため取り回しには劣り､近距離では他の武器に全く及びません｡</Gun_SniperRifle.description>
+  <Gun_SniperRifle.description>太古の設計による精密狙撃銃です｡ボルトアクション方式(遊底を手動で操作して弾薬の装填と排莢を行う仕組み)です｡特別に長い射程を持ち､狙いも正確で威力も申し分ありません｡そのため取り回しには劣り､近距離では他の武器に全く及びません｡</Gun_SniperRifle.description>
   <!-- EN: stock -->
   <Gun_SniperRifle.tools.stock.label>銃床</Gun_SniperRifle.tools.stock.label>
   <!-- EN: barrel -->

@@ -19,7 +19,7 @@
   <!-- EN: antigrain warhead -->
   <Shell_AntigrainWarhead.label>反物質弾頭</Shell_AntigrainWarhead.label>
   <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_AntigrainWarhead.description>反物質粒子を利用した超科学の弾頭です｡通常は宇宙船やグリッターワールドの戦争兵器に使われるもので､巨大な爆発を起こして目標の周囲を火の海にします｡迫撃砲から撃ち出したり､あるいは罠として設置することができます｡破損すると爆発します｡</Shell_AntigrainWarhead.description>
+  <Shell_AntigrainWarhead.description>反物質粒子を利用した超科学の弾頭です｡通常は宇宙船や&lt;color=orange>グリッター星域&lt;/color>の戦争兵器に使われるもので､巨大な爆発を起こして目標の周囲を火の海にします｡迫撃砲から撃ち出したり､あるいは罠として設置することができます｡破損すると爆発します｡</Shell_AntigrainWarhead.description>
   
   <!-- EN: EMP shell -->
   <Shell_EMP.label>EMP弾</Shell_EMP.label>

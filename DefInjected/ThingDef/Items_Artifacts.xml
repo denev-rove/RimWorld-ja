@@ -11,21 +11,21 @@
   <!-- EN: psychic insanity lance -->
   <PsychicInsanityLance.label>狂える思念の槍</PsychicInsanityLance.label>
   <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicInsanityLance.description>使い捨ての思念波投射装置です｡標的となった者の知覚を捻じ曲げて心を恐怖で圧倒し､狂暴化へと駆り立てます｡脳に障碍が残る危険があります｡離れた相手にも使用でき､障害物があっても無視します｡</PsychicInsanityLance.description>
+  <PsychicInsanityLance.description>使い捨ての思念波投射装置です｡標的となった者の知覚を捻じ曲げて心を恐怖で圧倒し､狂暴化へと駆り立てます｡脳に後遺症が残る危険があります｡離れた相手にも使用でき､障害物があっても無視します｡</PsychicInsanityLance.description>
   <!-- EN: Activate -->
   <PsychicInsanityLance.comps.CompUsable.useLabel>力を解放する</PsychicInsanityLance.comps.CompUsable.useLabel>
   
   <!-- EN: psychic shock lance -->
   <PsychicShockLance.label>衝撃の思念の槍</PsychicShockLance.label>
   <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicShockLance.description>使い捨ての思念波投射装置です｡標的となった者の心に混沌とした心象を映して衝撃を与え､正常な認知を阻害し､思念波によるショック状態に陥らせます｡脳に障碍が残る危険があります｡離れた相手にも使用でき､障害物があっても無視します｡</PsychicShockLance.description>
+  <PsychicShockLance.description>使い捨ての思念波投射装置です｡標的となった者の心に混沌とした心象を映して衝撃を与え､正常な認知を阻害し､思念波によるショック状態に陥らせます｡脳に後遺症が残る危険があります｡離れた相手にも使用でき､障害物があっても無視します｡</PsychicShockLance.description>
   <!-- EN: Activate -->
   <PsychicShockLance.comps.CompUsable.useLabel>力を解放する</PsychicShockLance.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>鎮める思念の波動器</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>広範囲に影響を及ぼす､使い捨ての思念波放射装置です｡思念波のパルスが知覚を捻じ曲げ､自分自身に対する満足感を誘発し､この地域にいる全ての者に一時的な心情の改善をもたらします｡</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>広範囲に影響を及ぼす､使い捨ての思念波放射装置です｡思念波のパルスが知覚を捻じ曲げて自己肯定感を誘発し､この地域にいる全ての者に一時的な心情の改善をもたらします｡</PsychicSoothePulser.description>
   <!-- EN: Activate -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>力を解放する</PsychicSoothePulser.comps.CompUsable.useLabel>
   

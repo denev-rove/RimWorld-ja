@@ -4,16 +4,16 @@
   <!-- EN: AI persona core -->
   <AIPersonaCore.label>AI人格コア</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>人類最高峰に匹敵するAIを収めた､非常に高度なコンピュータコアです｡単体では休止状態にありますが､コアに対応した然るべき構造物に取り付ければ､大いなる知性体へと変貌します｡</AIPersonaCore.description>
+  <AIPersonaCore.description>人類最高峰に匹敵するAIを収めた､非常に高度なコンピューターコアです｡単体では休止状態にありますが､コアに対応した然るべき構造物に取り付ければ､大いなる知性体へと変貌します｡</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>象牙</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
   <ElephantTusk.description>象の牙です｡とても頑丈で価値のあるものです｡近接武器としては少し扱いづらい面もありますが､それでも威力は十分です｡</ElephantTusk.description>
   <!-- EN: point -->
-  <ElephantTusk.tools.point.label>突起</ElephantTusk.tools.point.label>
+  <ElephantTusk.tools.point.label>先端</ElephantTusk.tools.point.label>
   <!-- EN: base -->
-  <ElephantTusk.tools.base.label>基部</ElephantTusk.tools.base.label>
+  <ElephantTusk.tools.base.label>本体</ElephantTusk.tools.base.label>
   
   <!-- EN: healer mech serum -->
   <MechSerumHealer.label>治療用メカナイト製剤</MechSerumHealer.label>
@@ -37,19 +37,19 @@
   <MechSerumResurrector.comps.CompUsable.useLabel>蘇生用メカナイト製剤を使う</MechSerumResurrector.comps.CompUsable.useLabel>
   
   <!-- EN: techprof subpersona core -->
-  <TechprofSubpersonaCore.label>研究AI亜人格コア</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.label>研究用亜人格コア</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-  <TechprofSubpersonaCore.description>テクノロジーの教育に特化した低級の疑似人格を収めた､小型の人工知能コアです｡使用すると､いま研究中のプロジェクトが即座に完了します｡使い捨てです｡</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.description>科学技術の教育に特化された低級の疑似人格を収めた､小型の人工知能コアです｡使用すると､いま研究中のプロジェクトが即座に完了します｡使い捨てです｡</TechprofSubpersonaCore.description>
   <!-- EN: Use techprof subpersona core -->
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>研究AI亜人格コアを使う</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>研究用亜人格コアを使う</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>スランボの角</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
   <ThrumboHorn.description>スランボの角です｡非常に鋭く､岩のように硬く､大抵のマーケットでは値がつきません｡致命的な近接武器であり､真の意味での戦利品でもあります｡</ThrumboHorn.description>
   <!-- EN: point -->
-  <ThrumboHorn.tools.point.label>突起</ThrumboHorn.tools.point.label>
+  <ThrumboHorn.tools.point.label>先端</ThrumboHorn.tools.point.label>
   <!-- EN: base -->
-  <ThrumboHorn.tools.base.label>基部</ThrumboHorn.tools.base.label>
+  <ThrumboHorn.tools.base.label>本体</ThrumboHorn.tools.base.label>
   
 </LanguageData>

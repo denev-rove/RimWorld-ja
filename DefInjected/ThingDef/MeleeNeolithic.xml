@@ -6,18 +6,18 @@
   <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
   <MeleeWeapon_Club.description>両端の一方が重くなっていて､敵を殴打する形をした棒です｡この武器は極めて古く､人類生物学の一部となっています｡進化論の生物学者は､人類が手首を左右に（他の霊長類のように前後にではなく）傾けることができる主な理由は､棍棒を効果的に振り下ろすためだとしています｡</MeleeWeapon_Club.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Club.tools.handle.label>柄</MeleeWeapon_Club.tools.handle.label>
+  <MeleeWeapon_Club.tools.handle.label>柄尻</MeleeWeapon_Club.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Club.tools.head.label>頭</MeleeWeapon_Club.tools.head.label>
+  <MeleeWeapon_Club.tools.head.label>槌頭</MeleeWeapon_Club.tools.head.label>
   
   <!-- EN: ikwa -->
-  <MeleeWeapon_Ikwa.label>イクワ</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.label>イクルワ</MeleeWeapon_Ikwa.label>
   <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
   <MeleeWeapon_Ikwa.description>短い柄に刃渡りの長い穂先が取り付けられた武器で､素早く突き刺すことで体内の急所を狙えるように作られています｡</MeleeWeapon_Ikwa.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Ikwa.tools.handle.label>柄</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.handle.label>柄尻</MeleeWeapon_Ikwa.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Ikwa.tools.head.label>頭</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.head.label>穂先</MeleeWeapon_Ikwa.tools.head.label>
   <!-- EN: edge -->
   <MeleeWeapon_Ikwa.tools.edge.label>刃</MeleeWeapon_Ikwa.tools.edge.label>
   
@@ -26,19 +26,19 @@
   <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
   <MeleeWeapon_Knife.description>人類が生み出した最古に属する道具です｡ナイフは様々な形態を経てきましたが､考え方は常に同じままです｡即ち､手で握るための柄と､物を切るための鋭い刃です｡</MeleeWeapon_Knife.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Knife.tools.handle.label>柄</MeleeWeapon_Knife.tools.handle.label>
+  <MeleeWeapon_Knife.tools.handle.label>柄尻</MeleeWeapon_Knife.tools.handle.label>
   <!-- EN: blade -->
   <MeleeWeapon_Knife.tools.blade.label>刃</MeleeWeapon_Knife.tools.blade.label>
   <!-- EN: point -->
-  <MeleeWeapon_Knife.tools.point.label>先</MeleeWeapon_Knife.tools.point.label>
+  <MeleeWeapon_Knife.tools.point.label>切っ先</MeleeWeapon_Knife.tools.point.label>
   
   <!-- EN: spear -->
   <MeleeWeapon_Spear.label>槍</MeleeWeapon_Spear.label>
   <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
   <MeleeWeapon_Spear.description>敵を突き刺すために､鋭く尖った先端を取り付けた長柄の武器です｡</MeleeWeapon_Spear.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Spear.tools.shaft.label>軸</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.shaft.label>長柄</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: point -->
-  <MeleeWeapon_Spear.tools.point.label>先</MeleeWeapon_Spear.tools.point.label>
+  <MeleeWeapon_Spear.tools.point.label>穂先</MeleeWeapon_Spear.tools.point.label>
   
 </LanguageData>

@@ -20,7 +20,7 @@
   <!-- EN: frag grenades -->
   <Weapon_GrenadeFrag.label>破片手榴弾</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
-  <Weapon_GrenadeFrag.description>昔から使われてきた破片手榴弾です｡あまり遠くまでは投げられませんが､炸裂すれば周囲の人や物に見境なく損害を与えます｡</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.description>古式ゆかしい破片手榴弾です｡あまり遠くまでは投げられませんが､炸裂すれば周囲の人や物に対して無差別に損害を与えます｡</Weapon_GrenadeFrag.description>
   <!-- EN: frag grenades -->
   <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>破片手榴弾</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   
