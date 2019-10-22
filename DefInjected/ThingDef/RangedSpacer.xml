@@ -10,7 +10,7 @@
   <!-- EN: charge lance -->
   <Gun_ChargeLance.label>荷電ランス</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>パルス荷電と電磁誘導加速（レールガン）の機構を持つ、槍状の武器です。高速度の弾体を単発で射出します。弾体が加速軌道を通過する際に不安定なエネルギーを荷電し、威力を高めています。</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>パルス荷電と電磁誘導加速(レールガン)の機構を持つ､槍状の武器です｡高速度の弾体を単発で射出します｡弾体が加速軌道を通過する際に不安定なエネルギーを荷電し､威力を高めています｡</Gun_ChargeLance.description>
   <!-- EN: barrel -->
   <Gun_ChargeLance.tools.barrel.label>銃身</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
@@ -19,7 +19,7 @@
   <!-- EN: charge rifle -->
   <Gun_ChargeRifle.label>荷電ライフル</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>パルス荷電された銃弾を撃ち出すアサルトライフルです。パルス荷電兵器の研究をもとに、銃身を通過する銃弾に対して不安定なエネルギーを荷電します。荷電エネルギーは着弾の瞬間に解放され、威力を大きく増します。</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>パルス荷電された銃弾を撃ち出すアサルトライフルです｡パルス荷電兵器の研究をもとに､銃身を通過する銃弾に対して不安定なエネルギーを荷電します｡荷電エネルギーは着弾の瞬間に解放され､威力を大きく増します｡</Gun_ChargeRifle.description>
   <!-- EN: stock -->
   <Gun_ChargeRifle.tools.stock.label>銃床</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->

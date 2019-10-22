@@ -10,7 +10,7 @@
   <!-- EN: broken up with by {0} -->
   <BrokeUpWithMeMood.stages.broken_up_with_by.label>{0}に振られた</BrokeUpWithMeMood.stages.broken_up_with_by.label>
   <!-- EN: I was just dumped like a load of garbage. -->
-  <BrokeUpWithMeMood.stages.broken_up_with_by.description>まるでゴミでも捨てるかのように振られた。</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>まるでゴミでも捨てるかのように振られた｡</BrokeUpWithMeMood.stages.broken_up_with_by.description>
   
   <!-- EN: cheated on me -->
   <CheatedOnMe.stages.cheated_on_me.label>裏切られた</CheatedOnMe.stages.cheated_on_me.label>
@@ -35,7 +35,7 @@
   <!-- EN: divorced by {0} -->
   <DivorcedMeMood.stages.divorced_by.label>{0}と離婚した</DivorcedMeMood.stages.divorced_by.label>
   <!-- EN: We made a commitment, and they just tore it apart. -->
-  <DivorcedMeMood.stages.divorced_by.description>私たちは将来を誓い合ったのに、引き裂かれてしまった。</DivorcedMeMood.stages.divorced_by.description>
+  <DivorcedMeMood.stages.divorced_by.description>私たちは将来を誓い合ったのに､引き裂かれてしまった｡</DivorcedMeMood.stages.divorced_by.description>
   
   <!-- EN: failed to romance me -->
   <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>交際が上手く行かなかった</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
@@ -43,7 +43,7 @@
   <!-- EN: had to rebuff {0} -->
   <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>{0}を拒絶した</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
   <!-- EN: Someone I don't like tried to romance me. -->
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>嫌いな奴が私に言い寄ってきた。</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>嫌いな奴が私に言い寄ってきた｡</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
   
   <!-- EN: forced me to take drugs -->
   <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>ドラッグを投与された</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
@@ -51,7 +51,7 @@
   <!-- EN: forced to take drugs -->
   <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>ドラッグを投与された</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
   <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
-  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>ドラッグ嫌いの私は、決して薬物に手を出さない。なのに勝手に投与された！私は穢れてしまった気がする。</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>ドラッグ嫌いの私は､決して薬物に手を出さない｡なのに勝手に投与された！私は穢れてしまった気がする｡</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
   
   <!-- EN: forced me to take luciferium -->
   <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>ルシフェリウムを投与された</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
@@ -59,12 +59,12 @@
   <!-- EN: forced to take luciferium -->
   <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>ルシフェリウムを投与された</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
   <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
-  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>自然体主義の私は、決してルシフェリウムに手を出さない。なのに勝手に投与された！私は穢れてしまった気がする。</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>自然体主義の私は､決してルシフェリウムに手を出さない｡なのに勝手に投与された！私は穢れてしまった気がする｡</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
   
   <!-- EN: got some lovin’ -->
   <GotSomeLovin.stages.got_some_lovin.label>愛を育んだ</GotSomeLovin.stages.got_some_lovin.label>
   <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
-  <GotSomeLovin.stages.got_some_lovin.description>ベッドの中で睦み合えば、最高に気分が高まります。</GotSomeLovin.stages.got_some_lovin.description>
+  <GotSomeLovin.stages.got_some_lovin.description>ベッドの中で睦み合えば､最高に気分が高まります｡</GotSomeLovin.stages.got_some_lovin.description>
   
   <!-- EN: angering fight -->
   <HadAngeringFight.stages.angering_fight.label>喧嘩した</HadAngeringFight.stages.angering_fight.label>
@@ -78,7 +78,7 @@
   <!-- EN: honeymoon phase -->
   <HoneymoonPhase.stages.honeymoon_phase.label>新婚</HoneymoonPhase.stages.honeymoon_phase.label>
   <!-- EN: It's so wonderful to be starting a new life together! -->
-  <HoneymoonPhase.stages.honeymoon_phase.description>二人一緒の新たな生活が始まるなんて、とても素敵だね！</HoneymoonPhase.stages.honeymoon_phase.description>
+  <HoneymoonPhase.stages.honeymoon_phase.description>二人一緒の新たな生活が始まるなんて､とても素敵だね！</HoneymoonPhase.stages.honeymoon_phase.description>
   
   <!-- EN: insulted -->
   <Insulted.stages.insulted.label>侮辱された</Insulted.stages.insulted.label>
@@ -158,7 +158,7 @@
   <!-- EN: my proposal was rejected by {0} -->
   <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>{0}に結婚を断られた</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
   <!-- EN: I thought we were meant to marry. But I was just shot down. -->
-  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>私たちは結婚するものだとばかり思っていた。でも断られてしまった。</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>私たちは結婚するものだとばかり思っていた｡でも断られてしまった｡</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
   
   <!-- EN: rescued me -->
   <RescuedMe.stages.rescued_me.label>助け出された</RescuedMe.stages.rescued_me.label>
@@ -176,7 +176,7 @@
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>最愛の人が売られた</SoldMyLovedOne.stages.loved_one_sold.label>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
-  <SoldMyLovedOne.stages.loved_one_sold.description>私の最愛の人が売り飛ばされてしまった。まるで肉でも売るみたいに！</SoldMyLovedOne.stages.loved_one_sold.description>
+  <SoldMyLovedOne.stages.loved_one_sold.description>私の最愛の人が売り飛ばされてしまった｡まるで肉でも売るみたいに！</SoldMyLovedOne.stages.loved_one_sold.description>
   <!-- EN: sold my loved one -->
   <SoldMyLovedOne.stages.loved_one_sold.labelSocial>最愛の人を売った</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   

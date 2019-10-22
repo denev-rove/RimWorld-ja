@@ -8,7 +8,7 @@
   <!-- EN: Year -->
   <ClockYear>星歴</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>惑星での生存日数: {0}\n\n暦上の節気: {4}\n実際の四季: {2}\n\n一年は4つの節気に分けられ、それぞれが{3}日間の長さを持ちます。暦上の節気は惑星上どの場所でも同じですが、四季の移ろいは緯度によって異なります。\n\n節気に対応する四季:\n{5}</DateReadoutTip>
+  <DateReadoutTip>惑星での生存日数: {0}\n\n暦上の節気: {4}\n実際の四季: {2}\n\n一年は4つの節気に分けられ､それぞれが{3}日間の長さを持ちます｡暦上の節気は惑星上どの場所でも同じですが､四季の移ろいは緯度によって異なります｡\n\n節気に対応する四季:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
   <FullDate>{2}年&#xA0;{1}&#xA0;{0}日</FullDate>

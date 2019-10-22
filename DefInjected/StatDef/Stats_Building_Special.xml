@@ -4,65 +4,65 @@
   <!-- EN: rest effectiveness -->
   <BedRestEffectiveness.label>眠りの質</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>ここで寝ることで、どれだけ速く睡眠の欲求を満たせるかです。</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>ここで寝ることで､どれだけ速く睡眠の欲求を満たせるかです｡</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>扉の開閉速度</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>この扉が、どれだけ速く開閉するかです。重い扉は通行する者すべての動きを遅くします。</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>この扉が､どれだけ速く開閉するかです｡重い扉は通行する者すべての動きを遅くします｡</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>免疫獲得への倍率</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>ここで休息する際に、免疫を獲得する速度に乗算する倍率です。</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>ここで休息する際に､免疫を獲得する速度に乗算する倍率です｡</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
   <JoyGainFactor.label>娯楽性能</JoyGainFactor.label>
   <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
-  <JoyGainFactor.description>この娯楽品が、どれくらい人々を楽しませ、娯楽の欲求を満たせるかです。</JoyGainFactor.description>
+  <JoyGainFactor.description>この娯楽品が､どれくらい人々を楽しませ､娯楽の欲求を満たせるかです｡</JoyGainFactor.description>
   
   <!-- EN: medical tend quality offset -->
   <MedicalTendQualityOffset.label>治療品質への加算値</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>ここで治療を行った際に、治療品質に上乗せされる固定値です。</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>ここで治療を行った際に､治療品質に上乗せされる固定値です｡</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>研究速度への倍率</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
-  <ResearchSpeedFactor.description>ここで研究を行う際に、研究速度に乗算する倍率です。</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>ここで研究を行う際に､研究速度に乗算する倍率です｡</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>手術成功への倍率</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>ここで手術を行う際に、手術成功率へ乗算する倍率です。手術成功率は、執刀医の能力、使用する医薬品など他の要因の影響も受けます。</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>ここで手術を行う際に､手術成功率へ乗算する倍率です｡手術成功率は､執刀医の能力､使用する医薬品など他の要因の影響も受けます｡</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>罠のダメージ量</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average. The actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>この罠が与えるダメージの平均量です。1回ごとのダメージは不規則に変動します。</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>この罠が与えるダメージの平均量です｡1回ごとのダメージは不規則に変動します｡</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>罠の作動率</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>罠に気付いていない生き物が通過した際に、罠が作動する確率です。</TrapSpringChance.description>
+  <TrapSpringChance.description>罠に気付いていない生き物が通過した際に､罠が作動する確率です｡</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>作業効率への倍率</WorkTableEfficiencyFactor.label>
   <!-- EN: Work efficiency is multiplied by this value. -->
-  <WorkTableEfficiencyFactor.description>作業効率に乗算する倍率です。</WorkTableEfficiencyFactor.description>
+  <WorkTableEfficiencyFactor.description>作業効率に乗算する倍率です｡</WorkTableEfficiencyFactor.description>
   
   <!-- EN: work speed factor -->
   <WorkTableWorkSpeedFactor.label>作業速度への倍率</WorkTableWorkSpeedFactor.label>
   <!-- EN: Work speed is multiplied by this value. -->
-  <WorkTableWorkSpeedFactor.description>作業速度に乗算する倍率です。</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.description>作業速度に乗算する倍率です｡</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
   <WorkToBuild.label>建設工数</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>この構造物を建設するのに必要となる作業量の基礎値です。建材を集める手間は含まれません。</WorkToBuild.description>
+  <WorkToBuild.description>この構造物を建設するのに必要となる作業量の基礎値です｡建材を集める手間は含まれません｡</WorkToBuild.description>
   
 </LanguageData>

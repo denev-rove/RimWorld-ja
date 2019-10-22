@@ -4,28 +4,28 @@
   <!-- EN: cook fine meal -->
   <CookMealFine.label>美味しい食事を作る</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>肉類と野菜類を組み合わせた食材を使い、いくぶん手の込んだ食事を作ります。</CookMealFine.description>
+  <CookMealFine.description>肉類と野菜類を組み合わせた食材を使い､いくぶん手の込んだ食事を作ります｡</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>美味しい食事を調理している</CookMealFine.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>豪華な食事を作る</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>肉類と野菜類を組み合わせた食材を使い、腕によりをかけた食事を作ります。素材を厳選するので、多くの材料が無駄に捨てられます。</CookMealLavish.description>
+  <CookMealLavish.description>肉類と野菜類を組み合わせた食材を使い､腕によりをかけた食事を作ります｡素材を厳選するので､多くの材料が無駄に捨てられます｡</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>豪華な食事を創作している</CookMealLavish.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>簡単な食事を作る</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>ひとつの食材から、手間のかからない食事を作ります。</CookMealSimple.description>
+  <CookMealSimple.description>ひとつの食材から､手間のかからない食事を作ります｡</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>簡単な食事を炊事している</CookMealSimple.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>非常用食品を作る</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>肉類と野菜類を組み合わせた食材を使い、密封処理を施した非常用の食糧を作ります。防腐処理の過程で多くの材料が廃棄されます。</CookMealSurvival.description>
+  <CookMealSurvival.description>肉類と野菜類を組み合わせた食材を使い､密封処理を施した非常用の食糧を作ります｡防腐処理の過程で多くの材料が廃棄されます｡</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>非常用食品を作っている</CookMealSurvival.jobString>
   

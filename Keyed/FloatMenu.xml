@@ -154,17 +154,17 @@
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>移動できる範囲内に、周囲を壁で隔てた適切な気温の囚人用ベッドが空いていません。</NoPrisonerBed>
+  <NoPrisonerBed>移動できる範囲内に､周囲を壁で隔てた適切な気温の囚人用ベッドが空いていません｡</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>移動できる範囲内に、適切な気温の入植者用ベッドが空いていません。</NoNonPrisonerBed>
+  <NoNonPrisonerBed>移動できる範囲内に､適切な気温の入植者用ベッドが空いていません｡</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>移動できる範囲内に、適切な気温の家畜用の寝床が空いていません。</NoAnimalBed>
+  <NoAnimalBed>移動できる範囲内に､適切な気温の家畜用の寝床が空いていません｡</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>他の誰かが先に使用しています。</Reserved>
+  <Reserved>他の誰かが先に使用しています｡</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>{1_labelShort}が先に使用しています。</ReservedBy>
+  <ReservedBy>{1_labelShort}が先に使用しています｡</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0}は{1}が先に使用しています。</IsReservedBy>
+  <IsReservedBy>{0}は{1}が先に使用しています｡</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>重すぎる</TooHeavy>
 
@@ -363,9 +363,9 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>ズームインして、{0}の 着陸地点を 選択する</LandInExistingMap>
+  <LandInExistingMap>ズームインして､{0}の 着陸地点を 選択する</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>警告: 積載物が失われます。</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>警告: 積載物が失われます｡</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
   <FormCaravanHere>ここでキャラバン隊を編成する</FormCaravanHere>
   <!-- EN: Give to {0} -->

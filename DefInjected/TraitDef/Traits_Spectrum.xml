@@ -4,139 +4,139 @@
   <!-- EN: beautiful -->
   <Beauty.degreeDatas.beautiful.label>容姿端麗</Beauty.degreeDatas.beautiful.label>
   <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
-  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef]は非常に美しい人です。親しみやすいながらも印象的な顔立ちに、心を捉えて離さない眼差し。[PAWN_pronoun]が口を開く前から人々は[PAWN_pronoun]に惹きつけられます。</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef]は非常に美しい人です｡親しみやすいながらも印象的な顔立ちに､心を捉えて離さない眼差し｡[PAWN_pronoun]が口を開く前から人々は[PAWN_pronoun]に惹きつけられます｡</Beauty.degreeDatas.beautiful.description>
   <!-- EN: pretty -->
   <Beauty.degreeDatas.pretty.label>可愛い</Beauty.degreeDatas.pretty.label>
   <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
-  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef]は人々に好かれる可愛らしい容貌をしています。</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef]は人々に好かれる可愛らしい容貌をしています｡</Beauty.degreeDatas.pretty.description>
   <!-- EN: ugly -->
   <Beauty.degreeDatas.ugly.label>醜い</Beauty.degreeDatas.ugly.label>
   <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
-  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef]は、いささか醜い見た目をしています。このせいで交流する相手に多少の不快感を与えてしまいます。</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef]は､いささか醜い見た目をしています｡このせいで交流する相手に多少の不快感を与えてしまいます｡</Beauty.degreeDatas.ugly.description>
   <!-- EN: staggeringly ugly -->
   <Beauty.degreeDatas.staggeringly_ugly.label>ひどく醜い</Beauty.degreeDatas.staggeringly_ugly.label>
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
-  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef]は驚くほど醜い姿をしています。才能のない子供の落書きに、防腐液入りの瓶に詰められた奇形児、そして現代アート作品を足して割ったような顔つき。会話をしていても、相手は[PAWN_pronoun]から目を背けないよう意識的に努めなければなりません。</Beauty.degreeDatas.staggeringly_ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef]は驚くほど醜い姿をしています｡才能のない子供の落書きに､防腐液入りの瓶に詰められた奇形児､そして現代アート作品を足して割ったような顔つき｡会話をしていても､相手は[PAWN_pronoun]から目を背けないよう意識的に努めなければなりません｡</Beauty.degreeDatas.staggeringly_ugly.description>
   
   <!-- EN: chemical fascination -->
   <DrugDesire.degreeDatas.chemical_fascination.label>ドラッグ愛好家</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef]は快楽の源となる化学物質の魅力に取り憑かれています。\n\n[PAWN_pronoun]は多くのドラッグを消費します。\n既に薬物に十分に満足しているか、特定の薬物の依存症になっているのでなければ、ときおり強力な合成ドラッグを濫用する状態に陥ることがあります。\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します。</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef]は快楽の源となる化学物質の魅力に取り憑かれています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡\n既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり強力な合成ドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
   <DrugDesire.degreeDatas.chemical_interest.label>ドラッグ好き</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]は快楽の源となる化学物質に並々ならぬ興味を抱いています。\n\n[PAWN_pronoun]は多くのドラッグを消費します。\n既に薬物に十分に満足しているか、特定の薬物の依存症になっているのでなければ、ときおり嗜好用の軽いドラッグを濫用する状態に陥ることがあります。\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します。</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]は快楽の源となる化学物質に並々ならぬ興味を抱いています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡\n既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり嗜好用の軽いドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
   <DrugDesire.degreeDatas.teetotaler.label>ドラッグ嫌い</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は薬物から快感を得るという考えをひどく嫌っています。\nそのため、アルコールやドラッグを忌避します。</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は薬物から快感を得るという考えをひどく嫌っています｡\nそのため､アルコールやドラッグを忌避します｡</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
   <Immunity.degreeDatas.superimmune.label>超免疫力</Immunity.degreeDatas.superimmune.label>
   <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
-  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef]は生まれつき強力な免疫機構を備えています。普通の人よりも早く免疫を獲得し、他の人が死んでしまうような病気にも打ち克つことができます。</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef]は生まれつき強力な免疫機構を備えています｡普通の人よりも早く免疫を獲得し､他の人が死んでしまうような病気にも打ち克つことができます｡</Immunity.degreeDatas.superimmune.description>
   <!-- EN: sickly -->
   <Immunity.degreeDatas.sickly.label>免疫不全</Immunity.degreeDatas.sickly.label>
   <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
-  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef]の免疫機構はひどい有り様です。[PAWN_pronoun]は普通よりも病気に罹りやすく、コロニー内の誰も気にしないような病気にも頻繁に感染します。</Immunity.degreeDatas.sickly.description>
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef]の免疫機構はひどい有り様です｡[PAWN_pronoun]は普通よりも病気に罹りやすく､コロニー内の誰も気にしないような病気にも頻繁に感染します｡</Immunity.degreeDatas.sickly.description>
   
   <!-- EN: industrious -->
   <Industriousness.degreeDatas.industrious.label>仕事熱心</Industriousness.degreeDatas.industrious.label>
   <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
-  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef]は集中して作業を続けることを苦にしません。普通の人よりも遙かに早く作業を終わらせます。</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef]は集中して作業を続けることを苦にしません｡普通の人よりも遙かに早く作業を終わらせます｡</Industriousness.degreeDatas.industrious.description>
   <!-- EN: hard worker -->
   <Industriousness.degreeDatas.hard_worker.label>働き者</Industriousness.degreeDatas.hard_worker.label>
   <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
-  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef]は生まれついての働き者です。大抵の人よりも素早く作業を終わらせます。</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef]は生まれついての働き者です｡大抵の人よりも素早く作業を終わらせます｡</Industriousness.degreeDatas.hard_worker.description>
   <!-- EN: lazy -->
   <Industriousness.degreeDatas.lazy.label>怠け者</Industriousness.degreeDatas.lazy.label>
   <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
-  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef]は、いささか怠け者です。</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef]は､いささか怠け者です｡</Industriousness.degreeDatas.lazy.description>
   <!-- EN: slothful -->
   <Industriousness.degreeDatas.slothful.label>サボり魔</Industriousness.degreeDatas.slothful.label>
   <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
-  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef]は無駄な時間を過ごすことが好きで、あらゆる生産的な行為を嫌います。[PAWN_possessive]作業はゆっくりで、仕事に集中することも稀です。</Industriousness.degreeDatas.slothful.description>
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef]は無駄な時間を過ごすことが好きで､あらゆる生産的な行為を嫌います｡[PAWN_possessive]作業はゆっくりで､仕事に集中することも稀です｡</Industriousness.degreeDatas.slothful.description>
   
   <!-- EN: sanguine -->
   <NaturalMood.degreeDatas.sanguine.label>能天気</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
-  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef]は自分の置かれた状況を当然のごとく前向きに捉えます。ほとんどいつでも、どんなことに関してもです。</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef]は自分の置かれた状況を当然のごとく前向きに捉えます｡ほとんどいつでも､どんなことに関してもです｡</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
   <NaturalMood.degreeDatas.optimist.label>楽観的</NaturalMood.degreeDatas.optimist.label>
   <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
-  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef]は人生を気楽に考えています。[PAWN_objective]落ち込ませるのは難しいことです。</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef]は人生を気楽に考えています｡[PAWN_objective]落ち込ませるのは難しいことです｡</NaturalMood.degreeDatas.optimist.description>
   <!-- EN: pessimist -->
   <NaturalMood.degreeDatas.pessimist.label>悲観的</NaturalMood.degreeDatas.pessimist.label>
   <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
-  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef]は人生の悪い面ばかりに目を向けがちです。</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef]は人生の悪い面ばかりに目を向けがちです｡</NaturalMood.degreeDatas.pessimist.description>
   <!-- EN: depressive -->
   <NaturalMood.degreeDatas.depressive.label>抑鬱症</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef]は、いつまで経っても不幸です。全てがうまくいってる時でさえ、明るい気持ちを持続させるのに苦労します。</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef]は､いつまで経っても不幸です｡全てがうまくいってる時でさえ､明るい気持ちを持続させるのに苦労します｡</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
   <Nerves.degreeDatas.ironwilled.label>鉄の意志</Nerves.degreeDatas.ironwilled.label>
   <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
-  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]は鉄で造られた盾の如き意志の持ち主です。他の者がとうに挫けてしまっていても、[PAWN_pronoun]は普段と変わらぬ態度で進み続けます。</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]は鉄で造られた盾の如き意志の持ち主です｡他の者がとうに挫けてしまっていても､[PAWN_pronoun]は普段と変わらぬ態度で進み続けます｡</Nerves.degreeDatas.ironwilled.description>
   <!-- EN: steadfast -->
   <Nerves.degreeDatas.steadfast.label>不屈</Nerves.degreeDatas.steadfast.label>
   <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
-  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef]は打たれ強い心を持っています。大抵の者が挫けてしまう抑圧された環境でも、心が崩れたりしません。</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef]は打たれ強い心を持っています｡大抵の者が挫けてしまう抑圧された環境でも､心が崩れたりしません｡</Nerves.degreeDatas.steadfast.description>
   <!-- EN: nervous -->
   <Nerves.degreeDatas.nervous.label>不安症</Nerves.degreeDatas.nervous.label>
   <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
-  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef]は、重圧に晒されると心が折れてしまう傾向にあります。</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef]は､重圧に晒されると心が折れてしまう傾向にあります｡</Nerves.degreeDatas.nervous.description>
   <!-- EN: volatile -->
   <Nerves.degreeDatas.volatile.label>情緒不安定</Nerves.degreeDatas.volatile.label>
   <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
-  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef]の心は、常に紙一重の状態にあります。少しでも困難な状況になると、真っ先に精神崩壊に陥ります。</Nerves.degreeDatas.volatile.description>
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef]の心は､常に紙一重の状態にあります｡少しでも困難な状況になると､真っ先に精神崩壊に陥ります｡</Nerves.degreeDatas.volatile.description>
   
   <!-- EN: neurotic -->
   <Neurotic.degreeDatas.neurotic.label>神経質</Neurotic.degreeDatas.neurotic.label>
   <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef]は万全の備えがないと落ち着きません。[PAWN_pronoun]は物事を成し遂げるため人より熱心に働きますが、その神経質なところは心の均衡を崩す原因にもなりえます。</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef]は万全の備えがないと落ち着きません｡[PAWN_pronoun]は物事を成し遂げるため人より熱心に働きますが､その神経質なところは心の均衡を崩す原因にもなりえます｡</Neurotic.degreeDatas.neurotic.description>
   <!-- EN: very neurotic -->
   <Neurotic.degreeDatas.very_neurotic.label>ひどく神経質</Neurotic.degreeDatas.very_neurotic.label>
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef]は、終わらせるべき仕事があると絶えず追い立てられているように感じます。[PAWN_pronoun]は物事を成し遂げるため全身全霊で働きますが、その神経質なところは容易に心の均衡を崩す原因となります。</Neurotic.degreeDatas.very_neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef]は､終わらせるべき仕事があると絶えず追い立てられているように感じます｡[PAWN_pronoun]は物事を成し遂げるため全身全霊で働きますが､その神経質なところは容易に心の均衡を崩す原因となります｡</Neurotic.degreeDatas.very_neurotic.description>
   
   <!-- EN: psychically hypersensitive -->
   <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>思念波過敏症</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]の心は思念波に共鳴する音叉のようです。[PAWN_pronoun]は思念波による現象がもたらす効果に対して極めて敏感です。</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]の心は思念波に共鳴する音叉のようです｡[PAWN_pronoun]は思念波による現象がもたらす効果に対して極めて敏感です｡</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
   <PsychicSensitivity.degreeDatas.psychically_sensitive.label>思念波感応</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]の心は思念波による現象がもたらす効果に対して非常に敏感です。</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]の心は思念波による現象がもたらす効果に対して非常に敏感です｡</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
   <PsychicSensitivity.degreeDatas.psychically_dull.label>思念波耐性</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]の心は、思念波に対する感性が普通から外れています。思念波による現象が[PAWN_pronoun]に対して十全な効果を及ぼすことはありません。</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]の心は､思念波に対する感性が普通から外れています｡思念波による現象が[PAWN_pronoun]に対して十全な効果を及ぼすことはありません｡</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.label>思念波不感症</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]の心は、思念波に作用する周波数が他の誰とも違っています。思念波による現象が[PAWN_pronoun]に対して効果を及ぼすことは一切ありません。</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]の心は､思念波に作用する周波数が他の誰とも違っています｡思念波による現象が[PAWN_pronoun]に対して効果を及ぼすことは一切ありません｡</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
   <ShootingAccuracy.degreeDatas.careful_shooter.label>慎重な射手</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef]は遠距離武器で狙いを定めるために多くの時間を費します。他の者より発射頻度は低いですが、狙いはより正確です。</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef]は遠距離武器で狙いを定めるために多くの時間を費します｡他の者より発射頻度は低いですが､狙いはより正確です｡</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
   <ShootingAccuracy.degreeDatas.triggerhappy.label>トリガーハッピー</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>バン！バン！バン！\n\n[PAWN_nameDef]は引き金を引くことをこよなく愛しています。他の者より発射頻度は高いですが、狙いは甘くなります。</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>バン！バン！バン！\n\n[PAWN_nameDef]は引き金を引くことをこよなく愛しています｡他の者より発射頻度は高いですが､狙いは甘くなります｡</ShootingAccuracy.degreeDatas.triggerhappy.description>
   
   <!-- EN: slowpoke -->
   <SpeedOffset.degreeDatas.slowpoke.label>鈍足</SpeedOffset.degreeDatas.slowpoke.label>
   <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
-  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef]は、どこへ行くにも常に集団から遅れた所にいます。</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef]は､どこへ行くにも常に集団から遅れた所にいます｡</SpeedOffset.degreeDatas.slowpoke.description>
   <!-- EN: fast walker -->
   <SpeedOffset.degreeDatas.fast_walker.label>早歩き</SpeedOffset.degreeDatas.fast_walker.label>
   <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
-  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef]は自分が目的とする場所に居ることで安心します。そのため大抵の人より早く歩きます。</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef]は自分が目的とする場所に居ることで安心します｡そのため大抵の人より早く歩きます｡</SpeedOffset.degreeDatas.fast_walker.description>
   <!-- EN: jogger -->
   <SpeedOffset.degreeDatas.jogger.label>小走り</SpeedOffset.degreeDatas.jogger.label>
   <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
-  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef]は常に、何かに追い立てられるように移動します。そのため他の者が度々ついて行けなくなります。</SpeedOffset.degreeDatas.jogger.description>
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef]は常に､何かに追い立てられるように移動します｡そのため他の者が度々ついて行けなくなります｡</SpeedOffset.degreeDatas.jogger.description>
   
 </LanguageData>

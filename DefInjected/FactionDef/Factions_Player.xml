@@ -4,7 +4,7 @@
   <!-- EN: New Arrivals -->
   <PlayerColony.label>新たな不時着民</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
-  <PlayerColony.description>外の世界から最近になってやってきた人々のコロニーです。</PlayerColony.description>
+  <PlayerColony.description>外の世界から最近になってやってきた人々のコロニーです｡</PlayerColony.description>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>入植者</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -13,7 +13,7 @@
   <!-- EN: New Tribe -->
   <PlayerTribe.label>新たな部族</PlayerTribe.label>
   <!-- EN: A small tribe. -->
-  <PlayerTribe.description>小さな部族です。</PlayerTribe.description>
+  <PlayerTribe.description>小さな部族です｡</PlayerTribe.description>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>部族民</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

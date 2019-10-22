@@ -4,56 +4,56 @@
   <!-- EN: collapsed rocks -->
   <CollapsedRocks.label>崩落した岩</CollapsedRocks.label>
   <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
-  <CollapsedRocks.description>支えを失って崩落した岩石群です。屋根を支えられるほど隙間なく圧縮されています。</CollapsedRocks.description>
+  <CollapsedRocks.description>支えを失って崩落した岩石群です｡屋根を支えられるほど隙間なく圧縮されています｡</CollapsedRocks.description>
   
   <!-- EN: glow pod -->
   <GlowPod.label>発光ポッド</GlowPod.label>
   <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
-  <GlowPod.description>巨大昆虫が生み出した生体発光ポッドです。自力で発光して周囲を長時間に渡り照らしたのち、力を失います。</GlowPod.description>
+  <GlowPod.description>巨大昆虫が生み出した生体発光ポッドです｡自力で発光して周囲を長時間に渡り照らしたのち､力を失います｡</GlowPod.description>
   
   <!-- EN: hive -->
   <Hive.label>昆虫の巣</Hive.label>
   <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
-  <Hive.description>巨大昆虫の巣です。活動を始めると、時間と共に新たな虫が生まれ、さらに巣自体も拡張します。同様に貴重なインセクトゼリーも生み出します。</Hive.description>
+  <Hive.description>巨大昆虫の巣です｡活動を始めると､時間と共に新たな虫が生まれ､さらに巣自体も拡張します｡同様に貴重なインセクトゼリーも生み出します｡</Hive.description>
   
   <!-- EN: compacted machinery -->
   <MineableComponentsIndustrial.label>圧壊した機械の層</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
-  <MineableComponentsIndustrial.description>太古の機械が、長い歳月により押し潰されたものです。使えそうな機械部品を掘り出せます。</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.description>太古の機械が､長い歳月により押し潰されたものです｡使えそうな機械部品を掘り出せます｡</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
   <MineableGold.label>ゴールド鉱石</MineableGold.label>
   <!-- EN: Rock containing bits of gold. -->
-  <MineableGold.description>わずかにゴールドを含んだ岩石です。</MineableGold.description>
+  <MineableGold.description>わずかにゴールドを含んだ岩石です｡</MineableGold.description>
   
   <!-- EN: jade -->
   <MineableJade.label>ヒスイ鉱石</MineableJade.label>
   <!-- EN: Rock containing bits of jade. -->
-  <MineableJade.description>わずかにヒスイを含んだ岩石です。</MineableJade.description>
+  <MineableJade.description>わずかにヒスイを含んだ岩石です｡</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
   <MineablePlasteel.label>圧壊したプラスチール層</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
-  <MineablePlasteel.description>古代の構造物が崩落した残骸です。プラスチールを豊富に含んでいます。</MineablePlasteel.description>
+  <MineablePlasteel.description>古代の構造物が崩落した残骸です｡プラスチールを豊富に含んでいます｡</MineablePlasteel.description>
   
   <!-- EN: silver ore -->
   <MineableSilver.label>シルバー鉱石</MineableSilver.label>
   <!-- EN: Rock containing bits of silver. -->
-  <MineableSilver.description>わずかにシルバーを含んだ岩石です。</MineableSilver.description>
+  <MineableSilver.description>わずかにシルバーを含んだ岩石です｡</MineableSilver.description>
   
   <!-- EN: compacted steel -->
   <MineableSteel.label>圧壊したスチール層</MineableSteel.label>
   <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
-  <MineableSteel.description>古代の構造物が崩落した残骸です。スチールを豊富に含んでいます。</MineableSteel.description>
+  <MineableSteel.description>古代の構造物が崩落した残骸です｡スチールを豊富に含んでいます｡</MineableSteel.description>
   
   <!-- EN: uranium ore -->
   <MineableUranium.label>ウラン鉱石</MineableUranium.label>
   <!-- EN: Rock containing bits of uranium. -->
-  <MineableUranium.description>わずかにウラニウムを含んだ岩石です。</MineableUranium.description>
+  <MineableUranium.description>わずかにウラニウムを含んだ岩石です｡</MineableUranium.description>
   
   <!-- EN: steam geyser -->
   <SteamGeyser.label>間欠泉</SteamGeyser.label>
   <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
-  <SteamGeyser.description>天然の高圧蒸気噴出孔です。蒸気の力を利用する地熱発電機を設置することができます。間欠泉を覆うように部屋を作ると、すばやく暖めることができます。</SteamGeyser.description>
+  <SteamGeyser.description>天然の高圧蒸気噴出孔です｡蒸気の力を利用する地熱発電機を設置することができます｡間欠泉を覆うように部屋を作ると､すばやく暖めることができます｡</SteamGeyser.description>
   
 </LanguageData>

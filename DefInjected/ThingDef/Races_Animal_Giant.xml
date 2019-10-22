@@ -4,7 +4,7 @@
   <!-- EN: elephant -->
   <Elephant.label>象</Elephant.label>
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
-  <Elephant.description>天然の種としては最大の陸上動物です。象は、物を掴んで扱うための長い鼻と、外敵を攻撃するための鋭い牙を持ちます。死んだ象を解体すれば貴重な象牙を回収できます。\n\n複雑な社会性を持つ知能の高い生き物で、駄載獣として使役したり、複雑な作業を仕込んで働かせることができます。象の寿命は長く、数十年前の出来事や関係のあった者を覚えていることで知られます。</Elephant.description>
+  <Elephant.description>天然の種としては最大の陸上動物です｡象は､物を掴んで扱うための長い鼻と､外敵を攻撃するための鋭い牙を持ちます｡死んだ象を解体すれば貴重な象牙を回収できます｡\n\n複雑な社会性を持つ知能の高い生き物で､駄載獣として使役したり､複雑な作業を仕込んで働かせることができます｡象の寿命は長く､数十年前の出来事や関係のあった者を覚えていることで知られます｡</Elephant.description>
   <!-- EN: tusk -->
   <Elephant.tools.tusk.label>牙</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
@@ -17,7 +17,7 @@
   <!-- EN: megasloth -->
   <Megasloth.label>メガスロス</Megasloth.label>
   <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
-  <Megasloth.description>単独で行動する巨大な草食獣で、大きな二つの爪は危険を寄せ付けません。アメリカ大陸の原住民により根絶やしにされてから長らく絶滅していましたが、進んだ人工授精とクローン技術のお陰でこの世に蘇りました。その分厚い外皮は並外れて強靭で熱を逃さないため、防寒具の素材として非常に優れています。手を出さなければ安全ですが、邪魔者は巨大な爪で細切れにされてしまうでしょう。</Megasloth.description>
+  <Megasloth.description>単独で行動する巨大な草食獣で､大きな二つの爪は危険を寄せ付けません｡アメリカ大陸の原住民により根絶やしにされてから長らく絶滅していましたが､進んだ人工授精とクローン技術のお陰でこの世に蘇りました｡その分厚い外皮は並外れて強靭で熱を逃さないため､防寒具の素材として非常に優れています｡手を出さなければ安全ですが､邪魔者は巨大な爪で細切れにされてしまうでしょう｡</Megasloth.description>
   <!-- EN: left claw -->
   <Megasloth.tools.left_claw.label>左爪</Megasloth.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -28,7 +28,7 @@
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>犀</Rhinoceros.label>
   <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
-  <Rhinoceros.description>草食性ですが、非常に怒りやすい大型の哺乳動物です。ひとたび怒らせれば、圧倒的な力と鋭い角で残忍な敵対者と化します。大抵の人間は、全身の筋肉を合わせても犀の片足分にも及びません。</Rhinoceros.description>
+  <Rhinoceros.description>草食性ですが､非常に怒りやすい大型の哺乳動物です｡ひとたび怒らせれば､圧倒的な力と鋭い角で残忍な敵対者と化します｡大抵の人間は､全身の筋肉を合わせても犀の片足分にも及びません｡</Rhinoceros.description>
   <!-- EN: horn -->
   <Rhinoceros.tools.horn-0.label>角</Rhinoceros.tools.horn-0.label>
   <!-- EN: horn -->
@@ -39,7 +39,7 @@
   <!-- EN: thrumbo -->
   <Thrumbo.label>スランボ</Thrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
-  <Thrumbo.description>巨体を誇る優美な生物で、その由来は不明です。普段は大人しいスランボも怒らせれば極めて危険です。長い体毛が非常に美しい一方で、信じられないほど傷付きにくい外皮をしています。剃刀のように鋭い角には高い値が付けられます。\n\n伝説に曰く、年老いたスランボはこの宇宙で最も賢い生物なのだそうです&#xA0;－&#xA0;敢えて言葉を発しないだけで。</Thrumbo.description>
+  <Thrumbo.description>巨体を誇る優美な生物で､その由来は不明です｡普段は大人しいスランボも怒らせれば極めて危険です｡長い体毛が非常に美しい一方で､信じられないほど傷付きにくい外皮をしています｡剃刀のように鋭い角には高い値が付けられます｡\n\n伝説に曰く､年老いたスランボはこの宇宙で最も賢い生物なのだそうです&#xA0;－&#xA0;敢えて言葉を発しないだけで｡</Thrumbo.description>
   <!-- EN: horn -->
   <Thrumbo.tools.horn.label>角</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->

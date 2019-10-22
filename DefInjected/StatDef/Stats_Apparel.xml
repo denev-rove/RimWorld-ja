@@ -4,51 +4,51 @@
   <!-- EN: Armor - Blunt -->
   <ArmorRating_Blunt.label>防御率 (打撲系)</ArmorRating_Blunt.label>
   <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Blunt.description>拳や棍棒、落石などの打撲系ダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>拳や棍棒､落石などの打撲系ダメージに対する防御率です｡\n\nダメージが発生すると､まずこの防御率から攻撃側の貫通率を差し引きます｡残った防御率を､0から100までの乱数と比較します｡\n\n　-&#xA0;乱数が防御率を下回れば､ダメージを半減します｡\n　-&#xA0;乱数が防御率の半分を下回れば､ダメージは発生しません｡\n　-&#xA0;乱数が防御率を上回れば､防具の効果はありません｡\n\n例）防御率90%の相手に､貫通率10%の武器で攻撃します｡\n　40%の確率でダメージを半減します｡\n　40%の確率でダメージはありません｡\n　20%の確率で防具を無視します｡\n\n重ね着できる防具の場合､一回の攻撃に対し､それぞれの層の軽減処理を外側の防具から順に､個別に適用します｡</ArmorRating_Blunt.description>
   
   <!-- EN: Armor - Heat -->
   <ArmorRating_Heat.label>防御率 (高熱系)</ArmorRating_Heat.label>
   <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Heat.description>火炎や凍傷など、極端な温度のダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>火炎や凍傷など､極端な温度のダメージに対する防御率です｡\n\nダメージが発生すると､まずこの防御率から攻撃側の貫通率を差し引きます｡残った防御率を､0から100までの乱数と比較します｡\n\n　-&#xA0;乱数が防御率を下回れば､ダメージを半減します｡\n　-&#xA0;乱数が防御率の半分を下回れば､ダメージは発生しません｡\n　-&#xA0;乱数が防御率を上回れば､防具の効果はありません｡\n\n例）防御率90%の相手に､貫通率10%の武器で攻撃します｡\n　40%の確率でダメージを半減します｡\n　40%の確率でダメージはありません｡\n　20%の確率で防具を無視します｡\n\n重ね着できる防具の場合､一回の攻撃に対し､それぞれの層の軽減処理を外側の防具から順に､個別に適用します｡</ArmorRating_Heat.description>
   
   <!-- EN: Armor - Sharp -->
   <ArmorRating_Sharp.label>防御率 (鋭利系)</ArmorRating_Sharp.label>
   <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is converted into blunt damage and reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Sharp.description>銃弾やナイフの刺突、爆発、噛みつきなどの鋭利系ダメージに対する防御率です。\n\nダメージが発生すると、まずこの防御率から攻撃側の貫通率を差し引きます。残った防御率を、0から100までの乱数と比較します。\n\n　-&#xA0;乱数が防御率を下回れば、ダメージを半減した上で、打撲系のダメージに転換します。\n　-&#xA0;乱数が防御率の半分を下回れば、ダメージは発生しません。\n　-&#xA0;乱数が防御率を上回れば、防具の効果はありません。\n\n例）防御率90%の相手に、貫通率10%の武器で攻撃します。\n　40%の確率でダメージを半減します。\n　40%の確率でダメージはありません。\n　20%の確率で防具を無視します。\n\n重ね着できる防具の場合、一回の攻撃に対し、それぞれの層の軽減処理を外側の防具から順に、個別に適用します。</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>銃弾やナイフの刺突､爆発､噛みつきなどの鋭利系ダメージに対する防御率です｡\n\nダメージが発生すると､まずこの防御率から攻撃側の貫通率を差し引きます｡残った防御率を､0から100までの乱数と比較します｡\n\n　-&#xA0;乱数が防御率を下回れば､ダメージを半減した上で､打撲系のダメージに転換します｡\n　-&#xA0;乱数が防御率の半分を下回れば､ダメージは発生しません｡\n　-&#xA0;乱数が防御率を上回れば､防具の効果はありません｡\n\n例）防御率90%の相手に､貫通率10%の武器で攻撃します｡\n　40%の確率でダメージを半減します｡\n　40%の確率でダメージはありません｡\n　20%の確率で防具を無視します｡\n\n重ね着できる防具の場合､一回の攻撃に対し､それぞれの層の軽減処理を外側の防具から順に､個別に適用します｡</ArmorRating_Sharp.description>
   
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>障壁エネルギー最大量</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>障壁ベルトが一度に保持できるエネルギーの最大量です。エネルギーが多いほど、多くのダメージを吸収します。</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>障壁ベルトが一度に保持できるエネルギーの最大量です｡エネルギーが多いほど､多くのダメージを吸収します｡</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
   <EnergyShieldRechargeRate.label>障壁エネルギー回復速度</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
-  <EnergyShieldRechargeRate.description>正常に動作している障壁ベルトが、単位時間あたりに回復する障壁エネルギーの量です。</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.description>正常に動作している障壁ベルトが､単位時間あたりに回復する障壁エネルギーの量です｡</EnergyShieldRechargeRate.description>
   <!-- EN: {0}/s -->
   <EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
   
   <!-- EN: equip delay -->
   <EquipDelay.label>装着し易さ</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>装備の脱着に要する時間です。</EquipDelay.description>
+  <EquipDelay.description>装備の脱着に要する時間です｡</EquipDelay.description>
   <!-- EN: {0} s -->
   <EquipDelay.formatString>{0}秒</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>断熱効果 (低気温)</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>この衣類を身に着けることで、快適に過ごせる最低気温がどれだけ改善するかです。この値が大きいほど、極寒の環境でも生き延びることができます。</Insulation_Cold.description>
+  <Insulation_Cold.description>この衣類を身に着けることで､快適に過ごせる最低気温がどれだけ改善するかです｡この値が大きいほど､極寒の環境でも生き延びることができます｡</Insulation_Cold.description>
   
   <!-- EN: Insulation - Heat -->
   <Insulation_Heat.label>断熱効果 (高気温)</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>この衣類を身に着けることで、快適に過ごせる最高気温がどれだけ改善するかです。この値が大きいほど、酷暑の環境でも生き延びることができます。</Insulation_Heat.description>
+  <Insulation_Heat.description>この衣類を身に着けることで､快適に過ごせる最高気温がどれだけ改善するかです｡この値が大きいほど､酷暑の環境でも生き延びることができます｡</Insulation_Heat.description>
   
   <!-- EN: Smokepop belt radius -->
   <SmokepopBeltRadius.label>煙幕ベルト展張半径</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop belt detonates. -->
-  <SmokepopBeltRadius.description>煙幕ベルトが発動したときに、視界を遮る半径です。</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.description>煙幕ベルトが発動したときに､視界を遮る半径です｡</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
   <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
   

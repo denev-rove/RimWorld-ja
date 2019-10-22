@@ -9,14 +9,14 @@
   <!-- EN: Ambrosia sprout -->
   <AmbrosiaSprout.letterLabel>アンブロージアの発芽</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>神秘的な低木樹であるアンブロージアが、付近に群生して芽を出しました！&#xA0;成長するまで待てば、美味しくて幸せな、プチ病みつきになるフルーツを収穫できるでしょう。</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>神秘的な低木樹であるアンブロージアが､付近に群生して芽を出しました！&#xA0;成長するまで待てば､美味しくて幸せな､プチ病みつきになるフルーツを収穫できるでしょう｡</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>寒波</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>異常な寒波が押し寄せています。\n\n寒さが原因で低体温症に罹れば、簡単に命を落としてしまいます。寒さを乗り切るため、暖かな部屋を用意して適切な防寒着を着込んでください。できれば、農作物が凍りつく前に収穫してしまいましょう。</ColdSnap.letterText>
+  <ColdSnap.letterText>異常な寒波が押し寄せています｡\n\n寒さが原因で低体温症に罹れば､簡単に命を落としてしまいます｡寒さを乗り切るため､暖かな部屋を用意して適切な防寒着を着込んでください｡できれば､農作物が凍りつく前に収穫してしまいましょう｡</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>農作物の疫病</CropBlight.label>
@@ -29,28 +29,28 @@
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>ゲリラ落雷</Flashstorm.letterLabel>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>とんでもなく激しい落雷の嵐が発生し、ごく狭い範囲で暴れ回っています。\n大規模な火災の可能性もあります。</Flashstorm.letterText>
+  <Flashstorm.letterText>とんでもなく激しい落雷の嵐が発生し､ごく狭い範囲で暴れ回っています｡\n大規模な火災の可能性もあります｡</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>熱波</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
-  <HeatWave.letterText>異常な熱波が押し寄せています。\n\n暑さが原因で熱中症に罹れば、簡単に命を落としてしまいます。暑さを乗り切るため、クーラーを設置して涼しい部屋を用意するか、山の地下深くに引きこもりましょう。</HeatWave.letterText>
+  <HeatWave.letterText>異常な熱波が押し寄せています｡\n\n暑さが原因で熱中症に罹れば､簡単に命を落としてしまいます｡暑さを乗り切るため､クーラーを設置して涼しい部屋を用意するか､山の地下深くに引きこもりましょう｡</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>群れの大移動</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
   <HerdMigration.letterLabel>{0}の大移動</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>{0}の群れが、このエリアを通り過ぎようとしています。\n\nこちらから手出ししない限りは襲ってきません。</HerdMigration.letterText>
+  <HerdMigration.letterText>{0}の群れが､このエリアを通り過ぎようとしています｡\n\nこちらから手出ししない限りは襲ってきません｡</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
   <MeteoriteImpact.label>隕石の衝突</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
   <MeteoriteImpact.letterLabel>隕石</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>巨大な隕石がこのエリアを襲いました。隕石は落下地点に{0}の塊を残しました。</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>巨大な隕石がこのエリアを襲いました｡隕石は落下地点に{0}の塊を残しました｡</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>思念干渉波</PsychicDrone.label>
@@ -86,27 +86,27 @@
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>死の灰</ToxicFallout.letterLabel>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
-  <ToxicFallout.letterText>遠方で化学物質による火災が発生し、この地域全体に大量の毒素が放出されました。\n\n屋根のない場所にいる生き物は、上空から舞い降りる有毒な塵に、徐々に侵されていきます。\n\nこの現象はあらゆる場所で、数日間から季節を越えるほどの長さで続くでしょう。</ToxicFallout.letterText>
+  <ToxicFallout.letterText>遠方で化学物質による火災が発生し､この地域全体に大量の毒素が放出されました｡\n\n屋根のない場所にいる生き物は､上空から舞い降りる有毒な塵に､徐々に侵されていきます｡\n\nこの現象はあらゆる場所で､数日間から季節を越えるほどの長さで続くでしょう｡</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>火山の冬</VolcanicWinter.letterLabel>
   <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>遠方で巨大な火山が噴火し、数百万立方キロメートルもの火山灰を大気中に撒き散らしています。\n\n撒き散らされた火山灰は太陽光を遮り、気温は低下するでしょう。日照量が少なくなれば作物の成長も悪くなります。この影響は数週間から数ヶ月にも及ぶでしょう。</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>遠方で巨大な火山が噴火し､数百万立方キロメートルもの火山灰を大気中に撒き散らしています｡\n\n撒き散らされた火山灰は太陽光を遮り､気温は低下するでしょう｡日照量が少なくなれば作物の成長も悪くなります｡この影響は数週間から数ヶ月にも及ぶでしょう｡</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>流れ者の仲間入り</WandererJoin.label>
   <!-- EN: Wanderer joins -->
   <WandererJoin.letterLabel>流れ者の加入</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>{PAWN_nameDef}と名乗る{PAWN_kind}がこの地を訪れ、仲間に加わりました。{PAWN_pronoun}は{PAWN_title}です。\n\n{PAWN_pronoun}は役に立ちたいと願っているため、自分から立ち去ることはないでしょう。{PAWN_nameDef}を必要としないなら、追放するなり、奴隷として売り払うなり、あるいはもっと単純に始末してしまうこともできます。しかしながら、他の入植者はそうした騒ぎに気付くでしょう。</WandererJoin.letterText>
+  <WandererJoin.letterText>{PAWN_nameDef}と名乗る{PAWN_kind}がこの地を訪れ､仲間に加わりました｡{PAWN_pronoun}は{PAWN_title}です｡\n\n{PAWN_pronoun}は役に立ちたいと願っているため､自分から立ち去ることはないでしょう｡{PAWN_nameDef}を必要としないなら､追放するなり､奴隷として売り払うなり､あるいはもっと単純に始末してしまうこともできます｡しかしながら､他の入植者はそうした騒ぎに気付くでしょう｡</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>流浪の野生人</WildManWandersIn.label>
   <!-- EN: {PAWN_kind} wanders in -->
   <WildManWandersIn.letterLabel>彷徨う{PAWN_kind}</WildManWandersIn.letterLabel>
   <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>野生動物のように暮らす人間が、このエリアに迷い込んできました。{PAWN_pronoun}は{0}と呼ばれています。\n\nあなたは{PAWN_objective}手懐けることができます。</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>野生動物のように暮らす人間が､このエリアに迷い込んできました｡{PAWN_pronoun}は{0}と呼ばれています｡\n\nあなたは{PAWN_objective}手懐けることができます｡</WildManWandersIn.letterText>
   
 </LanguageData>

@@ -57,15 +57,15 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Rimworldの翻訳はすべてファンの手によるものです。この翻訳は次の素晴らしい有志たちによって作られました。\n\n{0}</TranslationThanks>
+  <TranslationThanks>Rimworldの翻訳はすべてファンの手によるものです｡この翻訳は次の素晴らしい有志たちによって作られました｡\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>あなたも貢献することができます。下記のボタンを押してもっと知りましょう。(ブラウザが開きます)</TranslationHowToContribute>
+  <TranslationHowToContribute>あなたも貢献することができます｡下記のボタンを押してもっと知りましょう｡(ブラウザが開きます)</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>もっと知る</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>警告：これは不安定な開発ビルドです。これは私達が、設計上の実験と技術的な開発を行っていることを意味します。\n\n中には暫定措置として意図的にアンバランスになっている要素もあります。これは古典的なゲームデザインの手法で、バランスの匙加減をよりよく理解するために、故意に極端な調整になっています。我々はその情報を利用して、最終的な調整点を決定できます。\n\nまた、ゲームを壊してしまうものを含め、バグもあるでしょう。セーブデータの互換性はいつ壊れるか分かりません。\n\nこれら全てに問題がなければ、テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は、最新の安定版をプレイしてください。</DevBuildWarning>
+  <DevBuildWarning>警告：これは不安定な開発ビルドです｡これは私達が､設計上の実験と技術的な開発を行っていることを意味します｡\n\n中には暫定措置として意図的にアンバランスになっている要素もあります｡これは古典的なゲームデザインの手法で､バランスの匙加減をよりよく理解するために､故意に極端な調整になっています｡我々はその情報を利用して､最終的な調整点を決定できます｡\n\nまた､ゲームを壊してしまうものを含め､バグもあるでしょう｡セーブデータの互換性はいつ壊れるか分かりません｡\n\nこれら全てに問題がなければ､テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は､最新の安定版をプレイしてください｡</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -99,7 +99,7 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>ランダムなシード値</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>惑星の直径は常に同じですが、ゲームに必要な大きさを遥かに超えるため、生成するのは地表の一部のみです。これは処理にとても時間がかかるためです。この項目は、生成を行う表面積の割合です。</PlanetCoverageTip>
+  <PlanetCoverageTip>惑星の直径は常に同じですが､ゲームに必要な大きさを遥かに超えるため､生成するのは地表の一部のみです｡これは処理にとても時間がかかるためです｡この項目は､生成を行う表面積の割合です｡</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>派閥</WorldFactionsTab>
 
@@ -109,7 +109,7 @@
   <!-- EN: Select -->
   <WorldChooseButton>選択</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>保存されたデータがありません。先に惑星を創造してください。</NoWorldsFilesFound>
+  <NoWorldsFilesFound>保存されたデータがありません｡先に惑星を創造してください｡</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
@@ -135,13 +135,13 @@
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>本当にCoreMODを無効にするのですか？　Coreの機能を完全に代替するMODがない限り、ゲームは全く動作しなくなります。\n\nCore以外のMODで同じdefNameを使用すれば、Coreの内容よりも優先されることを忘れないでください。</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>本当にCoreMODを無効にするのですか？　Coreの機能を完全に代替するMODがない限り､ゲームは全く動作しなくなります｡\n\nCore以外のMODで同じdefNameを使用すれば､Coreの内容よりも優先されることを忘れないでください｡</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。 本当によろしいですか？</ConfirmDeleteMod>
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています｡ 本当によろしいですか？</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>サブスクライブ解除</Unsubscribe>
+  <Unsubscribe>ｻﾌﾞｽｸﾗｲﾌﾞ解除</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>{0}のサブスクライブを解除しようとしています。 本当によろしいですか？</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>{0}のサブスクライブを解除しようとしています｡ 本当によろしいですか？</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>作者</Author>
   <!-- EN: Workshop page -->
@@ -155,7 +155,7 @@
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>{0}のアップロードに成功しました。</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0}のアップロードに成功しました｡</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>ダウンロード中</Downloading>
   <!-- EN: Source -->
@@ -195,25 +195,25 @@
   <!-- EN: Add part -->
   <AddPart>条件を追加</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>全ての入力欄を埋める必要があります。</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>全ての入力欄を埋める必要があります｡</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Steam Workshopにアップロードします。よろしいですか？\n\nSteam Workshopの利用規約に同意する必要があります。全文はこちらです。\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Steam Workshopにアップロードします｡よろしいですか？\n\nSteam Workshopの利用規約に同意する必要があります｡全文はこちらです｡\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>当然ながら、あなた自身が作成したコンテンツだけをアップロードしなければなりません。\n\nこのコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+  <ConfirmContentAuthor>当然ながら､あなた自身が作成したコンテンツだけをアップロードしなければなりません｡\n\nこのコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>互換性なし</Incompatible>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>あなたが作者なので、ワークショップを更新することができます。</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>あなたが作者なので､ワークショップを更新することができます｡</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AIストーリーテラー（AI脚本家）は、宙賊の襲撃や貨物カプセルの飛来、動物の襲撃といったイベントを生成します。脚本家の選択は、あなたのコロニーの物語に大きく影響します。この設定は環境設定メニューからいつでも変更できます。</HowStorytellersWork>
+  <HowStorytellersWork>AIストーリーテラー（AI脚本家）は､宙賊の襲撃や貨物カプセルの飛来､動物の襲撃といったイベントを生成します｡脚本家の選択は､あなたのコロニーの物語に大きく影響します｡この設定は環境設定メニューからいつでも変更できます｡</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>難易度を選択してください。</MustChooseDifficulty>
+  <MustChooseDifficulty>難易度を選択してください｡</MustChooseDifficulty>
   <!-- EN: Difficulty -->
   <Difficulty>難易度</Difficulty>
   <!-- EN: Commitment mode -->
@@ -221,17 +221,17 @@
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>断固とした決意モードか、無制限リロードモードを選択してください。</MustChoosePermadeath>
+  <MustChoosePermadeath>断固とした決意モードか､無制限リロードモードを選択してください｡</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>いつでもセーブとロードができます。\n\nまだゲームに慣れていないか、これがあなたの性に合っているか、バランス崩壊を気にせずMODを山盛りにしたいか、強制されずに巻き戻しを自制するつもりなら良い選択です。</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>いつでもセーブとロードができます｡\n\nまだゲームに慣れていないか､これがあなたの性に合っているか､バランス崩壊を気にせずMODを山盛りにしたいか､強制されずに巻き戻しを自制するつもりなら良い選択です｡</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>ゲームを中断する時しかセーブできません。\n\nRimworldは殆どの人員を失っても物語を紡ぐので、一人でも生き残っていれば、それも物語のひとつです。このゲームは敗北からでも再起できるように設計されています。\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びの物語が生まれるのです。家族が殺されたとき、ルーク・スカイウォーカーが諦めて巻き戻したりしないのには、理由があるのです&#xA0;－&#xA0;敗北と再起はドラマチックなものです。</PermadeathModeInfo>
+  <PermadeathModeInfo>ゲームを中断する時しかセーブできません｡\n\nRimworldは殆どの人員を失っても物語を紡ぐので､一人でも生き残っていれば､それも物語のひとつです｡このゲームは敗北からでも再起できるように設計されています｡\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びの物語が生まれるのです｡家族が殺されたとき､ルーク・スカイウォーカーが諦めて巻き戻したりしないのには､理由があるのです&#xA0;－&#xA0;敗北と再起はドラマチックなものです｡</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は、 いつでも変更できます。</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は､ いつでも変更できます｡</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
   <UnlockExtremeDifficulty>鬼畜モード</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>鬼畜モードは、全てのイベントが極端な難度に引き上げられる特別なゲームモードです。\n\n鬼畜モードは本来、ゲームの達成度が特定の段階に到達すると自動的に解禁されるものです。しかし、ここで今すぐ解禁することもできます。\n\nこの設定は、高い難易度で数回ほど遊んだことのある者が、最善の努力をしてもなお死に至る可能性が高いゲームを望むときにのみ推奨されます。</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>鬼畜モードは､全てのイベントが極端な難度に引き上げられる特別なゲームモードです｡\n\n鬼畜モードは本来､ゲームの達成度が特定の段階に到達すると自動的に解禁されるものです｡しかし､ここで今すぐ解禁することもできます｡\n\nこの設定は､高い難易度で数回ほど遊んだことのある者が､最善の努力をしてもなお死に至る可能性が高いゲームを望むときにのみ推奨されます｡</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -241,21 +241,21 @@
   <!-- EN: Select site -->
   <SelectSite>決定</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>いずれかの地点を選択してください。</MustSelectStartingSite>
+  <MustSelectStartingSite>いずれかの地点を選択してください｡</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>{0}には降下できません。</CannotLandBiome>
+  <CannotLandBiome>{0}には降下できません｡</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>気候帯が適していません。</BiomeNotImplemented>
+  <BiomeNotImplemented>気候帯が適していません｡</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>通行不能の山岳には降下できません。</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>通行不能の山岳には降下できません｡</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>既に {0} の本拠地です。</BaseAlreadyThere>
+  <BaseAlreadyThere>既に {0} の本拠地です｡</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>既にあなたの本拠地です。</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>既にあなたの本拠地です｡</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>このタイルは占領されています。</TileOccupied>
+  <TileOccupied>このタイルは占領されています｡</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>本拠地は隣接することができません。</FactionBaseAdjacent>
+  <FactionBaseAdjacent>本拠地は隣接することができません｡</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>気候帯</Biome>
   <!-- EN: Terrain -->
@@ -301,17 +301,17 @@
   <!-- EN: Forageability -->
   <Forageability>食料調達性</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません:\n\n{0}\n\nこのことは通常以上にゲームを難しくします。本当によろしいですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません:\n\n{0}\n\nこのことは通常以上にゲームを難しくします｡本当によろしいですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
   <CreateCharacters>入植者の作成</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>入植者の個人名です。\n\nこれは特定のメニューでのみ表示されます。</FirstNameDesc>
+  <FirstNameDesc>入植者の個人名です｡\n\nこれは特定のメニューでのみ表示されます｡</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>入植者を識別するための略称です。\n\nこれは常に表示されます。姓や個人名、または完全に別の通称でも構いません。</ShortIdentifierDesc>
+  <ShortIdentifierDesc>入植者を識別するための略称です｡\n\nこれは常に表示されます｡姓や個人名､または完全に別の通称でも構いません｡</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>入植者の姓です。\n\nこれは特定のメニューでのみ表示されます。</LastNameDesc>
+  <LastNameDesc>入植者の姓です｡\n\nこれは特定のメニューでのみ表示されます｡</LastNameDesc>
   <!-- EN: Randomize -->
   <Randomize>ランダム生成</Randomize>
   <!-- EN: age {0} -->
@@ -367,9 +367,9 @@
   <!-- EN: Gameplay -->
   <Gameplay>ゲームの設定</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>本当に終了してよろしいですか？ セーブされていない状況は失われます。</ConfirmQuit>
+  <ConfirmQuit>本当に終了してよろしいですか？ セーブされていない状況は失われます｡</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>全ての人物には姓と個人名が必要です。</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>全ての人物には姓と個人名が必要です｡</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
   <RequiredWorkTypeDisabledForEveryone>次の作業ができる者を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
@@ -385,6 +385,6 @@
   <!-- EN: Generating map -->
   <GeneratingMap>地図を作成しています</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>何者かと遭遇したため、地図を作成しています</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>何者かと遭遇したため､地図を作成しています</GeneratingMapForNewEncounter>
 
 </LanguageData>

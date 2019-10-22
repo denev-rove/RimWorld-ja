@@ -33,7 +33,7 @@
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
   <RequestTrader>キャラバン隊の派遣を要請する (コスト: {0}友好値)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0}は、必要なキャラバン隊の種別を質問しています。</ChooseTraderKind>
+  <ChooseTraderKind>{0}は､必要なキャラバン隊の種別を質問しています｡</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
   <TraderSent>{0}は, あなたにトレーダーキャラバンを送ることに承諾しました.2～3日以内には到着するでしょう.</TraderSent>
   <!-- EN: wait {0} -->

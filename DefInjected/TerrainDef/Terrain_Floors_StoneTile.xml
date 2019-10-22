@@ -4,51 +4,51 @@
   <!-- EN: granite flagstone -->
   <FlagstoneGranite.label>花崗岩の敷石</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>荒削りな石製の床敷きです。美しくはないですが、通路や野外の歩道に適した表面をしています。敷石を解体しても何も残りません。</FlagstoneGranite.description>
+  <FlagstoneGranite.description>荒削りな石製の床敷きです｡美しくはないですが､通路や野外の歩道に適した表面をしています｡敷石を解体しても何も残りません｡</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
   <FlagstoneLimestone.label>石灰岩の敷石</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>荒削りな石製の床敷きです。美しくはないですが、通路や野外の歩道に適した表面をしています。敷石を解体しても何も残りません。</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>荒削りな石製の床敷きです｡美しくはないですが､通路や野外の歩道に適した表面をしています｡敷石を解体しても何も残りません｡</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
   <FlagstoneMarble.label>大理石の敷石</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>荒削りな石製の床敷きです。美しくはないですが、通路や野外の歩道に適した表面をしています。敷石を解体しても何も残りません。</FlagstoneMarble.description>
+  <FlagstoneMarble.description>荒削りな石製の床敷きです｡美しくはないですが､通路や野外の歩道に適した表面をしています｡敷石を解体しても何も残りません｡</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
   <FlagstoneSandstone.label>砂岩の敷石</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>荒削りな石製の床敷きです。美しくはないですが、通路や野外の歩道に適した表面をしています。敷石を解体しても何も残りません。</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>荒削りな石製の床敷きです｡美しくはないですが､通路や野外の歩道に適した表面をしています｡敷石を解体しても何も残りません｡</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
   <FlagstoneSlate.label>粘板岩の敷石</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>荒削りな石製の床敷きです。美しくはないですが、通路や野外の歩道に適した表面をしています。敷石を解体しても何も残りません。</FlagstoneSlate.description>
+  <FlagstoneSlate.description>荒削りな石製の床敷きです｡美しくはないですが､通路や野外の歩道に適した表面をしています｡敷石を解体しても何も残りません｡</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
   <TileGranite.label>花崗岩タイル</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>注意深く切り出して敷き詰めた床石です。まるで城郭のような風合いを醸しています。見た目は良いですが敷設には時間がかかります。</TileGranite.description>
+  <TileGranite.description>注意深く切り出して敷き詰めた床石です｡まるで城郭のような風合いを醸しています｡見た目は良いですが敷設には時間がかかります｡</TileGranite.description>
   
   <!-- EN: limestone tile -->
   <TileLimestone.label>石灰岩タイル</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>注意深く切り出して敷き詰めた床石です。まるで城郭のような風合いを醸しています。見た目は良いですが敷設には時間がかかります。</TileLimestone.description>
+  <TileLimestone.description>注意深く切り出して敷き詰めた床石です｡まるで城郭のような風合いを醸しています｡見た目は良いですが敷設には時間がかかります｡</TileLimestone.description>
   
   <!-- EN: marble tile -->
   <TileMarble.label>大理石タイル</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>注意深く切り出して敷き詰めた床石です。まるで城郭のような風合いを醸しています。見た目は良いですが敷設には時間がかかります。</TileMarble.description>
+  <TileMarble.description>注意深く切り出して敷き詰めた床石です｡まるで城郭のような風合いを醸しています｡見た目は良いですが敷設には時間がかかります｡</TileMarble.description>
   
   <!-- EN: sandstone tile -->
   <TileSandstone.label>砂岩タイル</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>注意深く切り出して敷き詰めた床石です。まるで城郭のような風合いを醸しています。見た目は良いですが敷設には時間がかかります。</TileSandstone.description>
+  <TileSandstone.description>注意深く切り出して敷き詰めた床石です｡まるで城郭のような風合いを醸しています｡見た目は良いですが敷設には時間がかかります｡</TileSandstone.description>
   
   <!-- EN: slate tile -->
   <TileSlate.label>粘板岩タイル</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>注意深く切り出して敷き詰めた床石です。まるで城郭のような風合いを醸しています。見た目は良いですが敷設には時間がかかります。</TileSlate.description>
+  <TileSlate.description>注意深く切り出して敷き詰めた床石です｡まるで城郭のような風合いを醸しています｡見た目は良いですが敷設には時間がかかります｡</TileSlate.description>
   
 </LanguageData>

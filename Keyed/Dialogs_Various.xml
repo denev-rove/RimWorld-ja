@@ -32,23 +32,23 @@
   <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>ゲームデータの読み込みエラー</ErrorWhileLoadingAssetsTitle>
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
-  <ErrorWhileLoadingAssets>ゲームデータの読み込み中にエラーが発生しました。詳細についてはエラーログを参照してください。</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>ゲームデータの読み込み中にエラーが発生しました｡詳細についてはエラーログを参照してください｡</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>現在はMODが適用されている状態です。これらのMODが問題を引き起こしている可能性もあるかもしれません。</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>現在はMODが適用されている状態です｡これらのMODが問題を引き起こしている可能性もあるかもしれません｡</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>地図の生成エラー</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>新たな地図の生成中にエラーが発生しました。詳細についてはエラーログを参照してください。</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>新たな地図の生成中にエラーが発生しました｡詳細についてはエラーログを参照してください｡</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>地図の読み込みエラー</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
-  <ErrorWhileLoadingMap>地図の読み込み中にエラーが発生しました。詳細についてはエラーログを参照してください。</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>地図の読み込み中にエラーが発生しました｡詳細についてはエラーログを参照してください｡</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>MODリストが変更されました。ゲームは自動的に再起動します。</ModsChanged>
+  <ModsChanged>MODリストが変更されました｡ゲームは自動的に再起動します｡</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>ゲームの再起動中に何らかの不具合が発生しました。解除したMODの無効化が完了していないため、一部のコードが有効なまま残っているかもしれません。\n\n一旦ゲームを終了させてから、改めて起動し、全てのMODを最初から読み込み直すことをお勧めします。</FailedToRestart>
+  <FailedToRestart>ゲームの再起動中に何らかの不具合が発生しました｡解除したMODの無効化が完了していないため､一部のコードが有効なまま残っているかもしれません｡\n\n一旦ゲームを終了させてから､改めて起動し､全てのMODを最初から読み込み直すことをお勧めします｡</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>再起動中</Restarting>
   
@@ -90,11 +90,11 @@
   <!-- EN: Really delete {0}? -->
   <ConfirmDelete>本当に "{0}" を削除してよろしいですか？</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>このセーブデータを削除します。</DeleteThisSavegame>
+  <DeleteThisSavegame>このセーブデータを削除します｡</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>{0} というファイル名で保存しました。</SavedAs>
+  <SavedAs>{0} というファイル名で保存しました｡</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>ファイル名を入力してください。</NeedAName>
+  <NeedAName>ファイル名を入力してください｡</NeedAName>
   <!-- EN: Loading -->
   <LoadingLongEvent>ロード中です</LoadingLongEvent>
   <!-- EN: Saving -->
@@ -102,57 +102,57 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です｡\n\nセーブデータは全く違うバージョン {1} で作成されました｡\n\nセーブデータを読み込めたとしても､おそらく動作しないと思われます｡</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作するはずです。</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です｡\n\nセーブデータは違うバージョン {1} で作成されました｡\n\nセーブデータは動作するはずです｡</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>セーブデータは現在のゲームバージョンで作成されたため、問題なく動作します。</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>セーブデータは現在のゲームバージョンで作成されたため､問題なく動作します｡</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>セーブデータは未知の形式で記録されています。おそらく読み込めないでしょう。</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>セーブデータは未知の形式で記録されています｡おそらく読み込めないでしょう｡</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>問題のあるセーブデータがあります: {0}\n\n{1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
+  <ProblemSavingFile>問題のあるセーブデータがあります: {0}\n\n{1}\n\n詳細な情報はエラーログを見てください｡</ProblemSavingFile>
   <!-- EN: Load anyway -->
   <LoadAnyway>強制ロード</LoadAnyway>
   <!-- EN: Load mod list from save -->
   <ChangeLoadedMods>セーブと同じMODを有効化</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>いくつかのMODを利用できません。インストールが必要です。</MissingMods>
+  <MissingMods>いくつかのMODを利用できません｡インストールが必要です｡</MissingMods>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>当面はこの地に腰を下ろすようなので、{0}は自分たちの派閥を立ち上げるべきだと考えています。我々の派閥を何と呼べばよいでしょう？</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>当面はこの地に腰を下ろすようなので､{0}は自分たちの派閥を立ち上げるべきだと考えています｡我々の派閥を何と呼べばよいでしょう？</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
-  <PlayerFactionGainsName>あなたは {0} という派閥の名乗りを上げました。</PlayerFactionGainsName>
+  <PlayerFactionGainsName>あなたは {0} という派閥の名乗りを上げました｡</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionNameIsInvalid>その派閥名は適当ではありません。</PlayerFactionNameIsInvalid>
+  <PlayerFactionNameIsInvalid>その派閥名は適当ではありません｡</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0}は、この入植地に名前を付けるべきだと考えています。この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0}は､この入植地に名前を付けるべきだと考えています｡この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
-  <PlayerFactionBaseGainsName>ここを {0} と命名しました。</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseGainsName>ここを {0} と命名しました｡</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>その地名は適当ではありません。</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>その地名は適当ではありません｡</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}は更に、この入植地に名前を付けるべきだと考えています。この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}は更に､この入植地に名前を付けるべきだと考えています｡この入植地を何と呼べばよいでしょう？</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>あなたは派閥を {0} と名乗り、ここを {1} と命名しました。</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>あなたは派閥を {0} と名乗り､ここを {1} と命名しました｡</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>正しい名前を入力してください。</NameIsInvalid>
+  <NameIsInvalid>正しい名前を入力してください｡</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>その名前は既に使われています。</NameIsInUse>
+  <NameIsInUse>その名前は既に使われています｡</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>このゾーンを {0} と命名しました。</ZoneGainsName>
+  <ZoneGainsName>このゾーンを {0} と命名しました｡</ZoneGainsName>
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>この人物の通称を {0} としました。[PAWN_possessive]肩書きは {PAWN_title} です。</PawnGainsName>
+  <PawnGainsName>この人物の通称を {0} としました｡[PAWN_possessive]肩書きは {PAWN_title} です｡</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>この動物の名前を {0}としました。</AnimalGainsName>
+  <AnimalGainsName>この動物の名前を {0}としました｡</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -166,11 +166,11 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>このセーブデータは、有効になっているMODが現状と一致しません。 MOD次第では、このことが原因で問題を起こすかもしれません。\n\n\n\nセーブデータで有効になっているMOD（導入順）:\n\n{0}\n\n\n\n現状で有効になっているMOD（導入順）:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>このセーブデータは､有効になっているMODが現状と一致しません｡ MOD次第では､このことが原因で問題を起こすかもしれません｡\n\n\n\nセーブデータで有効になっているMOD（導入順）:\n\n{0}\n\n\n\n現状で有効になっているMOD（導入順）:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>画面解像度を変更しました。この解像度でよろしいですか？\n\n自動復帰まで あと {0}秒…</ConfirmResolutionChange>
+  <ConfirmResolutionChange>画面解像度を変更しました｡この解像度でよろしいですか？\n\n自動復帰まで あと {0}秒…</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>決定</ResolutionKeep>
   <!-- EN: Revert -->
@@ -178,7 +178,7 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>このコンピュータ上で開発者モードを永久に無効化します。本当によろしいですか？\n\nこの設定は、開発用ツールを使って通常のゲームより有利に進めたいという誘惑を気にすることなく、より純粋なゲームを経験したい人のためにあります。\n\n開発者モードを再び有効にすることは可能ですが、それには設定ファイルをあなた自身で修正する必要があります。その方法を知るにはインターネットで調べる必要があるでしょう。</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>このコンピュータ上で開発者モードを永久に無効化します｡本当によろしいですか？\n\nこの設定は､開発用ツールを使って通常のゲームより有利に進めたいという誘惑を気にすることなく､より純粋なゲームを経験したい人のためにあります｡\n\n開発者モードを再び有効にすることは可能ですが､それには設定ファイルをあなた自身で修正する必要があります｡その方法を知るにはインターネットで調べる必要があるでしょう｡</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <!-- EN: Research -->
@@ -194,7 +194,7 @@
   <!-- EN: Locked -->
   <Locked>未解禁</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>研究設備を設置するまで、入植者が研究を行うことはできません。\n\nしかし、あらかじめ研究するプロジェクトを指定しておくことは できます。</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>研究設備を設置するまで､入植者が研究を行うことはできません｡\n\nしかし､あらかじめ研究するプロジェクトを指定しておくことは できます｡</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>必要条件</ResearchPrerequisites>
   <!-- EN: Required research bench -->
@@ -204,9 +204,9 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>警告：あなたは極寒の真っ只中に着陸しようとしています。これは自殺行為も同然です。極限の挑戦をしたいのでなければ、着陸地点を変更するか、開始時の四季を変更してください。</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>警告：あなたは極寒の真っ只中に着陸しようとしています｡これは自殺行為も同然です｡極限の挑戦をしたいのでなければ､着陸地点を変更するか､開始時の四季を変更してください｡</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>注意：このゲームは中規模のマップで遊ぶように設計されています。今の設定で生成される空間は余りにも広すぎます！\n\n大きすぎるマップは処理速度を低下させるだけでなく、ゲームデザインの本質をも壊します。AIが愚かな決断をしたり、様々な方面でゲームバランスに悪い影響があります。この規模は後方互換とテストのためだけに実装されています。特段の理由がなければ、この設定は使用しないでください。</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>注意：このゲームは中規模のマップで遊ぶように設計されています｡今の設定で生成される空間は余りにも広すぎます！\n\n大きすぎるマップは処理速度を低下させるだけでなく､ゲームデザインの本質をも壊します｡AIが愚かな決断をしたり､様々な方面でゲームバランスに悪い影響があります｡この規模は後方互換とテストのためだけに実装されています｡特段の理由がなければ､この設定は使用しないでください｡</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>マップの規模</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -301,7 +301,7 @@
   <!-- EN: Armor penetration -->
   <ArmorPenetration>貫通率</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>貫通率とは、この武器が攻撃対象の防御率を無視できる度合いです。\n\n攻撃対象の防御率よりも貫通率が大きい攻撃は、相手を非装甲と見なします。そうでない場合、攻撃対象の防御率から貫通率を差し引きます。</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>貫通率とは､この武器が攻撃対象の防御率を無視できる度合いです｡\n\n攻撃対象の防御率よりも貫通率が大きい攻撃は､相手を非装甲と見なします｡そうでない場合､攻撃対象の防御率から貫通率を差し引きます｡</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>命中精度</Accuracy>
   <!-- EN: Burst shot count -->
@@ -319,7 +319,7 @@
   <!-- EN: Stopping power -->
   <StoppingPower>阻止力</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>この武器が命中すると、攻撃対象はよろめいて数秒間ほど動きが鈍くなります。体格が阻止力より大きい対象には効果がありません。</StoppingPowerExplanation>
+  <StoppingPowerExplanation>この武器が命中すると､攻撃対象はよろめいて数秒間ほど動きが鈍くなります｡体格が阻止力より大きい対象には効果がありません｡</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>直撃率</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -381,7 +381,7 @@
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>遮蔽力</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>銃撃戦における遮蔽物としての有効性です。数値が高いほど効果的に銃弾を遮ります。</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>銃撃戦における遮蔽物としての有効性です｡数値が高いほど効果的に銃弾を遮ります｡</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -389,7 +389,7 @@
   <!-- EN: Wildness -->
   <Wildness>野性度</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>野性に近い動物は、手懐けや調教の難度が高まります。</WildnessExplanation>
+  <WildnessExplanation>野性に近い動物は､手懐けや調教の難度が高まります｡</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>調教が風化する間隔</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
@@ -397,7 +397,7 @@
   <!-- EN: Animal filth rate -->
   <AnimalFilthRate>床汚れの頻度</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>動物が歩き回ると、人工の床は汚れてしまいます。この動物は、{0}セル歩く度にこのような汚れを生み出します。\n\n大きくて愛玩に向かない動物は、より多くの汚れを生み出します。</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>動物が歩き回ると､人工の床は汚れてしまいます｡この動物は､{0}セル歩く度にこのような汚れを生み出します｡\n\n大きくて愛玩に向かない動物は､より多くの汚れを生み出します｡</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>時</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -407,7 +407,7 @@
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>この動物が、キャラバン隊として長距離の荷物の運搬に向いているかどうかです。</PackAnimalExplanation>
+  <PackAnimalExplanation>この動物が､キャラバン隊として長距離の荷物の運搬に向いているかどうかです｡</PackAnimalExplanation>
   <!-- EN: Skill -->
   <Skill>スキル</Skill>
   <!-- EN: Success rate multiplier -->
@@ -419,15 +419,15 @@
   <!-- EN: Construction skill required -->
   <ConstructionSkillRequired>必要な建築スキル</ConstructionSkillRequired>
   <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>このオブジェクトを建設するのに必要となる建築スキルの値です。</ConstructionSkillRequiredExplanation>
+  <ConstructionSkillRequiredExplanation>このオブジェクトを建設するのに必要となる建築スキルの値です｡</ConstructionSkillRequiredExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です。\n\n「擦り寄り」は多くの動物種に見られる振る舞いで、愛情表現として親しい者に、鼻や口元を押し付けます。大抵の人間は、この可愛いい仕草に微笑み、しばらくこのままでいたいと思っています。</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です｡\n\n「擦り寄り」は多くの動物種に見られる振る舞いで､愛情表現として親しい者に､鼻や口元を押し付けます｡大抵の人間は､この可愛いい仕草に微笑み､しばらくこのままでいたいと思っています｡</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>手負い時の逆襲率</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です。\n\n攻撃した者が近いほど発生率は上がります。近距離からでは3倍となります。\n\n傷付く度に判定するため、発射頻度が低く、高火力の武器は逆襲されづらくなります。\n\n逆襲率を極小にするには、遠距離から発射頻度の低い武器で攻撃します。</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です｡\n\n攻撃した者が近いほど発生率は上がります｡近距離からでは3倍となります｡\n\n傷付く度に判定するため､発射頻度が低く､高火力の武器は逆襲されづらくなります｡\n\n逆襲率を極小にするには､遠距離から発射頻度の低い武器で攻撃します｡</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>手懐け失敗時の逆襲率</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -439,11 +439,11 @@
   <!-- EN: Rearm cost -->
   <RearmCost>再装填コスト</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>この砲塔を再装填するには資源が必要です。(難易度の影響を受けます)</RearmCostExplanation>
+  <RearmCostExplanation>この砲塔を再装填するには資源が必要です｡(難易度の影響を受けます)</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>残弾数</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です。</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です｡</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>電力消費量</PowerConsumption>
 
@@ -457,9 +457,9 @@
   <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>この品目について、取引の準備が整っているものの数量です。\n\n軌道商船に売却できるのは、軌道貿易ビーコンの周囲にある物品のみです。</ColonyCount>
+  <ColonyCount>この品目について､取引の準備が整っているものの数量です｡\n\n軌道商船に売却できるのは､軌道貿易ビーコンの周囲にある物品のみです｡</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>この品目について、取引の相手が所持している数量です。</TraderCount>
+  <TraderCount>この品目について､取引の相手が所持している数量です｡</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>承諾</AcceptButton>
   <!-- EN: Reset -->
@@ -471,13 +471,13 @@
   <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>取引に使えるシルバー: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>軌道商船への支払いに使えるのは、軌道貿易ビーコンの周囲にあるシルバーのみです。</YourTradeableSilverTip>
+  <YourTradeableSilverTip>軌道商船への支払いに使えるのは､軌道貿易ビーコンの周囲にあるシルバーのみです｡</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <!-- EN: No more to sell. -->
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>取引相手は、これを買う気がありません。</TraderWillNotTrade>
+  <TraderWillNotTrade>取引相手は､これを買う気がありません｡</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>交渉人</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
@@ -487,7 +487,7 @@
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>取引相手の手持ちのシルバーが足りないため、十分な対価を受け取れません。それでも取引しますか？</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>取引相手の手持ちのシルバーが足りないため､十分な対価を受け取れません｡それでも取引しますか？</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>並び替え</SortBy>
   <!-- EN: trader type -->
@@ -511,7 +511,7 @@
   <!-- EN: Final price -->
   <FinalPrice>最終価格</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>贈答モード:\n{0}へ 貢ぎ物を 申し入れます。</GiftModeTip>
+  <GiftModeTip>贈答モード:\n{0}へ 貢ぎ物を 申し入れます｡</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>取引モードへ戻る</TradeModeTip>
 
@@ -525,31 +525,31 @@
   <!-- EN: Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>キャラバン隊に編成できる頭数です。</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>キャラバン隊に編成できる頭数です｡</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>入植者と家畜</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>物資</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>自力で歩行可能な状態の入植者を、少なくとも一人は編成してください。</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>自力で歩行可能な状態の入植者を､少なくとも一人は編成してください｡</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
-  <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません。</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません｡</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>適切な荷積み場所を見つけられません。出発地点({0})への道順があるか確認して下さい。</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>適切な荷積み場所を見つけられません｡出発地点({0})への道順があるか確認して下さい｡</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>警告: 出発地点({0})へ到達できないキャラバン隊員がいます。</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>警告: 出発地点({0})へ到達できないキャラバン隊員がいます｡</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{1_labelShort}に到達できるキャラバン隊員がいません。</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort}に到達できるキャラバン隊員がいません｡</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員がいません。</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員がいません｡</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>{0}x {1}に到達できるキャラバン隊員がいません。</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>{0}x {1}に到達できるキャラバン隊員がいません｡</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>キャラバン隊は、これほど多くの積み荷を運べません。</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>キャラバン隊は､これほど多くの積み荷を運べません｡</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>積み荷の重量と、装備品の重量の両方を含んでいます。今の積載量が最大積載量より少なければ移動速度が向上します。</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>積み荷の重量と､装備品の重量の両方を含んでいます｡今の積載量が最大積載量より少なければ移動速度が向上します｡</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の存在がどれだけ気付かれ易いかを示します。\n\nこれは、キャラバン隊が敵に待ち伏せされる確率に乗算する値です。\n\nキャラバン隊が目当ての物を発見する能力には影響しません。\n\n目立ちやすさは、キャラバン隊に所属する家畜を含めた全員の体格を合計した値に基づいて決まります。</CaravanVisibilityTip>
+  <CaravanVisibilityTip>目立ちやすさは､キャラバン隊の存在がどれだけ気付かれ易いかを示します｡\n\nこれは､キャラバン隊が敵に待ち伏せされる確率に乗算する値です｡\n\nキャラバン隊が目当ての物を発見する能力には影響しません｡\n\n目立ちやすさは､キャラバン隊に所属する家畜を含めた全員の体格を合計した値に基づいて決まります｡</CaravanVisibilityTip>
   <!-- EN: Days of food -->
   <DaysWorthOfFood>食料 (日数)</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
@@ -557,41 +557,41 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>無期限</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>隊員や家畜の中に一人でも食料が尽きる者が出るまでの、おおよその日数です。種が異なれば食性も変わり、他の者よりも先に食料が尽きる事態もありえます。この値は、経路を選択すればより正確に計算されます。\n\n影響する要因:\n - 所持する食料の種類と量\n - 隊員や家畜の構成とその食性\n - 植物スキルによる食料調達量\n - 経路上の牧草の有無\n - 食料の消費期限\n - 高温による腐敗の加速</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>隊員や家畜の中に一人でも食料が尽きる者が出るまでの､おおよその日数です｡種が異なれば食性も変わり､他の者よりも先に食料が尽きる事態もありえます｡この値は､経路を選択すればより正確に計算されます｡\n\n影響する要因:\n - 所持する食料の種類と量\n - 隊員や家畜の構成とその食性\n - 植物スキルによる食料調達量\n - 経路上の牧草の有無\n - 食料の消費期限\n - 高温による腐敗の加速</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint> (最初の経由地点のみ考慮されます)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>キャラバン隊は、{0}日分の食料しか持っていません。すぐに飢えることになるでしょう。</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>キャラバン隊は､{0}日分の食料しか持っていません｡すぐに飢えることになるでしょう｡</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は全く食料を持っていません。ただちに飢えることになるでしょう。</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は全く食料を持っていません｡ただちに飢えることになるでしょう｡</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>隊員が一日に調達できる食料の平均的な量です。この値は気候帯によって異なるため、気候帯を横断すれば変動します。</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>隊員が一日に調達できる食料の平均的な量です｡この値は気候帯によって異なるため､気候帯を横断すれば変動します｡</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
   <ForagedFoodPerDay>食料調達量 / 日</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が、すぐに腐敗するでしょう。</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が､すぐに腐敗するでしょう｡</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>キャラバン隊の中に、外交や取引ができる者がいません。</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>キャラバン隊の中に､外交や取引ができる者がいません｡</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
   <CaravanAreYouSure>このキャラバン隊を編成して本当によろしいですか？</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>まずキャラバン隊の経路を選択してください。</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>まずキャラバン隊の経路を選択してください｡</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません。マップ端のいずれかに到達できるか確認してください。</MessageNoValidExitTile>
+  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません｡マップ端のいずれかに到達できるか確認してください｡</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>このアイテムの重量</ItemWeightTip>
   <!-- EN: Market value -->
   <MarketValueTip>市場における価値</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>この物資が腐敗を始める迄の日数です。今いる場所の平均気温を基準に割り出しています。</DaysUntilRotTip>
+  <DaysUntilRotTip>この物資が腐敗を始める迄の日数です｡今いる場所の平均気温を基準に割り出しています｡</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>この食料から摂取できる栄養の量です。\n\n参考情報:&#xA0;成人は一日に&#xA0;{0}の栄養を必要とします。</ItemNutritionTip>
+  <ItemNutritionTip>この食料から摂取できる栄養の量です｡\n\n参考情報:&#xA0;成人は一日に&#xA0;{0}の栄養を必要とします｡</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>家畜は積み荷の食料を食べる代わりに、現地で放牧することができます。放牧は適切な気温の気候帯でのみ可能です。</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>家畜は積み荷の食料を食べる代わりに､現地で放牧することができます｡放牧は適切な気温の気候帯でのみ可能です｡</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>一日に調達できる栄養の量です。実際の値は現地の気候帯の食料調達量も影響します。\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>一日に調達できる栄養の量です｡実際の値は現地の気候帯の食料調達量も影響します｡\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
-  <NutritionEatenPerDayTip>一日に消費する栄養の量です。参考までに、簡単な食事の栄養は {0}です。\n\n食性: {2}\n\n凡例:\n{1}</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>一日に消費する栄養の量です｡参考までに､簡単な食事の栄養は {0}です｡\n\n食性: {2}\n\n凡例:\n{1}</NutritionEatenPerDayTip>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>今の積載量</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -605,7 +605,7 @@
   <!-- EN: Inventory mass -->
   <InventoryMass>持ち物の重量</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>入植者たちは、積み荷を集めてこのエリアを離れようとしています。</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>入植者たちは､積み荷を集めてこのエリアを離れようとしています｡</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
   <!-- EN: Colonists -->
@@ -625,7 +625,7 @@
   <!-- EN: tiles/day -->
   <TilesPerDay>タイル / 日</TilesPerDay>
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>移動速度は、家畜を含めた隊全員の平均速度、積載重量、地形の険しさによって決まります。</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>移動速度は､家畜を含めた隊全員の平均速度､積載重量､地形の険しさによって決まります｡</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>放牧の可否</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
@@ -653,23 +653,23 @@
   <!-- EN: Split caravan -->
   <SplitCaravan>キャラバン隊の分割</SplitCaravan>
   <!-- EN: You must leave at least one non-downed colonist. -->
-  <SourceCaravanMustHaveAtLeastOneColonist>少なくとも一人はしっかりとした入植者が必要です。</SourceCaravanMustHaveAtLeastOneColonist>
+  <SourceCaravanMustHaveAtLeastOneColonist>少なくとも一人はしっかりとした入植者が必要です｡</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
-  <SplitCaravanThingCountTip>元のキャラバン隊から、分割先のキャラバン隊に持たすことができるアイテムの数</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>元のキャラバン隊から､分割先のキャラバン隊に持たすことができるアイテムの数</SplitCaravanThingCountTip>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>発射グループを編成</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>指定した人物と物資は、輸送ポッドには重すぎます。</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>指定した人物と物資は､輸送ポッドには重すぎます｡</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>空っぽの輸送ポッドを送る事はできません。</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>空っぽの輸送ポッドを送る事はできません｡</CantSendEmptyTransportPods>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort}は輸送ポッドまで辿り着けません。</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort}は輸送ポッドまで辿り着けません｡</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>{0}を輸送ポッドまで運ぶ経路がありません。</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>{0}を輸送ポッドまで運ぶ経路がありません｡</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>{0}x {1}を輸送ポッドまで運ぶ経路がありません。</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>{0}x {1}を輸送ポッドまで運ぶ経路がありません｡</TransporterItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -705,7 +705,7 @@
   <!-- EN: Delete outfit... -->
   <DeleteOutfit>服装規定を削除…</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>この服装規定は{0}が使用中です。</OutfitInUse>
+  <OutfitInUse>この服装規定は{0}が使用中です｡</OutfitInUse>
   <!-- EN: No outfit selected -->
   <NoOutfitSelected>服装規定を選択していません</NoOutfitSelected>
   
@@ -719,9 +719,9 @@
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>処方箋を削除…</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>処方箋は {0}に適用中です。</DrugPolicyInUse>
+  <DrugPolicyInUse>処方箋は {0}に適用中です｡</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>食事制限は {0}に適用中です。</FoodRestrictionInUse>
+  <FoodRestrictionInUse>食事制限は {0}に適用中です｡</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>嗜む程度</SocialDrugs>
   <!-- EN: No drugs -->
@@ -757,25 +757,25 @@
   <!-- EN: Any -->
   <NoDrugUseRequirement>いつでも</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>このドラッグを削除する。</DeleteDrugTooltip>
+  <DeleteDrugTooltip>このドラッグを削除する｡</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>ドラッグの名称です。</DrugNameColumnDesc>
+  <DrugNameColumnDesc>ドラッグの名称です｡</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>ドラッグの摂取を、どのような理由で許可するかです。</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>ドラッグの摂取を､どのような理由で許可するかです｡</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>入植者がドラッグを摂取する頻度です。</FrequencyColumnDesc>
+  <FrequencyColumnDesc>入植者がドラッグを摂取する頻度です｡</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>入植者の"心情"が、この閾値より低い場合に限りドラッグを使おうとします。</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>入植者の"心情"が､この閾値より低い場合に限りドラッグを使おうとします｡</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>入植者の"娯楽"が、この閾値より低い場合に限りドラッグを使おうとします。</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>入植者の"娯楽"が､この閾値より低い場合に限りドラッグを使おうとします｡</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>ドラッグを摂取しようと掻き集める際に余分に所持する量です。予備を携帯することで、摂取の度にドラッグの備蓄場所へ向かう必要がなくなります。</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>ドラッグを摂取しようと掻き集める際に余分に所持する量です｡予備を携帯することで､摂取の度にドラッグの備蓄場所へ向かう必要がなくなります｡</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>依存症のため\n\n依存症であることを容認した患者の欲求に応じるためにドラッグを使用します。\n\nたとえ無効にしても、特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません。</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>依存症のため\n\n依存症であることを容認した患者の欲求に応じるためにドラッグを使用します｡\n\nたとえ無効にしても､特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません｡</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>娯楽のため\n\n娯楽や人付き合いを目的としてドラッグを使用します。\n\nたとえ無効にしても、特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません。</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>娯楽のため\n\n娯楽や人付き合いを目的としてドラッグを使用します｡\n\nたとえ無効にしても､特定の個性を持った者や精神崩壊した者は無視してドラッグを服用するかもしれません｡</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>定期的に\n\n特定の条件を満たす場合に、あらかじめ設定した服薬計画に従ってドラッグを使用します。</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>定期的に\n\n特定の条件を満たす場合に､あらかじめ設定した服薬計画に従ってドラッグを使用します｡</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
@@ -819,7 +819,7 @@
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0}の種を蒔くには、{1}以上の植物スキルが必要です。\n\n動ける者が誰も十分なスキルを持っていないため、この植物は育てられません。</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}の種を蒔くには､{1}以上の植物スキルが必要です｡\n\n動ける者が誰も十分なスキルを持っていないため､この植物は育てられません｡</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
@@ -831,33 +831,33 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>キャラバン隊に加わろうとしている家畜や囚人がいます。移動を始めると、彼らはどうすることもできません。\n\n家畜、囚人、動けない入植者が置き去りにされると、見捨てたものと見なして敵の捕虜になります。\n本当にキャラバン隊を移動させてよろしいですか？</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>キャラバン隊に加わろうとしている家畜や囚人がいます｡移動を始めると､彼らはどうすることもできません｡\n\n家畜､囚人､動けない入植者が置き去りにされると､見捨てたものと見なして敵の捕虜になります｡\n本当にキャラバン隊を移動させてよろしいですか？</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
   <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか？</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は、確実に野垂れ死ぬでしょう。</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は､確実に野垂れ死ぬでしょう｡</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
   <ConfirmBanishPawnDialog_Items>{1_labelShort}は次の物資を持ち出します:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員が次の心情を抱きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると、以下の人々が次の心情を抱きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると､以下の人々が次の心情を抱きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>発射グループの荷積みが完了していません。{1_labelShort}が所在不明です。\n\n構わず発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>発射グループの荷積みが完了していません｡{1_labelShort}が所在不明です｡\n\n構わず発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>この場所は他派閥の拠点から{0}タイル以内なので、彼らは自分たちの領土が侵されたと感じ、彼らの派閥との関係が{1}日毎に悪化していきます。\n\n構わずこの地に居を構えるのですか？</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>この場所は他派閥の拠点から{0}タイル以内なので､彼らは自分たちの領土が侵されたと感じ､彼らの派閥との関係が{1}日毎に悪化していきます｡\n\n構わずこの地に居を構えるのですか？</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します。本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に、未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx>&lt;/xxx>)は新たなものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li>へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません。\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください。 最新の翻訳データを読み込んでおく必要があります。\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう。</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します｡本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に､未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx>&lt;/xxx>)は新たなものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li>へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません｡\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください｡ 最新の翻訳データを読み込んでおく必要があります｡\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう｡</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>はい、バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>はい､バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->

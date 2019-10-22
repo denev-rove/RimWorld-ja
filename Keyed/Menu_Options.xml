@@ -33,7 +33,7 @@
   <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>ラーニングヘルパーを初期化する</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>履修状況を初期化しました。全ての講義を最初から、もう一度受けることができます。</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>履修状況を初期化しました｡全ての講義を最初から､もう一度受けることができます｡</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
   <RunInBackground>バックグラウンド実行</RunInBackground>
   <!-- EN: Development mode -->
@@ -47,13 +47,13 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>セーブデータの所在を表示</ShowSaveGameDataLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>一般プレイヤーが作成した登場人物のうちあなたのお気に入りの者たちです。ここに並べた人物は、ゲーム中にランダムで登場する可能性が高くなります:</NamesYouWantToSee>
+  <NamesYouWantToSee>一般プレイヤーが作成した登場人物のうちあなたのお気に入りの者たちです｡ここに並べた人物は､ゲーム中にランダムで登場する可能性が高くなります:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>お気に入りを追加</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
-  <TypeFirstNickOrLastName>個人名、通称、姓のいずれかで検索してください。</TypeFirstNickOrLastName>
+  <TypeFirstNickOrLastName>個人名､通称､姓のいずれかで検索してください｡</TypeFirstNickOrLastName>
   <!-- EN: This name is already on the preferred list. -->
-  <MessageAlreadyPreferredName>この人物は既に登録済みです。</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>この人物は既に登録済みです｡</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
   <ChangeStoryteller>脚本家 変更</ChangeStoryteller>
   <!-- EN: Autosave interval -->
@@ -85,12 +85,12 @@
   <!-- EN: Select mod... -->
   <SelectMod>MODを選択…</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>設定可能なMODが読み込まれていません。</NoConfigurableMods>
+  <NoConfigurableMods>設定可能なMODが読み込まれていません｡</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
   <RestoreToDefaultSettings>初期設定に復元する</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>環境設定は初期化されました。ゲームは自動的に再起動します。</ResetAndRestart>
+  <ResetAndRestart>環境設定は初期化されました｡ゲームは自動的に再起動します｡</ResetAndRestart>
   
 </LanguageData>

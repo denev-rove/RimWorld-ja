@@ -4,7 +4,7 @@
   <!-- EN: alpaca -->
   <Alpaca.label>アルパカ</Alpaca.label>
   <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
-  <Alpaca.description>中型の有蹄類で、ラマの近縁種です。アルパカは通常、その際立って柔らかく暖かな体毛を得るために飼育されます。古い時代、南アメリカ大陸の険しい山道で荷物を運んでいた頃から、駄載獣として使役されています。</Alpaca.description>
+  <Alpaca.description>中型の有蹄類で､ラマの近縁種です｡アルパカは通常､その際立って柔らかく暖かな体毛を得るために飼育されます｡古い時代､南アメリカ大陸の険しい山道で荷物を運んでいた頃から､駄載獣として使役されています｡</Alpaca.description>
   <!-- EN: left hoof -->
   <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -15,7 +15,7 @@
   <!-- EN: chicken -->
   <Chicken.label>鶏</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
-  <Chicken.description>もっとも伝統的な家禽類です。鶏からは卵と鶏肉が採れます。育つのがとても早く、頻繁に卵を産みます。</Chicken.description>
+  <Chicken.description>もっとも伝統的な家禽類です｡鶏からは卵と鶏肉が採れます｡育つのがとても早く､頻繁に卵を産みます｡</Chicken.description>
   <!-- EN: claws -->
   <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
   <!-- EN: beak -->
@@ -26,7 +26,7 @@
   <!-- EN: cow -->
   <Cow.label>牛</Cow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
-  <Cow.description>家畜化された大型の有蹄類です。大量の母乳、肉、皮を得るため数千年に渡り品種改良されてきました。特に温厚な生き物で、どれだけ傷付けられても決して反撃しようとはしません。牧場での暮らしに適応しており、自然界では生きていくことができません。</Cow.description>
+  <Cow.description>家畜化された大型の有蹄類です｡大量の母乳､肉､皮を得るため数千年に渡り品種改良されてきました｡特に温厚な生き物で､どれだけ傷付けられても決して反撃しようとはしません｡牧場での暮らしに適応しており､自然界では生きていくことができません｡</Cow.description>
   <!-- EN: beef -->
   <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
   <!-- EN: head -->
@@ -39,7 +39,7 @@
   <!-- EN: pig -->
   <Pig.label>豚</Pig.label>
   <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
-  <Pig.description>豚は、人の手による家畜の歴史において最も古い時代に属する動物です。豚は一般に肉の生産のために飼育されます。雑食性のため育てるのは容易です。豚は利己的な気質がありますが、複雑な仕事を仕込むこともできます。</Pig.description>
+  <Pig.description>豚は､人の手による家畜の歴史において最も古い時代に属する動物です｡豚は一般に肉の生産のために飼育されます｡雑食性のため育てるのは容易です｡豚は利己的な気質がありますが､複雑な仕事を仕込むこともできます｡</Pig.description>
   <!-- EN: pork -->
   <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
   <!-- EN: head -->

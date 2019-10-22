@@ -4,61 +4,61 @@
   <!-- EN: blue carpet -->
   <CarpetBlue.label>青色の絨毯</CarpetBlue.label>
   <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>優しく爪先を包む、涼し気な青色をした豪華なカーペットです。</CarpetBlue.description>
+  <CarpetBlue.description>優しく爪先を包む､涼し気な青色をした豪華なカーペットです｡</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
   <CarpetCream.label>クリーム色の絨毯</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>誘うようなクリーム色をしたカーペットです。</CarpetCream.description>
+  <CarpetCream.description>誘うようなクリーム色をしたカーペットです｡</CarpetCream.description>
   
   <!-- EN: dark carpet -->
   <CarpetDark.label>暗い色の絨毯</CarpetDark.label>
   <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>玄人好みな質感の濃い灰色をしたカーペットです。</CarpetDark.description>
+  <CarpetDark.description>玄人好みな質感の濃い灰色をしたカーペットです｡</CarpetDark.description>
   
   <!-- EN: green carpet -->
   <CarpetGreen.label>緑色の絨毯</CarpetGreen.label>
   <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>自然な色合いをした、緑色のカーペットです。 アーストーンってね。</CarpetGreen.description>
+  <CarpetGreen.description>自然な色合いをした､緑色のカーペットです｡ アーストーンってね｡</CarpetGreen.description>
   
   <!-- EN: red carpet -->
   <CarpetRed.label>赤色の絨毯</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>素敵なバラのような色合いの豪華なカーペットです。</CarpetRed.description>
+  <CarpetRed.description>素敵なバラのような色合いの豪華なカーペットです｡</CarpetRed.description>
   
   <!-- EN: concrete -->
   <Concrete.label>コンクリート打ちっ放し</Concrete.label>
   <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
-  <Concrete.description>粗いコンクリートの床です。素早く歩け、手間をかけずに安価で敷設できますが、見た目は悪いです。</Concrete.description>
+  <Concrete.description>粗いコンクリートの床です｡素早く歩け､手間をかけずに安価で敷設できますが､見た目は悪いです｡</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>黄金タイル</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>威圧的なほどの豪華さゆえに金のタイルを踏むのは気後れします。あまりにも高価で、あまりにも美しく、本当にこんな床で暮らす者は真の俗物だと思われることでしょう。</GoldTile.description>
+  <GoldTile.description>威圧的なほどの豪華さゆえに金のタイルを踏むのは気後れします｡あまりにも高価で､あまりにも美しく､本当にこんな床で暮らす者は真の俗物だと思われることでしょう｡</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>鉄製タイル</MetalTile.label>
   <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>宇宙船のような見た目をした金属製の床板です。きれいで滑らかな表面は清潔さに寄与します。</MetalTile.description>
+  <MetalTile.description>宇宙船のような見た目をした金属製の床板です｡きれいで滑らかな表面は清潔さに寄与します｡</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>舗装タイル</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>コンクリート製の床板です。安価で人も動きやすいですが見た目に関しては普通です。敷設にも時間がかかります。</PavedTile.description>
+  <PavedTile.description>コンクリート製の床板です｡安価で人も動きやすいですが見た目に関しては普通です｡敷設にも時間がかかります｡</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>銀製タイル</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>銀製のタイルです。未来的で高貴な見た目のため、豪華な部屋には最適です。 清潔さに寄与します。</SilverTile.description>
+  <SilverTile.description>銀製のタイルです｡未来的で高貴な見た目のため､豪華な部屋には最適です｡ 清潔さに寄与します｡</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>抗菌タイル</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>清潔度を一段と向上させる特性を持った抗菌タイルです。特に清潔な部屋は、医療の質や研究速度を向上させます。このタイルは、敷設するのにとても時間がかかります。</SterileTile.description>
+  <SterileTile.description>清潔度を一段と向上させる特性を持った抗菌タイルです｡特に清潔な部屋は､医療の質や研究速度を向上させます｡このタイルは､敷設するのにとても時間がかかります｡</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>フローリング</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>木製の床です。暖かで自宅に居るような気分になります。素早く敷くことができますが非常に燃えやすいです。</WoodPlankFloor.description>
+  <WoodPlankFloor.description>木製の床です｡暖かで自宅に居るような気分になります｡素早く敷くことができますが非常に燃えやすいです｡</WoodPlankFloor.description>
   
 </LanguageData>

@@ -4,31 +4,31 @@
   <!-- EN: aiming time -->
   <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>攻撃対象を選んでから射撃するまでにかかる時間です。</AimingDelayFactor.description>
+  <AimingDelayFactor.description>攻撃対象を選んでから射撃するまでにかかる時間です｡</AimingDelayFactor.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>貫通率 (白兵戦)</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>白兵戦における全ての攻撃について貫通率を平均した値です。この値は装備している武器の性能を反映済みです。</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>白兵戦における全ての攻撃について貫通率を平均した値です｡この値は装備している武器の性能を反映済みです｡</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>回避率 (白兵戦)</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>本来なら命中するはずの近接攻撃を、改めて躱す確率です。ただし遠距離武器の照準中や射撃中は回避しません。</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>本来なら命中するはずの近接攻撃を､改めて躱す確率です｡ただし遠距離武器の照準中や射撃中は回避しません｡</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>秒間ダメージ量 (白兵戦)</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>白兵戦において1秒間に与えるダメージ量の平均値です。この値は攻撃対象の回避率や防御率を考慮していません。</MeleeDPS.description>
+  <MeleeDPS.description>白兵戦において1秒間に与えるダメージ量の平均値です｡この値は攻撃対象の回避率や防御率を考慮していません｡</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>命中率 (白兵戦)</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>白兵戦における近接攻撃の命中率です。こちらが命中するはずの攻撃を繰り出しても、攻撃対象は改めて回避を試みることができます。</MeleeHitChance.description>
+  <MeleeHitChance.description>白兵戦における近接攻撃の命中率です｡こちらが命中するはずの攻撃を繰り出しても､攻撃対象は改めて回避を試みることができます｡</MeleeHitChance.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>命中率 (射撃)</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyPawn.description>射撃距離別の基本命中率です。実際の命中率は、この他にも様々な要因の影響を受けます。それぞれの命中率に関する説明は、射手の選択中に攻撃対象をマウスオーバーすることで確認できます。</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.description>射撃距離別の基本命中率です｡実際の命中率は､この他にも様々な要因の影響を受けます｡それぞれの命中率に関する説明は､射手の選択中に攻撃対象をマウスオーバーすることで確認できます｡</ShootingAccuracyPawn.description>
   
 </LanguageData>

@@ -41,15 +41,15 @@
     <li>circumstance_phrase->勝利への雄叫びをあげるなか</li>
     <li>circumstance_phrase->[Weapon]を振り回すなか</li>
     <li>circumstance_phrase->[Gore]に塗れるなか</li>
-    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが[Weapon]を大げさに振り回しながら突き進んでいる。</li>
-    <li>desc_sentence->巨大な[Enemy]が[Weapon]を大げさに振り回しながら突き進んでいる。</li>
-    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが瞳に[AdjectiveBadass]光を湛えながら突き進んでいる。</li>
-    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが瞳に[AdjectiveAngsty]光を湛えながら突き進んでいる。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが[Color]色に光る瞳で突き進んでいる。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが[Gore]に塗れながら突き進んでいる。</li>
-    <li>desc_sentence->辺り一面が[Gore]に塗れている。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちがこの場から逃走している。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちがこの場から逃げ出している。</li>
+    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが[Weapon]を大げさに振り回しながら突き進んでいる｡</li>
+    <li>desc_sentence->巨大な[Enemy]が[Weapon]を大げさに振り回しながら突き進んでいる｡</li>
+    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが瞳に[AdjectiveBadass]光を湛えながら突き進んでいる｡</li>
+    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが瞳に[AdjectiveAngsty]光を湛えながら突き進んでいる｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが[Color]色に光る瞳で突き進んでいる｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが[Gore]に塗れながら突き進んでいる｡</li>
+    <li>desc_sentence->辺り一面が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちがこの場から逃走している｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちがこの場から逃げ出している｡</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
   
   <!-- EN: caravan assault successful -->
@@ -89,8 +89,8 @@
     <li>desc_sentence->はるか向こうの[Community]が焼けている.</li>
     <li>desc_sentence->はるか向こうの[Community]は煙に包まれている.</li>
     <li>desc_sentence->辺り一面[Gore]まみれになる</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちがこの場から逃走している。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちがこの場から逃げ出している。</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちがこの場から逃走している｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちがこの場から逃げ出している｡</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
   
   <!-- EN: caravan fled -->
@@ -132,11 +132,11 @@
     <li>circumstance_phrase->[Quantity_Human]の[Enemy]たちに追われ</li>
     <li>circumstance_phrase->敵の放った[Quantity_Animal]の[Animal]たちに追われ</li>
     <li>circumstance_phrase->[huge][Enemy]から追われ</li>
-    <li>desc_sentence->[PAWN_nameDef]の追っ手は[Weapon]を振りかざしている。</li>
-    <li>desc_sentence->[PAWN_nameDef]の追っ手は[Color]色の煙に巻かれている。</li>
-    <li>desc_sentence->[PAWN_nameDef]の追っ手は[AdjectiveAngsty]表情を浮かべている。</li>
-    <li>desc_sentence->[PAWN_nameDef]は汗を掻いている。</li>
-    <li>desc_sentence->[PAWN_nameDef]は息も絶え絶えになっている。</li>
+    <li>desc_sentence->[PAWN_nameDef]の追っ手は[Weapon]を振りかざしている｡</li>
+    <li>desc_sentence->[PAWN_nameDef]の追っ手は[Color]色の煙に巻かれている｡</li>
+    <li>desc_sentence->[PAWN_nameDef]の追っ手は[AdjectiveAngsty]表情を浮かべている｡</li>
+    <li>desc_sentence->[PAWN_nameDef]は汗を掻いている｡</li>
+    <li>desc_sentence->[PAWN_nameDef]は息も絶え絶えになっている｡</li>
   </CaravanFled.rulePack.rulesStrings>
   
   <!-- EN: caravan formed -->
@@ -172,12 +172,12 @@
     <li>circumstance_phrase->冒険の装備を整えながら</li>
     <li>circumstance_phrase->真剣な顔つきを見せながら</li>
     <li>circumstance_phrase->瞳に[AdjectiveAny]光を宿して</li>
-    <li>desc_sentence->[Quantity_Human]の[ally]たちが旅支度を見守っている。</li>
-    <li>desc_sentence->[Quantity_Human]の[ally]たちが旅支度を手伝っている。</li>
-    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが、この様子に縮こまっている。</li>
-    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが遠巻きに見守っている。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが呑気にうろついている。</li>
+    <li>desc_sentence->[Quantity_Human]の[ally]たちが旅支度を見守っている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[ally]たちが旅支度を手伝っている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[Enemy]たちが､この様子に縮こまっている｡</li>
+    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが遠巻きに見守っている｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが呑気にうろついている｡</li>
   </CaravanFormed.rulePack.rulesStrings>
   
   <!-- EN: caravan remote mining -->
@@ -213,11 +213,11 @@
     <li>circumstance_phrase->誇らしげに微笑みながら</li>
     <li>circumstance_phrase->[PAWN_possessive]顔に満足げな笑みを浮かべながら</li>
     <li>circumstance_phrase->危険に用心しながら</li>
-    <li>desc_sentence->[Quantity_Human]の[ally]たちも協力している。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが辺りを徘徊している。</li>
-    <li>desc_sentence->背景には一時しのぎの隠れ家がある。</li>
+    <li>desc_sentence->[Quantity_Human]の[ally]たちも協力している｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが辺りを徘徊している｡</li>
+    <li>desc_sentence->背景には一時しのぎの隠れ家がある｡</li>
     <li>desc_sentence->[Quantity_adjphrase]の,さらなる鉱脈も遠くに見える.</li>
-    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える。</li>
+    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える｡</li>
     <li>desc_sentence->[PAWN_nameDef]は汗にまみれて働いている.</li>
   </CaravanRemoteMining.rulePack.rulesStrings>
   

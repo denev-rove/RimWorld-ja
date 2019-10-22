@@ -4,168 +4,168 @@
   <!-- EN: install archotech arm -->
   <InstallArchotechArm.label>アルコテック腕を移植する</InstallArchotechArm.label>
   <!-- EN: Install an archotech arm. -->
-  <InstallArchotechArm.description>アルコテック腕を移植します。</InstallArchotechArm.description>
+  <InstallArchotechArm.description>アルコテック腕を移植します｡</InstallArchotechArm.description>
   <!-- EN: Installing archotech arm. -->
   <InstallArchotechArm.jobString>アルコテック腕を移植中</InstallArchotechArm.jobString>
   
   <!-- EN: install archotech eye -->
   <InstallArchotechEye.label>アルコテック眼を移植する</InstallArchotechEye.label>
   <!-- EN: Install an archotech eye. -->
-  <InstallArchotechEye.description>アルコテック眼を移植します。</InstallArchotechEye.description>
+  <InstallArchotechEye.description>アルコテック眼を移植します｡</InstallArchotechEye.description>
   <!-- EN: Installing archotech eye. -->
   <InstallArchotechEye.jobString>アルコテック眼を移植中</InstallArchotechEye.jobString>
   
   <!-- EN: install archotech leg -->
   <InstallArchotechLeg.label>アルコテック脚を移植する</InstallArchotechLeg.label>
   <!-- EN: Install an archotech leg. -->
-  <InstallArchotechLeg.description>アルコテック脚を移植します。</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>アルコテック脚を移植します｡</InstallArchotechLeg.description>
   <!-- EN: Installing archotech leg. -->
   <InstallArchotechLeg.jobString>アルコテック脚を移植中</InstallArchotechLeg.jobString>
   
   <!-- EN: install bionic arm -->
   <InstallBionicArm.label>強化上肢を移植する</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>強化上肢を移植します。</InstallBionicArm.description>
+  <InstallBionicArm.description>強化上肢を移植します｡</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
   <InstallBionicArm.jobString>強化上肢を移植中</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
   <InstallBionicEar.label>強化内耳を移植する</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>強化内耳を移植します。</InstallBionicEar.description>
+  <InstallBionicEar.description>強化内耳を移植します｡</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
   <InstallBionicEar.jobString>強化内耳を移植中</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>強化眼球を移植する</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>強化眼球を移植します。</InstallBionicEye.description>
+  <InstallBionicEye.description>強化眼球を移植します｡</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
   <InstallBionicEye.jobString>強化眼球を移植中</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
   <InstallBionicHeart.label>強化心臓を移植する</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>強化心臓を移植します。</InstallBionicHeart.description>
+  <InstallBionicHeart.description>強化心臓を移植します｡</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
   <InstallBionicHeart.jobString>強化心臓を移植中</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>強化下肢を移植する</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>強化下肢を移植します。</InstallBionicLeg.description>
+  <InstallBionicLeg.description>強化下肢を移植します｡</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
   <InstallBionicLeg.jobString>強化下肢を移植中</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
   <InstallBionicSpine.label>強化脊椎を移植する</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>強化脊椎を移植します。</InstallBionicSpine.description>
+  <InstallBionicSpine.description>強化脊椎を移植します｡</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
   <InstallBionicSpine.jobString>強化脊椎を移植中</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
   <InstallBionicStomach.label>強化胃を移植する</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>強化胃を移植します。</InstallBionicStomach.description>
+  <InstallBionicStomach.description>強化胃を移植します｡</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
   <InstallBionicStomach.jobString>強化胃を移植中</InstallBionicStomach.jobString>
   
   <!-- EN: install cochlear implant -->
   <InstallCochlearImplant.label>人造内耳を移植する</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>人造内耳を移植します。</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>人造内耳を移植します｡</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
   <InstallCochlearImplant.jobString>人造内耳を移植中</InstallCochlearImplant.jobString>
   
   <!-- EN: install denture -->
   <InstallDenture.label>入れ歯を移植する</InstallDenture.label>
   <!-- EN: Install a denture. -->
-  <InstallDenture.description>入れ歯を移植します。</InstallDenture.description>
+  <InstallDenture.description>入れ歯を移植します｡</InstallDenture.description>
   <!-- EN: Installing denture. -->
   <InstallDenture.jobString>入れ歯を移植中</InstallDenture.jobString>
   
   <!-- EN: install joywire -->
   <InstallJoywire.label>快楽ワイヤーを埋め込む</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>快楽ワイヤーを埋め込みます。</InstallJoywire.description>
+  <InstallJoywire.description>快楽ワイヤーを埋め込みます｡</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
   <InstallJoywire.jobString>快楽ワイヤーを埋め込んでいる</InstallJoywire.jobString>
   
   <!-- EN: install heart -->
   <InstallNaturalHeart.label>心臓を移植する</InstallNaturalHeart.label>
   <!-- EN: Install a biological heart. -->
-  <InstallNaturalHeart.description>生体の心臓を移植します。</InstallNaturalHeart.description>
+  <InstallNaturalHeart.description>生体の心臓を移植します｡</InstallNaturalHeart.description>
   <!-- EN: Installing heart. -->
   <InstallNaturalHeart.jobString>心臓を移植中</InstallNaturalHeart.jobString>
   
   <!-- EN: install kidney -->
   <InstallNaturalKidney.label>腎臓を移植する</InstallNaturalKidney.label>
   <!-- EN: Install a biological kidney. -->
-  <InstallNaturalKidney.description>生体の腎臓を移植します。</InstallNaturalKidney.description>
+  <InstallNaturalKidney.description>生体の腎臓を移植します｡</InstallNaturalKidney.description>
   <!-- EN: Installing kidney. -->
   <InstallNaturalKidney.jobString>腎臓を移植中</InstallNaturalKidney.jobString>
   
   <!-- EN: install liver -->
   <InstallNaturalLiver.label>肝臓を移植する</InstallNaturalLiver.label>
   <!-- EN: Install a biological liver. -->
-  <InstallNaturalLiver.description>生体の肝臓を移植します。</InstallNaturalLiver.description>
+  <InstallNaturalLiver.description>生体の肝臓を移植します｡</InstallNaturalLiver.description>
   <!-- EN: Installing liver. -->
   <InstallNaturalLiver.jobString>肝臓を移植中</InstallNaturalLiver.jobString>
   
   <!-- EN: install lung -->
   <InstallNaturalLung.label>肺を移植する</InstallNaturalLung.label>
   <!-- EN: Install a lung. -->
-  <InstallNaturalLung.description>生体の肺を移植します。</InstallNaturalLung.description>
+  <InstallNaturalLung.description>生体の肺を移植します｡</InstallNaturalLung.description>
   <!-- EN: Installing lung. -->
   <InstallNaturalLung.jobString>肺を移植中</InstallNaturalLung.jobString>
   
   <!-- EN: install painstopper -->
   <InstallPainstopper.label>ペインストッパーを埋め込む</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
-  <InstallPainstopper.description>ペインストッパーを埋め込みます。</InstallPainstopper.description>
+  <InstallPainstopper.description>ペインストッパーを埋め込みます｡</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
   <InstallPainstopper.jobString>ペインストッパーを埋め込んでいる</InstallPainstopper.jobString>
   
   <!-- EN: install peg leg -->
   <InstallPegLeg.label>木製義脚を装着する</InstallPegLeg.label>
   <!-- EN: Install a peg leg. -->
-  <InstallPegLeg.description>木製の義脚を装着します。</InstallPegLeg.description>
+  <InstallPegLeg.description>木製の義脚を装着します｡</InstallPegLeg.description>
   <!-- EN: Installing peg leg. -->
   <InstallPegLeg.jobString>木製義脚を装着している</InstallPegLeg.jobString>
   
   <!-- EN: install power claw -->
   <InstallPowerClaw.label>強化爪を移植する</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>強化爪を移植します。</InstallPowerClaw.description>
+  <InstallPowerClaw.description>強化爪を移植します｡</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
   <InstallPowerClaw.jobString>強化爪を移植中</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>人造上肢を移植する</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>人造の上肢を移植します。</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>人造の上肢を移植します｡</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
   <InstallSimpleProstheticArm.jobString>人造上肢を移植中</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
   <InstallSimpleProstheticHeart.label>人造心臓を移植する</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>人造心臓を移植します。</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>人造心臓を移植します｡</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
   <InstallSimpleProstheticHeart.jobString>人造心臓を移植中</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>人造下肢を移植する</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>人造の下肢を移植します。</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>人造の下肢を移植します｡</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
   <InstallSimpleProstheticLeg.jobString>人造下肢を移植中</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: install wooden foot -->
   <InstallWoodenFoot.label>木製足首を装着する</InstallWoodenFoot.label>
   <!-- EN: Install a wooden foot. -->
-  <InstallWoodenFoot.description>木製の足首を装着します。</InstallWoodenFoot.description>
+  <InstallWoodenFoot.description>木製の足首を装着します｡</InstallWoodenFoot.description>
   <!-- EN: Installing wooden foot. -->
   <InstallWoodenFoot.jobString>木製足首を装着している</InstallWoodenFoot.jobString>
   

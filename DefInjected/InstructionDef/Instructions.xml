@@ -65,7 +65,7 @@
   <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
   <BuildSimpleResearchBench.rejectInputMessage>部屋の中に&lt;color=cyan>研究卓&lt;/color>を設置してください｡</BuildSimpleResearchBench.rejectInputMessage>
   <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
-  <BuildSimpleResearchBench.text>更なる発展を促すため､新たなテクノロジーの研究が必要です｡\n\n部屋の中に木製の&lt;color=cyan>研究卓&lt;/color>を設置しましょう。</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.text>更なる発展を促すため､新たなテクノロジーの研究が必要です｡\n\n部屋の中に木製の&lt;color=cyan>研究卓&lt;/color>を設置しましょう｡</BuildSimpleResearchBench.text>
   
   <!-- EN: Build a torch lamp inside the room -->
   <BuildTorchLamp.onMapInstruction>部屋の中に&lt;color=cyan>松明&lt;/color>を設置しましょう｡</BuildTorchLamp.onMapInstruction>
@@ -85,7 +85,7 @@
   <ChooseLandingSite.text>この画面では､開始地点を決定します｡\n\n&lt;b>温帯森林&lt;/b>の気候帯(薄い&lt;color=#968f32>うぐいす色&lt;/color>の領域)で､地形が&lt;b>平地&lt;/b>となっているタイルをクリックしましょう｡\nその後､画面下部の｢次へ｣をクリックします｡\n\nなお､画面右下の｢地形｣タブを使えば､選択したタイルの詳しい情報を確認できます｡</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
-  <ChooseStoryteller.rejectInputMessage>環境設定メニューから,ストーリーテラーを選択して、このチュートリアルを終了します。</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.rejectInputMessage>環境設定メニューから,ストーリーテラーを選択して､このチュートリアルを終了します｡</ChooseStoryteller.rejectInputMessage>
   <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
   <ChooseStoryteller.text>これでチュートリアルは終了です！\n\n覚えるべきことは､まだまだ山積みです｡囚人の扱い方､野生動物の狩猟や手懐け方､物資の取引､などなど｡しかし､基本的な部分は習得したはずです｡\n\nこのチュートリアルでは､ランダムに発生するイベントは無効になっています｡続けて本当のゲームを始めるには､次のとおりにします｡\n\n1.&#xA0;画面右下の｢メニュー｣タブを開きます｡\n2.&#xA0;｢環境設定｣を選択します｡\n3.&#xA0;｢脚本家&#xA0;変更｣をクリックします｡\n4.&#xA0;気に入った脚本家と難易度を選択します｡\n\nそれでは幸運を祈ります｡楽しい時間を！</ChooseStoryteller.text>
   
@@ -122,7 +122,7 @@
   <!-- EN: Please expand the home area a bit, just for practice. -->
   <ExpandAreaHome.rejectInputMessage>練習として､&lt;color=cyan>居住エリア&lt;/color>を少しだけ拡げてみてください｡</ExpandAreaHome.rejectInputMessage>
   <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
-  <ExpandAreaHome.text>次は､&lt;color=cyan>居住エリア&lt;/color>の拡張方法についてです｡\n\n入植者たちが床の掃除や消火活動を行うのは､居住エリアの内側だけです｡エリアの外側にある汚れや火災は無視します｡\n\n居住エリアは､壁や施設を設置すると自動的に拡張されます｡しかし､手動で拡張することもできます｡\n\n｢居住エリア｣ツールを選択してマウスをドラッグし､マップ上に新たな居住エリアを作ってみましょう。</ExpandAreaHome.text>
+  <ExpandAreaHome.text>次は､&lt;color=cyan>居住エリア&lt;/color>の拡張方法についてです｡\n\n入植者たちが床の掃除や消火活動を行うのは､居住エリアの内側だけです｡エリアの外側にある汚れや火災は無視します｡\n\n居住エリアは､壁や施設を設置すると自動的に拡張されます｡しかし､手動で拡張することもできます｡\n\n｢居住エリア｣ツールを選択してマウスをドラッグし､マップ上に新たな居住エリアを作ってみましょう｡</ExpandAreaHome.text>
   
   <!-- EN: Please wait for your colonists to finish building the sandbags. -->
   <FinishSandbags.rejectInputMessage>入植者たちが&lt;color=cyan>土嚢&lt;/color>を積み終えるまで待ちましょう｡</FinishSandbags.rejectInputMessage>

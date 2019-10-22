@@ -28,7 +28,7 @@
   <!-- EN: chemfuel puddle -->
   <Filth_Fuel.label>油膜</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>可燃性の化学燃料が水溜りになったものです。</Filth_Fuel.description>
+  <Filth_Fuel.description>可燃性の化学燃料が水溜りになったものです｡</Filth_Fuel.description>
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>建物の瓦礫</Filth_RubbleBuilding.label>

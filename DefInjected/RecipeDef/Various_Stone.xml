@@ -4,35 +4,35 @@
   <!-- EN: make granite blocks -->
   <Make_StoneBlocksGranite.label>石材(花崗岩)を切り出す</Make_StoneBlocksGranite.label>
   <!-- EN: Cuts granite chunks into usable blocks. -->
-  <Make_StoneBlocksGranite.description>花崗岩の塊から使いやすい石材を切り出します。</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.description>花崗岩の塊から使いやすい石材を切り出します｡</Make_StoneBlocksGranite.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksGranite.jobString>花崗岩を切り出している</Make_StoneBlocksGranite.jobString>
   
   <!-- EN: make limestone blocks -->
   <Make_StoneBlocksLimestone.label>石材(石灰岩)を切り出す</Make_StoneBlocksLimestone.label>
   <!-- EN: Cuts limestone chunks into usable blocks. -->
-  <Make_StoneBlocksLimestone.description>石灰岩の塊から使いやすい石材を切り出します。</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.description>石灰岩の塊から使いやすい石材を切り出します｡</Make_StoneBlocksLimestone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksLimestone.jobString>石灰岩を切り出している</Make_StoneBlocksLimestone.jobString>
   
   <!-- EN: make marble blocks -->
   <Make_StoneBlocksMarble.label>石材(大理石)を切り出す</Make_StoneBlocksMarble.label>
   <!-- EN: Cuts marble chunks into usable blocks. -->
-  <Make_StoneBlocksMarble.description>大理石の塊から使いやすい石材を切り出します。</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.description>大理石の塊から使いやすい石材を切り出します｡</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksMarble.jobString>大理石を切り出している</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
   <Make_StoneBlocksSandstone.label>石材(砂岩)を切り出す</Make_StoneBlocksSandstone.label>
   <!-- EN: Cuts sandstone chunks into usable blocks. -->
-  <Make_StoneBlocksSandstone.description>砂岩の塊から使いやすい石材を切り出します。</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.description>砂岩の塊から使いやすい石材を切り出します｡</Make_StoneBlocksSandstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksSandstone.jobString>砂岩を切り出している</Make_StoneBlocksSandstone.jobString>
   
   <!-- EN: make slate blocks -->
   <Make_StoneBlocksSlate.label>石材(粘板岩)を切り出す</Make_StoneBlocksSlate.label>
   <!-- EN: Cuts slate chunks into usable blocks. -->
-  <Make_StoneBlocksSlate.description>粘板岩の塊から使いやすい石材を切り出します。</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.description>粘板岩の塊から使いやすい石材を切り出します｡</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksSlate.jobString>粘板岩を切り出している</Make_StoneBlocksSlate.jobString>
   

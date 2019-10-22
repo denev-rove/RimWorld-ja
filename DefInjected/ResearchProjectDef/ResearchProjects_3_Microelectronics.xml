@@ -4,61 +4,61 @@
   <!-- EN: colored lights -->
   <ColoredLights.label>彩色灯</ColoredLights.label>
   <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>装飾目的の色付き電球を製造します。</ColoredLights.description>
+  <ColoredLights.description>装飾目的の色付き電球を製造します｡</ColoredLights.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>薄型テレビ</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>高解像度の平面スクリーンを備えたテレビを製造します。大いに楽しめます。</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>高解像度の平面スクリーンを備えたテレビを製造します｡大いに楽しめます｡</FlatscreenTelevision.description>
   
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>機関砲塔</HeavyTurrets.label>
   <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
-  <HeavyTurrets.description>大型で長射程の機関砲塔を製造します。</HeavyTurrets.description>
+  <HeavyTurrets.description>大型で長射程の機関砲塔を製造します｡</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>病院用ベッド</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>医療効果を改善する、病院用ベッドを設置します。</HospitalBed.description>
+  <HospitalBed.description>医療効果を改善する､病院用ベッドを設置します｡</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>広域鉱物スキャナー</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>広域鉱物スキャナーを設置します。研究者の操作で惑星の全域に渡って希少鉱物を探査できます。探査は特定の鉱物に絞って行えます。製造には先進機械部品が必要です。</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>広域鉱物スキャナーを設置します｡研究者の操作で惑星の全域に渡って希少鉱物を探査できます｡探査は特定の鉱物に絞って行えます｡製造には先進機械部品が必要です｡</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
   <MedicineProduction.label>製薬</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>通常の工業テクノロジーに準じた医薬品を製造します。薬草、ニュートロアミン、布を組み合わせます。</MedicineProduction.description>
+  <MedicineProduction.description>通常の工業テクノロジーに準じた医薬品を製造します｡薬草､ニュートロアミン､布を組み合わせます｡</MedicineProduction.description>
   
   <!-- EN: microelectronics -->
   <MicroelectronicsBasics.label>微細電子工学</MicroelectronicsBasics.label>
   <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
-  <MicroelectronicsBasics.description>複雑かつ微細な電子の振る舞いを扱う学問です。これにより先端研究卓と通信機の設置が可能になります。</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>複雑かつ微細な電子の振る舞いを扱う学問です｡これにより先進研究卓と通信機の設置が可能になります｡</MicroelectronicsBasics.description>
   
   <!-- EN: moisture pump -->
   <MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>土壌改良ポンプの設置を行います。周囲の土壌が含む水分を、非常にゆっくりと正常化します。ぬかるんだ地面を干上がらせたり、柔砂を通常の砂地に変換します。</MoisturePump.description>
+  <MoisturePump.description>土壌改良ポンプの設置を行います｡周囲の土壌が含む水分を､非常にゆっくりと正常化します｡ぬかるんだ地面を干上がらせたり､柔砂を通常の砂地に変換します｡</MoisturePump.description>
   
   <!-- EN: multibarrel weapons -->
   <MultibarrelWeapons.label>多銃身式兵器</MultibarrelWeapons.label>
   <!-- EN: Assemble miniguns. -->
-  <MultibarrelWeapons.description>ガトリング銃を製造します。</MultibarrelWeapons.description>
+  <MultibarrelWeapons.description>ガトリング銃を製造します｡</MultibarrelWeapons.description>
   
   <!-- EN: precision rifling -->
   <PrecisionRifling.label>精密ライフリング</PrecisionRifling.label>
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
-  <PrecisionRifling.description>軍用ライフルや狙撃銃など、精密な加工を施された銃を作ります。</PrecisionRifling.description>
+  <PrecisionRifling.description>軍用ライフルや狙撃銃など､精密な加工を施された銃を作ります｡</PrecisionRifling.description>
   
   <!-- EN: shield belt -->
   <ShieldBelt.label>障壁ベルト</ShieldBelt.label>
   <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
-  <ShieldBelt.description>障壁ベルトを作製します。推進体斥力テクノロジーを利用して、障壁の外側から内側に向けた、そして内側から外側に向けた遠距離攻撃をすべて遮断します。</ShieldBelt.description>
+  <ShieldBelt.description>障壁ベルトを作製します｡推進体斥力テクノロジーを利用して､障壁の外側から内側に向けた､そして内側から外側に向けた遠距離攻撃をすべて遮断します｡</ShieldBelt.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>輸送ポッド</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>輸送ポッドを製造します。惑星の地表を飛び越えて、人員や物資を遠くまで送ることができます。襲撃や渡航、貢ぎ物などに利用できます。</TransportPod.description>
+  <TransportPod.description>輸送ポッドを製造します｡惑星の地表を飛び越えて､人員や物資を遠くまで送ることができます｡襲撃や渡航､貢ぎ物などに利用できます｡</TransportPod.description>
   
 </LanguageData>

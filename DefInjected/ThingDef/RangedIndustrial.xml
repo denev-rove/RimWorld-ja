@@ -37,7 +37,7 @@
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.label>軍用ライフル</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
-  <Gun_AssaultRifle.description>ガス圧作動式（燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種）のアサルトライフルです。汎用的で、野戦および市街戦で活躍します。射程と命中精度に優れ、そこそこの威力があります。</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.description>ガス圧作動式(燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種)のアサルトライフルです｡汎用的で､野戦および市街戦で活躍します｡射程と命中精度に優れ､そこそこの威力があります｡</Gun_AssaultRifle.description>
   <!-- EN: stock -->
   <Gun_AssaultRifle.tools.stock.label>銃床</Gun_AssaultRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -48,7 +48,7 @@
   <!-- EN: autopistol -->
   <Gun_Autopistol.label>自動拳銃</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
-  <Gun_Autopistol.description>太古の様式に則った、ブローバック方式（燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種）の自動式拳銃です。制圧力と射程には欠けますが、早撃ちが可能です。</Gun_Autopistol.description>
+  <Gun_Autopistol.description>太古の様式に則った､ブローバック方式(燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種)の自動式拳銃です｡制圧力と射程には欠けますが､早撃ちが可能です｡</Gun_Autopistol.description>
   <!-- EN: grip -->
   <Gun_Autopistol.tools.grip.label>銃把</Gun_Autopistol.tools.grip.label>
   <!-- EN: barrel -->
@@ -59,7 +59,7 @@
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle.label>ライフル</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
-  <Gun_BoltActionRifle.description>太古の様式に則った、ボルトアクション方式（遊底を手動で操作して弾薬の装填と排莢を行う方式）のライフルです。射程は長いですが、連射には向きません。その特性から、野生動物の逆襲を誘うことが少ないため狩猟に適した武器です。</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.description>太古の様式に則った､ボルトアクション方式(遊底を手動で操作して弾薬の装填と排莢を行う方式)のライフルです｡射程は長いですが､連射には向きません｡その特性から､野生動物の逆襲を誘うことが少ないため狩猟に適した武器です｡</Gun_BoltActionRifle.description>
   <!-- EN: stock -->
   <Gun_BoltActionRifle.tools.stock.label>銃床</Gun_BoltActionRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -70,7 +70,7 @@
   <!-- EN: chain shotgun -->
   <Gun_ChainShotgun.label>フルオート散弾銃</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
-  <Gun_ChainShotgun.description>マガジン給弾式の全自動ショットガンです。標準的な散弾銃よりも更に短い射程ですが、バースト射撃により並外れた危険性を有します。</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.description>マガジン給弾式の全自動ショットガンです｡標準的な散弾銃よりも更に短い射程ですが､バースト射撃により並外れた危険性を有します｡</Gun_ChainShotgun.description>
   <!-- EN: stock -->
   <Gun_ChainShotgun.tools.stock.label>銃床</Gun_ChainShotgun.tools.stock.label>
   <!-- EN: barrel -->
@@ -81,7 +81,7 @@
   <!-- EN: heavy SMG -->
   <Gun_HeavySMG.label>サブマシンガン</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
-  <Gun_HeavySMG.description>小型ながら、口径の広いスラグ弾を発射する短機関銃です。射程はとても短いですが、決定力があり取り回しにも優れます。</Gun_HeavySMG.description>
+  <Gun_HeavySMG.description>小型ながら､口径の広いスラグ弾を発射する短機関銃です｡射程はとても短いですが､決定力があり取り回しにも優れます｡</Gun_HeavySMG.description>
   <!-- EN: grip -->
   <Gun_HeavySMG.tools.grip.label>銃把</Gun_HeavySMG.tools.grip.label>
   <!-- EN: barrel -->
@@ -92,7 +92,7 @@
   <!-- EN: incendiary launcher -->
   <Gun_IncendiaryLauncher.label>焼夷弾投射機</Gun_IncendiaryLauncher.label>
   <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
-  <Gun_IncendiaryLauncher.description>幅広い銃身を持つ焼夷弾投射装置です。焼夷弾は着弾の瞬間に小さな焼夷性の爆発を起こし、火災を発生させます。</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.description>幅広い銃身を持つ焼夷弾投射装置です｡焼夷弾は着弾の瞬間に小さな焼夷性の爆発を起こし､火災を発生させます｡</Gun_IncendiaryLauncher.description>
   <!-- EN: stock -->
   <Gun_IncendiaryLauncher.tools.stock.label>銃床</Gun_IncendiaryLauncher.tools.stock.label>
   <!-- EN: barrel -->
@@ -103,7 +103,7 @@
   <!-- EN: LMG -->
   <Gun_LMG.label>軽機関銃</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
-  <Gun_LMG.description>ガス圧作動式（燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種）の軽機関銃です。いくぶん扱いづらく精度も低いですが長時間の連射が可能で多数の敵に対して効果的です。</Gun_LMG.description>
+  <Gun_LMG.description>ガス圧作動式(燃焼ガスの圧力を利用して排莢と次弾の装填を行う仕組みの一種)の軽機関銃です｡いくぶん扱いづらく精度も低いですが長時間の連射が可能で多数の敵に対して効果的です｡</Gun_LMG.description>
   <!-- EN: stock -->
   <Gun_LMG.tools.stock.label>銃床</Gun_LMG.tools.stock.label>
   <!-- EN: barrel -->
@@ -114,7 +114,7 @@
   <!-- EN: machine pistol -->
   <Gun_MachinePistol.label>マシンピストル</Gun_MachinePistol.label>
   <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
-  <Gun_MachinePistol.description>至って小型のサブマシンガンです。射程は短いものの、取り回しにはとても優れています。その連射性能は威力の低さを十分に補います。</Gun_MachinePistol.description>
+  <Gun_MachinePistol.description>至って小型のサブマシンガンです｡射程は短いものの､取り回しにはとても優れています｡その連射性能は威力の低さを十分に補います｡</Gun_MachinePistol.description>
   <!-- EN: grip -->
   <Gun_MachinePistol.tools.grip.label>銃把</Gun_MachinePistol.tools.grip.label>
   <!-- EN: barrel -->
@@ -125,7 +125,7 @@
   <!-- EN: minigun -->
   <Gun_Minigun.label>ガトリング銃</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
-  <Gun_Minigun.description>複数の銃身を束ねた機関銃です。扱いにくいですが、いったん射撃を開始すれば極めて高速な連射が可能です。自動装填機構の大半が火薬の力で動作する一方で、このミニガンは弾帯を武器の内部で高速循環させるために電気モーターを使用しています。</Gun_Minigun.description>
+  <Gun_Minigun.description>複数の銃身を束ねた機関銃です｡扱いにくいですが､いったん射撃を開始すれば極めて高速な連射が可能です｡自動装填機構の大半が火薬の力で動作する一方で､このミニガンは弾帯を武器の内部で高速循環させるために電気モーターを使用しています｡</Gun_Minigun.description>
   <!-- EN: barrels -->
   <Gun_Minigun.tools.barrels.label>銃身</Gun_Minigun.tools.barrels.label>
   <!-- EN: minigun -->
@@ -134,7 +134,7 @@
   <!-- EN: pump shotgun -->
   <Gun_PumpShotgun.label>散弾銃</Gun_PumpShotgun.label>
   <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
-  <Gun_PumpShotgun.description>太古の設計によるポンプ式（銃把を手で前後に往復させて排莢と次弾の装填を行う仕組み）のショットガンで、散弾の粒を円錐状に高密度で撃ち出します。威力は高いものの、射程は短めです。</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.description>太古の設計によるポンプ式(銃把を手で前後に往復させて排莢と次弾の装填を行う仕組み)のショットガンで､散弾の粒を円錐状に高密度で撃ち出します｡威力は高いものの､射程は短めです｡</Gun_PumpShotgun.description>
   <!-- EN: stock -->
   <Gun_PumpShotgun.tools.stock.label>銃床</Gun_PumpShotgun.tools.stock.label>
   <!-- EN: barrel -->
@@ -145,7 +145,7 @@
   <!-- EN: revolver -->
   <Gun_Revolver.label>リボルバー</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
-  <Gun_Revolver.description>太古の様式に則った、ダブルアクション方式（撃つ前に撃鉄を起こす必要がない仕組み）の回転式拳銃です。決して威力は高くありませんが、拳銃にしてはなかなかの射程があり、早撃ちも可能です。</Gun_Revolver.description>
+  <Gun_Revolver.description>太古の様式に則った､ダブルアクション方式(撃つ前に撃鉄を起こす必要がない仕組み)の回転式拳銃です｡決して威力は高くありませんが､拳銃にしてはなかなかの射程があり､早撃ちも可能です｡</Gun_Revolver.description>
   <!-- EN: grip -->
   <Gun_Revolver.tools.grip.label>銃把</Gun_Revolver.tools.grip.label>
   <!-- EN: barrel -->
@@ -156,7 +156,7 @@
   <!-- EN: sniper rifle -->
   <Gun_SniperRifle.label>狙撃銃</Gun_SniperRifle.label>
   <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
-  <Gun_SniperRifle.description>太古の設計による精密狙撃銃です。ボルトアクション方式（遊底を手動で操作して弾薬の装填と排莢を行う方式）です。特別に長い射程を持ち、狙いも正確で威力も申し分ありません。そのため取り回しには劣り、近距離では他の武器に全く及びません。</Gun_SniperRifle.description>
+  <Gun_SniperRifle.description>太古の設計による精密狙撃銃です｡ボルトアクション方式(遊底を手動で操作して弾薬の装填と排莢を行う方式)です｡特別に長い射程を持ち､狙いも正確で威力も申し分ありません｡そのため取り回しには劣り､近距離では他の武器に全く及びません｡</Gun_SniperRifle.description>
   <!-- EN: stock -->
   <Gun_SniperRifle.tools.stock.label>銃床</Gun_SniperRifle.tools.stock.label>
   <!-- EN: barrel -->

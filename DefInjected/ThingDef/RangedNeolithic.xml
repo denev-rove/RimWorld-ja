@@ -13,7 +13,7 @@
   <!-- EN: greatbow -->
   <Bow_Great.label>大型弓</Bow_Great.label>
   <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
-  <Bow_Great.description>強力な大型の弓です。遠く離れた場所から重量のある矢を射ることができます。</Bow_Great.description>
+  <Bow_Great.description>強力な大型の弓です｡遠く離れた場所から重量のある矢を射ることができます｡</Bow_Great.description>
   <!-- EN: limb -->
   <Bow_Great.tools.limb.label>縁</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
@@ -22,7 +22,7 @@
   <!-- EN: recurve bow -->
   <Bow_Recurve.label>リカーブボウ</Bow_Recurve.label>
   <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
-  <Bow_Recurve.description>両端が本体の湾曲とは逆方向に反っている弓です。その構造は、しならせたバネのごとく効率的に強い力を蓄え、高速な射撃へと伝達します。</Bow_Recurve.description>
+  <Bow_Recurve.description>両端が本体の湾曲とは逆方向に反っている弓です｡その構造は､しならせたバネのごとく効率的に強い力を蓄え､高速な射撃へと伝達します｡</Bow_Recurve.description>
   <!-- EN: limb -->
   <Bow_Recurve.tools.limb.label>縁</Bow_Recurve.tools.limb.label>
   <!-- EN: recurve bow -->
@@ -31,7 +31,7 @@
   <!-- EN: short bow -->
   <Bow_Short.label>短弓</Bow_Short.label>
   <!-- EN: A simple short selfbow made from a single piece of wood. -->
-  <Bow_Short.description>単一の木材から作られた、単純な小型の弓です。</Bow_Short.description>
+  <Bow_Short.description>単一の木材から作られた､単純な小型の弓です｡</Bow_Short.description>
   <!-- EN: limb -->
   <Bow_Short.tools.limb.label>縁</Bow_Short.tools.limb.label>
   <!-- EN: short bow -->
@@ -40,7 +40,7 @@
   <!-- EN: pila -->
   <Pila.label>投げ槍</Pila.label>
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
-  <Pila.description>古代ローマの兵士が用いた、ピラムという投擲用の槍です。投げきるまでに長い時間を要しますが、一撃で手酷い損害を与えることができます。この武器はピラムの束を表しているため、何度でも投擲が可能です。なおピラムの複数形はピラです。</Pila.description>
+  <Pila.description>古代ローマの兵士が用いた､ピラムという投擲用の槍です｡投げきるまでに長い時間を要しますが､一撃で手酷い損害を与えることができます｡この武器はピラムの束を表しているため､何度でも投擲が可能です｡なおピラムの複数形はピラです｡</Pila.description>
   <!-- EN: shaft -->
   <Pila.tools.shaft.label>軸</Pila.tools.shaft.label>
   <!-- EN: point -->

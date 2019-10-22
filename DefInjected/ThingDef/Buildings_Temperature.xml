@@ -4,26 +4,26 @@
   <!-- EN: campfire -->
   <Campfire.label>焚き火</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>暖房や食事の調理に使うもので、数日後に燃え尽きます。焚き火とはいえ、他の熱源と同様に暖められるのは閉鎖された空間だけなので、屋内に設置しましょう。 燃料の補充ができます。</Campfire.description>
+  <Campfire.description>暖房や食事の調理に使うもので､数日後に燃え尽きます｡焚き火とはいえ､他の熱源と同様に暖められるのは閉鎖された空間だけなので､屋内に設置しましょう｡ 燃料の補充ができます｡</Campfire.description>
   
   <!-- EN: cooler -->
   <Cooler.label>クーラー</Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
-  <Cooler.description>壁に収まる空気冷却機です。片側からは冷気を放出する一方、反対側からは熱気を排出します。夏に部屋を涼しくしたり、歩いて入れる冷凍庫を作るのに使えます。</Cooler.description>
+  <Cooler.description>壁に収まる空気冷却機です｡片側からは冷気を放出する一方､反対側からは熱気を排出します｡夏に部屋を涼しくしたり､歩いて入れる冷凍庫を作るのに使えます｡</Cooler.description>
   
   <!-- EN: heater -->
   <Heater.label>電気ストーブ</Heater.label>
   <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
-  <Heater.description>電気の力を熱に変換する装置です。設定した温度に従って自動的にスイッチが点いたり消えたりします。</Heater.description>
+  <Heater.description>電気の力を熱に変換する装置です｡設定した温度に従って自動的にスイッチが点いたり消えたりします｡</Heater.description>
   
   <!-- EN: passive cooler -->
   <PassiveCooler.label>気化熱クーラー</PassiveCooler.label>
   <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
-  <PassiveCooler.description>電気の要らない昔ながらの冷却器で、水の蒸発を利用します。定期的に木材を補充する必要があります。食品を冷蔵するのに十分なほどの効果はありません。</PassiveCooler.description>
+  <PassiveCooler.description>電気の要らない昔ながらの冷却器で､水の蒸発を利用します｡定期的に木材を補充する必要があります｡食品を冷蔵するのに十分なほどの効果はありません｡</PassiveCooler.description>
   
   <!-- EN: vent -->
   <Vent.label>換気口</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
-  <Vent.description>人の往来を禁止したままで、部屋同士の温度を均一にするための通気口です。</Vent.description>
+  <Vent.description>人の往来を禁止したままで､部屋同士の温度を均一にするための通気口です｡</Vent.description>
   
 </LanguageData>

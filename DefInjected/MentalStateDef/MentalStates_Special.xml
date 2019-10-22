@@ -8,7 +8,7 @@
   <!-- EN: {0} has become a manhunter! -->
   <Manhunter.beginLetter>{0}は人狩りとなった！</Manhunter.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた。</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた｡</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
   <ManhunterPermanent.label>人狩り</ManhunterPermanent.label>
@@ -18,7 +18,7 @@
   <ManhunterPermanent.beginLetter>{0}は人狩りとなった！</ManhunterPermanent.beginLetter>
   <ManhunterPermanent.beginLetterLabel>人狩り</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた。</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた｡</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
   <PanicFlee.label>パニックになり逃げ出した</PanicFlee.label>

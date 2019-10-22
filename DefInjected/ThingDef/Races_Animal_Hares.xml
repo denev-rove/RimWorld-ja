@@ -4,7 +4,7 @@
   <!-- EN: hare -->
   <Hare.label>野兎</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
-  <Hare.description>この小型の草食動物は単独で行動し、素早く飛び跳ねて危険から遠ざかります。</Hare.description>
+  <Hare.description>この小型の草食動物は単独で行動し､素早く飛び跳ねて危険から遠ざかります｡</Hare.description>
   <Hare.race.meatLabel>兎肉</Hare.race.meatLabel>
   <!-- EN: head -->
   <Hare.tools.head.label>頭部</Hare.tools.head.label>
@@ -12,7 +12,7 @@
   <!-- EN: snowhare -->
   <Snowhare.label>雪兎</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
-  <Snowhare.description>雪を掘り進めて餌となる植物を探し、生息地の厳しい冬を乗り越える逞しい動物です。</Snowhare.description>
+  <Snowhare.description>雪を掘り進めて餌となる植物を探し､生息地の厳しい冬を乗り越える逞しい動物です｡</Snowhare.description>
   <!-- EN: head -->
   <Snowhare.tools.head.label>頭部</Snowhare.tools.head.label>
   

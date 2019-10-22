@@ -105,7 +105,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>受精するまで停止</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>{0}スキルが{2}以上必要、{1}しかない</SkillTooLow>
+  <SkillTooLow>{0}スキルが{2}以上必要､{1}しかない</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>冷凍</Freezing>
   <!-- EN: Overheating -->
@@ -209,7 +209,7 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れている</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>死体が着用していた遺品のため、穢れています。</WasWornByCorpse>
+  <WasWornByCorpse>死体が着用していた遺品のため､穢れています｡</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>遺</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -223,7 +223,7 @@
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>出発まで あと{0}</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>入植者たちは自動的にキャラバン隊を再編成して、{0}後に、この地を離れます。</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>入植者たちは自動的にキャラバン隊を再編成して､{0}後に､この地を離れます｡</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -261,7 +261,7 @@
   <!-- EN: equipped by {1_labelShort} -->
   <EquippedBy>{1_labelShort}が装備している</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0}が、この拠点の破壊を求めています。\n    報酬: {1} ({2}相当)</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0}が､この拠点の破壊を求めています｡\n    報酬: {1} ({2}相当)</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
@@ -337,11 +337,11 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との関係 {0}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>あと{0}後まで再び訪問することはできません。</EnterCooldown>
+  <EnterCooldown>あと{0}後まで再び訪問することはできません｡</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there -->
-  <HiddenOrNoSitePartDescription>ここには危険があるかもしれません。</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>ここには危険があるかもしれません｡</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>{0}の塊</PreciousLumpLabel>
   <!-- EN: no active research project -->
@@ -367,7 +367,7 @@
   <!-- EN: Progress: {0} ({1} left) -->
   <FermentationProgress>発酵中: {0} (残り{1})</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません。発酵速度: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません｡発酵速度: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
@@ -427,13 +427,13 @@
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>あなたの派閥の入植者でない者に指示は出せません。</CannotOrderNonControlled>
+  <CannotOrderNonControlled>あなたの派閥の入植者でない者に指示は出せません｡</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort}は暴力的な行為に手を染めることはできません。</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort}は暴力的な行為に手を染めることはできません｡</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>暴力を振るえない</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort}は徴兵されていません。</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort}は徴兵されていません｡</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -599,13 +599,13 @@
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>同じタイルにある別のオブジェクトを選択します。\n\nショートカットキー: {0}\n\nクリックで選択後に、間隔を置いて同一タイルを再度クリックすることで同じ操作ができます。</SelectNextInSquareTip>
+  <SelectNextInSquareTip>同じタイルにある別のオブジェクトを選択します｡\n\nショートカットキー: {0}\n\nクリックで選択後に､間隔を置いて同一タイルを再度クリックすることで同じ操作ができます｡</SelectNextInSquareTip>
   <!-- EN: View information about this object. -->
-  <DefInfoTip>この物品の情報を表示します。</DefInfoTip>
+  <DefInfoTip>この物品の情報を表示します｡</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>徴兵されていない状態で接敵した場合の 対応方法を変更します。</HostilityReponseTip>
+  <HostilityReponseTip>徴兵されていない状態で接敵した場合の 対応方法を変更します｡</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>現在の対応</HostilityResponseCurrentMode>
 
@@ -689,9 +689,9 @@
   <!-- EN: Resting -->
   <PlantResting>休養中 (成長停止)</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>気温が適していません。(成長速度: {0}% )</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>気温が適していません｡(成長速度: {0}% )</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>気温が適していません。(成長停止)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>気温が適していません｡(成長停止)</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -703,7 +703,7 @@
   <!-- EN: Year-round -->
   <GrowYearRound>一年中</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>栽培に適した時期です。</GrowSeasonHereNow>
+  <GrowSeasonHereNow>栽培に適した時期です｡</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>生育不可 (気温不適合)</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
@@ -741,33 +741,33 @@
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの表示切り替え\n\nラーニングヘルパーは学ぶことがあるときは常に表示されています。学ぶことが無いときは非表示にできます。</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの表示切り替え\n\nラーニングヘルパーは学ぶことがあるときは常に表示されています｡学ぶことが無いときは非表示にできます｡</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>既存のゾーンをマップ上に表示します。</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>既存のゾーンをマップ上に表示します｡</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>景観値の表示切り替え\n\nマウスオーバーした位置に入植者が立つのと同じ視界で周囲の景観の値を表示します。</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>景観値の表示切り替え\n\nマウスオーバーした位置に入植者が立つのと同じ視界で周囲の景観の値を表示します｡</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>部屋ステータスの表示切り替え\n\nマウスオーバーした部屋のステータスを表示します。</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>部屋ステータスの表示切り替え\n\nマウスオーバーした部屋のステータスを表示します｡</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>入植者バー表示切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します。\n\n入植者バーを右クリックしてドラッグすれば、入植者の並びを変更することができます。</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>入植者バー表示切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します｡\n\n入植者バーを右クリックしてドラッグすれば､入植者の並びを変更することができます｡</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>新たな構造物の付近を自動的に居住エリアへ加えます。</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>新たな構造物の付近を自動的に居住エリアへ加えます｡</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>壊された構造物を自動的に再建します。</AutoRebuildButton>
+  <AutoRebuildButton>壊された構造物を自動的に再建します｡</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>備蓄した物資の一覧表示を、種別ごとに纏めます。</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>備蓄した物資の一覧表示を､種別ごとに纏めます｡</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>家畜の名前の表示 / 非表示を切り替えます。</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>家畜の名前の表示 / 非表示を切り替えます｡</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>屋根の状態をマップ上に表示します。</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>屋根の状態をマップ上に表示します｡</ShowRoofOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>北が常に上になるようにカメラを固定します。</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>北が常に上になるようにカメラを固定します｡</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting system. -->
-  <UsePlanetDayNightSystemToggleButton>昼と夜の光源効果の表示 / 非表示を切り替えます。</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>昼と夜の光源効果の表示 / 非表示を切り替えます｡</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>地点アイコン表示切り替え\n\n俯瞰で見たときに拠点などを示す拡大アイコンの表示 / 非表示を切り替えます。</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>地点アイコン表示切り替え\n\n俯瞰で見たときに拠点などを示す拡大アイコンの表示 / 非表示を切り替えます｡</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>地名の表示 / 非表示を切り替えます。</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>地名の表示 / 非表示を切り替えます｡</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
@@ -787,31 +787,31 @@
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>これを建設するのに必要な資源がありません。</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>これを建設するのに必要な資源がありません｡</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>〔注意〕{0}での作業速度は低下します。原因</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>〔注意〕{0}での作業速度は低下します｡原因</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>屋根の下には配置できません。</MustPlaceUnroofed>
+  <MustPlaceUnroofed>屋根の下には配置できません｡</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>頭部側が船体骨格に接するよう配置してください。</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>頭部側が船体骨格に接するよう配置してください｡</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>食材ホッパーは自動給食機に隣接するよう配置してください。</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>食材ホッパーは自動給食機に隣接するよう配置してください｡</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>間欠泉の上に直接配置してください。</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>間欠泉の上に直接配置してください｡</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>冷気側、排気側ともに壁から離して配置してください。</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>冷気側､排気側ともに壁から離して配置してください｡</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です｡</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
-  <MustPlaceAdjacentStandable>周囲の全てのセルに人の立てる空間を確保できるよう配置してください。</MustPlaceAdjacentStandable>
+  <MustPlaceAdjacentStandable>周囲の全てのセルに人の立てる空間を確保できるよう配置してください｡</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>ポッド発射台の燃料口に繋げて配置してください。</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>ポッド発射台の燃料口に繋げて配置してください｡</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>掘削可能な資源の上に配置してください。</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>掘削可能な資源の上に配置してください｡</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>罠の隣には設置できません。</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>罠の隣には設置できません｡</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -827,13 +827,13 @@
   <!-- EN: Contains -->
   <CasketContains>カプセルの中身</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>【警告！】\n\n{PAWN_nameDef}は最後の入植者です！{PAWN_objective}冬眠カプセルに入れると、ゲームを続けることができなくなるかもしれません。本当に続けてよろしいですか？</CasketWarning>
+  <CasketWarning>【警告！】\n\n{PAWN_nameDef}は最後の入植者です！{PAWN_objective}冬眠カプセルに入れると､ゲームを続けることができなくなるかもしれません｡本当に続けてよろしいですか？</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>発射できません。</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>発射できません｡</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>発射できます。</ShipReportCanLaunch>
+  <ShipReportCanLaunch>発射できます｡</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
   <!-- EN: requires -->
@@ -845,17 +845,17 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>シャルロン・ホワイトストーンは、休眠状態の反応炉を復帰させる準備を整えました。\n\nシャルロンによれば、反応炉が完全に復帰を果たすまで約15日ほどかかり、その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう。\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ、命知らずのギャングどもや、凶悪なメカノイドの群れを呼び寄せることになります。\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます。まずは万全の防衛体制を築いてください。</HibernateWarning>
+  <HibernateWarning>シャルロン・ホワイトストーンは､休眠状態の反応炉を復帰させる準備を整えました｡\n\nシャルロンによれば､反応炉が完全に復帰を果たすまで約15日ほどかかり､その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう｡\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ､命知らずのギャングどもや､凶悪なメカノイドの群れを呼び寄せることになります｡\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます｡まずは万全の防衛体制を築いてください｡</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>反応炉の出力を上昇させる準備が整いました。\n\n反応炉の出力が十分に上昇するまで約15日ほどかかり、その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう。\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ、命知らずのギャングどもや、凶悪なメカノイドの群れを呼び寄せることになります。\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます。まずは万全の防衛体制を築いてください。</HibernateWarningStandalone>
+  <HibernateWarningStandalone>反応炉の出力を上昇させる準備が整いました｡\n\n反応炉の出力が十分に上昇するまで約15日ほどかかり､その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう｡\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ､命知らずのギャングどもや､凶悪なメカノイドの群れを呼び寄せることになります｡\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます｡まずは万全の防衛体制を築いてください｡</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している。</HibernateWarningPacifist>
+  <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している｡</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう。</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう｡</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{USER_labelShort}は、学習用メカナイト製剤を使って{1}スキルを{2}から{3}に上げました。</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort}は､学習用メカナイト製剤を使って{1}スキルを{2}から{3}に上げました｡</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -879,7 +879,7 @@
   <!-- EN: Quality -->
   <Quality>品質</Quality>
   <!-- EN: An item's quality is how well-made it is. -->
-  <QualityDescription>この物品が、どの程度しっかりと作られているかです。</QualityDescription>
+  <QualityDescription>この物品が､どの程度しっかりと作られているかです｡</QualityDescription>
   <!-- EN: Quality: {0} -->
   <QualityIs>品質: {0}</QualityIs>
 
@@ -901,13 +901,13 @@
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>ある者は去りました。ある者は亡くなりました。この物語はここで終わりを告げます。\n\nもしかすると、別の誰かがこの廃墟の使い道を考えてくれるかもしれません。</GameOverEveryoneDead>
+  <GameOverEveryoneDead>ある者は去りました｡ある者は亡くなりました｡この物語はここで終わりを告げます｡\n\nもしかすると､別の誰かがこの廃墟の使い道を考えてくれるかもしれません｡</GameOverEveryoneDead>
   <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunched>宇宙船が飛び立ちました！\n\n脱出した入植者:\n\n{0}\n残留した入植者:\n\n{1}\nこれからはAI人格コアが宇宙船を安全な場所まで導こうとしてくれるでしょう。この仕組みは、あなたのために実り多き惑星を見つけ出してくれるかもしれません。あるいは、別の恒星系を目指して何百年という長さの旅路に踏み出すかもしれません。さらには、小惑星の氷の下に身を潜め、誰かがそこに新たなグリッター文明を築くまで、何千年もの時を待ち続ける決断を下すかもしれません。\n\nその結果は、次にあなたが目覚めた時に、きっと分かるのでしょう。</GameOverShipLaunched>
+  <GameOverShipLaunched>宇宙船が飛び立ちました！\n\n脱出した入植者:\n\n{0}\n残留した入植者:\n\n{1}\nこれからはAI人格コアが宇宙船を安全な場所まで導こうとしてくれるでしょう｡この仕組みは､あなたのために実り多き惑星を見つけ出してくれるかもしれません｡あるいは､別の恒星系を目指して何百年という長さの旅路に踏み出すかもしれません｡さらには､小惑星の氷の下に身を潜め､誰かがそこに新たなグリッター文明を築くまで､何千年もの時を待ち続ける決断を下すかもしれません｡\n\nその結果は､次にあなたが目覚めた時に､きっと分かるのでしょう｡</GameOverShipLaunched>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>亜光速まで加速した惑星破壊兵器が、水素爆弾一兆個分に相当する威力で地表を直撃しました。ライフル弾に撃ち抜かれた水風船のごとく、この世界は激しい衝撃を受けて液状化し、融解した惑星の中心核が宇宙空間に向けて吹き出しました。\n\n{0}の一部は、今やまばらな小惑星帯となっています。残された部分は融解して放射能に塗れた地獄絵図の様相を呈しており、惑星規模の地震に合わせて数キロメートルもの振幅で絶え間なく波打っています。\n\nあなたは、生き延びることができませんでした。</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>亜光速まで加速した惑星破壊兵器が､水素爆弾一兆個分に相当する威力で地表を直撃しました｡ライフル弾に撃ち抜かれた水風船のごとく､この世界は激しい衝撃を受けて液状化し､融解した惑星の中心核が宇宙空間に向けて吹き出しました｡\n\n{0}の一部は､今やまばらな小惑星帯となっています｡残された部分は融解して放射能に塗れた地獄絵図の様相を呈しており､惑星規模の地震に合わせて数キロメートルもの振幅で絶え間なく波打っています｡\n\nあなたは､生き延びることができませんでした｡</GameOverPlanetkillerImpact>
   <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>宇宙船に乗り込むと、乗組員たちが両手を広げて歓迎してくれました。たとえ少ない人数でも、ここから連れ出せたことを喜んでいるようです。\n\n脱出した入植者:\n\n{0}\n残留した入植者:\n\n{1}\nこれからはAI人格コアが宇宙船を安全な場所まで導こうとしてくれるでしょう。この仕組みは、あなたのために実り多き惑星を見つけ出してくれるかもしれません。あるいは、別の恒星系を目指して何百年という長さの旅路に踏み出すかもしれません。さらには、小惑星の氷の下に身を潜め、誰かがそこに新たなグリッター文明を築くまで、何千年もの時を待ち続ける決断を下すかもしれません。\n\n冬眠カプセルに身を沈めるとき、あなたは少しだけ躊躇い、この人々を信じていいものか僅かな不安を感じます。\n\nその結果は、次にあなたが目覚めた時に、きっと分かるのでしょう。</GameOverArrivedAtJourneyDestination>
+  <GameOverArrivedAtJourneyDestination>宇宙船に乗り込むと､乗組員たちが両手を広げて歓迎してくれました｡たとえ少ない人数でも､ここから連れ出せたことを喜んでいるようです｡\n\n脱出した入植者:\n\n{0}\n残留した入植者:\n\n{1}\nこれからはAI人格コアが宇宙船を安全な場所まで導こうとしてくれるでしょう｡この仕組みは､あなたのために実り多き惑星を見つけ出してくれるかもしれません｡あるいは､別の恒星系を目指して何百年という長さの旅路に踏み出すかもしれません｡さらには､小惑星の氷の下に身を潜め､誰かがそこに新たなグリッター文明を築くまで､何千年もの時を待ち続ける決断を下すかもしれません｡\n\n冬眠カプセルに身を沈めるとき､あなたは少しだけ躊躇い､この人々を信じていいものか僅かな不安を感じます｡\n\nその結果は､次にあなたが目覚めた時に､きっと分かるのでしょう｡</GameOverArrivedAtJourneyDestination>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -923,11 +923,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の{1}は進行しています。</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の{1}は進行しています｡</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の{1}は安定しています。</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の{1}は安定しています｡</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の{1}は縮小しています。</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の{1}は縮小しています｡</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -981,9 +981,9 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>地下資源なし</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>資源が枯渇したため、大深度ドリルは自動的に停止しました。作業を続行すると今後は{0}を採掘します。</DeepDrillExhausted>
+  <DeepDrillExhausted>資源が枯渇したため､大深度ドリルは自動的に停止しました｡作業を続行すると今後は{0}を採掘します｡</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>大深度ドリルの資源は枯渇しました。</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>大深度ドリルの資源は枯渇しました｡</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1001,7 +1001,7 @@
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>クリックすると、経由地点間の距離が計算できるナビモードになります。</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>クリックすると､経由地点間の距離が計算できるナビモードになります｡</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
   <RoutePlannerAddTwoOrMoreWaypoints>二つ以上の経由地点を追加</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
@@ -1009,7 +1009,7 @@
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>推定所要時間: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は既定値を使用します。隊の編成によって速度は異なります。</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は既定値を使用します｡隊の編成によって速度は異なります｡</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->

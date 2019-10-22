@@ -13,9 +13,9 @@
     <li>r_art_description->[physical_description_root] [context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
-    <li>context_sentence->この[depiction]は、星暦[DATE]に起きた「[tale_noun]」を元にしている。</li>
-    <li>context_sentence->この[depiction]は、星暦[DATE]に起きた「[tale_noun]」を物語っている。</li>
-    <li>context_sentence->この[depiction]は、星暦[DATE]に起きた「[tale_noun]」の話を今に伝えている。</li>
+    <li>context_sentence->この[depiction]は､星暦[DATE]に起きた「[tale_noun]」を元にしている｡</li>
+    <li>context_sentence->この[depiction]は､星暦[DATE]に起きた「[tale_noun]」を物語っている｡</li>
+    <li>context_sentence->この[depiction]は､星暦[DATE]に起きた「[tale_noun]」の話を今に伝えている｡</li>
   </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:
@@ -201,20 +201,20 @@
     <li>artstyle_adj->heartfelt</li>
   -->
   <ArtDescriptionUtility_Global.rulePack.rulesStrings>
-    <li>style_group->[artextra_clause]。[style_clause]。</li>
-    <li>style_group->[artextra_clause]。[artconjunction][style_clause]。</li>
-    <li>style_group->[style_clause]。</li>
-    <li>style_group->[artextra_clause]。</li>
+    <li>style_group->[artextra_clause]｡[style_clause]｡</li>
+    <li>style_group->[artextra_clause]｡[artconjunction][style_clause]｡</li>
+    <li>style_group->[style_clause]｡</li>
+    <li>style_group->[artextra_clause]｡</li>
     <li>style_group-></li>
     <li>artconjunction(p=6)-></li>
-    <li>artconjunction->興味深い対比として、</li>
-    <li>artconjunction->作品を総括すると、</li>
-    <li>artconjunction->それに加えて、</li>
-    <li>artconjunction->際立つことに、</li>
-    <li>artconjunction->刺激的なことに、</li>
-    <li>artconjunction->この手の作品には珍しく、</li>
-    <li>artconjunction->それを期待する者は少ないが、</li>
-    <li>artconjunction->その上さらに、</li>
+    <li>artconjunction->興味深い対比として､</li>
+    <li>artconjunction->作品を総括すると､</li>
+    <li>artconjunction->それに加えて､</li>
+    <li>artconjunction->際立つことに､</li>
+    <li>artconjunction->刺激的なことに､</li>
+    <li>artconjunction->この手の作品には珍しく､</li>
+    <li>artconjunction->それを期待する者は少ないが､</li>
+    <li>artconjunction->その上さらに､</li>
     <!--=== artextra_clause ===-->
     <!-- Subimage included -->
     <li>artextra_clause->この図柄は[subimageplural]で縁取られている</li>
@@ -302,7 +302,7 @@
     <li>style_clause->この作品は[composition]感覚に[artstyle_adj]様式を備えている</li>
     <li>style_clause->全体的には[composition]構図が採用されている</li>
     <li>style_clause->総合すると[artstyle_adj]様式の要素を含んだ[artstyle_adj]様式となっている</li>
-    <li>style_clause->この図柄には、どういうわけか[ConceptAny]と[ConceptAny]の両方が表現されている</li>
+    <li>style_clause->この図柄には､どういうわけか[ConceptAny]と[ConceptAny]の両方が表現されている</li>
     <li>style_clause->この図柄は[ConceptAny]と[ConceptAny]を対比させている</li>
     <li>style_clause->この図柄が内包する[composition]骨組みと[artstyle_adj]様式が互いに相克し合っている</li>
     <li>style_clause->この作品の色相は[Color]から[Color]へと次第に変化している</li>

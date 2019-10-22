@@ -4,96 +4,96 @@
   <!-- EN: archotech arm -->
   <ArchotechArm.label>アルコテック腕</ArchotechArm.label>
   <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechArm.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造腕です。その手は堅木の太い枝を握り潰せるほど力強く、米粒の表面に詩を綴れるほど精密です。その見た目と触感はまるで生身の人肌のようですが、プラスチールを超える強度を誇ります。仮に損傷を受けても時間と共に自己修復します。その内部機構は人智を超越しています。</ArchotechArm.description>
+  <ArchotechArm.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造腕です｡その手は堅木の太い枝を握り潰せるほど力強く､米粒の表面に詩を綴れるほど精密です｡その見た目と触感はまるで生身の人肌のようですが､プラスチールを超える強度を誇ります｡仮に損傷を受けても時間と共に自己修復します｡その内部機構は人智を超越しています｡</ArchotechArm.description>
   
   <!-- EN: archotech eye -->
   <ArchotechEye.label>アルコテック眼</ArchotechEye.label>
   <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
-  <ArchotechEye.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造眼です。電波、赤外線、可視光線、エックス線、ガンマ線といった、あらゆる種類の電磁波を知覚できます。その視力は、20mの距離から手書きの文字を読むのに十分なほどです。様々な周波数の放射線を懐中電灯のように照射でき、内臓の亜人格AIは役立つ情報を視野に重ね合わせて表示します。外見は、意のままに変わる瞳の色を除けば、本物の人の目のようです。その内部機構は人智を超越しています。</ArchotechEye.description>
+  <ArchotechEye.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造眼です｡電波､赤外線､可視光線､エックス線､ガンマ線といった､あらゆる種類の電磁波を知覚できます｡その視力は､20mの距離から手書きの文字を読むのに十分なほどです｡様々な周波数の放射線を懐中電灯のように照射でき､内臓の亜人格AIは役立つ情報を視野に重ね合わせて表示します｡外見は､意のままに変わる瞳の色を除けば､本物の人の目のようです｡その内部機構は人智を超越しています｡</ArchotechEye.description>
   
   <!-- EN: archotech leg -->
   <ArchotechLeg.label>アルコテック脚</ArchotechLeg.label>
   <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechLeg.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造脚です。その見た目と触感はまるで生身の人肌のようですが、車と同じくらいの速さで走ることができ、プラスチールを超える強度を誇ります。仮に損傷を受けても時間と共に自己修復します。その内部機構は人智を超越しています。</ArchotechLeg.description>
+  <ArchotechLeg.description>&lt;color=orange&gt;アルコテック&lt;/color&gt;製の人造脚です｡その見た目と触感はまるで生身の人肌のようですが､車と同じくらいの速さで走ることができ､プラスチールを超える強度を誇ります｡仮に損傷を受けても時間と共に自己修復します｡その内部機構は人智を超越しています｡</ArchotechLeg.description>
   
   <!-- EN: bionic arm -->
   <BionicArm.label>強化上肢</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>高度に進化した人造の腕です。静音式の小型サーボモーターが強大な力を生み出す一方、バイオジェル神経接続により絶妙な制御を実現しています。格子状異物修復システムが損傷からの回復を可能にしています。生身の腕よりも、ほとんどあらゆる面において優れています。</BionicArm.description>
+  <BionicArm.description>高度に進化した人造の腕です｡静音式の小型サーボモーターが強大な力を生み出す一方､バイオジェル神経接続により絶妙な制御を実現しています｡格子状異物修復システムが損傷からの回復を可能にしています｡生身の腕よりも､ほとんどあらゆる面において優れています｡</BionicArm.description>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>強化内耳</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>高度に進化した人造内耳インプラントです。真皮下に埋め込まれた見えない集音器が音を捉え、聴覚神経と直接つながっているバイオジェル神経接続に送信します。その感度は目視するより先に猫の存在を察知するほどです。大きな騒音で壊れたりしないよう、また騒がしい環境下でも意味のある音を聞きとれるよう自動的に調律されます。</BionicEar.description>
+  <BionicEar.description>高度に進化した人造内耳インプラントです｡真皮下に埋め込まれた見えない集音器が音を捉え､聴覚神経と直接つながっているバイオジェル神経接続に送信します｡その感度は目視するより先に猫の存在を察知するほどです｡大きな騒音で壊れたりしないよう､また騒がしい環境下でも意味のある音を聞きとれるよう自動的に調律されます｡</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>強化眼球</BionicEye.label>
   <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>高度に進化した人造の眼球です。バイオジェル神経接続、内蔵型の信号プリプロセッサ、そして広帯域スペクトルセンサーにより、生身の眼よりも、ほとんどあらゆる面において優れています。格子状異物修復システムが損傷からの回復を可能にしています。</BionicEye.description>
+  <BionicEye.description>高度に進化した人造の眼球です｡バイオジェル神経接続､内蔵型の信号プリプロセッサ､そして広帯域スペクトルセンサーにより､生身の眼よりも､ほとんどあらゆる面において優れています｡格子状異物修復システムが損傷からの回復を可能にしています｡</BionicEye.description>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>強化心臓</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>高度に進化した人造の心臓です。本物と同じように鼓動を刻む合成筋繊維に加え、高負荷時にも迅速に血液を循環させる高流量ポンプを内蔵しています。生身の心臓よりも、ほとんどあらゆる面において優れています。</BionicHeart.description>
+  <BionicHeart.description>高度に進化した人造の心臓です｡本物と同じように鼓動を刻む合成筋繊維に加え､高負荷時にも迅速に血液を循環させる高流量ポンプを内蔵しています｡生身の心臓よりも､ほとんどあらゆる面において優れています｡</BionicHeart.description>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>強化下肢</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>高度に進化した人造の脚です。静音式の小型サーボモーターが強大な力を生み出す一方、バイオジェル神経接続により絶妙な制御を実現しています。格子状異物修復システムが損傷からの回復を可能にしています。生身の脚よりも、ほとんどあらゆる面において優れています。</BionicLeg.description>
+  <BionicLeg.description>高度に進化した人造の脚です｡静音式の小型サーボモーターが強大な力を生み出す一方､バイオジェル神経接続により絶妙な制御を実現しています｡格子状異物修復システムが損傷からの回復を可能にしています｡生身の脚よりも､ほとんどあらゆる面において優れています｡</BionicLeg.description>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>強化脊椎</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>進化した人造の脊椎です。バイオジェル神経接続の束が、格子状異物修復システムに取り巻かれたプラスチール製脊椎コアを貫通しています。生身の脊椎と同等の働きをします。</BionicSpine.description>
+  <BionicSpine.description>進化した人造の脊椎です｡バイオジェル神経接続の束が､格子状異物修復システムに取り巻かれたプラスチール製脊椎コアを貫通しています｡生身の脊椎と同等の働きをします｡</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>強化胃</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>進化した人造の胃です。一連のセンサーと科学的に合成された胃液が、エネルギー含有食品を効率的に消化します。胃に同化した格子状異物修復システムが、強力な胃酸による損傷を自動的に修復します。生身の胃よりも、ほとんどあらゆる面において優れています。</BionicStomach.description>
+  <BionicStomach.description>進化した人造の胃です｡一連のセンサーと科学的に合成された胃液が､エネルギー含有食品を効率的に消化します｡胃に同化した格子状異物修復システムが､強力な胃酸による損傷を自動的に修復します｡生身の胃よりも､ほとんどあらゆる面において優れています｡</BionicStomach.description>
   
   <!-- EN: cochlear implant -->
   <CochlearImplant.label>人造内耳</CochlearImplant.label>
   <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
-  <CochlearImplant.description>通常の聴覚を代替するインプラントです。外付けマイクが音声信号を、内耳聴覚神経系を覆った電極に送信します。電極は音声に従って神経系を刺激し、聴覚を形成します。生身の耳ほど優れてはいませんが、聾になるよりは遙かにましです。</CochlearImplant.description>
+  <CochlearImplant.description>通常の聴覚を代替するインプラントです｡外付けマイクが音声信号を､内耳聴覚神経系を覆った電極に送信します｡電極は音声に従って神経系を刺激し､聴覚を形成します｡生身の耳ほど優れてはいませんが､聾になるよりは遙かにましです｡</CochlearImplant.description>
   
   <!-- EN: heart -->
   <Heart.label>心臓</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>生身の人間の心臓です。全身に血液を供給します。</Heart.description>
+  <Heart.description>生身の人間の心臓です｡全身に血液を供給します｡</Heart.description>
   
   <!-- EN: kidney -->
   <Kidney.label>腎臓</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>生身の人間の腎臓です。血液を濾過して老廃物を取り除きます。</Kidney.description>
+  <Kidney.description>生身の人間の腎臓です｡血液を濾過して老廃物を取り除きます｡</Kidney.description>
   
   <!-- EN: liver -->
   <Liver.label>肝臓</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>生身の人間の肝臓です。代謝系の重要な役割を担っています。</Liver.description>
+  <Liver.description>生身の人間の肝臓です｡代謝系の重要な役割を担っています｡</Liver.description>
   
   <!-- EN: lung -->
   <Lung.label>肺</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>生身の人間の肺です。これら一対の器官は、人間の呼吸器系の中核を成します。</Lung.description>
+  <Lung.description>生身の人間の肺です｡これら一対の器官は､人間の呼吸器系の中核を成します｡</Lung.description>
   
   <!-- EN: power claw -->
   <PowerClaw.label>強化爪</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
-  <PowerClaw.description>戦闘に特化した手の代替品で、各指に凶悪な爪が備わった機械の手で構成されています。戦闘においては特に危険で、強力な小型サーボモーターは、生身の手が卵を潰すように人の頭を潰すことができます。刃は出し入れ自由で、戦闘以外の作業でも生身の手と同じくらい便利です。</PowerClaw.description>
+  <PowerClaw.description>戦闘に特化した手の代替品で､各指に凶悪な爪が備わった機械の手で構成されています｡戦闘においては特に危険で､強力な小型サーボモーターは､生身の手が卵を潰すように人の頭を潰すことができます｡刃は出し入れ自由で､戦闘以外の作業でも生身の手と同じくらい便利です｡</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>人工的に造られた上肢です。神経接続の機能はありませんが、複雑に配置された内部の関節が、自然な動きを納得がいくまで模倣することを可能にしています。しかし、未だ本物の腕には及びません。</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>人工的に造られた上肢です｡神経接続の機能はありませんが､複雑に配置された内部の関節が､自然な動きを納得がいくまで模倣することを可能にしています｡しかし､未だ本物の腕には及びません｡</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>人造心臓</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>人工的に造られた心臓です。すみやかに全身に血液を循環させる電気モーターが内蔵されています。移植患者からは疲れやすいという意見もありますが、生身の心臓移植よりは優れています。</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>人工的に造られた心臓です｡すみやかに全身に血液を循環させる電気モーターが内蔵されています｡移植患者からは疲れやすいという意見もありますが､生身の心臓移植よりは優れています｡</SimpleProstheticHeart.description>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>人工的に造られた下肢です。神経接続の機能はありませんが、複雑に配置された内部の関節が、自然な動きを納得がいくまで模倣することを可能にしています。しかし、未だ本物の脚には及びません。</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>人工的に造られた下肢です｡神経接続の機能はありませんが､複雑に配置された内部の関節が､自然な動きを納得がいくまで模倣することを可能にしています｡しかし､未だ本物の脚には及びません｡</SimpleProstheticLeg.description>
   
 </LanguageData>

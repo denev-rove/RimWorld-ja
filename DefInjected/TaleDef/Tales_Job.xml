@@ -33,9 +33,9 @@
     <li>circumstance_phrase->[AdjectiveFriendly]笑顔で</li>
     <li>circumstance_phrase->ガハハハッと笑いながら</li>
     <li>circumstance_phrase->[AdjectiveFriendly]笑顔で</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちも会話に加わっている。</li>
-    <li>desc_sentence->会場は[Color]や[Color]に彩られている。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちも近くで遊んでいる。</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちも会話に加わっている｡</li>
+    <li>desc_sentence->会場は[Color]や[Color]に彩られている｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちも近くで遊んでいる｡</li>
   </AttendedParty.rulePack.rulesStrings>
   
   <!-- EN: built snowman -->
@@ -69,8 +69,8 @@
     <li>circumstance_phrase->[PAWN_possesive]仲間が雪だるまファミリーを作っている中</li>
     <li>desc_sentence->[Color]色のオーロラが空に輝いている.</li>
     <li>desc_sentence->遠くの[Community]が雪に覆われている.</li>
-    <li>desc_sentence->かろうじて雪をかぶった[Vegetable]畑の姿が見えている。</li>
-    <li>desc_sentence->遠くには雪をかぶった[TerrainFeature]の姿が見えている。</li>
+    <li>desc_sentence->かろうじて雪をかぶった[Vegetable]畑の姿が見えている｡</li>
+    <li>desc_sentence->遠くには雪をかぶった[TerrainFeature]の姿が見えている｡</li>
   </BuiltSnowman.rulePack.rulesStrings>
   
   <!-- EN: buried corpse -->
@@ -148,11 +148,11 @@
     <li>circumstance_phrase->埃まみれになりながら</li>
     <li>circumstance_phrase->誇らしげに微笑みながら</li>
     <li>circumstance_phrase->[PAWN_possesive]顔に満足げな笑みを浮かべながら</li>
-    <li>desc_sentence->[PAWN_nameDef]の眼前に[OBJECT_label]が聳え立っている。</li>
-    <li>desc_sentence->[OBJECT_label]は[Color]色に淡く輝いている。</li>
-    <li>desc_sentence->[OBJECT_label]は細部まで複雑に仕上げられている。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[OBJECT_label]に驚嘆している。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが畏敬の念で見つめている。</li>
+    <li>desc_sentence->[PAWN_nameDef]の眼前に[OBJECT_label]が聳え立っている｡</li>
+    <li>desc_sentence->[OBJECT_label]は[Color]色に淡く輝いている｡</li>
+    <li>desc_sentence->[OBJECT_label]は細部まで複雑に仕上げられている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[OBJECT_label]に驚嘆している｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが畏敬の念で見つめている｡</li>
   </CompletedLongConstructionProject.rulePack.rulesStrings>
   
   <!-- EN: completed long crafting project -->
@@ -185,11 +185,11 @@
     <li>circumstance_phrase->埃まみれになりながら</li>
     <li>circumstance_phrase->誇らしげに微笑みながら</li>
     <li>circumstance_phrase->[PAWN_possesive]顔に満足げな笑みを浮かべながら</li>
-    <li>desc_sentence->[OBJECT_label]は[Color]色に淡く輝いている。</li>
-    <li>desc_sentence->[OBJECT_label]は細部まで複雑に仕上げられている。</li>
-    <li>desc_sentence->[PAWN_nameDef]は軽々とした様子で[OBJECT_label]を持ち上げている。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが完成品に驚嘆している。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが畏敬の念で凝視している。</li>
+    <li>desc_sentence->[OBJECT_label]は[Color]色に淡く輝いている｡</li>
+    <li>desc_sentence->[OBJECT_label]は細部まで複雑に仕上げられている｡</li>
+    <li>desc_sentence->[PAWN_nameDef]は軽々とした様子で[OBJECT_label]を持ち上げている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが完成品に驚嘆している｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが畏敬の念で凝視している｡</li>
   </CompletedLongCraftingProject.rulePack.rulesStrings>
   
   <!-- EN: entered cryptosleep -->
@@ -222,7 +222,7 @@
     <li>circumstance_phrase->遠くの[TerrainFeature]をじっと見つめながら</li>
     <li>circumstance_phrase->静かな会話を交わしながら</li>
     <li>desc_sentence->[Quantity_Animal]の[Animal]たちが,その近くで安らかに休んでいる.</li>
-    <li>desc_sentence->この場所へは[Quantity_Human]の[Enemy]たちが近付いている。</li>
+    <li>desc_sentence->この場所へは[Quantity_Human]の[Enemy]たちが近付いている｡</li>
     <li>desc_sentence->[PAWN_nameDef]の決定を伝達している.</li>
     <li>desc_sentence->[PAWN_nameDef]は目に見える傷を負っている.</li>
     <li>desc_sentence->[Color]色のオーロラが空に輝いている.</li>
@@ -342,10 +342,10 @@
     <li>circumstance_phrase->笑顔で</li>
     <li>circumstance_phrase->ヘトヘトだけど満足しながら</li>
     <li>circumstance_phrase->[AnimalGroup]と共に</li>
-    <li>desc_sentence->[HUMAN_nameDef]が数えきれない[Animal]たちに囲まれている。</li>
-    <li>desc_sentence->[ANIMAL_nameDef]が[AnimalGroup]の一員に加わるべく移動している。</li>
-    <li>desc_sentence->この場面は、[Animal]と[Animal]の群れでひしめきあっている。</li>
-    <li>desc_sentence->数えきれない[Animal]たちの列が、[HUMAN_nameDef]に手懐けられるのを待っている。</li>
+    <li>desc_sentence->[HUMAN_nameDef]が数えきれない[Animal]たちに囲まれている｡</li>
+    <li>desc_sentence->[ANIMAL_nameDef]が[AnimalGroup]の一員に加わるべく移動している｡</li>
+    <li>desc_sentence->この場面は､[Animal]と[Animal]の群れでひしめきあっている｡</li>
+    <li>desc_sentence->数えきれない[Animal]たちの列が､[HUMAN_nameDef]に手懐けられるのを待っている｡</li>
   </IncreasedMenagerie.rulePack.rulesStrings>
   
   <!-- EN: meditated -->
@@ -377,8 +377,8 @@
     <li>circumstance_phrase->[VerbFriendly]表情と共に</li>
     <li>circumstance_phrase->心静かに成長させながら</li>
     <li>circumstance_phrase->[Color]色のオーラに包まれながら</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[PAWN_objective]熱心に見つめている。</li>
-    <li>desc_sentence->[PAWN_pronoun]が[Quantity_Animal]の[Animal]たちに囲まれている。</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[PAWN_objective]熱心に見つめている｡</li>
+    <li>desc_sentence->[PAWN_pronoun]が[Quantity_Animal]の[Animal]たちに囲まれている｡</li>
     <li>desc_sentence->[Quantity_Animal]の[Animal]たちが安らかに休んでいる.</li>
     <li>desc_sentence->この場面を見て[Quantity_adjphrase]の[Enemy]達が畏敬の念を起こす.</li>
   </Meditated.rulePack.rulesStrings>
@@ -420,7 +420,7 @@
     <li>desc_sentence->[Quantity_Animal]の[Animal]たちは辺りをうろついている.</li>
     <li>desc_sentence->背景に[Community]がある.</li>
     <li>desc_sentence->[Quantity_adjphrase]の,さらなる鉱脈も遠くに見える.</li>
-    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える。</li>
+    <li>desc_sentence->遠くには[TerrainFeature]の姿が見える｡</li>
     <li>desc_sentence->[PAWN_nameDef]は汗にまみれて働いている.</li>
   </MinedValuable.rulePack.rulesStrings>
   
@@ -469,14 +469,14 @@
     <li>circumstance_phrase->[AdjectiveAngsty]な様子を浮かべつつ</li>
     <li>circumstance_phrase->[angstyverb]</li>
     <li>desc_sentence->[Color]色のオーロラが空に輝いている.</li>
-    <li>desc_sentence->遙か遠くには[Community]の姿が見える。</li>
-    <li>desc_sentence->遙か遠くには[TerrainFeature]の姿が見える。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちは同じくらいの腕前をしている。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが近くで遊んでいる。</li>
-    <li>desc_sentence->[PAWN_nameDef]が[Color]色に光るオーラを纏っている。</li>
+    <li>desc_sentence->遙か遠くには[Community]の姿が見える｡</li>
+    <li>desc_sentence->遙か遠くには[TerrainFeature]の姿が見える｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちは同じくらいの腕前をしている｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが近くで遊んでいる｡</li>
+    <li>desc_sentence->[PAWN_nameDef]が[Color]色に光るオーラを纏っている｡</li>
     <li>desc_sentence->[PAWN_nameDef]の特徴は誇張されている.</li>
     <li>desc_sentence->[PAWN_nameDef]は群を抜いている.</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが負けを重ねて不調に陥っている。</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが負けを重ねて不調に陥っている｡</li>
   </PlayedGame.rulePack.rulesStrings>
   
   <!-- EN: prayed -->
@@ -510,10 +510,10 @@
     <li>circumstance_phrase->希望に満ちた表情を浮かべ</li>
     <li>circumstance_phrase->心静かに成長させながら</li>
     <li>circumstance_phrase->[Color]色に光るオーラを纏いながら</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[PAWN_objective]熱心に見つめている。</li>
-    <li>desc_sentence->[PAWN_pronoun]が[Quantity_Animal]の[Animal]たちに囲まれている。</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが安らかに休息している。</li>
-    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]たちが、この光景に畏敬の念を抱いている。</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが[PAWN_objective]熱心に見つめている｡</li>
+    <li>desc_sentence->[PAWN_pronoun]が[Quantity_Animal]の[Animal]たちに囲まれている｡</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが安らかに休息している｡</li>
+    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]たちが､この光景に畏敬の念を抱いている｡</li>
   </Prayed.rulePack.rulesStrings>
   
   <!-- EN: put into cryptosleep -->
@@ -546,7 +546,7 @@
     <li>circumstance_phrase->遠くの[TerrainFeature]をじっと見つめながら</li>
     <li>circumstance_phrase->緊張しつつ</li>
     <li>desc_sentence->[Quantity_Animal]の[Animal]たちが,その近くで安らかに休んでいる.</li>
-    <li>desc_sentence->この場所へは[Quantity_Human]の[Enemy]たちが近付いている。</li>
+    <li>desc_sentence->この場所へは[Quantity_Human]の[Enemy]たちが近付いている｡</li>
     <li>desc_sentence->[CARRIER_nameDef]の決定を伝達している.</li>
     <li>desc_sentence->[SLEEPER_nameDef]は目に見える傷を負っている.</li>
     <li>desc_sentence->[SLEEPER_nameDef]は疲れ切っているようだ.</li>
@@ -576,18 +576,18 @@
     <li>tale_noun->[STRIPPED_nameDef]の衣服を剥ぐ[TAKER_nameDef]</li>
     <li>image->[circumstance_group]公共の場で[STRIPPED_nameDef]の衣服を脱がせる[TAKER_nameDef]</li>
     <li>image->[circumstance_group][STRIPPED_nameDef]の衣服を脱がせる[TAKER_nameDef]</li>
-    <li>image->[circumstance_group]完全に裸になった[STRIPPED_nameDef]の傍らに立ち、腕いっぱいに[Apparel]を抱える[TAKER_nameDef]</li>
+    <li>image->[circumstance_group]完全に裸になった[STRIPPED_nameDef]の傍らに立ち､腕いっぱいに[Apparel]を抱える[TAKER_nameDef]</li>
     <li>image->[circumstance_group][STRIPPED_nameDef]が衣服を脱ぐのを辛抱強く待っている[TAKER_nameDef]</li>
     <li>circumstance_phrase->明確な意思を持って</li>
     <li>circumstance_phrase->恥じらう素振りもなく</li>
     <li>circumstance_phrase->他人が見ている中で</li>
     <li>circumstance_phrase->はっきりした理由もなく</li>
     <li>circumstance_phrase->戸惑う動物たちが見つめる中で</li>
-    <li>desc_sentence->[STRIPPED_nameDef]が見るからに欲情している。</li>
-    <li>desc_sentence->[STRIPPED_nameDef]が説明しがたい湿気を纏っている。</li>
-    <li>desc_sentence->[STRIPPED_nameDef]が不思議な理由で荒い息遣いをしている。</li>
-    <li>desc_sentence->[STRIPPED_nameDef]が繁みを愛撫している。</li>
-    <li>desc_sentence->[STRIPPED_nameDef]は[AdjectiveAngsty]表情だけを身に纏っている。</li>
+    <li>desc_sentence->[STRIPPED_nameDef]が見るからに欲情している｡</li>
+    <li>desc_sentence->[STRIPPED_nameDef]が説明しがたい湿気を纏っている｡</li>
+    <li>desc_sentence->[STRIPPED_nameDef]が不思議な理由で荒い息遣いをしている｡</li>
+    <li>desc_sentence->[STRIPPED_nameDef]が繁みを愛撫している｡</li>
+    <li>desc_sentence->[STRIPPED_nameDef]は[AdjectiveAngsty]表情だけを身に纏っている｡</li>
   </Stripped.rulePack.rulesStrings>
   
   <!-- EN: visited grave -->

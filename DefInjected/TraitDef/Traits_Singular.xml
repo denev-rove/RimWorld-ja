@@ -4,146 +4,146 @@
   <!-- EN: abrasive -->
   <Abrasive.degreeDatas.abrasive.label>口が悪い</Abrasive.degreeDatas.abrasive.label>
   <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
-  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef}は、いつも思ったことをそのまま口にします。気に入らないことに対しては特にそうです。そのせいで、人の神経を逆撫でする傾向にあります。</Abrasive.degreeDatas.abrasive.description>
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef}は､いつも思ったことをそのまま口にします｡気に入らないことに対しては特にそうです｡そのせいで､人の神経を逆撫でする傾向にあります｡</Abrasive.degreeDatas.abrasive.description>
   
   <!-- EN: annoying voice -->
   <AnnoyingVoice.degreeDatas.annoying_voice.label>気に障る声</AnnoyingVoice.degreeDatas.annoying_voice.label>
   <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は、とりわけ耳障りな鼻声で、怒鳴るように聞き取りづらい話し方をします。そのせいで人から良い印象を持たれません。</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は､とりわけ耳障りな鼻声で､怒鳴るように聞き取りづらい話し方をします｡そのせいで人から良い印象を持たれません｡</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>禁欲</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} prefers to live in asceticism. {PAWN_pronoun} will be put in a poor mood if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw - and raw food won't bother {PAWN_objective} a bit. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}は修行僧のような生活を志向しています。\n寝室が立派すぎると心情が悪化します。贅沢な食事を嫌い、食材を生のまま食べることを好みます。</Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}は修行僧のような生活を志向しています｡\n寝室が立派すぎると心情が悪化します｡贅沢な食事を嫌い､食材を生のまま食べることを好みます｡</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: bloodlust -->
   <Bloodlust.degreeDatas.bloodlust.label>流血嗜好</Bloodlust.degreeDatas.bloodlust.label>
   <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
-  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef}は他人を傷付けることに快感を覚えます。流血や人の死を目にしても気分を害することは一切ありません。会話から喧嘩に発展する確率が普通の人に比べ4倍も高いです。</Bloodlust.degreeDatas.bloodlust.description>
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef}は他人を傷付けることに快感を覚えます｡流血や人の死を目にしても気分を害することは一切ありません｡会話から喧嘩に発展する確率が普通の人に比べ4倍も高いです｡</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>自然体主義</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef}は、人体に限界があるのは理由があっての事だと信じています。{PAWN_pronoun}にとって義体化は倫理に悖る行為であり、嫌悪感を抱いています。</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef}は､人体に限界があるのは理由があっての事だと信じています｡{PAWN_pronoun}にとって義体化は倫理に悖る行為であり､嫌悪感を抱いています｡</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
   <Brawler.degreeDatas.brawler.label>格闘家</Brawler.degreeDatas.brawler.label>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef}は個人で接近戦を行うことを好みます。白兵戦の技量は非常に高いものの、遠距離武器を持つことには大きな不満を示します。</Brawler.degreeDatas.brawler.description>
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef}は個人で接近戦を行うことを好みます｡白兵戦の技量は非常に高いものの､遠距離武器を持つことには大きな不満を示します｡</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
   <Cannibal.degreeDatas.cannibal.label>食人嗜好</Cannibal.degreeDatas.cannibal.label>
   <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
-  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef}は、人肉を食べる行為は罪深くおぞましいことだと教えられました。しかし遠い昔のある時、{PAWN_pronoun}はそれを試してみたのです…。そしてその味を気に入りました。</Cannibal.degreeDatas.cannibal.description>
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef}は､人肉を食べる行為は罪深くおぞましいことだと教えられました｡しかし遠い昔のある時､{PAWN_pronoun}はそれを試してみたのです…｡そしてその味を気に入りました｡</Cannibal.degreeDatas.cannibal.description>
   
   <!-- EN: creepy breathing -->
   <CreepyBreathing.degreeDatas.creepy_breathing.label>不快な息遣い</CreepyBreathing.degreeDatas.creepy_breathing.label>
   <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef}の息遣いは常に激しく、いつでも汗をかいています。それは人々の目に薄気味悪く映ります。</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef}の息遣いは常に激しく､いつでも汗をかいています｡それは人々の目に薄気味悪く映ります｡</CreepyBreathing.degreeDatas.creepy_breathing.description>
   
   <!-- EN: misandrist -->
   <DislikesMen.degreeDatas.misandrist.label>男嫌い</DislikesMen.degreeDatas.misandrist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
-  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef}は本当に男性を嫌っていて、全く信用しません。</DislikesMen.degreeDatas.misandrist.description>
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef}は本当に男性を嫌っていて､全く信用しません｡</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
   <DislikesWomen.degreeDatas.misogynist.label>女嫌い</DislikesWomen.degreeDatas.misogynist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef}は本当に女性を嫌っていて、全く信用しません。</DislikesWomen.degreeDatas.misogynist.description>
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef}は本当に女性を嫌っていて､全く信用しません｡</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
   <FastLearner.degreeDatas.fast_learner.label>物覚えが早い</FastLearner.degreeDatas.fast_learner.label>
   <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
-  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef}は要領よく学ぶすべを心得ています。{PAWN_pronoun}は普通の人よりもずっと早く技能を習得します。</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef}は要領よく学ぶすべを心得ています｡{PAWN_pronoun}は普通の人よりもずっと早く技能を習得します｡</FastLearner.degreeDatas.fast_learner.description>
   
   <!-- EN: gay -->
   <Gay.degreeDatas.gay.label>同性愛者</Gay.degreeDatas.gay.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
-  <Gay.degreeDatas.gay.description>{PAWN_nameDef}は自分と同じ性別の人々に心を惹かれます。</Gay.degreeDatas.gay.description>
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef}は自分と同じ性別の人々に心を惹かれます｡</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>食道楽</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}の生活は食べ物を中心に回っています。{PAWN_pronoun}はすぐに空腹になり、お腹が空いていないときでも、ときおり無性に何かを食べずにはいられなくなります。</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}の生活は食べ物を中心に回っています｡{PAWN_pronoun}はすぐに空腹になり､お腹が空いていないときでも､ときおり無性に何かを食べずにはいられなくなります｡</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
   <GreatMemory.degreeDatas.great_memory.label>超記憶力</GreatMemory.degreeDatas.great_memory.label>
   <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
-  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef}には、細かいことまで覚えていられる類まれな記憶能力があります。{PAWN_pronoun}は使用しないスキルを忘れる速度が他の者の半分で済みます。</GreatMemory.degreeDatas.great_memory.description>
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef}には､細かいことまで覚えていられる類まれな記憶能力があります｡{PAWN_pronoun}は使用しないスキルを忘れる速度が他の者の半分で済みます｡</GreatMemory.degreeDatas.great_memory.description>
   
   <!-- EN: greedy -->
   <Greedy.degreeDatas.greedy.label>欲張り</Greedy.degreeDatas.greedy.label>
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
-  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef}は本当に印象的な寝室を欲しがります。望み通りの寝室を得ることができなければ、心情が悪化します。</Greedy.degreeDatas.greedy.description>
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef}は本当に印象的な寝室を欲しがります｡望み通りの寝室を得ることができなければ､心情が悪化します｡</Greedy.degreeDatas.greedy.description>
   
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>嫉妬深い</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef}にとって、他の者に見劣りする寝室を持つことは沽券に関わります。{PAWN_pronoun}は自分よりも印象的な寝室を持っている者がいると心情が悪化します。</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef}にとって､他の者に見劣りする寝室を持つことは沽券に関わります｡{PAWN_pronoun}は自分よりも印象的な寝室を持っている者がいると心情が悪化します｡</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>親切</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is a nice person. {PAWN_pronoun} has a tendency to brighten everyone else's day and never insults others. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef}は善良な人間です。優しい言葉で皆の心を明るくし、決して他人を悪く言うことがありません。</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef}は善良な人間です｡優しい言葉で皆の心を明るくし､決して他人を悪く言うことがありません｡</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>マゾヒスト</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}は、痛めつけられることに興奮を覚えます。\nなぜかは自分でも分かりません。ただ、人とは違うというだけです。</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}は､痛めつけられることに興奮を覚えます｡\nなぜかは自分でも分かりません｡ただ､人とは違うというだけです｡</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>夜行性</NightOwl.degreeDatas.night_owl.label>
   <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef}は夜に活動し、日中は寝ていることを好みます。\n\n{PAWN_pronoun}は夜間(23時-6時)に起きていると心情が改善し、昼間(11時-18時)に起きていると心情が悪化します。\n\n暗闇でも心情が悪化することはありません。</NightOwl.degreeDatas.night_owl.description>
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef}は夜に活動し､日中は寝ていることを好みます｡\n\n{PAWN_pronoun}は夜間(23時-6時)に起きていると心情が改善し､昼間(11時-18時)に起きていると心情が悪化します｡\n\n暗闇でも心情が悪化することはありません｡</NightOwl.degreeDatas.night_owl.description>
   
   <!-- EN: nimble -->
   <Nimble.degreeDatas.nimble.label>敏捷</Nimble.degreeDatas.nimble.label>
   <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef}は運動感覚にまつわる知能が並外れています。\n{PAWN_pronoun}は危険の中にあっても神秘的なほど\n優美に舞っているように見えます。</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef}は運動感覚にまつわる知能が並外れています｡\n{PAWN_pronoun}は危険の中にあっても神秘的なほど\n優美に舞っているように見えます｡</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
   <Nudist.degreeDatas.nudist.label>ヌーディスト</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になることで得られる自由な感覚を楽しんでいます。\n服を着ることもできますが、脱いだほうが幸せになれます。</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になることで得られる自由な感覚を楽しんでいます｡\n服を着ることもできますが､脱いだほうが幸せになれます｡</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
   <Psychopath.degreeDatas.psychopath.label>サイコパス</Psychopath.degreeDatas.psychopath.label>
   <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef}には他人に共感する気持ちが欠けています。{PAWN_pronoun}が誰かの苦しみに心を砕くことは一切ありません。\n\n誰かが投獄されたり、奴隷として売られたり、人体が解体されたり、遺体を野晒しにされても、それが自分の身に及ばない限りは気にしません。\n\nまた、社交による会話で心情が左右されることもありません。</Psychopath.degreeDatas.psychopath.description>
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef}には他人に共感する気持ちが欠けています｡{PAWN_pronoun}が誰かの苦しみに心を砕くことは一切ありません｡\n\n誰かが投獄されたり､奴隷として売られたり､人体が解体されたり､遺体を野晒しにされても､それが自分の身に及ばない限りは気にしません｡\n\nまた､社交による会話で心情が左右されることもありません｡</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>放火魔</Pyromaniac.degreeDatas.pyromaniac.label>
   <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef}は炎が大好きです。\n\n{PAWN_pronoun}は決して消火活動を行いません。ストレス解消のため、ときおり手当たり次第に放火しまくる行動に走ることがあります。これは心情が低いときに起こりやすくなります。</Pyromaniac.degreeDatas.pyromaniac.description>
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef}は炎が大好きです｡\n\n{PAWN_pronoun}は決して消火活動を行いません｡ストレス解消のため､ときおり手当たり次第に放火しまくる行動に走ることがあります｡これは心情が低いときに起こりやすくなります｡</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
   <QuickSleeper.degreeDatas.quick_sleeper.label>熟睡の達人</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef}は普通の人ほど睡眠時間を必要としません。ベッドの上だろうと地べたに寝転がろうと、通常の3分の2程度の時間で完全な休息を得ることができます。</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef}は普通の人ほど睡眠時間を必要としません｡ベッドの上だろうと地べたに寝転がろうと､通常の3分の2程度の時間で完全な休息を得ることができます｡</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>うぬぼれ屋</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef}は自分の能力を鼻に掛けているところがあります。{PAWN_pronoun}は、どんな技能でも人より早く習得しますが、相当な変わり者です。</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef}は自分の能力を鼻に掛けているところがあります｡{PAWN_pronoun}は､どんな技能でも人より早く習得しますが､相当な変わり者です｡</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tough -->
   <Tough.degreeDatas.tough.label>屈強</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>{PAWN_nameDef}の身体は、分厚い皮膚、中身の詰まった筋肉、丈夫な骨からできています。同じように殴られても、普通の人より傷が浅くて済みます。{PAWN_pronoun}に止めを刺すのは相当に骨が折れる仕事です。</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef}の身体は､分厚い皮膚､中身の詰まった筋肉､丈夫な骨からできています｡同じように殴られても､普通の人より傷が浅くて済みます｡{PAWN_pronoun}に止めを刺すのは相当に骨が折れる仕事です｡</Tough.degreeDatas.tough.description>
   
   <!-- EN: transhumanist -->
   <Transhumanist.degreeDatas.transhumanist.label>義体化願望</Transhumanist.degreeDatas.transhumanist.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef}は弱々しい人間の身体に限界を感じています。自分の身体を人造の義体で強化することを、よく夢想しています。</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef}は弱々しい人間の身体に限界を感じています｡自分の身体を人造の義体で強化することを､よく夢想しています｡</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>地底人</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}には照明も屋外活動も必要ありません。どれだけ屋内に閉じこもろうが、閉塞感を覚えたり閉所性発熱を発症することはありません。暗闇を気にすることもありません。</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}には照明も屋外活動も必要ありません｡どれだけ屋内に閉じこもろうが､閉塞感を覚えたり閉所性発熱を発症することはありません｡暗闇を気にすることもありません｡</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>痛がり屋</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef}は弱虫で臆病です。少しの痛みでも、すぐに動けなくなってしまいます。</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef}は弱虫で臆病です｡少しの痛みでも､すぐに動けなくなってしまいます｡</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>

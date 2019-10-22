@@ -71,15 +71,15 @@
     <li>circumstance_phrase->何の感情も伺えない表情で</li>
     <li>circumstance_phrase->後ろ暗い必要に迫られて</li>
     <li>circumstance_phrase->臆病な逃げ腰で</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
   </Downed.rulePack.rulesStrings>
   
   <!-- EN: exhausted -->
@@ -112,11 +112,11 @@
     <li>circumstance_phrase->目に見える程の疲労で</li>
     <li>circumstance_phrase->汗だくになりながら</li>
     <li>circumstance_phrase->身体も動かせずに</li>
-    <li>desc_sentence->[PAWN_nameDef]による最新のプロジェクトが傍らにある。完成だ。</li>
-    <li>desc_sentence->驚嘆に値する建造物が[PAWN_nameDef]を取り囲んでいる。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが、[PAWN_nameDef]の果敢な取り組みに感謝の眼差しを送っている。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが、同じような状態で近くに倒れている。</li>
-    <li>desc_sentence->この場面は、新たに作られた[Community]を舞台にしている。</li>
+    <li>desc_sentence->[PAWN_nameDef]による最新のプロジェクトが傍らにある｡完成だ｡</li>
+    <li>desc_sentence->驚嘆に値する建造物が[PAWN_nameDef]を取り囲んでいる｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが､[PAWN_nameDef]の果敢な取り組みに感謝の眼差しを送っている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが､同じような状態で近くに倒れている｡</li>
+    <li>desc_sentence->この場面は､新たに作られた[Community]を舞台にしている｡</li>
   </Exhausted.rulePack.rulesStrings>
   
   <!-- EN: gave birth -->
@@ -152,10 +152,10 @@
     <li>circumstance_phrase->柔らかい[Color]色の</li>
     <li>circumstance_phrase->早くも周囲の物に手を伸ばす</li>
     <li>circumstance_phrase->穏やかな表情で周囲を見やる</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちも傍らで静かに眠っている。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちも覗き込んでいる。</li>
-    <li>desc_sentence->[PersonJob]たちが遠巻きに見守っている。</li>
-    <li>desc_sentence->この場面は、新たに作られた[Community]を舞台にしている。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちも傍らで静かに眠っている｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちも覗き込んでいる｡</li>
+    <li>desc_sentence->[PersonJob]たちが遠巻きに見守っている｡</li>
+    <li>desc_sentence->この場面は､新たに作られた[Community]を舞台にしている｡</li>
   </GaveBirth.rulePack.rulesStrings>
   
   <!-- EN: heatstroke revealed -->
@@ -192,13 +192,13 @@
     <li>circumstance_phrase->汗みずくになって</li>
     <li>circumstance_phrase->乾いた唇をひび割れさせて</li>
     <li>circumstance_phrase->嘔吐しながら</li>
-    <li>desc_sentence->干からびた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる。</li>
-    <li>desc_sentence->[PAWN_nameDef]の衣服は破れて擦り切れている。</li>
-    <li>desc_sentence->背景には灼熱の太陽がぼんやりと浮かんでいる。</li>
-    <li>desc_sentence->この場面は、灼熱の砂漠を舞台にしている。</li>
-    <li>desc_sentence->この場面は、暖房器具の隣を舞台にしているようだ。</li>
-    <li>desc_sentence->動かなくなった[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる。</li>
-    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている。</li>
+    <li>desc_sentence->干からびた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる｡</li>
+    <li>desc_sentence->[PAWN_nameDef]の衣服は破れて擦り切れている｡</li>
+    <li>desc_sentence->背景には灼熱の太陽がぼんやりと浮かんでいる｡</li>
+    <li>desc_sentence->この場面は､灼熱の砂漠を舞台にしている｡</li>
+    <li>desc_sentence->この場面は､暖房器具の隣を舞台にしているようだ｡</li>
+    <li>desc_sentence->動かなくなった[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる｡</li>
+    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている｡</li>
   </HeatstrokeRevealed.rulePack.rulesStrings>
   
   <!-- EN: hypothermia revealed -->
@@ -235,13 +235,13 @@
     <li>circumstance_phrase->ガタガタと震えが止まらず</li>
     <li>circumstance_phrase->寒気に包まれつつ</li>
     <li>circumstance_phrase->白い息を口から吐きながら</li>
-    <li>desc_sentence->凍り付いた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる。</li>
-    <li>desc_sentence->[PAWN_nameDef]の衣服は破れて擦り切れている。</li>
-    <li>desc_sentence->背景には凍てついた月がぼんやりと浮かんでいる。</li>
-    <li>desc_sentence->この場面は、雪に覆われた[TreeType]の森を舞台にしている。</li>
-    <li>desc_sentence->この場面は、冷凍庫の中を舞台にしているようだ。</li>
-    <li>desc_sentence->寒さに震えている[Quantity_Animal]の[Animal]たちが辺りを囲んでいる。</li>
-    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている。</li>
+    <li>desc_sentence->凍り付いた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる｡</li>
+    <li>desc_sentence->[PAWN_nameDef]の衣服は破れて擦り切れている｡</li>
+    <li>desc_sentence->背景には凍てついた月がぼんやりと浮かんでいる｡</li>
+    <li>desc_sentence->この場面は､雪に覆われた[TreeType]の森を舞台にしている｡</li>
+    <li>desc_sentence->この場面は､冷凍庫の中を舞台にしているようだ｡</li>
+    <li>desc_sentence->寒さに震えている[Quantity_Animal]の[Animal]たちが辺りを囲んでいる｡</li>
+    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている｡</li>
   </HypothermiaRevealed.rulePack.rulesStrings>
   
   <!-- EN: illness revealed -->
@@ -282,11 +282,11 @@
     <li>circumstance_phrase->吐きながら</li>
     <li>circumstance_phrase->発疹が表れ</li>
     <li>circumstance_phrase->医者に手当され</li>
-    <li>desc_sentence->蠅に集られた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる。</li>
-    <li>desc_sentence->[Quantity_adjphrase]の捩れた[Color]色[TerrainFeature]が辺りを囲んでいる。</li>
-    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが同じ病に臥せっている。</li>
-    <li>desc_sentence->この場面は、[TreeType]の森を舞台にしている。</li>
-    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている。</li>
+    <li>desc_sentence->蠅に集られた[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる｡</li>
+    <li>desc_sentence->[Quantity_adjphrase]の捩れた[Color]色[TerrainFeature]が辺りを囲んでいる｡</li>
+    <li>desc_sentence->[Quantity_Human]の[PersonJob]たちが同じ病に臥せっている｡</li>
+    <li>desc_sentence->この場面は､[TreeType]の森を舞台にしている｡</li>
+    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている｡</li>
   </IllnessRevealed.rulePack.rulesStrings>
   
   <!-- EN: killed -->
@@ -325,8 +325,8 @@
   <KilledCapacity.rulePack.rulesStrings>
     <li>tale_noun->[VICTIM_nameDef]を[wound_name_present][KILLER_nameDef]</li>
     <li>tale_noun->[WEAPON_label]を使って[VICTIM_nameDef]を[wound_name_present][KILLER_nameDef]</li>
-    <li>image->[VICTIM_nameDef]の[CAPACITY_label]する力を、[with_weapon_optional][cap_removal][KILLER_nameDef]</li>
-    <li>image->[VICTIM_nameDef]を[wound_name_present]ため、[VICTIM_possessive][CAPACITY_label]を[with_weapon_optional][cap_removal][KILLER_nameDef]</li>
+    <li>image->[VICTIM_nameDef]の[CAPACITY_label]する力を､[with_weapon_optional][cap_removal][KILLER_nameDef]</li>
+    <li>image->[VICTIM_nameDef]を[wound_name_present]ため､[VICTIM_possessive][CAPACITY_label]を[with_weapon_optional][cap_removal][KILLER_nameDef]</li>
     <li>cap_removal->破壊する</li>
     <li>cap_removal->取り除く</li>
     <li>cap_removal->終わらせる</li>
@@ -344,14 +344,14 @@
     <li>circumstance_phrase->冷淡に</li>
     <li>circumstance_phrase->素早く無駄がなく</li>
     <li>circumstance_phrase->無感情で無表情のまま</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
   </KilledCapacity.rulePack.rulesStrings>
   
   <!-- EN: killed at distance -->
@@ -415,16 +415,16 @@
     <li>circumstance_phrase->高い所から</li>
     <li>circumstance_phrase->無感情で無表情のまま</li>
     <li>circumstance_phrase->卑劣で冷淡なやり方で</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
   </KilledLongRange.rulePack.rulesStrings>
   
   <!-- EN: killed major threat -->
@@ -492,19 +492,19 @@
     <li>circumstance_phrase->何の感情も伺えない表情で</li>
     <li>circumstance_phrase->優れた英雄的行為で</li>
     <li>circumstance_phrase->信じがたいほどの力で</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[Gore]塗れになっている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に塗れている。</li>
-    <li>desc_sentence->[KILLER_nameDef]の眼前には[VICTIM_nameDef]の軀が聳え立っている。</li>
-    <li>desc_sentence->飛び散った[VICTIM_nameDef]の軀が[TerrainFeature]全体を覆っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目が[Color]色に光っている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[Gore]塗れになっている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に塗れている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]の眼前には[VICTIM_nameDef]の軀が聳え立っている｡</li>
+    <li>desc_sentence->飛び散った[VICTIM_nameDef]の軀が[TerrainFeature]全体を覆っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目が[Color]色に光っている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
     <li>desc_sentence->[KILLER_nameDef]は[AdjectiveBadass]のようだ.</li>
     <li>desc_sentence->[KILLER_nameDef]は雄々しいオーラを放っている.</li>
   </KilledMajorThreat.rulePack.rulesStrings>
@@ -577,18 +577,18 @@
     <li>circumstance_phrase->素早く無駄がなく</li>
     <li>circumstance_phrase->無感情で無表情のまま</li>
     <li>circumstance_phrase->卑劣で冷淡なやり方で</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に塗れている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の両目は閉じられている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に塗れている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
     <li>desc_sentence->[KILLER_nameDef]は野獣のような表情をしている.</li>
   </KilledMelee.rulePack.rulesStrings>
   
@@ -627,16 +627,16 @@
     <li>circumstance_phrase->砲弾が放物線を描いて[VICTIM_nameDef]に向かう</li>
     <li>circumstance_phrase->[VICTIM_nameDef]が辺り構わず歩き回っている中</li>
     <li>circumstance_phrase->[VICTIM_nameDef]は疾走しながら</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が爆発に巻き込まれている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]の周囲にはクレーターが広がっている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が爆発に巻き込まれている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]の周囲にはクレーターが広がっている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
   </KilledMortar.rulePack.rulesStrings>
   
   <!-- EN: toxicity revealed -->
@@ -678,12 +678,12 @@
     <li>circumstance_phrase->乾いた唇にはひび割れができ</li>
     <li>circumstance_phrase->吐きながら</li>
     <li>circumstance_phrase->発疹が表れ</li>
-    <li>desc_sentence->身を捩った[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる。</li>
-    <li>desc_sentence->[PAWN_nameDef]の衣服が散らばっている。</li>
-    <li>desc_sentence->空は濁った[Color]色に染まっている。</li>
-    <li>desc_sentence->[Quantity_adjphrase]の捩れた[Color]色[TerrainFeature]が辺りを囲んでいる。</li>
-    <li>desc_sentence->この場面は、捩れた[TreeType]の森を舞台にしている。</li>
-    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている。</li>
+    <li>desc_sentence->身を捩った[Quantity_Animal]の[Animal]たちが屍となって辺りを囲んでいる｡</li>
+    <li>desc_sentence->[PAWN_nameDef]の衣服が散らばっている｡</li>
+    <li>desc_sentence->空は濁った[Color]色に染まっている｡</li>
+    <li>desc_sentence->[Quantity_adjphrase]の捩れた[Color]色[TerrainFeature]が辺りを囲んでいる｡</li>
+    <li>desc_sentence->この場面は､捩れた[TreeType]の森を舞台にしている｡</li>
+    <li>desc_sentence->死んだ[Quantity_Animal]の[Animal]たちが地面に横たわっている｡</li>
   </ToxicityRevealed.rulePack.rulesStrings>
   
   <!-- EN: wounded -->
@@ -764,18 +764,18 @@
     <li>circumstance_phrase->無感情で無表情のまま</li>
     <li>circumstance_phrase->必要もないのに</li>
     <li>circumstance_phrase->卑劣で冷淡なやり方で</li>
-    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している。</li>
-    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている。</li>
-    <li>desc_sentence->軀を晒す[VICTIM_nameDef]の周囲には血溜まりができている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が痛みに顔を顰めている。</li>
-    <li>desc_sentence->[VICTIM_nameDef]が激しい苦痛に顔を顰めている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている。</li>
-    <li>desc_sentence->[KILLER_nameDef]が満足気にしている。</li>
-    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ。</li>
-    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ。</li>
+    <li>desc_sentence->[Quantity_Animal]の[Animal]たちが傍観している｡</li>
+    <li>desc_sentence->[PersonJob]が[side_position]で静かに見守っている｡</li>
+    <li>desc_sentence->軀を晒す[VICTIM_nameDef]の周囲には血溜まりができている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が[Gore]に塗れている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]様子を見せている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が痛みに顔を顰めている｡</li>
+    <li>desc_sentence->[VICTIM_nameDef]が激しい苦痛に顔を顰めている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が歯を剥いている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]が満足気にしている｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は自分のしでかしたことに苦悩しているようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]はこの状況を喜んでいるようだ｡</li>
+    <li>desc_sentence->[KILLER_nameDef]は得意になっているようだ｡</li>
   </Wounded.rulePack.rulesStrings>
   
 </LanguageData>

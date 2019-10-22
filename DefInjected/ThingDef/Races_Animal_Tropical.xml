@@ -4,7 +4,7 @@
   <!-- EN: boomalope -->
   <Boomalope.label>ボマロープ</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>化学物質の工場として遺伝子工学により生み出されました。ボマロープは揮発性の化学物質を貯める大きな液嚢を背中に成長させます。体格のわりに非力で傷付きやすいですが、他の動物たちはボマロープに手出ししないことを学習しました。死ぬ間際に巨大な爆発を伴うからです。ボマロープからは化学燃料を搾乳することができます&#xA0;－&#xA0;かなり慎重ならば。</Boomalope.description>
+  <Boomalope.description>化学物質の工場として遺伝子工学により生み出されました｡ボマロープは揮発性の化学物質を貯める大きな液嚢を背中に成長させます｡体格のわりに非力で傷付きやすいですが､他の動物たちはボマロープに手出ししないことを学習しました｡死ぬ間際に巨大な爆発を伴うからです｡ボマロープからは化学燃料を搾乳することができます&#xA0;－&#xA0;かなり慎重ならば｡</Boomalope.description>
   <!-- EN: head -->
   <Boomalope.tools.head.label>頭部</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
@@ -15,7 +15,7 @@
   <!-- EN: cobra -->
   <Cobra.label>コブラ</Cobra.label>
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
-  <Cobra.description>大型で肉食性の蛇です。コブラは怒らせると極めて攻撃的になり、噛み付くことで相手の体内に毒を注入します。</Cobra.description>
+  <Cobra.description>大型で肉食性の蛇です｡コブラは怒らせると極めて攻撃的になり､咬み付くことで相手の体内に毒を注入します｡</Cobra.description>
   <!-- EN: cobraflesh -->
   <Cobra.race.meatLabel>蛇肉</Cobra.race.meatLabel>
   <!-- EN: venom-fangs -->
@@ -26,7 +26,7 @@
   <!-- EN: monkey -->
   <Monkey.label>猿</Monkey.label>
   <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
-  <Monkey.description>小型の霊長類です。猿は巻き付くような尻尾で枝を掴むことができ、両手を空けて別のことに使えます。猿は自分勝手ですが非常に賢く、かなり複雑な作業をこなせるよう仕込むこともできます。</Monkey.description>
+  <Monkey.description>小型の霊長類です｡猿は巻き付くような尻尾で枝を掴むことができ､両手を空けて別のことに使えます｡猿は自分勝手ですが非常に賢く､かなり複雑な作業をこなせるよう仕込むこともできます｡</Monkey.description>
   <!-- EN: left fist -->
   <Monkey.tools.left_fist.label>左拳</Monkey.tools.left_fist.label>
   <!-- EN: right fist -->

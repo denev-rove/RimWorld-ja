@@ -7,32 +7,32 @@
   <!-- EN: Allow -->
   <CommandAllow>許可</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>禁制: 入植者はこれに触れることを禁じられています。 許可するにはクリックしてください。</CommandForbiddenDesc>
+  <CommandForbiddenDesc>禁制: 入植者はこれに触れることを禁じられています｡ 許可するにはクリックしてください｡</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>許可: 入植者はこれに触れることを許されています。 禁制するにはクリックしてください。</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>許可: 入植者はこれに触れることを許されています｡ 禁制するにはクリックしてください｡</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
   <CommandTogglePowerLabel>電源 入/切</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>電源の状態を切り替えます。</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>電源の状態を切り替えます｡</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>電源 入/切</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>電源スイッチの切り替えを行うよう指示します。間もなく入植者がやってきてスイッチを切り替えるでしょう。</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>電源スイッチの切り替えを行うよう指示します｡間もなく入植者がやってきてスイッチを切り替えるでしょう｡</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>接続範囲内にある別の電力線に繋ぎ替えます。これは、送電されていない電力線に繋がっている機器の近くに 活きた電力線がある場合に有効です。</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>接続範囲内にある別の電力線に繋ぎ替えます｡これは､送電されていない電力線に繋がっている機器の近くに 活きた電力線がある場合に有効です｡</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>溜まり場</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
-  <CommandGatherSpotToggleDescActive>有効 - 入植者が周囲で寛ぎます。</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescActive>有効 - 入植者が周囲で寛ぎます｡</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
-  <CommandGatherSpotToggleDescInactive>無効 - 入植者は特に集まりません。</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>無効 - 入植者は特に集まりません｡</CommandGatherSpotToggleDescInactive>
   
   <!-- Drafting -->
   <!-- EN: Draft -->
@@ -40,38 +40,38 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n自発的な作業、食事、睡眠などは実行しません。</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>入植者を徴兵します｡\n\n徴兵中の入植者は､戦闘と与えられた指示のみを実行します｡\n\n自発的な作業､食事､睡眠などは実行しません｡</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{1_labelShort}は歩くことができません。</IsIncapped>
+  <IsIncapped>{1_labelShort}は歩くことができません｡</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>発砲許可を切り替えます。\n\n無効にすると、この入植者は自発的な遠距離攻撃をしなくなります。これは白兵戦には影響しません。</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>発砲許可を切り替えます｡\n\n無効にすると､この入植者は自発的な遠距離攻撃をしなくなります｡これは白兵戦には影響しません｡</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>優先作業を 取り消し</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>直接指示した優先作業を取り消します。この入植者は自分で判断し、いつも通りの作業に戻ります。</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>直接指示した優先作業を取り消します｡この入植者は自分で判断し､いつも通りの作業に戻ります｡</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>取り消し</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
-  <CommandCancelConstructionDesc>指示を取り消します。</CommandCancelConstructionDesc>
+  <CommandCancelConstructionDesc>指示を取り消します｡</CommandCancelConstructionDesc>
 
   <!-- EN: Get out of bed -->
   <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
-  <CommandGetOutOfBedDesc>起きて布団から出ます。</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedDesc>起きて布団から出ます｡</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
   <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>ベッドの所有者を決めます。</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>ベッドの所有者を決めます｡</CommandBedSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>墓石に記名</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります｡</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
   <BuildingAssign>指定</BuildingAssign>
   <!-- EN: Reassign -->
@@ -81,24 +81,24 @@
   <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
-  <CommandBedSetForPrisonersDesc>この部屋にある全てのベッドを囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersDesc>この部屋にある全てのベッドを囚人用に割り当てます｡</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが、囚人用ベッドに割り当てる事が出来ます。</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが､囚人用ベッドに割り当てる事が出来ます｡</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
-  <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます｡</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>部屋にある全てのベッドが囚人用になります。\n（囚人と入植者は同じ部屋で休むことができません）\n\n以下の入植者はベッドの所有権を失います:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>部屋にある全てのベッドが囚人用になります｡\n（囚人と入植者は同じ部屋で休むことができません）\n\n以下の入植者はベッドの所有権を失います:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>部屋にある全てのベッドが入植者用になります。\n（囚人と入植者は同じ部屋で休むことができません）\n\n以下の囚人はベッドの所有権を失います:</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>部屋にある全てのベッドが入植者用になります｡\n（囚人と入植者は同じ部屋で休むことができません）\n\n以下の囚人はベッドの所有権を失います:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>本当によろしいですか？</AreYouSure>
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
-  <CommandDetonateDesc>起爆カウントダウンを開始します。</CommandDetonateDesc>
+  <CommandDetonateDesc>起爆カウントダウンを開始します｡</CommandDetonateDesc>
 
   <!-- EN: Rename -->
   <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
@@ -120,117 +120,117 @@
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定は別のゾーンに貼り付けできます。</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします｡コピーした設定は別のゾーンに貼り付けできます｡</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>貼り付け</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>クリップボードにコピーしたゾーン設定を、このゾーンに上書きします。</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>クリップボードにコピーしたゾーン設定を､このゾーンに上書きします｡</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>種蒔きの許可</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>禁止にすると、入植者はこのエリアに植物の種を蒔かなくなります。農作物の収穫は従来通り行われます。</CommandAllowSowDesc>
+  <CommandAllowSowDesc>禁止にすると､入植者はこのエリアに植物の種を蒔かなくなります｡農作物の収穫は従来通り行われます｡</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
 <!--
   <CommandSetForceAttackTarget>砲撃対象の 指定</CommandSetForceAttackTarget>
-  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
+  v1.0現在､砲塔は完全自動化されているため､迫撃砲専用のテキストとなっている
 -->
   <CommandSetForceAttackTarget>砲撃開始</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
 <!--
-  <CommandSetForceAttackTargetDesc>砲塔の砲撃対象を指定して、その対象だけを狙うようにします。</CommandSetForceAttackTargetDesc>
-  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
+  <CommandSetForceAttackTargetDesc>砲塔の砲撃対象を指定して､その対象だけを狙うようにします｡</CommandSetForceAttackTargetDesc>
+  v1.0現在､砲塔は完全自動化されているため､迫撃砲専用のテキストとなっている
 -->
-  <CommandSetForceAttackTargetDesc>迫撃砲の砲撃対象を指定します。</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>迫撃砲の砲撃対象を指定します｡</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
 <!--
   <CommandStopForceAttack>砲撃対象の 解除</CommandStopForceAttack>
-  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
+  v1.0現在､砲塔は完全自動化されているため､迫撃砲専用のテキストとなっている
 -->
   <CommandStopForceAttack>砲撃停止</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
 <!--
-  <CommandStopForceAttackDesc>砲撃対象の指定を解除し、砲塔に自律判断させます。</CommandStopForceAttackDesc>
-  v1.0現在、砲塔は完全自動化されているため、迫撃砲専用のテキストとなっている
+  <CommandStopForceAttackDesc>砲撃対象の指定を解除し､砲塔に自律判断させます｡</CommandStopForceAttackDesc>
+  v1.0現在､砲塔は完全自動化されているため､迫撃砲専用のテキストとなっている
 -->
-  <CommandStopForceAttackDesc>砲撃対象の指定を解除します。</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>砲撃対象の指定を解除します｡</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>対象を指定していません。</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>対象を指定していません｡</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
   <CommandExtractShell>脱砲</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>弾頭の種類を変更するため、装填済みの砲弾を抜きます。</CommandExtractShellDesc>
+  <CommandExtractShellDesc>弾頭の種類を変更するため､装填済みの砲弾を抜きます｡</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>対象の位置が最大射程に比べて遠すぎます。</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>対象の位置が最大射程に比べて遠すぎます｡</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>対象の位置が最小射程に比べて近すぎます。</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>対象の位置が最小射程に比べて近すぎます｡</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっているため砲撃できません。</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっているため砲撃できません｡</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
   <CommandShipLaunch>宇宙船を発進させる</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます｡</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
   <CommandShipLaunchReport>発進レポートを表示</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>船が 発進できるかどうか､ 性能レポートを 表示します｡</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
   <CommandShipStartup>宇宙船を起動</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>休止状態の船体コンポーネントを起動します。</CommandShipStartupDesc>
+  <CommandShipStartupDesc>休止状態の船体コンポーネントを起動します｡</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
   <CommandPodEject>冬眠カプセルから出す</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>冬眠者を起こしてカプセルから出します。</CommandPodEjectDesc>
+  <CommandPodEjectDesc>冬眠者を起こしてカプセルから出します｡</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
-  <CommandPodEjectFailEmpty>中には誰もいませんでした。</CommandPodEjectFailEmpty>
+  <CommandPodEjectFailEmpty>中には誰もいませんでした｡</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>立入禁止</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>扉の通行を禁止すると、入植者や味方は扉を通り抜けなくなります。敵や野生動物には作用しません。</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>扉の通行を禁止すると､入植者や味方は扉を通り抜けなくなります｡敵や野生動物には作用しません｡</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
   <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>扉を開放すると、入植者の通過後に扉が閉じなくなります。</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>扉を開放すると､入植者の通過後に扉が閉じなくなります｡</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
   <CommandResetTemp>リセット</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>設定温度をリセットします。</CommandResetTempDesc>
+  <CommandResetTempDesc>設定温度をリセットします｡</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
-  <CommandRaiseTempDesc>設定温度を上げます。</CommandRaiseTempDesc>
+  <CommandRaiseTempDesc>設定温度を上げます｡</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
-  <CommandLowerTempDesc>設定温度を下げます。</CommandLowerTempDesc>
+  <CommandLowerTempDesc>設定温度を下げます｡</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
   <CommandInstall>設置</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>この設備は保管と移動のために梱包されています。この命令を使って指定した場所に設置させます。</CommandInstallDesc>
+  <CommandInstallDesc>この設備は保管と移動のために梱包されています｡この命令を使って指定した場所に設置させます｡</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
   <CommandReinstall>再設置…</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>この設備を一旦撤去し、再設置する場所を指定します。</CommandReinstallDesc>
+  <CommandReinstallDesc>この設備を一旦撤去し､再設置する場所を指定します｡</CommandReinstallDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>この軌道貿易ビーコンが取引対象とする範囲に沿う形で、新たに備蓄ゾーンを作成します。</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>この軌道貿易ビーコンが取引対象とする範囲に沿う形で､新たに備蓄ゾーンを作成します｡</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
   <CommandMakeBeaconStockpileLabel>備蓄ゾーンの作成</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>この太陽灯が照らす範囲に沿うように、新たに農耕ゾーンを作成します。</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>この太陽灯が照らす範囲に沿うように､新たに農耕ゾーンを作成します｡</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>農耕ゾーンの作成</CommandSunLampMakeGrowingZoneLabel>
 
@@ -238,33 +238,33 @@
   <!-- EN: Auto Rearm -->
   <CommandAutoRearm>自動的に 再設置</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>これを有効にすると、作動済みの罠を自動的に再設置するようになります。</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>これを有効にすると､作動済みの罠を自動的に再設置するようになります｡</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
   <CommandReleaseAnimalsLabel>動物を放つ</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>これを有効にしている間、追従する動物は離れた標的へ攻撃に向かいます。無効にしている間は、主人のそばを離れず護衛します。</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>これを有効にしている間､追従する動物は離れた標的へ攻撃に向かいます｡無効にしている間は､主人のそばを離れず護衛します｡</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>追従する動物がいません。</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>追従する動物がいません｡</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
   <CommandSquadAttack>攻撃指示</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>選択している入植者たちに、攻撃する標的を指示します。</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>選択している入植者たちに､攻撃する標的を指示します｡</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>近接攻撃</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>選択している入植者たちに、拳や近接武器を使って攻撃するよう命令します。</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>選択している入植者たちに､拳や近接武器を使って攻撃するよう命令します｡</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
   <CommandHoldFire>発砲禁止</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>発砲を禁止している間は、全ての攻撃を取りやめます。</CommandHoldFireDesc>
+  <CommandHoldFireDesc>発砲を禁止している間は､全ての攻撃を取りやめます｡</CommandHoldFireDesc>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -272,7 +272,7 @@
   <!-- EN: Plant: {0} -->
   <CommandSelectPlantToGrow>作物: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます｡</CommandSelectPlantToGrowDesc>
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
@@ -282,194 +282,194 @@
   <!-- EN: Build copy -->
   <CommandBuildCopy>複製</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>これと同じものを建設します。</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>これと同じものを建設します｡</CommandBuildCopyDesc>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>新たなエリアへ旅立つため、入植者でキャラバン隊を編成します。選ばれた入植者たちは、指定の積み荷と連れて行く家畜を集めてこのエリアを出たあと、次の命令を待ちます。</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>新たなエリアへ旅立つため､入植者でキャラバン隊を編成します｡選ばれた入植者たちは､指定の積み荷と連れて行く家畜を集めてこのエリアを出たあと､次の命令を待ちます｡</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
   <CommandReformCaravan>キャラバン隊を再編成</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>キャラバン隊の人員を変更します。選ばれた入植者たちはこのエリアを出たあと、次の指示を待ちます。</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>キャラバン隊の人員を変更します｡選ばれた入植者たちはこのエリアを出たあと､次の指示を待ちます｡</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
-  <CommandReformCaravanFailHostilePawns>まだ、このエリアには敵が存在します。</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravanFailHostilePawns>まだ､このエリアには敵が存在します｡</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
   <!-- EN: Split -->
   <CommandSplitCaravan>分割</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます。キャラバン隊は、お互いが近くにいれば、あとで一つに纏めることもできます。</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>キャラバン隊を二つに分けます｡キャラバン隊は､お互いが近くにいれば､あとで一つに纏めることもできます｡</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
   <CommandMergeCaravans>合流</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます。</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます｡</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します。キャラバン隊は互いに近くにいる必要があります。</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します｡キャラバン隊は互いに近くにいる必要があります｡</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
   <!-- EN: Settle -->
   <CommandSettle>定住</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>この地に定住します。入植者たちはこの地に入植し、新たな本拠地の建設が可能になります。</CommandSettleDesc>
+  <CommandSettleDesc>この地に定住します｡入植者たちはこの地に入植し､新たな本拠地の建設が可能になります｡</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>あなたの派閥は、ただ一つだけしか本拠地を持てません。</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>あなたの派閥は､ただ一つだけしか本拠地を持てません｡</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました。</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました｡</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>この入植地の領有を宣言する者が誰もいません。</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>この入植地の領有を宣言する者が誰もいません｡</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>ここには、敵がいます。</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>ここには､敵がいます｡</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
   <CommandAbandonHome>放棄</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>このエリアを放棄します。ここには二度と戻ることができなくなります。本拠地を放棄した後は、キャラバン隊の一つが新たなエリアに入植することができます。</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>このエリアを放棄します｡ここには二度と戻ることができなくなります｡本拠地を放棄した後は､キャラバン隊の一つが新たなエリアに入植することができます｡</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>全ての入植者が、このエリアにいます。</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>全ての入植者が､このエリアにいます｡</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>キャラバン隊 編成の中止</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>キャラバン隊の編成作業を中止します。</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>キャラバン隊の編成作業を中止します｡</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
   <CommandRemoveFromCaravan>キャラバン隊から外す</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>この人物もしくは家畜をキャラバン隊から外します。</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>この人物もしくは家畜をキャラバン隊から外します｡</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
   <CommandAddToCaravan>キャラバン隊に加える</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>この人物もしくは家畜をキャラバン隊に加えます。</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>この人物もしくは家畜をキャラバン隊に加えます｡</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
   <CommandShowMap>ズームイン</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>このエリアを拡大表示します。</CommandShowMapDesc>
+  <CommandShowMapDesc>このエリアを拡大表示します｡</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
   <CommandTrade>交易</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>この派閥と取引します。</CommandTradeDesc>
+  <CommandTradeDesc>この派閥と取引します｡</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>意識のしっかりした､まともな交渉人が居ません｡</CommandTradeFailNoNegotiator>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
   <CommandOfferGifts>貢ぎ物を 申し出る</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>この派閥へ貢ぎ物を申し出ます。</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>この派閥へ貢ぎ物を申し出ます｡</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
   <CommandFulfillTradeOffer>依頼の達成</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>物品調達の依頼を完遂し、報酬を要求します。</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>物品調達の依頼を完遂し､報酬を要求します｡</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>この依頼を達成するには、キャラバン隊が{0}を持っていなければなりません。</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>この依頼を達成するには､キャラバン隊が{0}を持っていなければなりません｡</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Offer {0} for {1}? -->
-  <CommandFulfillTradeOfferConfirm>{0}を納品し、報酬の{1}を受け取りますか？</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>{0}を納品し､報酬の{1}を受け取りますか？</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
   <CommandTakeOff>離陸</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
-  <CommandTakeOffDesc>宇宙船に乗り込み、惑星を脱出します。</CommandTakeOffDesc>
+  <CommandTakeOffDesc>宇宙船に乗り込み､惑星を脱出します｡</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>宇宙船を発進させて本当によろしいですか？\n\nこのエリアの全員が惑星より脱出します。他の者は置き去りになるでしょう。</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>宇宙船を発進させて本当によろしいですか？\n\nこのエリアの全員が惑星より脱出します｡他の者は置き去りになるでしょう｡</CommandTakeOffConfirmation>
   
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>燃料搭載量を設定する</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>燃料搭載量を設定します。入植者は設定量まで給油しようとします。</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>燃料搭載量を設定します｡入植者は設定量まで給油しようとします｡</CommandSetTargetFuelLevelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>荷積みを中止</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>荷積み作業を中止して、既に積んである荷物を下ろします。</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>荷積み作業を中止して､既に積んである荷物を下ろします｡</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch group -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>輸送ポッドの発射手続きを開始します。次の手順で目的地を選択します。複数の輸送ポッドは一斉に発射され、到着するのも同時です。</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>輸送ポッドの発射手続きを開始します｡次の手順で目的地を選択します｡複数の輸送ポッドは一斉に発射され､到着するのも同時です｡</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドが、ポッド発射台の給油口に接続されていません。</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドが､ポッド発射台の給油口に接続されていません｡</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>一部のポッド発射台に燃料がありません。</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>一部のポッド発射台に燃料がありません｡</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>一部のポッド発射台が、屋根の下にあります。</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>一部のポッド発射台が､屋根の下にあります｡</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>発射グループを編成 ({0}機)</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>選択中の輸送ポッド同士で、一つの発射グループを編成します。編成画面を開き輸送する人員と物資を指定します。</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>選択中の輸送ポッド同士で､一つの発射グループを編成します｡編成画面を開き輸送する人員と物資を指定します｡</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドが、ポッド発射台の給油口に接続されていません。</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドが､ポッド発射台の給油口に接続されていません｡</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>ポッド発射台に燃料がありません。</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>ポッド発射台に燃料がありません｡</CommandLoadTransporterFailNoFuel>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>前のポッドを選択</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>同じグループ内の一つ前の輸送ポッドを選択します。</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>同じグループ内の一つ前の輸送ポッドを選択します｡</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>発射グループ選択</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>同じグループ内の全ての輸送ポッドを 選択します。</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>同じグループ内の全ての輸送ポッドを 選択します｡</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>次のポッドを選択</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>同じグループ内の一つ後の輸送ポッドを選択します。</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>同じグループ内の一つ後の輸送ポッドを選択します｡</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>開/閉を指示</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>換気口の開閉を指示します。入植者は直ぐに作業に掛かります。</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>換気口の開閉を指示します｡入植者は直ぐに作業に掛かります｡</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>削除</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
-  <CommandRemoveWaypointDesc>経由地点を削除します。</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>経由地点を削除します｡</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
   <CommandPauseCaravan>休息</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>休息を取ります。これは以下の恩恵があります:\n\n-&#xA0;隊員同士で交流することができます。\n-&#xA0;食料調達が {0}倍 早くなります。\n-&#xA0;目立ちやすさが {1} になります。</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>休息を取ります｡これは以下の恩恵があります:\n\n-&#xA0;隊員同士で交流することができます｡\n-&#xA0;食料調達が {0}倍 早くなります｡\n-&#xA0;目立ちやすさが {1} になります｡</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
   <CommandShowSellableItems>買い取り品の一覧表示</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>このトレーダーが仕入れたいと思っている物品の一覧を表示します。</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>このトレーダーが仕入れたいと思っている物品の一覧を表示します｡</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
   <CommandAttackSettlement>襲撃</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>この集落を襲撃します。</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>この集落を襲撃します｡</CommandAttackSettlementDesc>
 
 </LanguageData>

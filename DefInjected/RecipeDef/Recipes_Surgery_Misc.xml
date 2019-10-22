@@ -4,37 +4,37 @@
   <!-- EN: administer healer mech serum -->
   <AdministerMechSerumHealer.label>治療用メカナイト製剤を投与する</AdministerMechSerumHealer.label>
   <!-- EN: Administer a healer mech serum. -->
-  <AdministerMechSerumHealer.description>治療用メカナイト製剤を投与します。</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.description>治療用メカナイト製剤を投与します｡</AdministerMechSerumHealer.description>
   <!-- EN: Administering healer mech serum. -->
   <AdministerMechSerumHealer.jobString>治療用メカナイト製剤を投与中</AdministerMechSerumHealer.jobString>
   
   <!-- EN: anesthetize -->
   <Anesthetize.label>麻酔をかける</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>全身麻酔を投与して意識を失わせます。</Anesthetize.description>
+  <Anesthetize.description>全身麻酔を投与して意識を失わせます｡</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
   <Anesthetize.jobString>麻酔をかけている</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
   <Euthanize.label>安楽死させる</Euthanize.label>
   <!-- EN: Euthanize a creature by cutting. -->
-  <Euthanize.description>安楽死させます。</Euthanize.description>
+  <Euthanize.description>安楽死させます｡</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
   <Euthanize.jobString>安楽死させている</Euthanize.jobString>
   
   <!-- EN: excise carcinoma -->
   <ExciseCarcinoma.label>腫瘍を摘出する</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>腫瘍を摘出します。</ExciseCarcinoma.description>
+  <ExciseCarcinoma.description>腫瘍を摘出します｡</ExciseCarcinoma.description>
   <!-- EN: Excising carcinoma. -->
   <ExciseCarcinoma.jobString>腫瘍の摘出中</ExciseCarcinoma.jobString>
   <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0}は、{1}の腫瘍摘出に成功しました。</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0}は､{1}の腫瘍摘出に成功しました｡</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
   <!-- EN: remove part -->
   <RemoveBodyPart.label>器官を外す</RemoveBodyPart.label>
   <!-- EN: Remove a body part. -->
-  <RemoveBodyPart.description>器官を外します。</RemoveBodyPart.description>
+  <RemoveBodyPart.description>器官を外します｡</RemoveBodyPart.description>
   <!-- EN: Removing body part. -->
   <RemoveBodyPart.jobString>器官を外しています</RemoveBodyPart.jobString>
   

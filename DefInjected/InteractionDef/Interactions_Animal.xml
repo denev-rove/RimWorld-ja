@@ -81,8 +81,8 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]へ[nuzzleadverb][nuzzled]。</li>
-    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameDef]の[rubbedpart]に[nuzzleadverb]擦り付けた。</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]へ[nuzzleadverb][nuzzled]｡</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameDef]の[rubbedpart]に[nuzzleadverb]擦り付けた｡</li>
     <li>nuzzled(p=2)->擦り寄ってきた</li>
     <li>nuzzled->寄り添ってきた</li>
     <li>nuzzleadverb(p=4)-></li>
@@ -159,7 +159,7 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef][trained]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef][trained]｡</li>
     <li>trained(p=2)->を調教しよ[tried]</li>
     <li>trained->に新たな芸を示そ[tried]</li>
     <li>trained->を躾よ[tried]</li>

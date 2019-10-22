@@ -4,7 +4,7 @@
   <!-- EN: dromedary -->
   <Dromedary.label>ヒトコブラクダ</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
-  <Dromedary.description>乾燥した環境に適応した大型の哺乳類です。古くから家畜化され、その体毛と革は砂漠の熱を防ぐことにとりわけ優れており、母乳は栄養に富んでいます。駄載獣として使役されますが、弾むような足取りのせいで騎獣としては短い距離でも耐えられません。大きな瘤に水分を溜め、息を吐く際に呼気から湿気を取り戻すことで、水を飲まずに数週間を過ごすことができます。</Dromedary.description>
+  <Dromedary.description>乾燥した環境に適応した大型の哺乳類です｡古くから家畜化され､その体毛と革は砂漠の熱を防ぐことにとりわけ優れており､母乳は栄養に富んでいます｡駄載獣として使役されますが､弾むような足取りのせいで騎獣としては短い距離でも耐えられません｡大きな瘤に水分を溜め､息を吐く際に呼気から湿気を取り戻すことで､水を飲まずに数週間を過ごすことができます｡</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>左蹄</Dromedary.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -15,7 +15,7 @@
   <!-- EN: gazelle -->
   <Gazelle.label>ガゼル</Gazelle.label>
   <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
-  <Gazelle.description>驚くほどの長距離を飛び越えることで知られる、小型で非常に敏捷な羚羊類です。</Gazelle.description>
+  <Gazelle.description>驚くほどの長距離を飛び越えることで知られる､小型で非常に敏捷な羚羊類です｡</Gazelle.description>
   <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>左蹄</Gazelle.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -26,7 +26,7 @@
   <!-- EN: iguana -->
   <Iguana.label>イグアナ</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
-  <Iguana.description>この大型の蜥蜴は、普段は植物を食べています。しかし、ひとたび怒れば頑丈な外皮と鋭い爪が非常に危険な生物です。\n\n休息中のイグアナは頭を高く掲げ、尊大で愛嬌のある姿をしています。しかし彼らは尊大なわけではありません。自分の身を守るために、捕食者を見つけようとしているだけです。</Iguana.description>
+  <Iguana.description>この大型の蜥蜴は､普段は植物を食べています｡しかし､ひとたび怒れば頑丈な外皮と鋭い爪が非常に危険な生物です｡\n\n休息中のイグアナは頭を高く掲げ､尊大で愛嬌のある姿をしています｡しかし彼らは尊大なわけではありません｡自分の身を守るために､捕食者を見つけようとしているだけです｡</Iguana.description>
   <!-- EN: left claw -->
   <Iguana.tools.left_claw.label>左爪</Iguana.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -37,7 +37,7 @@
   <!-- EN: muffalo -->
   <Muffalo.label>マッファロー</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>この群れで暮らす大型の草食獣は、水牛を祖先とし、温暖な気候と寒冷な気候の両方に適応しています。怒らせると極めて危険ですが、手懐けたマッファローは本当に従順で、駄載獣として使役できます。\n\nなぜマッファローが青いのか、確かなことは分かっていません。初期の遺伝子操作がずっと変わっていないだけかもしれません。</Muffalo.description>
+  <Muffalo.description>この群れで暮らす大型の草食獣は､水牛を祖先とし､温暖な気候と寒冷な気候の両方に適応しています｡怒らせると極めて危険ですが､手懐けたマッファローは本当に従順で､駄載獣として使役できます｡\n\nなぜマッファローが青いのか､確かなことは分かっていません｡初期の遺伝子操作がずっと変わっていないだけかもしれません｡</Muffalo.description>
   <!-- EN: head -->
   <Muffalo.tools.head.label>頭部</Muffalo.tools.head.label>
   <!-- EN: left hoof -->

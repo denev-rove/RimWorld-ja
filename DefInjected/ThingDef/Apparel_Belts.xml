@@ -4,11 +4,11 @@
   <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>障壁ベルト</Apparel_ShieldBelt.label>
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
-  <Apparel_ShieldBelt.description>対投射物斥力装置です。飛来する投射物や榴弾の破片を食い止めようとします。白兵戦や熱による攻撃に対しては無力です。障壁は着用者が発砲する銃弾をも妨げてしまいます。EMP(電磁パルス)攻撃を受けると即座に機能停止します。</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>対投射物斥力装置です｡飛来する投射物や榴弾の破片を食い止めようとします｡白兵戦や熱による攻撃に対しては無力です｡障壁は着用者が発砲する銃弾をも妨げてしまいます｡EMP(電磁パルス)攻撃を受けると即座に機能停止します｡</Apparel_ShieldBelt.description>
   
   <!-- EN: smokepop belt -->
   <Apparel_SmokepopBelt.label>煙幕ベルト</Apparel_SmokepopBelt.label>
   <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>使い捨ての自動展張する防御用スモークスクリーンです。着用者に投射物が命中すると煙幕を張り、飛来する銃弾や砲塔からの狙いを妨げます。</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>使い捨ての自動展張する防御用スモークスクリーンです｡着用者に投射物が命中すると煙幕を張り､飛来する銃弾や砲塔からの狙いを妨げます｡</Apparel_SmokepopBelt.description>
   
 </LanguageData>

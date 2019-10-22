@@ -6,7 +6,7 @@
   <!-- EN: A group of turrets. -->
   <Turrets.description>砲塔群</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>このエリアには敵の砲塔があります。</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>このエリアには敵の砲塔があります｡</Turrets.arrivedLetter>
   <!-- EN: {0} defend the site -->
   <Turrets.descriptionDialogue>この地は {0}が 守りを 固めて いる</Turrets.descriptionDialogue>
   

@@ -4,106 +4,106 @@
   <!-- EN: beer brewing -->
   <Brewing.label>ビール醸造</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>ホップを旨い旨いビールに変えるための醸造台や発酵樽を設置します。</Brewing.description>
+  <Brewing.description>ホップを旨い旨いビールに変えるための醸造台や発酵樽を設置します｡</Brewing.description>
   
   <!-- EN: carpet making -->
   <CarpetMaking.label>絨毯織り</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>布を織って美しい絨毯を作ります。</CarpetMaking.description>
+  <CarpetMaking.description>布を織って美しい絨毯を作ります｡</CarpetMaking.description>
   
   <!-- EN: cocoa -->
   <Cocoa.label>ココア</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>ココアの木を植えて、おいしいチョコレートを作ります。チョコレートを食べれば娯楽の欲求が満たされます。市場でも貴重な品です。</Cocoa.description>
+  <Cocoa.description>ココアの木を植えて､おいしいチョコレートを作ります｡チョコレートを食べれば娯楽の欲求が満たされます｡市場でも貴重な品です｡</Cocoa.description>
   
   <!-- EN: complex clothing -->
   <ComplexClothing.label>手の込んだ衣類</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>ズボン、カウボーイハット、ダスターコートのような手の込んだ衣類を縫製します。</ComplexClothing.description>
+  <ComplexClothing.description>ズボン､カウボーイハット､ダスターコートのような手の込んだ衣類を縫製します｡</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>手の込んだ家具</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>ベッドや食卓、肘掛け椅子、箪笥、工具整理棚、換気口、ポーカー卓、ビリヤード台、棺桶といった手の込んだ家具を作ります。</ComplexFurniture.description>
+  <ComplexFurniture.description>ベッドや食卓､肘掛け椅子､箪笥､工具整理棚､換気口､ポーカー卓､ビリヤード台､棺桶といった手の込んだ家具を作ります｡</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
   <Devilstrand.label>デビルストランド</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>植物のデビルストランドは非常に成長の遅いキノコです。特に丈夫で熱に強い植物繊維を生み出します。</Devilstrand.description>
+  <Devilstrand.description>植物のデビルストランドは非常に成長の遅いキノコです｡特に丈夫で熱に強い植物繊維を生み出します｡</Devilstrand.description>
   
   <!-- EN: drug production -->
   <DrugProduction.label>ドラッグ製造</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>基礎的なドラッグの合成を行うドラッグ合成台を設置します。特定のドラッグの製造には更なる研究が必要です。</DrugProduction.description>
+  <DrugProduction.description>基礎的なドラッグの合成を行うドラッグ合成台を設置します｡特定のドラッグの製造には更なる研究が必要です｡</DrugProduction.description>
   
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>ゴージュースを製造します。戦闘力を増進させる合成麻薬で、射撃能力、白兵戦能力、運動能力、痛みへの耐性などが向上します。</GoJuiceProduction.description>
+  <GoJuiceProduction.description>ゴージュースを製造します｡戦闘力を増進させる合成麻薬で､射撃能力､白兵戦能力､運動能力､痛みへの耐性などが向上します｡</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
   <Greatbow.label>大型弓</Greatbow.label>
   <!-- EN: Craft greatbows for killing enemies at great range. -->
-  <Greatbow.description>遠距離から敵を射殺す大型弓を作ります。</Greatbow.description>
+  <Greatbow.description>遠距離から敵を射殺す大型弓を作ります｡</Greatbow.description>
   
   <!-- EN: long blades -->
   <LongBlades.label>長剣</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>長剣と槍を作ります。</LongBlades.description>
+  <LongBlades.description>長剣と槍を作ります｡</LongBlades.description>
   
   <!-- EN: passive cooler -->
   <PassiveCooler.label>気化熱クーラー</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
-  <PassiveCooler.description>電気を使わずに屋内空間を冷却できる、気化熱クーラーを作製します。</PassiveCooler.description>
+  <PassiveCooler.description>電気を使わずに屋内空間を冷却できる､気化熱クーラーを作製します｡</PassiveCooler.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>ペミカン</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>ペミカンを作ります。ペミカンとは肉と植物を混ぜ合わせた保存食で、長期間悪くなることがありません。旅に最適です。</Pemmican.description>
+  <Pemmican.description>ペミカンを作ります｡ペミカンとは肉と植物を混ぜ合わせた保存食で､長期間悪くなることがありません｡旅に最適です｡</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>ペノキシリン製造</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>ペノキシリンを製造します。病気の予防薬で、マラリア、ペストなどの感染を防止します。</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>ペノキシリンを製造します｡病気の予防薬で､マラリア､ペストなどの感染を防止します｡</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
   <PlateArmor.label>プレートアーマー</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>金属や木材から全身鎧を作ります。この重い鎧は、著しく歩みを遅くしますが、とても効果的に身を守ります。</PlateArmor.description>
+  <PlateArmor.description>金属や木材から全身鎧を作ります｡この重い鎧は､著しく歩みを遅くしますが､とても効果的に身を守ります｡</PlateArmor.description>
   
   <!-- EN: psychite refining -->
   <PsychiteRefining.label>サイカイト精製</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
-  <PsychiteRefining.description>サイコイドの葉から、フレークやイェイョといった多幸感をもたらす数種類のドラッグを精製します。</PsychiteRefining.description>
+  <PsychiteRefining.description>サイコイドの葉から､フレークやイェイョといった多幸感をもたらす数種類のドラッグを精製します｡</PsychiteRefining.description>
   
   <!-- EN: psychoid brewing -->
   <PsychoidBrewing.label>サイコイド抽出</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
-  <PsychoidBrewing.description>サイコイドの葉を焚き火やコンロで煎じて、穏やかな多幸感をもたらす常習性のあるお茶を淹れます。</PsychoidBrewing.description>
+  <PsychoidBrewing.description>サイコイドの葉を焚き火やコンロで煎じて､穏やかな多幸感をもたらす常習性のあるお茶を淹れます｡</PsychoidBrewing.description>
   
   <!-- EN: recurve bow -->
   <RecurveBow.label>リカーブボウ</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
-  <RecurveBow.description>リカーブボウを作製します。高性能で費用の掛からない遠距離武器です。</RecurveBow.description>
+  <RecurveBow.description>リカーブボウを作製します｡高性能で費用の掛からない遠距離武器です｡</RecurveBow.description>
   
   <!-- EN: smithing -->
   <Smithing.label>鍛造</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>ナイフ、グラディウス、メイスなどの金属武器を作る鍛造台を設置します。金属は清潔で美しい床材としても役立ちます。</Smithing.description>
+  <Smithing.description>ナイフ､グラディウス､メイスなどの金属武器を作る鍛造台を設置します｡金属は清潔で美しい床材としても役立ちます｡</Smithing.description>
   
   <!-- EN: stonecutting -->
   <Stonecutting.label>石切り</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>岩の塊から、建設資材として使える石材を切り出します。美しい石畳や、不格好なコンクリート歩道を敷設します。</Stonecutting.description>
+  <Stonecutting.description>岩の塊から､建設資材として使える石材を切り出します｡美しい石畳や､不格好なコンクリート歩道を敷設します｡</Stonecutting.description>
   
   <!-- EN: tree sowing -->
   <TreeSowing.label>植林</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
-  <TreeSowing.description>その気候帯に自生する樹木を植えます。</TreeSowing.description>
+  <TreeSowing.description>その気候帯に自生する樹木を植えます｡</TreeSowing.description>
   
   <!-- EN: wake-up production -->
   <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>ウェイクアップの合成を行います。作業能率を向上させ、睡眠の欲求を解消するドラッグです。</WakeUpProduction.description>
+  <WakeUpProduction.description>ウェイクアップの合成を行います｡作業能率を向上させ､睡眠の欲求を解消するドラッグです｡</WakeUpProduction.description>
   
 </LanguageData>

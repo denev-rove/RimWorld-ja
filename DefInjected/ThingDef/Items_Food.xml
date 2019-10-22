@@ -4,36 +4,36 @@
   <!-- EN: kibble -->
   <Kibble.label>ペットフード</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>材料の肉と野菜を混ぜ合わせて作る、動物用の飼料です。人間が食べることもできますが、本当にマジで口に合わないです。</Kibble.description>
+  <Kibble.description>材料の肉と野菜を混ぜ合わせて作る､動物用の飼料です｡人間が食べることもできますが､本当にマジで口に合わないです｡</Kibble.description>
   
   <!-- EN: fine meal -->
   <MealFine.label>美味しい食事</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>豊富な種類の食材を丁寧に調理して作られた、手の込んだ一品です。</MealFine.description>
+  <MealFine.description>豊富な種類の食材を丁寧に調理して作られた､手の込んだ一品です｡</MealFine.description>
   
   <!-- EN: lavish meal -->
   <MealLavish.label>豪華な食事</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>料理という芸術の最高傑作です。身も心も、そして魂までも癒します。</MealLavish.description>
+  <MealLavish.description>料理という芸術の最高傑作です｡身も心も､そして魂までも癒します｡</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>栄養ペースト</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>蛋白質、炭水化物、ビタミン、アミノ酸、ミネラルをバランスよく配合した食品です。必要な栄養素は全て含まれていますが、うんざりするほど不味いです。</MealNutrientPaste.description>
+  <MealNutrientPaste.description>蛋白質､炭水化物､ビタミン､アミノ酸､ミネラルをバランスよく配合した食品です｡必要な栄養素は全て含まれていますが､うんざりするほど不味いです｡</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
   <MealSimple.label>簡単な食事</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>一種類の食材から手早く作られた、簡単な食事です。</MealSimple.description>
+  <MealSimple.description>一種類の食材から手早く作られた､簡単な食事です｡</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
   <MealSurvivalPack.label>非常用食品</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>高品質の密封食品で、非常時の利用を想定して作られています。腐敗しませんが、野外に放置すれば劣化します。旅に最適です。</MealSurvivalPack.description>
+  <MealSurvivalPack.description>高品質の密封食品で､非常時の利用を想定して作られています｡腐敗しませんが､野外に放置すれば劣化します｡旅に最適です｡</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>ペミカン</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>脂肪と植物を混ぜ合わせて、すり潰した保存食です。風味は乏しいですが、まずくはありません。常温で非常に長い期間、保存できます。旅に最適です。</Pemmican.description>
+  <Pemmican.description>脂肪と植物を混ぜ合わせて､すり潰した保存食です｡風味は乏しいですが､まずくはありません｡常温で非常に長い期間､保存できます｡旅に最適です｡</Pemmican.description>
   
 </LanguageData>

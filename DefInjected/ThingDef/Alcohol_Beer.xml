@@ -4,7 +4,7 @@
   <!-- EN: beer -->
   <Beer.label>ビール</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>水を別にすれば、人類において初めて消費された飲料です。ビールはとてもおいしいですが、主な効能は酔っ払うことです。過度の飲酒は急性アルコール中毒を引き起こし、やがて依存症に繋がります。</Beer.description>
+  <Beer.description>水を別にすれば､人類において初めて消費された飲料です｡ビールはとてもおいしいですが､主な効能は酔っ払うことです｡過度の飲酒は急性アルコール中毒を引き起こし､やがて依存症に繋がります｡</Beer.description>
   <!-- EN: Drink {0} -->
   <Beer.ingestible.ingestCommandString>{0}を 飲む</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
@@ -17,6 +17,6 @@
   <!-- EN: wort -->
   <Wort.label>麦汁</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>発酵する前のビールです。この原料を発酵樽の中で発酵させれば、飲める状態のビールになります。</Wort.description>
+  <Wort.description>発酵する前のビールです｡この原料を発酵樽の中で発酵させれば､飲める状態のビールになります｡</Wort.description>
   
 </LanguageData>

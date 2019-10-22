@@ -13,7 +13,7 @@
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
-  <CannotDoThisWork>{1_labelShort}は、この作業ができません。</CannotDoThisWork>
+  <CannotDoThisWork>{1_labelShort}は､この作業ができません｡</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>（なし）</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
@@ -57,7 +57,7 @@
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>この生物は肉食獣です。空腹になれば、小動物を襲います。…あるいは、人間も。</IsPredator>
+  <IsPredator>この生物は肉食獣です｡空腹になれば､小動物を襲います｡…あるいは､人間も｡</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -155,6 +155,6 @@
   <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>研究時間の倍率</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>コロニーの技術水準により、プロジェクトの研究時間 {0}は 最終的に {1}に なりました。</ResearchCostComparison>
+  <ResearchCostComparison>コロニーの技術水準により､プロジェクトの研究時間 {0}は 最終的に {1}に なりました｡</ResearchCostComparison>
   
 </LanguageData>

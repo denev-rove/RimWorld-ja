@@ -8,12 +8,12 @@
   <FollowFieldwork.headerTip>野外活動中の主人に追従する / しない （狩猟や手懐け中）</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>選択した野生動物を獲物として仕留めて持ち帰ります。 狩猟の作業を割り当てた入植者が自動で戦闘を行います。</Hunt.headerTip>
+  <Hunt.headerTip>選択した野生動物を獲物として仕留めて持ち帰ります｡ 狩猟の作業を割り当てた入植者が自動で戦闘を行います｡</Hunt.headerTip>
   
   <!-- EN: Slaughter -->
   <Slaughter.headerTip>屠殺する</Slaughter.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>選択した野生動物を手懐けます。 畜産の作業を割り当てた入植者が自動で手懐けに向かいます。</Tame.headerTip>
+  <Tame.headerTip>選択した野生動物を手懐けます｡ 畜産の作業を割り当てた入植者が自動で手懐けに向かいます｡</Tame.headerTip>
   
 </LanguageData>

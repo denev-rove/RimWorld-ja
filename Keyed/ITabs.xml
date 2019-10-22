@@ -57,7 +57,7 @@
   <!-- EN: Plant -->
   <PlantVerb>植物</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>ここには貼り付けできません。</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>ここには貼り付けできません｡</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>上へ</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -159,7 +159,7 @@
   <!-- EN: Self-tend -->
   <SelfTend>自己治療</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>自己治療を有効にすると、通常の{1}の効率で自分自身を治療します。</SelfTendTip>
+  <SelfTendTip>自己治療を有効にすると､通常の{1}の効率で自分自身を治療します｡</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -195,9 +195,9 @@
   <!-- EN: Trainability -->
   <Trainability>調教適正</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>{0} 以上の調教適正が必要です。</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>{0} 以上の調教適正が必要です｡</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>この調教をするには体格が足りません。</CannotTrainTooSmall>
+  <CannotTrainTooSmall>この調教をするには体格が足りません｡</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>前提となる調教: {0}</TrainingNeedsPrerequisite>
