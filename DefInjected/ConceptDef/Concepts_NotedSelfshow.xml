@@ -67,9 +67,9 @@
   <ForbiddingDoors.helpText>扉は通り抜け禁止にすることができます.入植者と家畜は禁止された扉を通らなくなります.\n\nこれは扉の施錠とは違うという点に留意してください.扉は常に施錠されているので,侵入者は自由に通ることは出来ません. 通り抜け禁止とは,単に入植者に対して,扉を使わないように通告することです. 気が狂った入植者は,どうしても扉を使うかもしれません.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
-  <FormCaravan.label>キャラバン隊を編成</FormCaravan.label>
+  <FormCaravan.label>キャラバン隊を結成</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>惑星を横断して移動するキャラバン隊を編成することができます!\n\n「世界地図」タブから,あなたの本拠地をクリックして,"キャラバン隊を編成" ボタンを押します.</FormCaravan.helpText>
+  <FormCaravan.helpText>惑星を横断して移動するキャラバン隊を結成することができます!\n\n｢世界地図｣タブから,あなたの本拠地をクリックして,"キャラバン隊を結成"ボタンを押します.</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>味方の誤射から守る</FriendlyFireSafety.label>

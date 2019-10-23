@@ -201,13 +201,13 @@
   <!-- EN: {0} effect multiplier: {1} -->
   <DrugEffectMultiplier>{0}薬効の倍率: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>{0}を目指している</CaravanVisiting>
+  <CaravanVisiting>{0}を訪れている</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>{0}を訪問している</CaravanEntering>
+  <CaravanEntering>{0}を目指している</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>{0}を襲撃している</CaravanAttacking>
+  <CaravanAttacking>{0}へ進軍している</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れている</CaravanOfferingGifts>
+  <CaravanOfferingGifts>{0}へ貢ぎ物を届けている</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>死体が着用していた遺品のため､穢れています｡</WasWornByCorpse>
   <!-- EN: T -->
@@ -223,7 +223,7 @@
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>出発まで あと{0}</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>入植者たちは自動的にキャラバン隊を再編成して､{0}後に､この地を離れます｡</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>入植者たちは自動的にキャラバン隊を再結成して､{0}後に､この地を離れます｡</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -507,7 +507,7 @@
   <!-- EN: Attending party -->
   <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>キャラバン隊を編成中</LordReportFormingCaravan>
+  <LordReportFormingCaravan>キャラバン隊を結成中</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -963,7 +963,7 @@
   <!-- EN: Burning -->
   <ActivityIconBurning>火だるま</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>キャラバン隊編成中</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>キャラバン隊を結成中</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
@@ -1017,7 +1017,7 @@
   <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: ナビモードを抜ける</RoutePlannerPressEscapeToExit>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: キャラバン隊編成ダイアログに戻る</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: キャラバン隊の結成画面に戻る</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>推定所要時間: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->

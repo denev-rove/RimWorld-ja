@@ -67,9 +67,9 @@
   <QueueOrders.helpText>入植者に命令を与えるときに,"シフトキー"を押していると,複数の命令をキューに積むことができます.</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>キャラバン隊の再編成</ReformCaravan.label>
+  <ReformCaravan.label>キャラバン隊を再結成</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>今すぐキャラバン隊を再出発させたければ,世界地図で「キャラバン隊を再編成」を選んで,キャラバン隊を送り出すことができます.</ReformCaravan.helpText>
+  <ReformCaravan.helpText>今すぐキャラバン隊を再出発させたければ,世界地図で｢キャラバン隊を再結成｣を選んで,キャラバン隊を送り出すことができます.</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
   <Rescuing.label>救出する</Rescuing.label>

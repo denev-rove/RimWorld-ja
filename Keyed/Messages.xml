@@ -237,14 +237,14 @@
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>{0}はキャラバン隊から外されました｡</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成が完了しました｡</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の結成が完了しました｡</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>キャラバン隊の編成は全員が精神崩壊から回復したとき再開されます｡</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>キャラバン隊の結成は､隊員の全員が精神崩壊から回復したとき再開されます｡</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>入植者たちは今からキャラバン隊の編成を再開します｡</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>入植者たちは､今からキャラバン隊の結成を再開します｡</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊しました｡</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊の隊員が精神崩壊しました｡</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
   <MessageMaxPlanetCoveragePerformanceWarning>警告: 惑星データの生成に非常に長い処理時間を要します｡</MessageMaxPlanetCoveragePerformanceWarning>
@@ -272,7 +272,7 @@
   <MessageCaravanArrivedAtDestination>{0}は目的地に到着しました｡</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}はキャラバン隊を編成してこのエリアを後にしました｡</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}はキャラバン隊を結成してこのエリアを後にしました｡</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>家畜たちが合流するために移動しています｡</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
@@ -317,7 +317,7 @@
   <MessageTransportPodsDestinationIsTooFar>それぞれのポッド発射台は､輸送ポッドを飛ばすために少なくとも燃料 x{0}を必要とします｡</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>キャラバン隊を再編成しました｡</MessageReformedCaravan>
+  <MessageReformedCaravan>キャラバン隊を再結成しました｡</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>最後の一人を追放することはできません｡</MessageCantBanishLastColonist>
@@ -334,13 +334,13 @@
   <MessageCaravanRanOutOfFood>{0}は 食料を食べ尽くしました({PAWN_label})｡</MessageCaravanRanOutOfFood>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには､自身の拠点か､入植者が居る地点を選択してください｡</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>キャラバン隊を結成するには､自身の拠点か､入植者が居る地点を選択してください｡</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>この解像度とUI拡大率ではゲームインターフェースがはみ出してしまいます｡UI拡大率を下げるか解像度を上げてください｡</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>今すぐキャラバン隊を再編成しなければなりません｡残されたものは全て置き去りとなるでしょう｡</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>今すぐキャラバン隊を再結成しなければなりません｡残されたものは全て置き去りとなるでしょう｡</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{1}の{0}は､あなたの{2}を襲撃しています｡</MessageDefendersAttacking>
@@ -363,9 +363,9 @@
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません｡処刑を実行できませんでした｡</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました｡あと{0}で､キャラバン隊は自動的に再編成されます｡</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました｡あと{0}で､キャラバン隊は自動的に再結成されます｡</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>あと{0}でキャラバン隊は自動的に再編成されます｡世界地図から直ちに再編成することもできます｡</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>あと{0}で､キャラバン隊は自動的に再結成されます｡世界地図から直ちに再結成することもできます｡</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>{1_labelShort}は自力で歩けないため､追放できません｡</MessageCantBanishDownedPawn>
@@ -423,7 +423,7 @@
   <MessageCraftedMasterwork>{WORKER_labelShort}は{CRAFTED_labelShort}を作りました｡</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには､世界地図から「キャラバン隊の再編成」ボタンを使います｡</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには､世界地図から｢キャラバン隊を再結成｣ボタンを使います｡</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>このマップから離れることができません｡</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
@@ -469,7 +469,7 @@
   <MessageCantGiveGiftBecauseCantCarry>キャラバン隊はこれ以上運ぶことはできません｡贈り物の重量は{0}ですが､荷物の空きはあと{1}です｡</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>{0}は編成を終えて､現在は世界地図上を旅しています｡</MessageFormedCaravan>
+  <MessageFormedCaravan>{0}はキャラバン隊の結成を終えて､現在は世界地図上を旅しています｡</MessageFormedCaravan>
   <!-- EN: Orders -->
   <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
 

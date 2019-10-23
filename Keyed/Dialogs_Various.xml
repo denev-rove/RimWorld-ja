@@ -481,23 +481,23 @@
   <!-- EN: Negotiator -->
   <Negotiator>交渉人</Negotiator>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>あなたの交渉人{1_labelShort}は健康上の理由により､きちんと話すことができません｡</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>あなたの交渉人{1_labelShort}は健康上の理由により､きちんと聞くことができません｡</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう｡\n\nもっと健康な交渉人を立てることをお勧めします｡</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>取引相手の手持ちのシルバーが足りないため､十分な対価を受け取れません｡それでも取引しますか？</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>並び替え</SortBy>
   <!-- EN: trader type -->
-  <TraderTypePrice>交易種別</TraderTypePrice>
+  <TraderTypePrice>商人の種別</TraderTypePrice>
   <!-- EN: selling -->
   <Selling>売り</Selling>
   <!-- EN: buying -->
   <Buying>買い</Buying>
   <!-- EN: item sell price multiplier -->
-  <ItemSellPriceFactor>売り手 掛け率</ItemSellPriceFactor>
+  <ItemSellPriceFactor>品目による倍率</ItemSellPriceFactor>
   <!-- EN: difficulty level -->
   <DifficultyLevel>難易度</DifficultyLevel>
   <!-- EN: global post-process curve -->
@@ -523,9 +523,9 @@
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <FormCaravan>キャラバン隊を編成</FormCaravan>
+  <FormCaravan>キャラバン隊を結成</FormCaravan>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>キャラバン隊に編成できる頭数です｡</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>キャラバン隊が持ち出せる在庫数です｡</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>入植者と家畜</PawnsTab>
   <!-- EN: Items -->
@@ -573,7 +573,7 @@
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
   <CaravanIncapableOfSocial>キャラバン隊の中に､外交や取引ができる者がいません｡</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>このキャラバン隊を編成して本当によろしいですか？</CaravanAreYouSure>
+  <CaravanAreYouSure>このキャラバン隊を結成して本当によろしいですか？</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>まずキャラバン隊の経路を選択してください｡</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
@@ -607,7 +607,7 @@
   <!-- EN: Your colonists will now gather the items and leave the area. -->
   <CaravanFormationProcessStarted>入植者たちは､積み荷を集めてこのエリアを離れようとしています｡</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
-  <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
+  <ReformCaravan>キャラバン隊の再結成</ReformCaravan>
   <!-- EN: Colonists -->
   <ColonistsSection>入植者</ColonistsSection>
   <!-- EN: Prisoners -->

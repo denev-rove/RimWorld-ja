@@ -140,7 +140,7 @@
   </CaravanFled.rulePack.rulesStrings>
   
   <!-- EN: caravan formed -->
-  <CaravanFormed.label>キャラバン隊の編成</CaravanFormed.label>
+  <CaravanFormed.label>キャラバン隊の結成</CaravanFormed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
     <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
@@ -162,7 +162,7 @@
   -->
   <CaravanFormed.rulePack.rulesStrings>
     <li>tale_noun->冒険に旅立つ[PAWN_nameDef]</li>
-    <li>tale_noun->キャラバン隊を編成する[PAWN_nameDef]</li>
+    <li>tale_noun->キャラバン隊を結成する[PAWN_nameDef]</li>
     <li>image->[circumstance_group]目的を持って大股で歩き出す[PAWN_nameDef]</li>
     <li>image->[circumstance_group]水平線の向こうへ視線をやる[PAWN_nameDef]</li>
     <li>image->[circumstance_group]旅の準備のために荷造りをする[PAWN_nameDef]</li>

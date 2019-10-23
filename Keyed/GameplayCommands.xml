@@ -286,15 +286,15 @@
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
+  <CommandFormCaravan>キャラバン隊を結成</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>新たなエリアへ旅立つため､入植者でキャラバン隊を編成します｡選ばれた入植者たちは､指定の積み荷と連れて行く家畜を集めてこのエリアを出たあと､次の命令を待ちます｡</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>新たなエリアへ旅立つため､入植者でキャラバン隊を結成します｡隊員に選ばれた入植者たちは､指定した積み荷と家畜を集めてこのエリアを出たあと､次の命令を待ちます｡</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>キャラバン隊を再編成</CommandReformCaravan>
+  <CommandReformCaravan>キャラバン隊を再結成</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>キャラバン隊の人員を変更します｡選ばれた入植者たちはこのエリアを出たあと､次の指示を待ちます｡</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>キャラバン隊を再び結成します｡隊員に選ばれた入植者たちは､このエリアを出て次の指示を待ちます｡</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>まだ､このエリアには敵が存在します｡</CommandReformCaravanFailHostilePawns>
   
@@ -336,9 +336,9 @@
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>キャラバン隊 編成の中止</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>キャラバン隊 結成の中止</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>キャラバン隊の編成作業を中止します｡</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>キャラバン隊の結成作業を中止します｡</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->

@@ -268,7 +268,7 @@
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>拠点破壊</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
-  <LetterFactionBaseDefeated>敵の拠点である{0}を破壊しました｡\n\nあと{1}で､キャラバン隊は自動的に再編成されます｡世界地図から破壊した拠点を選び､ただちに再編成することもできます｡</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>敵の拠点である{0}を破壊しました｡\n\nあと{1}で､キャラバン隊は自動的に再結成されます｡世界地図から破壊した拠点を選び｢キャラバン隊を再結成｣すれば､ただちに再結成することもできます｡</LetterFactionBaseDefeated>
   <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
   <LetterFactionBaseDefeated_FactionDestroyed>ここが{0}の最後の砦でした｡つまり､この派閥はもう何処にも居ません｡</LetterFactionBaseDefeated_FactionDestroyed>
   
@@ -366,13 +366,13 @@
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>キャラバン隊勝利</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
-  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました｡\n\n世界地図からこの戦場を選び"キャラバン隊の再編成"を実行すれば､すぐに出発できます｡\n\n物資の収集を自分で行う必要はありません｡キャラバン隊を再編成すれば自動的に完了します｡\n\nあと{0}で､キャラバン隊は自動的に再編成されます｡</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました｡\n\n世界地図からこの戦場を選び｢キャラバン隊を再結成｣すれば､すぐに出発できます｡\n\n物資の積み込みを自分で行う必要はありません｡キャラバン隊を再結成すれば自動的に完了します｡\n\nあと{0}で､キャラバン隊は自動的に再結成されます｡</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>要救助者の参加</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>{PAWN_nameDef}を救出すると､我々の仲間に加わってくれました｡\n\n世界地図からこの場所を選び"キャラバン隊の再編成"を行うことで､{PAWN_objective}連れて行くことができます｡</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>{PAWN_nameDef}を救出すると､我々の仲間に加わってくれました｡\n\n世界地図からこの場所を選び｢キャラバン隊を再結成｣すれば､{PAWN_objective}連れて行くことができます｡</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
