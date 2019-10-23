@@ -15,17 +15,34 @@
     <li>destroyed_past->detonated</li>
   -->
   <Damage_Bomb.rulePack.rulesStrings>
-    <li>damaged_past(p=2)->爆発に巻き込んだ</li>
-    <li>damaged_past(p=2)->爆裂に巻き込んだ</li>
-    <li>damaged_past->怪我させた</li>
-    <li>damaged_past->傷つけて,ダメージを負わせた</li>
-    <li>damaged_past->傷つけた</li>
-    <li>damaged_past->傷つけた</li>
+    <li>damaged_past(p=2)->巻き込んだ</li>
+    <li>damaged_past(p=2)->巻き添えにした</li>
+    <li>damaged_past->飲み込んだ</li>
+    <li>damaged_past->負傷させた</li>
+    <li>damaged_past->痛め付けた</li>
+    <li>damaged_past->傷付けた</li>
+    <li>damaged_passive->負傷した</li>
+    <li>damaged_passive->傷付いた</li>
+    <li>damaged_passive->痛め付けられた</li>
+    <li>damaged_passive->傷を負った</li>
     <li>destroyed_past->粉々にした</li>
-    <li>destroyed_past->砕いた</li>
-    <li>destroyed_past->完全に粉砕した</li>
-    <li>destroyed_past->ダメにした</li>
-    <li>destroyed_past->壊した</li>
+    <li>destroyed_past->粉砕した</li>
+    <li>destroyed_past->消し飛ばした</li>
+    <li>destroyed_past->葬り去った</li>
+    <li>destroyed_past->完全に破壊した</li>
+    <li>destroyed_past->粉微塵にした</li>
+    <li>destroyed_past->細切れにした</li>
+    <li>destroyed_past->ばらばらにした</li>
+    <li>destroyed_past->吹き飛ばした</li>
+    <li>destroyed_passive->粉々になった</li>
+    <li>destroyed_passive->粉砕された</li>
+    <li>destroyed_passive->消し飛んだ</li>
+    <li>destroyed_passive->葬り去られた</li>
+    <li>destroyed_passive->完全に破壊された</li>
+    <li>destroyed_passive->粉微塵になった</li>
+    <li>destroyed_passive->細切れになった</li>
+    <li>destroyed_passive->ばらばらになった</li>
+    <li>destroyed_passive->吹き飛んだ</li>
   </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
@@ -36,9 +53,13 @@
   -->
   <Damage_EMP.rulePack.rulesStrings>
     <li>damaged_past->感電させた</li>
-    <li>damaged_past->感電させて電気ショックを与えた</li>
-    <li>damaged_past->感電させて打ちのめした</li>
+    <li>damaged_past->電気ショックを与えた</li>
+    <li>damaged_past->痺れさせた</li>
     <li>destroyed_past->[damaged_past]</li>
+    <li>damaged_passive->感電した</li>
+    <li>damaged_passive->電気ショックを受けた</li>
+    <li>damaged_passive->痺れた</li>
+    <li>destroyed_passive->[damaged_passive]</li>
   </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
@@ -50,10 +71,19 @@
   -->
   <Damage_Extinguish.rulePack.rulesStrings>
     <li>damaged_past->消火した</li>
-    <li>damaged_past->水浸しで消した</li>
-    <li>damaged_past->泡で消した</li>
-    <li>damaged_past->消火した</li>
+    <li>damaged_past->水浸しにした</li>
+    <li>damaged_past->泡だらけにした</li>
+    <li>damaged_past->鎮火させた</li>
     <li>destroyed_past->[damaged_past]</li>
+    <li>damaged_passive->消火された</li>
+    <li>damaged_passive->水浸しになった</li>
+    <li>damaged_passive->泡だらけになった</li>
+    <li>damaged_passive->鎮火した</li>
+    <li>destroyed_passive->[damaged_passive]</li>
+    <li>extinguished_passive->消火された</li>
+    <li>extinguished_passive->水浸しになった</li>
+    <li>extinguished_passive->泡だらけになった</li>
+    <li>extinguished_passive->鎮火した</li>
   </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
@@ -91,38 +121,54 @@
     <li>destroyed_present->detonating</li>
   -->
   <Damage_Flame.rulePack.rulesStrings>
-    <li>damaged_past(p=2)->吹き飛ばした</li>
+    <li>damaged_past(p=2)->炎上させた</li>
     <li>damaged_past(p=2)->焼き焦がした</li>
-    <li>damaged_past(p=2)->焼いた</li>
-    <li>damaged_past(p=2)->焼き爛れさせた</li>
-    <li>damaged_past(p=2)->火で覆った</li>
-    <li>damaged_past(p=2)->火傷で傷を負わせた</li>
-    <li>damaged_past->怪我させた</li>
-    <li>damaged_past->傷でダメージを負わせた</li>
-    <li>damaged_past->傷つけた</li>
-    <li>damaged_past->傷つけた</li>
-    <li>damaged_present(p=2)->吹き飛ばしている</li>
-    <li>damaged_present(p=2)->焼き焦がしている</li>
-    <li>damaged_present(p=2)->焼いている</li>
-    <li>damaged_present(p=2)->焼き爛れさせている</li>
-    <li>damaged_present(p=2)->火で覆っている</li>
-    <li>damaged_present(p=2)->火傷で傷を負わせている</li>
-    <li>damaged_present->怪我させている</li>
-    <li>damaged_present->傷でダメージを受けさせている</li>
-    <li>damaged_present->傷つけている</li>
-    <li>damaged_present->傷つけている</li>
-    <li>destroyed_past->燃やした</li>
-    <li>destroyed_past->焼いて灰にした</li>
+    <li>damaged_past(p=2)->燃やした</li>
+    <li>damaged_past(p=2)->燃え立たせた</li>
+    <li>damaged_past->こんがりと焼いた</li>
+    <li>damaged_past->負傷させた</li>
+    <li>damaged_past->傷付けた</li>
+    <li>damaged_past->高熱で炙った</li>
+<!--
+    <li>damaged_present(p=2)->blasting</li>
+    <li>damaged_present(p=2)->scorching</li>
+    <li>damaged_present(p=2)->burning</li>
+    <li>damaged_present(p=2)->blistering</li>
+    <li>damaged_present(p=2)->igniting</li>
+    <li>damaged_present(p=2)->searing</li>
+    <li>damaged_present->injuring</li>
+    <li>damaged_present->damaging</li>
+    <li>damaged_present->wounding</li>
+    <li>damaged_present->hurting</li>
+-->
+    <li>damaged_passive(p=2)->炎上した</li>
+    <li>damaged_passive(p=2)->焼け焦げた</li>
+    <li>damaged_passive(p=2)->燃え上がった</li>
+    <li>damaged_passive(p=2)->燃え立った</li>
+    <li>damaged_passive->こんがりと焼けた</li>
+    <li>damaged_passive->負傷した</li>
+    <li>damaged_passive->傷付いた</li>
+    <li>damaged_passive->炙られた</li>
+    <li>destroyed_past->焼却した</li>
+    <li>destroyed_past->火葬した</li>
     <li>destroyed_past->黒焦げにした</li>
-    <li>destroyed_past->完全に破壊した</li>
-    <li>destroyed_past->ダメにした</li>
-    <li>destroyed_past->爆轟した</li>
-    <li>destroyed_present->燃やしている</li>
-    <li>destroyed_present->焼いて灰にしている</li>
-    <li>destroyed_present->黒焦げにしている</li>
-    <li>destroyed_present->完全に破壊している</li>
-    <li>destroyed_present->ダメにしている</li>
-    <li>destroyed_present->爆轟している</li>
+    <li>destroyed_past->焼き尽くした</li>
+    <li>destroyed_past->灰に変えた</li>
+    <li>destroyed_past->消し炭にした</li>
+<!--
+    <li>destroyed_present->cremating</li>
+    <li>destroyed_present->incinerating</li>
+    <li>destroyed_present->charring</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->detonating</li>
+-->
+    <li>destroyed_passive->焼却された</li>
+    <li>destroyed_passive->火葬された</li>
+    <li>destroyed_passive->黒焦げになった</li>
+    <li>destroyed_passive->焼き尽くされた</li>
+    <li>destroyed_passive->灰と化した</li>
+    <li>destroyed_passive->消し炭になった</li>
   </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
@@ -132,10 +178,19 @@
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Smoke.rulePack.rulesStrings>
-    <li>damaged_past->煙で巻いた</li>
-    <li>damaged_past->霞で包んだ</li>
-    <li>damaged_past->雲で覆い被さった</li>
+    <li>damaged_past->[smokescreen]で包んだ</li>
+    <li>damaged_past->[smokescreen]で覆った</li>
+    <li>damaged_past->[smokescreen]に隠した</li>
     <li>destroyed_past->[damaged_past]</li>
+    <li>damaged_passive->[smokescreen]に包まれた</li>
+    <li>damaged_passive->[smokescreen]に覆われた</li>
+    <li>damaged_passive->[smokescreen]に姿を隠した</li>
+    <li>destroyed_passive->[damaged_passive]</li>
+    <li>smoked_passive->[smokescreen]に包まれた</li>
+    <li>smoked_passive->[smokescreen]に覆われた</li>
+    <li>smoked_passive->[smokescreen]に姿を隠した</li>
+    <li>smokescreen->煙</li>
+    <li>smokescreen->煙幕</li>
   </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
@@ -148,9 +203,20 @@
   <Damage_Stun.rulePack.rulesStrings>
     <li>damaged_past->気絶させた</li>
     <li>damaged_past->混乱させた</li>
-    <li>damaged_past->止めさせた</li>
-    <li>damaged_past->幻惑させた</li>
+    <li>damaged_past->動けなくさせた</li>
+    <li>damaged_past->朦朧とさせた</li>
     <li>destroyed_past->[damaged_past]</li>
+    <li>damaged_passive->気絶した</li>
+    <li>damaged_passive->混乱した</li>
+    <li>damaged_passive->動きが止まった</li>
+    <li>damaged_passive->朦朧とした</li>
+    <li>damaged_passive->目を回した</li>
+    <li>destroyed_passive->[damaged_passive]</li>
+    <li>stuned_passive->気絶した</li>
+    <li>stuned_passive->混乱した</li>
+    <li>stuned_passive->動きが止まった</li>
+    <li>stuned_passive->朦朧とした</li>
+    <li>stuned_passive->目を回した</li>
   </Damage_Stun.rulePack.rulesStrings>
   
 </LanguageData>

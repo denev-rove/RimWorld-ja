@@ -13,7 +13,7 @@
   <Alzheimers.stages.major-1.label>末期</Alzheimers.stages.major-1.label>
   
   <!-- EN: asthma -->
-  <Asthma.label>ぜんそく</Asthma.label>
+  <Asthma.label>喘息</Asthma.label>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>軽度</Asthma.stages.minor.label>
   <!-- EN: major -->
@@ -60,7 +60,7 @@
   <Frail.labelNoun>虚弱</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
-  <HearingLoss.label>聴力損失</HearingLoss.label>
+  <HearingLoss.label>聴力障碍</HearingLoss.label>
   
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>

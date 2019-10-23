@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: arrow -->
-  <Arrow.label>射る</Arrow.label>
+  <Arrow.label>弓矢</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>{0}は射抜かれて死んだ</Arrow.deathMessage>
+  <Arrow.deathMessage>{0}は射られて死にました｡</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>射る</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>弓矢</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>{0}は射貫かれて死んだ</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0}は射られて死にました｡</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet.label>撃つ</Bullet.label>
+  <Bullet.label>銃撃</Bullet.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet.deathMessage>{0}は撃たれて死んだ</Bullet.deathMessage>
+  <Bullet.deathMessage>{0}は撃たれて死にました｡</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>突き刺す</RangedStab.label>
+  <RangedStab.label>刺突</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>{0}は突き刺されて死んだ.</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0}は突き刺されて死にました｡</RangedStab.deathMessage>
   
 </LanguageData>

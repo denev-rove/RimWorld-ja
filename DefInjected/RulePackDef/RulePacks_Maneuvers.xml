@@ -34,37 +34,90 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
   <Maneuver_Bite.rulePack.rulesStrings>
-    <li>damaged_inf->噛む</li>
-    <li>damaged_inf->ムシャムシャ噛む</li>
-    <li>damaged_inf(p=0.5)->噛む</li>
-    <li>damaged_past->噛んだ</li>
-    <li>damaged_past->ムシャムシャ噛んだ</li>
-    <li>damaged_past->噛んだ</li>
-    <li>damaged_past->囓った</li>
-    <li>damaged_past(deflected!=True)->引き裂いた</li>
-    <li>damaged_present->噛んでいる</li>
-    <li>damaged_present->ムシャムシャ噛んでいる</li>
-    <li>damaged_present->噛んでいる</li>
-    <li>damaged_present->囓っている</li>
-    <li>damaged_present(deflected!=True)->引き裂いている</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->容赦なく皮膚に傷を残したまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->容赦なく装甲に傷を残したまま</li>
-    <li>destroyed_past->むさぼり喰った</li>
-    <li>destroyed_past->かみ切った</li>
-    <li>destroyed_past->引き裂いた</li>
-    <li>destroyed_past->破壊した</li>
-    <li>destroyed_present->むさぼり喰っている</li>
-    <li>destroyed_present->かみ切っている</li>
-    <li>destroyed_present->引き裂いている</li>
-    <li>destroyed_present->破壊している</li>
-    <li>destroyed_suffix->細長い破片[to]</li>
+    <li>damaged_inf(p=3)->咬み付く</li>
+    <li>damaged_inf->喰らい付く</li>
+    <li>damaged_inf->齧り付く</li>
+    <li>damaged_inf->咬み砕く</li>
+    <li>damaged_inf->咬み裂く</li>
+    <li>damaged_inf->咬み潰す</li>
+    <li>damaged_inf->咬み千切る</li>
+    <li>damaged_inf->貪り喰う</li>
+    <li>damaged_inf->齧り取る</li>
+    <li>damaged_past(deflected!=True)->咬み裂いた</li>
+    <li>damaged_past(deflected!=True)->咬み砕いた</li>
+    <li>damaged_past(deflected!=True)->咬み潰した</li>
+    <li>damaged_past(deflected!=True)->咬み締めた</li>
+    <li>damaged_past(deflected!=True)->咀嚼した</li>
+    <li>damaged_past(p=0.002)->咬み付いた</li>
+    <li>damaged_past(p=0.001)->喰らい付いた</li>
+    <li>damaged_past(p=0.001)->齧り付いた</li>
+<!--
+    <li>damaged_present->咬み付いている</li>
+    <li>damaged_present(p=0.5)->喰らい付いている</li>
+    <li>damaged_present(p=0.5)->齧り付いている</li>
+    <li>damaged_present(deflected!=True)->咬み砕いている</li>
+    <li>damaged_present(deflected!=True)->咬み裂いている</li>
+-->
+    <li>damaged_and(deflected!=True)->咬み裂いて</li>
+    <li>damaged_and(deflected!=True)->咬み砕き</li>
+    <li>damaged_and(deflected!=True)->咬み潰し</li>
+    <li>damaged_and(deflected!=True)->咬み締め</li>
+    <li>damaged_and(deflected!=True)->咀嚼し</li>
+    <li>damaged_and(p=0.002)->咬み付いて</li>
+    <li>damaged_and(p=0.001)->喰らい付き</li>
+    <li>damaged_and(p=0.001)->齧り付き</li>
+    <li>damaged_passive->咬み付かれ</li>
+    <li>damaged_passive(p=0.5)->喰らい付かれ</li>
+    <li>damaged_passive(p=0.5)->齧り付かれ</li>
+    <li>damaged_passive(p=0.5)->咬み砕かれ</li>
+    <li>damaged_passive(p=0.5)->咬み裂かれ</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->皮膚の下にある肉を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->外皮の下にある組織を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->内部機構を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->皮膚に凄惨な咬み傷を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->外皮に凄惨な咬み傷を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->外装に凄惨な咬み痕を残した</li>
+    <li>destroyed_past->貪り喰った</li>
+    <li>destroyed_past->咬み千切った</li>
+    <li>destroyed_past->齧り取った</li>
+    <li>destroyed_past->粉々に咬み砕いた</li>
+    <li>destroyed_past(p=0.3)->貪り喰って､[destroyed_suffix]にした</li>
+    <li>destroyed_past(p=0.3)->咬み千切って､[destroyed_suffix]にした</li>
+    <li>destroyed_past(p=0.3)->齧り取って､[destroyed_suffix]にした</li>
+    <li>destroyed_past(p=0.3)->咬み砕いて､[destroyed_suffix]にした</li>
+    <li>destroyed_past(p=0.3)->[destroyed_suffix]になるまで咬み砕いた</li>
+<!--
+    <li>destroyed_present->貪り喰っている</li>
+    <li>destroyed_present->咬み千切っている</li>
+    <li>destroyed_present->齧り取っている</li>
+    <li>destroyed_present->粉々に咬み砕いている</li>
+-->
+    <li>destroyed_passive->貪り喰われ</li>
+    <li>destroyed_passive->咬み千切られ</li>
+    <li>destroyed_passive->齧り取られ</li>
+    <li>destroyed_passive->粉々に咬み砕かれ</li>
+    <li>destroyed_passive->[destroyed_suffix]になるまで咬み砕かれ</li>
+    <li>destroyed_suffix->粉々</li>
     <!-- How's his wife holding up? -->
-    <li>destroyed_suffix->一片[to]</li>
-    <li>destroyed_suffix->細長い一片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->見分けられない散乱[to]</li>
+    <li>destroyed_suffix->粉微塵</li>
+    <li>destroyed_suffix->細切れ</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->見るも無惨な細切れ</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->穢らわしい肉片</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->肉片</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid)->金属片</li>
+    <li>attempt_past(p=3)->咬み付いた</li>
+    <li>attempt_past->喰らい付いた</li>
+    <li>attempt_past->齧り付いた</li>
+    <li>attempt_past->咬み砕こうとした</li>
+    <li>attempt_past->咬み裂こうとした</li>
+    <li>attempt_past->咬み千切ろとした</li>
+    <li>attempt_past->貪り喰おうとした</li>
+    <li>attempt_past->齧り取ろうとした</li>
+    <li>attempt_and->噛み付こうと</li>
+    <li>attempt_and(p=0.5)->喰らい付こうと</li>
+    <li>attempt_and(p=0.5)->齧り付こうと</li>
+    <li>attempt_and(deflected!=True)->咬み砕こうと</li>
+    <li>attempt_and(deflected!=True)->咬み裂こうと</li>
   </Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
@@ -72,8 +125,8 @@
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
+    <li>r_logentry->[INITIATOR_definite]は､足で[TOOL_label]を蹴って[RECIPIENT_definite]の目潰しを狙ったが､[RECIPIENT_definite]は身を躱した｡</li>
+    <li>r_logentry->[INITIATOR_definite]は､足で[TOOL_label]を蹴って[RECIPIENT_definite]の目潰しを狙ったが､[RECIPIENT_definite]は上手く防いだ｡</li>
   </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
@@ -81,15 +134,16 @@
     <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry->[INITIATOR_definite]は､足で[TOOL_label]を蹴って[RECIPIENT_definite]の目潰しをした｡</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite]は､[TOOL_label]を蹴って撒き散らし､[RECIPIENT_definite]の目潰しをした｡</li>
   </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
+    <li>r_logentry->[INITIATOR_definite]は､足で[TOOL_label]を蹴って[RECIPIENT_definite]の目潰しを狙ったが､失敗した｡</li>
+    <li>r_logentry->[INITIATOR_definite]は､足で[TOOL_label]を蹴って[RECIPIENT_definite]の目潰しを狙ったが､上手く行かなかった｡</li>
   </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
@@ -129,38 +183,110 @@
   -->
   <Maneuver_Poke.rulePack.rulesStrings>
     <li>damaged_inf(p=2)->突く</li>
-    <li>damaged_inf(p=2)->かるく突く</li>
-    <li>damaged_inf->つつく</li>
-    <li>damaged_inf->強くつく</li>
-    <li>damaged_inf->突き刺す</li>
-    <li>damaged_past(p=2)->突いた</li>
-    <li>damaged_past(p=2)->かるく突いた</li>
-    <li>damaged_past->つついた</li>
-    <li>damaged_past->強くついた</li>
-    <li>damaged_past->突き刺した</li>
+    <li>damaged_inf(p=2)->鋭く突く</li>
+    <li>damaged_inf->打突する</li>
+    <li>damaged_inf->強打する</li>
+    <li>damaged_inf->打ち付ける</li>
+    <li>damaged_inf->打ち据える</li>
+    <li>damaged_inf->粉砕する</li>
+    <li>damaged_inf->叩き潰す</li>
+    <li>damaged_inf->打ち砕く</li>
+    <li>damaged_inf->圧し潰す</li>
+    <li>damaged_past(deflected!=True)->凹ませた</li>
+    <li>damaged_past(deflected!=True)->歪ませた</li>
+    <li>damaged_past(deflected!=True)->陥没させた</li>
+    <li>damaged_past(deflected!=True)->変形させた</li>
+    <li>damaged_past(deflected!=True)->圧し潰した</li>
+    <li>damaged_past(deflected!=True,RECIPIENT_flesh==Normal)->打撲傷にした</li>
+    <li>damaged_past(deflected!=True,RECIPIENT_flesh==Mechanoid)->ひしゃげさせた</li>
+    <li>damaged_past(p=0.002)->突いた</li>
+    <li>damaged_past(p=0.002)->鋭く突いた</li>
+    <li>damaged_past(p=0.001)->打突した</li>
+    <li>damaged_past(p=0.001)->強打した</li>
+    <li>damaged_past(p=0.001)->打ち付けた</li>
+    <li>damaged_past(p=0.001)->打ち据えた</li>
+<!--
     <li>damaged_present(p=2)->突いている</li>
-    <li>damaged_present(p=2)->かるく突いている</li>
-    <li>damaged_present->つついている</li>
-    <li>damaged_present->強くついている</li>
-    <li>damaged_present->突き刺している</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</li>
-    <li>flavortext_consequence->形が変更したままで</li>
-    <li>flavortext_consequence->[RECIPIENT_objective]殴ってバランスを崩させ</li>
-    <li>flavortext_consequence->[RECIPIENT_objective]殴って横ずらしながら</li>
+    <li>damaged_present(p=2)->鋭く突いている</li>
+    <li>damaged_present->打突している</li>
+    <li>damaged_present->強打している</li>
+    <li>damaged_present->打ち付けている</li>
+-->
+    <li>damaged_and(deflected!=True)->凹ませ</li>
+    <li>damaged_and(deflected!=True)->歪ませ</li>
+    <li>damaged_and(deflected!=True)->陥没させ</li>
+    <li>damaged_and(deflected!=True)->変形させ</li>
+    <li>damaged_and(deflected!=True)->圧し潰し</li>
+    <li>damaged_and(deflected!=True,RECIPIENT_flesh==Normal)->打ち身にし</li>
+    <li>damaged_and(deflected!=True,RECIPIENT_flesh==Mechanoid)->ひしゃげさせ</li>
+    <li>damaged_and(p=0.02)->突いて</li>
+    <li>damaged_and(p=0.02)->鋭く突いて</li>
+    <li>damaged_and(p=0.01)->打突し</li>
+    <li>damaged_and(p=0.01)->強打し</li>
+    <li>damaged_and(p=0.01)->打ち付け</li>
+    <li>damaged_and(p=0.01)->打ち据え</li>
+    <li>damaged_passive(p=2)->突かれ</li>
+    <li>damaged_passive(p=2)->鋭く突かれ</li>
+    <li>damaged_passive->打突され</li>
+    <li>damaged_passive->強打され</li>
+    <li>damaged_passive->打ち付けられ</li>
+    <li>damaged_passive->打ち据えられ</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->酷い痣を残した</li>
+    <li>flavortext_consequence->目に見えて変形させた</li>
+    <li>flavortext_consequence->衝撃でよろめかせた</li>
+    <li>flavortext_consequence->衝撃でたたらを踏ませた</li>
+    <li>destroyed_past->粉砕した</li>
+    <li>destroyed_past->叩き潰した</li>
+    <li>destroyed_past->粉微塵にした</li>
     <li>destroyed_past->打ち砕いた</li>
-    <li>destroyed_past->砕いた</li>
-    <li>destroyed_past->完全に破壊した</li>
-    <li>destroyed_past->ダメにした</li>
-    <li>destroyed_past->壊した</li>
+    <li>destroyed_past->圧し潰した</li>
+    <li>destroyed_past->完膚なきまでに破壊した</li>
+    <li>destroyed_past->跡形もなく潰した</li>
+    <li>destroyed_past->突き破った</li>
+    <li>destroyed_past(p=0.3)->粉砕し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->叩き潰し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->打ち砕き､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->圧し潰し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->跡形もなく潰し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->突き破り､[destroyed_suffix]</li>
+<!--
     <li>destroyed_present->打ち砕いている</li>
     <li>destroyed_present->砕いている</li>
-    <li>destroyed_present->完全に破壊している</li>
+    <li>destroyed_present->完膚なきまでに破壊している</li>
     <li>destroyed_present->ダメにしている</li>
     <li>destroyed_present->壊している</li>
-    <li>destroyed_suffix->一片[to]</li>
-    <li>destroyed_suffix->小片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->細かい霧状[to]</li>
-    <li>destroyed_suffix->断片[to]</li>
+-->
+    <li>destroyed_passive->粉砕され</li>
+    <li>destroyed_passive->叩き潰され</li>
+    <li>destroyed_passive->粉微塵にされ</li>
+    <li>destroyed_passive->打ち砕かれ</li>
+    <li>destroyed_passive->圧し潰され</li>
+    <li>destroyed_passive->完膚なきまでに破壊され</li>
+    <li>destroyed_passive->跡形もなく潰され</li>
+    <li>destroyed_passive->突き破られ</li>
+    <li>destroyed_suffix->粉々にした</li>
+    <li>destroyed_suffix->粉微塵にした</li>
+    <li>destroyed_suffix->細切れに変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->霞のように吹き飛ばした</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->穢らわしい肉片に変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->肉片に変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid)->鉄屑に変えた</li>
+    <li>attempt_past(p=2)->突いた</li>
+    <li>attempt_past(p=2)->鋭く突いた</li>
+    <li>attempt_past->打突した</li>
+    <li>attempt_past->強打した</li>
+    <li>attempt_past->打ち付けた</li>
+    <li>attempt_past->打ち据えた</li>
+    <li>attempt_past->粉砕しようとした</li>
+    <li>attempt_past->叩き潰そうとした</li>
+    <li>attempt_past->打ち砕こうとした</li>
+    <li>attempt_past->圧し潰そうとした</li>
+    <li>attempt_past->突き破ろうとした</li>
+    <li>attempt_and(p=2)->突こうと</li>
+    <li>attempt_and(p=2)->鋭く突こうと</li>
+    <li>attempt_and->打突しようと</li>
+    <li>attempt_and->強打しようと</li>
+    <li>attempt_and->打ち付けようと</li>
   </Maneuver_Poke.rulePack.rulesStrings>
   
   <!-- EN:
@@ -179,19 +305,24 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
   -->
   <Maneuver_Scratch.rulePack.rulesStrings>
-    <li>woundname->創傷</li>
-    <li>woundname(p=0.3)->傷口</li>
-    <li>flavortext_situation(recipient_flesh!=Mechanoid)->[woundname]から血をしたたらせ</li>
-    <li>flavortext_situation->[woundname]から血を流しながら</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</li>
-    <li>destroyed_suffix->細長い一片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</li>
-    <li>destroyed_suffix->断片[to]</li>
-    <li>destroyed_suffix->破片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->血の塊[to]</li>
+    <li>woundname->傷</li>
+    <li>woundname(p=0.3)->開いた傷口</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Normal)->[woundname]から血が滴る</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Insectoid)->[woundname]から体液が流れる</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Mechanoid)->損傷から循環液が漏れ出す</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->皮膚の下にある肉を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->外皮の下にある肉を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->内部機構を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->血塗れの[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->体液塗れの[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->循環液塗れの損傷を残した</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->穢らわしい肉片に変えた</li>
+    <li>destroyed_suffix->粉微塵にした</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->見るも無惨な細切れにした</li>
+    <li>destroyed_suffix->細切れにした</li>
+    <li>destroyed_suffix->ばらばらにした</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->惨たらしい肉塊に変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid)->鉄屑に変えた</li>
   </Maneuver_Scratch.rulePack.rulesStrings>
   
   <!-- EN:
@@ -220,27 +351,82 @@
   -->
   <Maneuver_Scratch_Damage.rulePack.rulesStrings>
     <li>damaged_inf(p=4)->引っ掻く</li>
-    <li>damaged_inf(deflected!=True)->引き裂く</li>
-    <li>damaged_inf(deflected!=True)->裂く</li>
-    <li>damaged_inf->切る</li>
-    <li>damaged_past(p=4)->引っ掻いた</li>
+    <li>damaged_inf->掻き毟る</li>
+    <li>damaged_inf->引き裂く</li>
+    <li>damaged_inf->掻き切る</li>
+    <li>damaged_inf->抉り取る</li>
+    <li>damaged_inf->削り取る</li>
+    <li>damaged_inf->ずたずたに引き裂く</li>
+    <li>damaged_inf->ばらばらに引き裂く</li>
+    <li>damaged_inf->もぎ取る</li>
+    <li>damaged_inf->毟り取る</li>
+    <li>damaged_inf->引き千切る</li>
     <li>damaged_past(deflected!=True)->引き裂いた</li>
-    <li>damaged_past(deflected!=True)->裂いた</li>
-    <li>damaged_past->切った</li>
+    <li>damaged_past(deflected!=True)->掻き切った</li>
+    <li>damaged_past(p=0.004)->引っ掻いた</li>
+    <li>damaged_past(p=0.001)->掻き毟った</li>
+<!--
     <li>damaged_present->引っ掻いている</li>
+    <li>damaged_present->掻き毟っている</li>
     <li>damaged_present(deflected!=True)->引き裂いている</li>
-    <li>damaged_present(deflected!=True)->裂いている</li>
-    <li>damaged_present->切っている</li>
-    <li>destroyed_past->打ち潰した</li>
-    <li>destroyed_past->引き裂いた</li>
-    <li>destroyed_past->裂いた</li>
-    <li>destroyed_past->ずたずたに裂いた</li>
-    <li>destroyed_past->引き裂いた</li>
-    <li>destroyed_present->打ち潰している</li>
-    <li>destroyed_present->引き裂いている</li>
-    <li>destroyed_present->裂いている</li>
-    <li>destroyed_present->ズタズタに裂いている</li>
-    <li>destroyed_present->引き裂いている</li>
+    <li>damaged_present(deflected!=True)->掻き切っている</li>
+-->
+    <li>damaged_and(deflected!=True)->引き裂いて</li>
+    <li>damaged_and(deflected!=True)->掻き切って</li>
+    <li>damaged_and(p=0.004)->引っ掻いて</li>
+    <li>damaged_and(p=0.001)->掻き毟って</li>
+    <li>damaged_passive(p=4)->引っ掻かれ</li>
+    <li>damaged_passive->掻き毟られ</li>
+    <li>damaged_passive->引き裂かれ</li>
+    <li>damaged_passive->掻き切られ</li>
+    <li>destroyed_past->抉り取った</li>
+    <li>destroyed_past->削り取った</li>
+    <li>destroyed_past->ずたずたに引き裂いた</li>
+    <li>destroyed_past->ばらばらに引き裂いた</li>
+    <li>destroyed_past->もぎ取った</li>
+    <li>destroyed_past->毟り取った</li>
+    <li>destroyed_past->引き千切った</li>
+    <li>destroyed_past(p=0.3)->抉り取って､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->削り取って､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->ずたずたに引き裂いて､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->ばらばらに引き裂いて､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->もぎ取って､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->毟り取って､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->引き千切って､[destroyed_suffix]</li>
+<!--
+    <li>destroyed_present->抉り取っている</li>
+    <li>destroyed_present->削り取っている</li>
+    <li>destroyed_present->ずたずたに引き裂いている</li>
+    <li>destroyed_present->ばらばらに引き裂いている</li>
+    <li>destroyed_present->もぎ取っている</li>
+    <li>destroyed_present->毟り取っている</li>
+    <li>destroyed_present->引き千切っている</li>
+-->
+    <li>destroyed_passive->抉り取られ</li>
+    <li>destroyed_passive->削り取られ</li>
+    <li>destroyed_passive->ずたずたに引き裂かれ</li>
+    <li>destroyed_passive->ばらばらに引き裂かれ</li>
+    <li>destroyed_passive->もぎ取られ</li>
+    <li>destroyed_passive->毟り取られ</li>
+    <li>destroyed_passive->引き千切られ</li>
+    <li>attempt_past(p=4)->引っ掻いた</li>
+    <li>attempt_past(p=4)->掻き毟った</li>
+    <li>attempt_past->引き裂こうとした</li>
+    <li>attempt_past->掻き切ろうとした</li>
+    <li>attempt_past->抉り取ろうとした</li>
+    <li>attempt_past->削り取ろうとした</li>
+    <li>attempt_past->もぎ取ろうとした</li>
+    <li>attempt_past->毟り取ろうとした</li>
+    <li>attempt_past->引き千切ろうとした</li>
+    <li>attempt_and(p=4)->引っ掻こうと</li>
+    <li>attempt_and(p=4)->掻き毟ろうと</li>
+    <li>attempt_and->引き裂こうと</li>
+    <li>attempt_and->掻き切ろうと</li>
+    <li>attempt_and->抉り取ろうと</li>
+    <li>attempt_and->削り取ろうと</li>
+    <li>attempt_and->もぎ取ろうと</li>
+    <li>attempt_and->毟り取ろうと</li>
+    <li>attempt_and->引き千切ろうと</li>
   </Maneuver_Scratch_Damage.rulePack.rulesStrings>
   
   <!-- EN:
@@ -285,45 +471,109 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
   <Maneuver_Slash.rulePack.rulesStrings>
-    <li>damaged_inf(p=4)->サッと斬る</li>
-    <li>damaged_inf->切る</li>
-    <li>damaged_inf->切り刻む</li>
-    <li>damaged_inf->叩き切る</li>
-    <li>damaged_inf->薄く切り取る</li>
-    <li>damaged_inf(deflected!=True)->深く切る</li>
-    <li>damaged_past(p=4)->サッと斬った</li>
-    <li>damaged_past->切った</li>
-    <li>damaged_past->切り刻んだ</li>
-    <li>damaged_past->叩き切った</li>
-    <li>damaged_past->薄く切った</li>
-    <li>damaged_past(deflected!=True)->深く切った</li>
-    <li>damaged_present->サッと斬っている</li>
-    <li>damaged_present->切っている</li>
-    <li>damaged_present->薄く切っている</li>
-    <li>damaged_present(deflected!=True)->->深く切っている</li>
-    <li>damaged_present(deflected!=True)->->引っ掻いている</li>
-    <li>damaged_present(deflected!=True)->->引き裂いている</li>
-    <li>woundname->傷口</li>
-    <li>woundname(p=0.3)->裂け目</li>
-    <li>flavortext_situation(recipient_flesh!=Mechanoid)->[woundname]から血を滴らせながら</li>
-    <li>flavortext_situation->[woundname]から血を流して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</li>
+    <li>damaged_inf(p=3)->斬り付ける</li>
+    <li>damaged_inf->斬り払う</li>
+    <li>damaged_inf->薙ぎ払う</li>
+    <li>damaged_inf->袈裟斬りにする</li>
+    <li>damaged_inf->一閃する</li>
+    <li>damaged_inf(p=0.5)->真っ二つにする</li>
+    <li>damaged_inf(p=0.5)->断ち切る</li>
+    <li>damaged_inf(p=0.5)->切断する</li>
+    <li>damaged_inf(p=0.5)->両断する</li>
+    <li>damaged_inf(p=0.5)->斬り飛ばす</li>
+    <li>damaged_inf(p=0.5)->斬り落とす</li>
+    <li>damaged_past(deflected!=True)->斬り刻んだ</li>
+    <li>damaged_past(deflected!=True)->叩き斬った</li>
+    <li>damaged_past(deflected!=True)->斬り裂いた</li>
+    <li>damaged_past(deflected!=True)->斬り捨てた</li>
+    <li>damaged_past(p=0.006)->斬り付けた</li>
+    <li>damaged_past(p=0.002)->斬り払った</li>
+    <li>damaged_past(p=0.002)->薙ぎ払った</li>
+    <li>damaged_past(p=0.001)->袈裟斬りにした</li>
+    <li>damaged_past(p=0.001)->一閃した</li>
+<!--
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+-->
+    <li>damaged_and(deflected!=True)->斬り刻み</li>
+    <li>damaged_and(deflected!=True)->叩き斬り</li>
+    <li>damaged_and(deflected!=True)->斬り裂き</li>
+    <li>damaged_and(deflected!=True)->斬り捨て</li>
+    <li>damaged_and(p=0.03)->斬り付け</li>
+    <li>damaged_and(p=0.01)->斬り払い</li>
+    <li>damaged_and(p=0.01)->薙ぎ払い</li>
+    <li>damaged_and(p=0.005)->袈裟斬りにし</li>
+    <li>damaged_and(p=0.005)->一閃し</li>
+    <li>damaged_passive(p=4)->斬り付けられ</li>
+    <li>damaged_passive->斬り払われ</li>
+    <li>damaged_passive->斬り刻まれ</li>
+    <li>damaged_passive->叩き斬られ</li>
+    <li>damaged_passive->斬り裂かれ</li>
+    <li>damaged_passive->斬り捨てられ</li>
+    <li>damaged_passive(p=0.5)->一閃され</li>
+    <li>damaged_passive->斬撃を放たれ</li>
+    <li>damaged_passive->斬り伏せられ</li>
+    <li>woundname->傷</li>
+    <li>woundname(p=0.3)->開いた傷口</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Normal)->[woundname]から血が滴る</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Insectoid)->[woundname]から体液が流れる</li>
+    <li>flavortext_situation(RECIPIENT_flesh==Mechanoid)->損傷から循環液が漏れ出す</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->皮膚の下にある肉を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->皮膚の下にある肉を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->内部機構を剥き出しにした</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->血塗れの[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->体液塗れの[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->循環液塗れの損傷を残した</li>
     <li>destroyed_past->真っ二つにした</li>
-    <li>destroyed_past->二分した</li>
-    <li>destroyed_past->半分になった</li>
-    <li>destroyed_past->離れた</li>
-    <li>destroyed_past->分裂した</li>
-    <li>destroyed_present->真っ二つになる</li>
-    <li>destroyed_present->二分する</li>
-    <li>destroyed_present->半分になる</li>
-    <li>destroyed_present->離れる</li>
-    <li>destroyed_present->分裂する</li>
-    <li>destroyed_suffix->滑らかな小片に</li>
-    <li>destroyed_suffix->手際よく</li>
-    <li>destroyed_suffix(target_part_destroyed_count==1)->内部活動をさらけだしつつ</li>
-    <li>destroyed_suffix(target_part_destroyed_count==1)->二つに切り分ける</li>
+    <li>destroyed_past->断ち切った</li>
+    <li>destroyed_past->切断した</li>
+    <li>destroyed_past->両断した</li>
+    <li>destroyed_past->斬り飛ばした</li>
+    <li>destroyed_past->斬り落とした</li>
+    <li>destroyed_past(p=0.3)->断ち切って､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->切断して､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->両断して､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->斬り飛ばして､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->斬り落として､[destroyed_suffix]</li>
+<!--
+    <li>destroyed_present->真っ二つにしている</li>
+    <li>destroyed_present->断ち切っている</li>
+    <li>destroyed_present->切断している</li>
+    <li>destroyed_present->両断している</li>
+    <li>destroyed_present->斬り飛ばしている</li>
+    <li>destroyed_present->斬り落としている</li>
+-->
+    <li>destroyed_passive->真っ二つにされ</li>
+    <li>destroyed_passive->断ち切られ</li>
+    <li>destroyed_passive->切断され</li>
+    <li>destroyed_passive->両断され</li>
+    <li>destroyed_passive->斬り飛ばされ</li>
+    <li>destroyed_passive->斬り落とされ</li>
+    <li>destroyed_suffix->真っ直ぐな断面を晒した</li>
+    <li>destroyed_suffix->滑らかな断面を晒した</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->生きた組織を剥き出しにした</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->真っ二つにした</li>
+    <li>attempt_past(p=3)->斬り付けた</li>
+    <li>attempt_past->斬り払った</li>
+    <li>attempt_past->薙ぎ払った</li>
+    <li>attempt_past->袈裟斬りにした</li>
+    <li>attempt_past->一閃した</li>
+    <li>attempt_past(p=0.5)->真っ二つにしようとした</li>
+    <li>attempt_past(p=0.5)->断ち切ろうとした</li>
+    <li>attempt_past(p=0.5)->切断しようとした</li>
+    <li>attempt_past(p=0.5)->両断しようとした</li>
+    <li>attempt_past(p=0.5)->斬り飛ばそうとした</li>
+    <li>attempt_past(p=0.5)->斬り落とそうとした</li>
+    <li>attempt_and(p=3)->斬り付けようと</li>
+    <li>attempt_and->斬り払おうと</li>
+    <li>attempt_and->薙ぎ払おうと</li>
+    <li>attempt_and(p=0.5)->袈裟斬りにしようと</li>
+    <li>attempt_and(p=0.5)->一閃しようと</li>
+    <li>attempt_and->斬り伏せようと</li>
   </Maneuver_Slash.rulePack.rulesStrings>
   
   <!-- EN:
@@ -337,14 +587,17 @@
     <li>destroyed_suffix->[to] fragments</li>
   -->
   <Maneuver_Smash.rulePack.rulesStrings>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</li>
-    <li>flavortext_consequence->形が変更したままで</li>
-    <li>flavortext_consequence->[RECIPIENT_objective]殴ってバランスを崩させ</li>
-    <li>flavortext_consequence->[RECIPIENT_objective]殴って横ずらしながら</li>
-    <li>destroyed_suffix->一片[to]</li>
-    <li>destroyed_suffix->小片[to]</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->細かい霧状[to]</li>
-    <li>destroyed_suffix->断片[to]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->酷い痣を残した</li>
+    <li>flavortext_consequence->目に見えて変形させた</li>
+    <li>flavortext_consequence->衝撃でよろめかせた</li>
+    <li>flavortext_consequence->衝撃でたたらを踏ませた</li>
+    <li>destroyed_suffix->粉々にした</li>
+    <li>destroyed_suffix->粉微塵にした</li>
+    <li>destroyed_suffix->細切れに変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->霞のように吹き飛ばした</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->穢らわしい肉片に変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->肉片に変えた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid)->鉄屑に変えた</li>
   </Maneuver_Smash.rulePack.rulesStrings>
   
   <!-- EN:
@@ -375,31 +628,108 @@
     <li>destroyed_present->breaking</li>
   -->
   <Maneuver_Smash_Damage.rulePack.rulesStrings>
-    <li>damaged_inf(p=4)->強打する</li>
-    <li>damaged_inf->殴る</li>
-    <li>damaged_inf->叩きのめす</li>
-    <li>damaged_inf->強く打つ</li>
-    <li>damaged_inf->打つ</li>
-    <li>damaged_past(p=4)->強打した</li>
-    <li>damaged_past->殴った</li>
-    <li>damaged_past->叩きのめした</li>
-    <li>damaged_past->強く打った</li>
-    <li>damaged_past->打った</li>
+    <li>damaged_inf(p=4)->殴り付ける</li>
+    <li>damaged_inf->強打する</li>
+    <li>damaged_inf->叩き伏せる</li>
+    <li>damaged_inf->打擲する</li>
+    <li>damaged_inf->打ち付ける</li>
+    <li>damaged_inf->叩き伏せる</li>
+    <li>damaged_inf->粉砕する</li>
+    <li>damaged_inf->叩き潰す</li>
+    <li>damaged_inf->打ち砕く</li>
+    <li>damaged_inf->圧し潰す</li>
+    <li>damaged_inf->横殴りにする</li>
+    <li>damaged_past(deflected!=True)->凹ませた</li>
+    <li>damaged_past(deflected!=True)->歪ませた</li>
+    <li>damaged_past(deflected!=True)->陥没させた</li>
+    <li>damaged_past(deflected!=True)->変形させた</li>
+    <li>damaged_past(deflected!=True)->圧し潰した</li>
+    <li>damaged_past(deflected!=True,RECIPIENT_flesh==Normal)->打ち身にした</li>
+    <li>damaged_past(deflected!=True,RECIPIENT_flesh==Mechanoid)->ひしゃげさせた</li>
+    <li>damaged_past(p=0.004)->殴り付けた</li>
+    <li>damaged_past(p=0.001)->強打した</li>
+    <li>damaged_past(p=0.001)->叩き伏せた</li>
+    <li>damaged_past(p=0.001)->強く打った</li>
+    <li>damaged_past(p=0.001)->打ち付けた</li>
+    <li>damaged_past(p=0.001)->横殴りにした</li>
+<!--
+    <li>damaged_present->殴り付けている</li>
     <li>damaged_present->強打している</li>
-    <li>damaged_present->殴っている</li>
-    <li>damaged_present->叩きのめしている</li>
-    <li>damaged_present(deflected!=True)->へこましている</li>
+    <li>damaged_present->叩き伏せている</li>
+    <li>damaged_present(deflected!=True)->凹ませている</li>
     <li>damaged_present(deflected!=True)->裂いている</li>
+-->
+    <li>damaged_and(deflected!=True)->凹ませ</li>
+    <li>damaged_and(deflected!=True)->歪ませ</li>
+    <li>damaged_and(deflected!=True)->陥没させ</li>
+    <li>damaged_and(deflected!=True)->変形させ</li>
+    <li>damaged_and(deflected!=True)->圧し潰し</li>
+    <li>damaged_and(deflected!=True,RECIPIENT_flesh==Normal)->打ち身にし</li>
+    <li>damaged_and(deflected!=True,RECIPIENT_flesh==Mechanoid)->ひしゃげさせ</li>
+    <li>damaged_and(p=0.04)->殴り付け</li>
+    <li>damaged_and(p=0.01)->強打し</li>
+    <li>damaged_and(p=0.01)->叩き伏せ</li>
+    <li>damaged_and(p=0.01)->強く打ち</li>
+    <li>damaged_and(p=0.01)->打ち付け</li>
+    <li>damaged_and(p=0.01)->横殴りにし</li>
+    <li>damaged_passive(p=4)->殴り付けられ</li>
+    <li>damaged_passive->強打され</li>
+    <li>damaged_passive->叩き伏せられ</li>
+    <li>damaged_passive->強く打たれ</li>
+    <li>damaged_passive->打ち付けられ</li>
+    <li>damaged_passive->横殴りにされ</li>
+    <li>destroyed_past(p=2)->粉砕した</li>
+    <li>destroyed_past(p=2)->叩き潰した</li>
+    <li>destroyed_past->消し飛ばした</li>
+    <li>destroyed_past->粉微塵にした</li>
     <li>destroyed_past->打ち砕いた</li>
-    <li>destroyed_past->砕いた</li>
-    <li>destroyed_past->跡形もなく破壊した</li>
-    <li>destroyed_past->ダメにした</li>
-    <li>destroyed_past->破壊した</li>
+    <li>destroyed_past->圧し潰した</li>
+    <li>destroyed_past->ぺしゃんこにした</li>
+    <li>destroyed_past->完膚なきまでに破壊した</li>
+    <li>destroyed_past->跡形もなく潰した</li>
+    <li>destroyed_past(p=0.3)->粉砕し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->叩き潰し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->打ち砕き､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->圧し潰し､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->跡形もなく潰し､[destroyed_suffix]</li>
+<!--
     <li>destroyed_present->打ち砕いている</li>
     <li>destroyed_present->砕いている</li>
-    <li>destroyed_present->完全に破壊している</li>
+    <li>destroyed_present->完膚なきまでに破壊している</li>
     <li>destroyed_present->ダメにしている</li>
     <li>destroyed_present->破壊している</li>
+-->
+    <li>destroyed_passive(p=2)->粉砕され</li>
+    <li>destroyed_passive(p=2)->叩き潰され</li>
+    <li>destroyed_passive->消し飛ばされ</li>
+    <li>destroyed_passive->粉微塵にされ</li>
+    <li>destroyed_passive->打ち砕かれ</li>
+    <li>destroyed_passive->圧し潰され</li>
+    <li>destroyed_passive->ぺしゃんこにされ</li>
+    <li>destroyed_passive->完膚なきまでに破壊され</li>
+    <li>destroyed_passive->跡形もなく潰され</li>
+    <li>attempt_past(p=4)->殴り付けた</li>
+    <li>attempt_past->強打した</li>
+    <li>attempt_past->叩き伏せた</li>
+    <li>attempt_past->打擲した</li>
+    <li>attempt_past->打ち付けた</li>
+    <li>attempt_past->横殴りにした</li>
+    <li>attempt_past->叩き伏せようとした</li>
+    <li>attempt_past->粉砕しようとした</li>
+    <li>attempt_past->叩き潰そうとした</li>
+    <li>attempt_past->打ち砕こうとした</li>
+    <li>attempt_past->圧し潰そうとした</li>
+    <li>attempt_and(p=4)->殴り付けようと</li>
+    <li>attempt_and->強打しようと</li>
+    <li>attempt_and->叩き伏せようと</li>
+    <li>attempt_and->打擲しようと</li>
+    <li>attempt_and->打ち付けようと</li>
+    <li>attempt_and->横殴りにしようと</li>
+    <li>attempt_and->叩き伏せようと</li>
+    <li>attempt_and->粉砕しようと</li>
+    <li>attempt_and->叩き潰そうと</li>
+    <li>attempt_and->打ち砕こうと</li>
+    <li>attempt_and->圧し潰そうと</li>
   </Maneuver_Smash_Damage.rulePack.rulesStrings>
   
   <!-- EN:
@@ -436,35 +766,65 @@
   -->
   <Maneuver_Stab.rulePack.rulesStrings>
     <li>damaged_inf(p=4)->突き刺す</li>
-    <li>damaged_inf->かるく突く</li>
-    <li>damaged_inf(deflected!=True)->刺し通す</li>
-    <li>damaged_inf(deflected!=True)->刺す</li>
-    <li>damaged_inf(deflected!=True)->串刺しにする</li>
-    <li>damaged_past(p=4)->突き刺した</li>
-    <li>damaged_past->かるく突いた</li>
-    <li>damaged_past(deflected!=True)->刺し通した</li>
-    <li>damaged_past(deflected!=True)->刺した</li>
-    <li>damaged_past(deflected!=True)->串刺しにした</li>
-    <li>damaged_present(deflected!=True)->刺し通している</li>
-    <li>damaged_present(deflected!=True)->刺している</li>
-    <li>damaged_present(deflected!=True)->穿っている</li>
-    <li>damaged_present(deflected!=True)->串刺しにしている</li>
-    <li>woundname->穴</li>
-    <li>woundname->創傷</li>
-    <li>woundname->裂け目</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の血をそのままにして</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の液体をそのままにして</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[woundname]の出血を放置して</li>
-    <li>destroyed_past->差し貫いた</li>
-    <li>destroyed_past->貫通した</li>
+    <li>damaged_inf->鋭く刺す</li>
+    <li>damaged_inf->刺し貫く</li>
+    <li>damaged_inf->貫き通す</li>
+    <li>damaged_past(deflected!=True)->刺し貫いた</li>
+    <li>damaged_past(deflected!=True)->貫き通した</li>
+    <li>damaged_past(deflected!=True,p=0.5)->穿孔した</li>
+    <li>damaged_past(p=0.004)->突き刺した</li>
+    <li>damaged_past(p=0.001)->鋭く刺した</li>
+<!--
+    <li>damaged_present(deflected!=True)->piercing</li>
+    <li>damaged_present(deflected!=True)->puncturing</li>
+    <li>damaged_present(deflected!=True)->penetrating</li>
+    <li>damaged_present(deflected!=True)->skewering</li>
+-->
+    <li>damaged_and(deflected!=True)->刺し貫いて</li>
+    <li>damaged_and(deflected!=True)->貫き通して</li>
+    <li>damaged_and(deflected!=True,p=0.5)->穿孔して</li>
+    <li>damaged_and(p=0.04)->突き刺し</li>
+    <li>damaged_and(p=0.01)->鋭く刺し</li>
+    <li>damaged_passive(p=4)->突き刺され</li>
+    <li>damaged_passive->鋭く刺され</li>
+    <li>damaged_passive->刺し貫かれ</li>
+    <li>damaged_passive->貫き通され</li>
+    <li>woundname->穿孔</li>
+    <li>woundname->傷口</li>
+    <li>woundname->刺し傷</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->血塗れの[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Normal)->血を流す[woundname]を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->循環液塗れの損傷を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Insectoid)->体液を流す[woundname]を残した</li>
+    <li>destroyed_past->刺し貫いた</li>
+    <li>destroyed_past->滅多刺しにした</li>
     <li>destroyed_past->串刺しにした</li>
-    <li>destroyed_present->差し貫く</li>
-    <li>destroyed_present->貫通する</li>
-    <li>destroyed_present->串刺しにする</li>
-    <li>destroyed_suffix->真っ直ぐに貫く</li>
-    <li>destroyed_suffix->穿孔のまま</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->血が噴き出すのも気にせず</li>
-    <li>destroyed_suffix(target_part_destroyed_count==1)->潤滑油なのか判らない液体が漏れたまま</li>
+    <li>destroyed_past(p=0.3)->刺し貫いて､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->滅多刺しにして､[destroyed_suffix]</li>
+    <li>destroyed_past(p=0.3)->串刺しにして､[destroyed_suffix]</li>
+<!--
+    <li>destroyed_present->impaling</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->skewering</li>
+-->
+    <li>destroyed_passive->刺し貫かれ</li>
+    <li>destroyed_passive->滅多刺しにされ</li>
+    <li>destroyed_passive->串刺しにされ</li>
+    <li>destroyed_suffix->反対側まで貫通させた</li>
+    <li>destroyed_suffix->きれいに風穴を開けた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Normal,target_part_destroyed_count==1)->止めどなく鮮血を溢れさせた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid,target_part_destroyed_count==1)->得体の知れない体液を溢れさせた</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Insectoid,target_part_destroyed_count==1)->循環液の漏出を引き起こした</li>
+    <li>attempt_past(p=4)->突き刺した</li>
+    <li>attempt_past->鋭く刺した</li>
+    <li>attempt_past->刺し貫こうとした</li>
+    <li>attempt_past->貫き通そうとした</li>
+    <li>attempt_past->串刺しにしようとした</li>
+    <li>attempt_and(p=4)->突き刺そうと</li>
+    <li>attempt_and->鋭く刺そうと</li>
+    <li>attempt_and->刺し貫こうと</li>
+    <li>attempt_and->貫き通そうと</li>
+    <li>attempt_and->串刺しにしようと</li>
   </Maneuver_Stab.rulePack.rulesStrings>
   
 </LanguageData>

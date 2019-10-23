@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageModerate.label>化学的損傷</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.label>化学損傷</ChemicalDamageModerate.label>
   
   <!-- EN: chemical damage -->
-  <ChemicalDamageSevere.label>化学的損傷</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.label>化学損傷</ChemicalDamageSevere.label>
   
   <!-- EN: cirrhosis -->
   <Cirrhosis.label>肝硬変</Cirrhosis.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>噛み傷</Bite.label>
+  <Bite.label>咬み傷</Bite.label>
   <!-- EN: set -->
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -10,15 +10,15 @@
   <!-- EN: sutured -->
   <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>噛傷痕</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>咬傷痕</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
-  <Bite.injuryProps.destroyedLabel>齧りとられた</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedLabel>咬み千切られた</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
-  <Bite.injuryProps.destroyedOutLabel>齧りとられた</Bite.injuryProps.destroyedOutLabel>
+  <Bite.injuryProps.destroyedOutLabel>齧り取られた</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>噛み傷</Bite.labelNoun>
+  <Bite.labelNoun>咬み傷</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{1}内の{0}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{1}に受けた{0}</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
   <Bruise.label>打撲傷</Bruise.label>
@@ -29,14 +29,14 @@
   <!-- EN: sutured -->
   <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: Destroyed -->
-  <Bruise.injuryProps.destroyedLabel>壊れた</Bruise.injuryProps.destroyedLabel>
+  <Bruise.injuryProps.destroyedLabel>潰れた</Bruise.injuryProps.destroyedLabel>
   <!-- EN: a bruise -->
   <Bruise.labelNoun>打撲傷</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>{1}内の{0}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>{1}に受けた{0}</Bruise.labelNounPretty>
   
   <!-- EN: burn -->
-  <Burn.label>やけど</Burn.label>
+  <Burn.label>熱傷</Burn.label>
   <!-- EN: set -->
   <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -44,18 +44,18 @@
   <!-- EN: sutured -->
   <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: burn scar -->
-  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>火傷痕</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>熱傷痕</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <Burn.injuryProps.destroyedLabel>焼け落ちた</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedLabel>焼失した</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <Burn.injuryProps.destroyedOutLabel>焼け落ちた</Burn.injuryProps.destroyedOutLabel>
+  <Burn.injuryProps.destroyedOutLabel>焼失した</Burn.injuryProps.destroyedOutLabel>
   <!-- EN: a burn -->
-  <Burn.labelNoun>やけど</Burn.labelNoun>
+  <Burn.labelNoun>熱傷</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>{1}内の{0}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>{1}に受けた{0}</Burn.labelNounPretty>
   
   <!-- EN: crack -->
-  <Crack.label>ひびが入った</Crack.label>
+  <Crack.label>ひび割れ</Crack.label>
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: healed -->
@@ -63,16 +63,16 @@
   <!-- EN: healed -->
   <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>治療</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent crack -->
-  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>ひび傷痕</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>骨折痕</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shattered -->
-  <Crack.injuryProps.destroyedLabel>粉々になった</Crack.injuryProps.destroyedLabel>
+  <Crack.injuryProps.destroyedLabel>粉砕された</Crack.injuryProps.destroyedLabel>
   <!-- EN: a crack wound -->
-  <Crack.labelNoun>ひびが入った</Crack.labelNoun>
+  <Crack.labelNoun>骨格への損傷</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>{1}内の{0}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>{1}に受けた{0}</Crack.labelNounPretty>
   
   <!-- EN: crush -->
-  <Crush.label>ひしゃげた</Crush.label>
+  <Crush.label>挫創</Crush.label>
   <!-- EN: set -->
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -80,13 +80,13 @@
   <!-- EN: sutured -->
   <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: mangled scar -->
-  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>傷痕</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>挫創痕</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Crushed -->
-  <Crush.injuryProps.destroyedLabel>ひしゃげた</Crush.injuryProps.destroyedLabel>
+  <Crush.injuryProps.destroyedLabel>挫滅した</Crush.injuryProps.destroyedLabel>
   <!-- EN: a crush wound -->
-  <Crush.labelNoun>ひしゃげた</Crush.labelNoun>
+  <Crush.labelNoun>挫創</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>{1}内の{0}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>{1}に受けた{0}</Crush.labelNounPretty>
   
   <!-- EN: cut -->
   <Cut.label>切創</Cut.label>
@@ -99,13 +99,13 @@
   <!-- EN: cut scar -->
   <Cut.comps.HediffComp_GetsPermanent.permanentLabel>切創痕</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Cut.injuryProps.destroyedLabel>切り落とされた</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedLabel>切断された</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
   <Cut.injuryProps.destroyedOutLabel>切り取られた</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
   <Cut.labelNoun>切創</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>{1}内の{0}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>{1}に受けた{0}</Cut.labelNounPretty>
   
   <!-- EN: frostbite -->
   <Frostbite.label>凍傷</Frostbite.label>
@@ -118,9 +118,9 @@
   <!-- EN: frostbite scar -->
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>凍傷痕</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
-  <Frostbite.injuryProps.destroyedLabel>凍傷で失った</Frostbite.injuryProps.destroyedLabel>
+  <Frostbite.injuryProps.destroyedLabel>凍傷で壊死した</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>{1}内の{0}</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>{1}に受けた{0}</Frostbite.labelNounPretty>
   
   <!-- EN: gunshot -->
   <Gunshot.label>銃創</Gunshot.label>
@@ -137,11 +137,11 @@
   <!-- EN: Shot off -->
   <Gunshot.injuryProps.destroyedLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedLabel>
   <!-- EN: Shot out -->
-  <Gunshot.injuryProps.destroyedOutLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>撃ち抜かれた</Gunshot.injuryProps.destroyedOutLabel>
   <!-- EN: a gunshot wound -->
   <Gunshot.labelNoun>銃創</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>{1}内の{0}</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>{1}に受けた{0}</Gunshot.labelNounPretty>
   
   <!-- EN: misc -->
   <Misc.label>その他</Misc.label>
@@ -152,21 +152,21 @@
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: Destroyed -->
-  <Misc.injuryProps.destroyedLabel>壊れた</Misc.injuryProps.destroyedLabel>
+  <Misc.injuryProps.destroyedLabel>破壊された</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->
   <Misc.labelNoun>怪我</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>{1}内の{0}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>{1}に受けた{0}</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
-  <MissingBodyPart.label>身体の一部分を失った</MissingBodyPart.label>
+  <MissingBodyPart.label>身体部位の欠損</MissingBodyPart.label>
   <!-- EN: a missing body part -->
-  <MissingBodyPart.labelNoun>身体欠損</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNoun>欠損した身体部位</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
-  <MissingBodyPart.labelNounPretty>{0}こと</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>{1}を失ったこと</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
-  <Scratch.label>ひっかき傷</Scratch.label>
+  <Scratch.label>引っ掻き傷</Scratch.label>
   <!-- EN: set -->
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -176,16 +176,16 @@
   <!-- EN: scratch scar -->
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>掻傷痕</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Scratch.injuryProps.destroyedLabel>千切れた</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedLabel>抉り取られた</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Scratch.injuryProps.destroyedOutLabel>抉り取られた</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
-  <Scratch.labelNoun>ひっかき傷</Scratch.labelNoun>
+  <Scratch.labelNoun>引っ掻き傷</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>{1}内の{0}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>{1}に受けた{0}</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
-  <Shredded.label>裂傷</Shredded.label>
+  <Shredded.label>爆傷</Shredded.label>
   <!-- EN: set -->
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -193,18 +193,18 @@
   <!-- EN: sutured -->
   <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>裂傷痕</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>爆傷痕</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Shredded.injuryProps.destroyedLabel>千切れた</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedLabel>爆散した</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Shredded.injuryProps.destroyedOutLabel>千切れた</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.injuryProps.destroyedOutLabel>爆破された</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>裂傷</Shredded.labelNoun>
+  <Shredded.labelNoun>爆傷</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>{1}内の{0}</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>{1}に受けた{0}</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
-  <Stab.label>刺し傷</Stab.label>
+  <Stab.label>刺創</Stab.label>
   <!-- EN: set -->
   <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -212,18 +212,18 @@
   <!-- EN: sutured -->
   <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: stab scar -->
-  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>刺傷痕</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>刺創痕</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Stab.injuryProps.destroyedLabel>切り落とされた</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedLabel>切断された</Stab.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Stab.injuryProps.destroyedOutLabel>切り取られた</Stab.injuryProps.destroyedOutLabel>
+  <Stab.injuryProps.destroyedOutLabel>刺し貫かれた</Stab.injuryProps.destroyedOutLabel>
   <!-- EN: a stab wound -->
-  <Stab.labelNoun>刺し傷</Stab.labelNoun>
+  <Stab.labelNoun>刺創</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>{1}内の{0}</Stab.labelNounPretty>
+  <Stab.labelNounPretty>{1}に受けた{0}</Stab.labelNounPretty>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>医療事故(切創)</SurgicalCut.label>
+  <SurgicalCut.label>手術創</SurgicalCut.label>
   <!-- EN: set -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -233,8 +233,8 @@
   <!-- EN: surgical scar -->
   <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>手術痕</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->
-  <SurgicalCut.labelNoun>医療事故(切創)</SurgicalCut.labelNoun>
+  <SurgicalCut.labelNoun>手術創</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>{1}内の{0}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>{1}に受けた{0}</SurgicalCut.labelNounPretty>
   
 </LanguageData>

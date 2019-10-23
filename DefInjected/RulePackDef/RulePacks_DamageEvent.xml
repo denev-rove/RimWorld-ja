@@ -58,21 +58,38 @@
     <li>destroyed_present->cremating</li>
   -->
   <DamageEvent_Fire.rulePack.rulesStrings>
-    <li>damage_source->は[fire]で燃え上がった</li>
+    <li>damage_source->[fire]で燃え上がった</li>
+    <li>damage_source->[fire]に包まれた</li>
+    <li>damage_source->[fire]に巻かれた</li>
     <li>fire(p=3)->炎</li>
     <li>fire(p=3)->火</li>
-    <li>fire(p=3)->火災</li>
+    <li>fire(p=2)->火炎</li>
+    <li>fire->火焔</li>
     <li>fire->熱風</li>
-    <li>fire->大火</li>
+    <li>fire->業火</li>
     <li>fire->劫火</li>
-    <li>damaged_present->焼き焦がしている</li>
-    <li>damaged_present->直火で焼いている</li>
-    <li>damaged_present->火傷で傷を負わせている</li>
-    <li>damaged_present->こんがりと焼いている</li>
-    <li>destroyed_present->黒焦げにしている</li>
-    <li>destroyed_present->炙ぶっている</li>
-    <li>destroyed_present->焼いている</li>
-    <li>destroyed_present->燃やしている</li>
+<!--
+    <li>damaged_present->scorching</li>
+    <li>damaged_present->broiling</li>
+    <li>damaged_present->searing</li>
+    <li>damaged_present->singeing</li>
+-->
+    <li>damaged_past->焼け焦げた</li>
+    <li>damaged_past->高熱に炙られた</li>
+    <li>damaged_past->熱傷を負った</li>
+    <li>damaged_past(p=0.5)->こんがりと焼けた</li>
+<!--
+    <li>destroyed_present->charring</li>
+    <li>destroyed_present->roasting</li>
+    <li>destroyed_present->cooking</li>
+    <li>destroyed_present->cremating</li>
+-->
+    <li>destroyed_past->黒焦げになった</li>
+    <li>destroyed_past->丸焼きになった</li>
+    <li>destroyed_past->消し炭になった</li>
+    <li>destroyed_past->焼き尽くされた</li>
+    <li>destroyed_past->炭化した</li>
+    <li>destroyed_past->灰燼に帰した</li>
   </DamageEvent_Fire.rulePack.rulesStrings>
   
   <!-- EN:
@@ -82,10 +99,12 @@
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
   <DamageEvent_Include.rulePack.rulesStrings>
-    <li>r_logentry->[RECIPIENT_nameDef][damage_source], [RECIPIENT_possessive][destroyed_targets]を [destroyed_present].</li>
-    <li>r_logentry->[RECIPIENT_nameDef][damage_source], [RECIPIENT_possessive][destroyed_targets]を [destroyed_present],[RECIPIENT_possessive][damaged_targets]は[damaged_present].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef][damage_source],[RECIPIENT_possessive][damaged_targets]を [damaged_present].</li>
-    <li>r_logentry(p=0.1)->[RECIPIENT_nameDef][damage_source].</li>
+    <li>r_logentry->[RECIPIENT_nameDef]は[damage_source]｡[RECIPIENT_possessive][destroyed_targets]は[destroyed_past]｡</li>
+    <li>r_logentry->[RECIPIENT_nameDef]は[damage_source]｡[RECIPIENT_possessive][destroyed_targets]は[destroyed_past]｡[and_opt][damaged_targets]は[damaged_past]｡</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef]は[damage_source]｡[RECIPIENT_possessive][damaged_targets]は[damaged_past]｡</li>
+    <li>r_logentry(p=0.1)->[RECIPIENT_nameDef]は[damage_source]｡</li>
+    <li>and_opt->さらに</li>
+    <li>and_opt->加えて</li>
   </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
@@ -161,13 +180,13 @@
     <li>destroyed_present->exploding</li>
   -->
   <DamageEvent_TrapSpike.rulePack.rulesStrings>
-    <li>damage_source->は[spiketrap]で突き刺された</li>
-    <li>damage_source->は[spiketrap]に打ち付けられた</li>
+    <li>damage_source->は[spiketrap]に突き刺された</li>
+    <li>damage_source->は[spiketrap]をまともに食らった</li>
     <li>damage_source->は[spiketrap]の餌食になった</li>
     <li>spiketrap(p=3)->釘状のトラップ</li>
     <li>spiketrap(p=3)->スパイクトラップ</li>
-    <li>spiketrap->無数のトゲ</li>
-    <li>spiketrap->鋭利なトラップ</li>
+    <li>spiketrap->無数の棘</li>
+    <li>spiketrap->鋭利な罠</li>
     <li>spiketrap->先の尖った罠</li>
     <li>damaged_present->孔を開けている</li>
     <li>damaged_present->突いている</li>
