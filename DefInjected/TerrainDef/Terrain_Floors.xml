@@ -34,7 +34,7 @@
   <!-- EN: gold tile -->
   <GoldTile.label>黄金タイル</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>威圧的なほどの豪華さゆえに金のタイルを踏むのは気後れします｡あまりにも高価で､あまりにも美しく､本当にこんな床で暮らす者は真の俗物だと思われることでしょう｡</GoldTile.description>
+  <GoldTile.description>威圧的なほどの豪華さ故に､金のタイルを踏むのは気後れがします｡\n\nあまりにも高価で､あまりにも美しく､本当にこんな床で暮らす者は､筋金入りの俗物だと思われることでしょう｡</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>鉄製タイル</MetalTile.label>

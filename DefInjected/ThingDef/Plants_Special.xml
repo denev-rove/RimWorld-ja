@@ -9,6 +9,6 @@
   <!-- EN: ambrosia bush -->
   <Plant_Ambrosia.label>アンブロージアの低木</Plant_Ambrosia.label>
   <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
-  <Plant_Ambrosia.description>アンブロージアの果実を収穫できる､珍しい野生の植物です｡アンブロージアの果実は味も良く､ドラッグのように"心情"を盛り上げる効果があります｡アンブロージアを栽培することはできないため､自然のアンブロージア林は非常に貴重です｡\n\nその希少性､見た目の美しさ､病みつきになる特性は､アンブロージアという名前が古代ギリシャの神々の食物に由来する所以です｡</Plant_Ambrosia.description>
+  <Plant_Ambrosia.description>アンブロージアの果実を収穫できる､珍しい野生の植物です｡アンブロージアの果実は味も良く､ドラッグのように&lt;color=cyan>心情&lt;/color>を盛り上げる効果があります｡アンブロージアを栽培することはできないため､自然のアンブロージア林は非常に貴重です｡\n\nその希少性､見た目の美しさ､病みつきになる特性は､アンブロージアという名前が古代ギリシャの神々の食物に由来する所以です｡</Plant_Ambrosia.description>
   
 </LanguageData>

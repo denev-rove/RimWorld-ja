@@ -10,7 +10,7 @@
   <Ice.label>氷面</Ice.label>
   
   <!-- EN: marshy soil -->
-  <MarshyTerrain.label>泥濘</MarshyTerrain.label>
+  <MarshyTerrain.label>沼地</MarshyTerrain.label>
   <!-- EN: mud -->
   <MarshyTerrain.tools.mud.label>泥</MarshyTerrain.tools.mud.label>
   

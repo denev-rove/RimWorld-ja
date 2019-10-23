@@ -17,7 +17,7 @@
   <Hive.description>巨大昆虫の巣です｡活動を始めると､時間と共に新たな虫が生まれ､さらに巣自体も拡張します｡同様に貴重なインセクトゼリーも生み出します｡</Hive.description>
   
   <!-- EN: compacted machinery -->
-  <MineableComponentsIndustrial.label>圧壊した機械の層</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.label>圧潰した機械の層</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
   <MineableComponentsIndustrial.description>太古の機械が､長い歳月により押し潰されたものです｡使えそうな機械部品を掘り出せます｡</MineableComponentsIndustrial.description>
   
@@ -32,7 +32,7 @@
   <MineableJade.description>わずかにヒスイを含んだ岩石です｡</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
-  <MineablePlasteel.label>圧壊したプラスチール層</MineablePlasteel.label>
+  <MineablePlasteel.label>圧潰したプラスチール層</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
   <MineablePlasteel.description>古代の構造物が崩落した残骸です｡プラスチールを豊富に含んでいます｡</MineablePlasteel.description>
   
@@ -42,7 +42,7 @@
   <MineableSilver.description>わずかにシルバーを含んだ岩石です｡</MineableSilver.description>
   
   <!-- EN: compacted steel -->
-  <MineableSteel.label>圧壊したスチール層</MineableSteel.label>
+  <MineableSteel.label>圧潰したスチール層</MineableSteel.label>
   <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
   <MineableSteel.description>古代の構造物が崩落した残骸です｡スチールを豊富に含んでいます｡</MineableSteel.description>
   

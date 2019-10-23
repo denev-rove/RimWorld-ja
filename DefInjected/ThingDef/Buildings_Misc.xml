@@ -56,7 +56,7 @@
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>複合分析機</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>先端研究卓のそばに設置すると研究速度が向上し､さらに新たなプロジェクトが研究可能になります｡一つの研究卓に複数の複合分析機を設置しても効果はありません｡</MultiAnalyzer.description>
+  <MultiAnalyzer.description>先進研究卓のそばに設置すると研究速度が向上し､さらに進んだプロジェクトの研究も解禁されます｡一つの研究卓に複数の複合分析機を設置しても効果はありません｡</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
   <OrbitalTradeBeacon.label>軌道貿易 ビーコン</OrbitalTradeBeacon.label>

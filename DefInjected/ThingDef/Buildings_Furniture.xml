@@ -52,7 +52,7 @@
   <DoubleSleepingSpot.description>二人分の寝る場所を､地面の上に指定します｡寝心地は良くありません｡</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>衣装箪笥</Dresser.label>
+  <Dresser.label>衣裳箪笥</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
   <Dresser.description>衣服を収納する家具です｡ ベッドのそばに置くことで､僅かに快適性が向上します｡一つのベッドに複数の箪笥を置いても効果はありません｡</Dresser.description>
   

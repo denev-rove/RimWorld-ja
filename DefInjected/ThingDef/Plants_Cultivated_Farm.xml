@@ -14,7 +14,7 @@
   <!-- EN: devilstrand -->
   <Plant_Devilstrand.label>デビルストランド</Plant_Devilstrand.label>
   <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
-  <Plant_Devilstrand.description>この脆いマッシュルームは､絹のような繊維を産み出すよう遺伝子操作が施されました｡その繊維は引き裂くことが難しく､柔らかな肌触りをしています｡マッシュルームは育つのに非常に長い時間がかかりますが､この繊維を凌ぐのは外星産の超化学繊維しかありません｡\n\nデビルストランドという名前は､その赤い色が由来だと言われています｡あるいは､その布が人々の欲望を刺激するからだと言う人もいます｡</Plant_Devilstrand.description>
+  <Plant_Devilstrand.description>この脆いマッシュルームには､絹のような繊維を産み出すよう遺伝子操作が施されています｡その繊維は､簡単には引き裂けないほどの強度と､柔らかな肌触りを兼ね備えています｡このマッシュルームは､育つまでに非常に長い時間を必要としますが､この繊維より優れているのは､外星産の超科学繊維しかありません｡\n\nデビルストランドという名前は､その赤い色が由来だと言われています｡あるいは､その布が人々の欲望を掻き立てるからだと言う人もいます｡</Plant_Devilstrand.description>
   
   <!-- EN: haygrass -->
   <Plant_Haygrass.label>牧草</Plant_Haygrass.label>
@@ -49,16 +49,16 @@
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>ケムリクサの木</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>葉の生い茂る作物で､葉の中に含まれる化学物質の心理的効果を目的として栽培されています｡ケムリクサの葉は簡易作業場でジョイントに加工することができます｡ケムリクサは使用者の気持ちを落ち着かせますが､やる気を削ぎ､依存症を引き起こすこともあります｡</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>葉の生い茂る作物で､葉の中に含まれる化学物質が精神に及ぼす効果のため栽培されています｡ケムリクサの葉は簡易作業場で&lt;color=cyan>ジョイント&lt;/color>に加工することができます｡ケムリクサは使用者の気持ちを落ち着かせますが､やる気を削ぎ､依存症を引き起こすこともあります｡</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>苺</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>痛みやすいものの美味しいベリーの実がなる､落葉性の低木です｡他の作物のように実り多く栄養に富むというわけではありませんが､そのまま食べても苺は大変美味です｡</Plant_Strawberry.description>
+  <Plant_Strawberry.description>少々痛みやすいですが､美味しいベリーの実がなる落葉性の低木です｡他の作物のように実り多く栄養に富むというわけではありませんが､そのまま食べても苺は大変美味です｡</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
   <Plant_TreeCocoa.label>ココアの木</Plant_TreeCocoa.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
-  <Plant_TreeCocoa.description>チョコレートを産み出す熱帯の樹木で､遺伝子操作により実をさらに甘くし､やや寒い気候でも生き残るようにしました｡</Plant_TreeCocoa.description>
+  <Plant_TreeCocoa.description>チョコレートを産み出す熱帯の樹木です｡遺伝子操作により実は更に甘く､やや寒い気候でも育つようになっています｡</Plant_TreeCocoa.description>
   
 </LanguageData>

@@ -14,6 +14,6 @@
   <!-- EN: vanometric power cell -->
   <VanometricPowerCell.label>ワノメトリック発電器</VanometricPowerCell.label>
   <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
-  <VanometricPowerCell.description>燃料を消費することなく､半永久的にエネルギーを生み出します｡このテクノロジーは&lt;color=orange&gt;アルコテック&lt;/color&gt;のAI達によって開発され､&lt;color=orange&gt;グリッター文明&lt;/color&gt;に属する殆どの社会をも超越しています｡その動作原理を正確に知る者はいませんが､学者たちは何らかの方法で量子泡のゆらぎから直接エネルギーを取り出しているのではないかと考えています｡</VanometricPowerCell.description>
+  <VanometricPowerCell.description>燃料を消費することなく､半永久的にエネルギーを生み出します｡このテクノロジーは&lt;color=orange&gt;アルコテック&lt;/color&gt;のAI達によって開発されており､大部分の&lt;color=orange&gt;グリッター文明&lt;/color&gt;社会における技術水準すらも超越しています｡その動作原理を正確に知る者はいませんが､学者たちは何らかの方法で量子泡のゆらぎから直接エネルギーを取り出しているのではないかと考えています｡</VanometricPowerCell.description>
   
 </LanguageData>

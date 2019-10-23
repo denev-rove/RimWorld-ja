@@ -67,14 +67,14 @@
   <FermentingBarrel.description>麦汁を発酵させてビールにするための樽です｡</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
-  <FueledSmithy.label>燃料鍛造台</FueledSmithy.label>
+  <FueledSmithy.label>燃料式鍛造台</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>燃料に木材を使用する鍛造炉です｡機械式ではない武器や道具を鍛造します｡</FueledSmithy.description>
+  <FueledSmithy.description>燃料に木材を必要とする鍛造炉です｡機械式ではない武器や道具を鍛造します｡</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
-  <FueledStove.label>燃料コンロ</FueledStove.label>
+  <FueledStove.label>燃料式コンロ</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
-  <FueledStove.description>燃料に木材を使用するコンロです｡食事の準備をする調理台が備え付けられています｡</FueledStove.description>
+  <FueledStove.description>燃料に木材を必要とする焜炉です｡食事の準備をする調理台が備え付けられています｡</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
   <HandTailoringBench.label>仕立て台</HandTailoringBench.label>
@@ -82,9 +82,9 @@
   <HandTailoringBench.description>手縫いの衣服を仕立てるための作業台です｡電動仕立て台と比べて作業速度は50%しかありません｡</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
-  <HiTechResearchBench.label>先端研究卓</HiTechResearchBench.label>
+  <HiTechResearchBench.label>先進研究卓</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description>コンピュータと電子計測器を備えた最先端の設備です｡研究速度が向上するほか､高度なプロジェクトの研究を可能にします｡</HiTechResearchBench.description>
+  <HiTechResearchBench.description>コンピューターと電子計測器を備えた最先端の設備です｡研究速度が向上するほか､高度なプロジェクトの研究を可能にします｡</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
   <Hopper.label>食材ホッパー</Hopper.label>
@@ -99,7 +99,7 @@
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>自動給食機</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>食用となる栄養ペーストを合成する機械です｡隣接する食材ホッパーから原料となる肉や野菜を補充します｡料理するのに比べて原料と時間を節約できます｡しかし栄養ペーストを好んで食べたがる者は誰も居ません｡ 原料となるのは生の食材ですが､干し草などの植物は原料にはなりません｡</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>食用となる栄養ペーストを合成する機械です｡隣接する食材ホッパーから原料となる肉や野菜を補充します｡料理するのに比べて原料と時間を節約できます｡しかし栄養ペーストを好んで食べたがる者は誰も居ません｡原料となるのは生の食材ですが､干し草などの植物は原料にはなりません｡</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>研究卓</SimpleResearchBench.label>
