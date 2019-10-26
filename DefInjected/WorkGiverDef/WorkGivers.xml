@@ -200,9 +200,9 @@
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>ドラッグ合成</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
-  <DoBillsProduceDrugs.gerund>でドラッグを製造する</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.gerund>で ドラッグを 製造する</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>でドラッグを製造する</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.verb>で ドラッグを 製造する</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>燃料精製</DoBillsRefinery.label>

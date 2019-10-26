@@ -6,46 +6,46 @@
   <!-- EN: Maddened: Manhunter -->
   <Manhunter.baseInspectLine>精神状態: 人狩り</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <Manhunter.beginLetter>{0}は人狩りとなった！</Manhunter.beginLetter>
+  <Manhunter.beginLetter>{0}は人狩りとなりました！</Manhunter.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた｡</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えました｡</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
   <ManhunterPermanent.label>人狩り</ManhunterPermanent.label>
   <!-- EN: Maddened: Manhunter -->
   <ManhunterPermanent.baseInspectLine>狂気: 人狩り</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>{0}は人狩りとなった！</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetter>{0}は人狩りとなりました！</ManhunterPermanent.beginLetter>
   <ManhunterPermanent.beginLetterLabel>人狩り</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えた｡</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0}の血に飢えた人狩りは終わりを迎えました｡</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
-  <PanicFlee.label>パニックになり逃げ出した</PanicFlee.label>
+  <PanicFlee.label>恐慌による逃走</PanicFlee.label>
   <!-- EN: Mental state: Fleeing in panic -->
-  <PanicFlee.baseInspectLine>精神状態: パニック</PanicFlee.baseInspectLine>
+  <PanicFlee.baseInspectLine>精神状態: 恐慌による逃走</PanicFlee.baseInspectLine>
   <!-- EN: {0} is fleeing in panic. -->
-  <PanicFlee.beginLetter>{0}はパニックになって逃げだした.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetter>{0}は恐慌をきたして逃げ回ります｡</PanicFlee.beginLetter>
   <!-- EN: flee -->
-  <PanicFlee.beginLetterLabel>逃避</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetterLabel>逃走</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
-  <PanicFlee.recoveryMessage>{0}は正気を取り戻した.</PanicFlee.recoveryMessage>
+  <PanicFlee.recoveryMessage>{0}は､もう恐慌をきたして逃げ回るのをやめました｡</PanicFlee.recoveryMessage>
   
   <!-- EN: social fighting -->
-  <SocialFighting.label>ケンカ</SocialFighting.label>
+  <SocialFighting.label>喧嘩</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>精神状態: ケンカ</SocialFighting.baseInspectLine>
-  <SocialFighting.recoveryMessage>{0}と{1}はケンカをやめた.</SocialFighting.recoveryMessage>
+  <SocialFighting.baseInspectLine>精神状態: 喧嘩</SocialFighting.baseInspectLine>
+  <SocialFighting.recoveryMessage>{0}と{1}は喧嘩をやめました｡</SocialFighting.recoveryMessage>
   
   <!-- EN: confused wandering -->
-  <WanderConfused.label>混乱し歩きまわる</WanderConfused.label>
+  <WanderConfused.label>混乱による徘徊</WanderConfused.label>
   <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>精神状態: 混乱</WanderConfused.baseInspectLine>
+  <WanderConfused.baseInspectLine>精神状態: 混乱による徘徊</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>{0}は混乱して歩きまわる.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0}は混乱しながら辺りを徘徊します｡</WanderConfused.beginLetter>
   <!-- EN: confusion -->
-  <WanderConfused.beginLetterLabel>混乱</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetterLabel>混乱による徘徊</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
-  <WanderConfused.recoveryMessage>{0}は正気を取り戻した</WanderConfused.recoveryMessage>
+  <WanderConfused.recoveryMessage>{0}は､もう混乱して徘徊するのをやめました｡</WanderConfused.recoveryMessage>
   
 </LanguageData>

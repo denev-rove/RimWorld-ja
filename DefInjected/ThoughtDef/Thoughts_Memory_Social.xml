@@ -147,7 +147,7 @@
   <!-- EN: rebuffed by {0} -->
   <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>{0}に拒絶された</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
   <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
-  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>いい親密な関係を築こうとしたけど無視された.ひどいやつ.</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>親密な関係になりたくて近づいたのに､冷たくあしらわれた｡酷い人だ｡</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
   
   <!-- EN: recruited me -->
   <RecruitedMe.stages.recruited_me.label>仲間に誘われた</RecruitedMe.stages.recruited_me.label>

@@ -38,7 +38,7 @@
   <StuffStatFactors.label>素材による倍率</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>素材による上乗せ</StuffStatOffsets.label>
+  <StuffStatOffsets.label>素材による固定値</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
   <Surgery.label>手術</Surgery.label>

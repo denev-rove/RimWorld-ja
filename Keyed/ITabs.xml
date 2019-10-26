@@ -99,13 +99,13 @@
   <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>義体効率</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>失われている</MissingBodyPart>
+  <MissingBodyPart>失われた</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>破壊されている</DestroyedBodyPart>
+  <DestroyedBodyPart>破壊された</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>粉砕されている</ShatteredBodyPart>
+  <ShatteredBodyPart>粉砕された</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>切除されている</RemovedBodyPart>
+  <RemovedBodyPart>切除された</RemovedBodyPart>
   <!-- EN: Healthy -->
   <Healthy>健康</Healthy>
   <!-- EN: In pain -->
@@ -147,7 +147,7 @@
   <!-- EN: memory -->
   <MemoryLower>記憶</MemoryLower>
   <!-- EN: social interactions -->
-  <SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
+  <SocialInteractionsLower>人付き合い</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
   <HungerRate>空腹率</HungerRate>
   <!-- EN: Tiredness -->

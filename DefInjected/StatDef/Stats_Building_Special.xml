@@ -34,9 +34,9 @@
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: surgery success chance factor -->
-  <SurgerySuccessChanceFactor.label>手術成功への倍率</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>手術成功率への倍率</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>ここで手術を行う際に､手術成功率へ乗算する倍率です｡手術成功率は､執刀医の能力､使用する医薬品など他の要因の影響も受けます｡</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>ここで手術を行う際に､成功率へ乗算する倍率です｡手術の成功率は､執刀医の能力､使用する医薬品など他の要因の影響も受けます｡</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   

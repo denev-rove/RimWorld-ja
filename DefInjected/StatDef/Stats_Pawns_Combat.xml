@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
+  <AimingDelayFactor.label>照準倍率</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>攻撃対象を選んでから射撃するまでにかかる時間です｡</AimingDelayFactor.description>
+  <AimingDelayFactor.description>遠距離武器の照準時間(攻撃対象を選んでから射撃を行うまでに必要な時間)に乗算する倍率です｡</AimingDelayFactor.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>貫通率 (白兵戦)</MeleeArmorPenetration.label>

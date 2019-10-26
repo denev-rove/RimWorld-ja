@@ -29,14 +29,14 @@
   <!-- EN: Poison ship -->
   <PoisonShipPartCrash.letterLabel>土壌汚染する宇宙船</PoisonShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PoisonShipPartCrash.letterText>古代宇宙船の大きな船体の一部が､この近くに墜落しました｡\n\n墜落地点を中心に広がっていく不可思議な作用が､全ての植物を枯らすでしょう｡\n\n船体をできる限り速やかに破壊してください｡しかし気を付けて&#xA0;－&#xA0;おそらく自己防衛機能を持っているはずです｡</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterText>古代宇宙船の大きな船体の一部が､この付近に墜落しました｡\n\n墜落地点を中心に広がっていく不可解な作用により､あらゆる植物が枯れ果てるでしょう｡\n\n船体をできる限り速やかに破壊してください｡しかし気を付けて…おそらく船には自己防衛機能が備わっています｡</PoisonShipPartCrash.letterText>
   
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>船体の墜落 (思念攻撃)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->
   <PsychicEmanatorShipPartCrash.letterLabel>思念攻撃する宇宙船</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>古代宇宙船の大きな船体の一部が､この近くに墜落しました｡\n\n入植者たちは無意識にその影響を受け､暗黙のうちに行動を促されています｡墜落した船体には､思念波を照射する機能を持ったAI人格が間違いなく搭載されています｡そしてそのAIは友好的ではありません｡\n\n船体をできる限り速やかに破壊してください｡しかし気を付けて&#xA0;－&#xA0;おそらく自己防衛機能を持っているはずです｡</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>古代宇宙船の大きな船体の一部が､この付近に墜落しました｡\n\n入植者たちは無意識にその影響を受け､暗黙のうちに行動を促されています｡墜落した船体には､思念波を照射する機能を持ったAI人格が間違いなく搭載されています｡そしてそのAIは友好的ではありません｡\n\n船体をできる限り速やかに破壊してください｡しかし気を付けて…おそらく船には自己防衛機能が備わっています｡</PsychicEmanatorShipPartCrash.letterText>
   
   <!-- EN: enemy raid -->
   <RaidEnemy.label>敵の襲撃</RaidEnemy.label>

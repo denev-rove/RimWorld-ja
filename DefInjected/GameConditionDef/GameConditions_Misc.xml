@@ -4,7 +4,7 @@
   <!-- EN: aurora -->
   <Aurora.label>オーロラ</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>輝くオーロラが空を照らします｡息を呑むその光景は､外に出て観る者全ての"心情"を高めるでしょう｡</Aurora.description>
+  <Aurora.description>輝くオーロラが空を照らします｡息を呑むその光景は､外に出て観る者全ての&lt;color=cyan>心情&lt;/color>を高めるでしょう｡</Aurora.description>
   <!-- EN: The aurora is ending. -->
   <Aurora.endMessage>オーロラが終わりました｡</Aurora.endMessage>
   

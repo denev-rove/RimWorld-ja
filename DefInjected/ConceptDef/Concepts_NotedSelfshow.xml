@@ -9,17 +9,17 @@
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>制限エリア</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>入植者と家畜に対して､制限エリアを割り当てることができます｡これにより制限エリアの外側を移動の目的地とすることができなくなります｡\n\nこれは例えば､入植者に野外活動をさせないといった使い方ができます｡\n\n複数の制限エリアを作成することもでき､それぞれ異なる入植者や家畜に割り当てる事もできます｡\n\n制限エリアの作成､削除､割り当ては｢時間割・移動制限｣タブで行います｡\n\n制限エリアの範囲をマップ上に定義するのは｢設計｣タブの｢ゾーン｣から｢制限エリア｣｢制限エリア消去｣で行います｡</AllowedAreas.helpText>
+  <AllowedAreas.helpText>入植者と家畜に対して､制限エリアを割り当てることができます｡これにより制限エリアの外側を移動の目的地とすることができなくなります｡\n\nこれは例えば､入植者に野外活動をさせないといった使い方ができます｡\n\n複数の制限エリアを作成することもでき､それぞれ異なる入植者や家畜に割り当てる事もできます｡\n\n制限エリアの作成､削除､割り当ては｢時間割・移動制限｣タブで行います｡\n\n制限エリアの範囲をマップ上に定義するのは｢設計｣タブの｢ゾーン｣から｢制限エリア｣｢制限エリア縮小｣で行います｡</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
   <AnimalTaming.label>野生動物を手懐ける</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>野生動物を手懐けるために,「手懐ける」を指示できます.\n\n入植者は野生動物に餌を与えながら,手懐けようと試みます.\n\n【注意】一部の野性動物は,手懐けようと試みて失敗したとき,暴力的な反応をみせる可能性があります.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>野生動物を手懐けるために,｢手懐ける｣を指示できます.\n\n入植者は野生動物に餌を与えながら,手懐けようと試みます.\n\n【注意】一部の野性動物は,手懐けようと試みて失敗したとき,暴力的な反応をみせる可能性があります.</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
   <AnimalTraining.label>調教する</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
-  <AnimalTraining.helpText>家畜に特定のスキルを調教するために, 「調教」タブから指示できます.\n\n家畜を連続して調教し続けることはできません,調教の合間には時間をおく必要があります.</AnimalTraining.helpText>
+  <AnimalTraining.helpText>家畜に特定のスキルを調教するために, ｢調教｣タブから指示できます.\n\n家畜を連続して調教し続けることはできません,調教の合間には時間をおく必要があります.</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
   <CameraDolly.label>カメラを動かす</CameraDolly.label>
@@ -84,27 +84,27 @@
   <!-- EN: Growing zones -->
   <GrowingFood.label>農耕ゾーンを決める</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>作物を育てるには,農耕ゾーンが必要です. 「設計」タブから,「ゾーン」メニューの 「農耕ゾーン」を選んで配置します.\n\n農耕ゾーンは, 土があるところだけに配置できます.</GrowingFood.helpText>
+  <GrowingFood.helpText>作物を育てるには,農耕ゾーンが必要です. ｢設計｣タブから,｢ゾーン｣メニューの ｢農耕ゾーン｣を選んで配置します.\n\n農耕ゾーンは, 土があるところだけに配置できます.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
   <HistoryTab.label>歴史タブを覚える</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>画面下側にある,「歴史」タブの 「概略」ウインドウから,長い期間にわたって記録された,あなたのコロニーの運命を見ることが出来ます.</HistoryTab.helpText>
+  <HistoryTab.helpText>画面下側にある,｢歴史｣タブの ｢概略｣ウインドウから,長い期間にわたって記録された,あなたのコロニーの運命を見ることが出来ます.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
   <HomeArea.label>居住エリアを設定する</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>居住エリアとは,入植者が清掃や消火活動を行う範囲の事です.\n\n「設計」タブの「ゾーン」メニュー内,「居住エリア」コマンドで指定します.</HomeArea.helpText>
+  <HomeArea.helpText>居住エリアとは,入植者が清掃や消火活動を行う範囲の事です.\n\n｢設計｣タブの｢ゾーン｣メニュー内,｢居住エリア｣コマンドで指定します.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>危険への対処方法</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>襲いかかってくる動物など,危険に遭遇したときに自動的にとる対処方法を設定します.\n\n「逃走」「攻撃」「無視」を 「生活指導」 メニューの中で選びます.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>襲いかかってくる動物など,危険に遭遇したときに自動的にとる対処方法を設定します.\n\n｢逃走｣｢攻撃｣｢無視｣を ｢生活指導｣ メニューの中で選びます.</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
   <InfoCard.label>情報画面を開く</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>情報画面は,アイテム,人,構造物などの 統計情報を表示します.\n\n人やアイテムをクリックした後, 左下の「i」アイコンをクリックすると情報が表示されます.</InfoCard.helpText>
+  <InfoCard.helpText>情報画面は,アイテム,人,構造物などの 統計情報を表示します.\n\n人やアイテムをクリックした後, 左下の｢i｣アイコンをクリックすると情報が表示されます.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
   <InspectRoomStats.label>部屋のステータスを調べる</InspectRoomStats.label>
@@ -114,22 +114,22 @@
   <!-- EN: Manual work priorities -->
   <ManualWorkPriorities.label>行動パターンの手動設定</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
-  <ManualWorkPriorities.helpText>RimWorldにおける最も重要な部分のひとつは,入植者に合った作業を選択してあたえることです.\n\n下手な作業設定は,入植者が重要でもない作業に時間を費やしてる間,重要な作業を未完成のまま長い時間放置することになります.\n\n入植者の作業をより細かく与えるためには 「作業」タブ内,「詳細な設定」を使用します.\n\nこのモードでは,入植者は作業毎に優先値を持っています. 入植者は,優先値"1"の作業を,左から右への順に作業し,つぎに優先値"2"の作業を,左から右へと,あとは同様に行ないます.\n\n理にかなった優先値の設定は,よく自動化された,大きなコロニーには必要不可欠なものです.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.helpText>RimWorldにおける最も重要な部分のひとつは,入植者に合った作業を選択してあたえることです.\n\n下手な作業設定は,入植者が重要でもない作業に時間を費やしてる間,重要な作業を未完成のまま長い時間放置することになります.\n\n入植者の作業をより細かく与えるためには ｢作業｣タブ内,｢詳細な設定｣を使用します.\n\nこのモードでは,入植者は作業毎に優先値を持っています. 入植者は,優先値"1"の作業を,左から右への順に作業し,つぎに優先値"2"の作業を,左から右へと,あとは同様に行ないます.\n\n理にかなった優先値の設定は,よく自動化された,大きなコロニーには必要不可欠なものです.</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
   <MedicalOperations.label>外科手術を覚える</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>臓器移植や,義体化などの手術を指示するには, 入植者の「健康」タブを開いて,「手術」サブタブを開き 「新しい加工」ボタンを押します.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>臓器移植や,義体化などの手術を指示するには, 入植者の｢健康｣タブを開いて,｢手術｣サブタブを開き ｢新しい加工｣ボタンを押します.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>採掘する</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>「設計」タブの「命令」メニュー内,「採掘」コマンドから,どこで採掘するかを指示できます.\n\n鉄,金,プラスチール他,有用な金属を産出します.</Mining.helpText>
+  <Mining.helpText>｢設計｣タブの｢命令｣メニュー内,｢採掘｣コマンドから,どこで採掘するかを指示できます.\n\n鉄,金,プラスチール他,有用な金属を産出します.</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>服装</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
-  <Outfits.helpText>入植者は,自動的により新しい,より高品質の衣類をできるだけ身につけようとします.\n\nあなたは入植者に,部位毎に個別の衣服を指示する必要はありません(あなたがそうしたいのでなければ).\n\n入植者に服装を割り当てるには 「生活指導」タブを開き,「服装規定を管理」ダイアログを使って,新しい服装規定をつくり,それを入植者に割り当てます.</Outfits.helpText>
+  <Outfits.helpText>入植者は,自動的により新しい,より高品質の衣類をできるだけ身につけようとします.\n\nあなたは入植者に,部位毎に個別の衣服を指示する必要はありません(あなたがそうしたいのでなければ).\n\n入植者に服装を割り当てるには ｢生活指導｣タブを開き,｢服装規定を管理｣ダイアログを使って,新しい服装規定をつくり,それを入植者に割り当てます.</Outfits.helpText>
   
   <!-- EN: Pausing -->
   <Pause.label>一時停止</Pause.label>
@@ -149,17 +149,17 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>備蓄ゾーンを決める</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>コロニーを建設する近くに, アイテムを保管する場所が必要です. アイテムを保管するための 備蓄ゾーンを作ります.\n\n備蓄ゾーンは,左下にある「設計」タブの「ゾーン」メニューの中にあります.</Stockpiles.helpText>
+  <Stockpiles.helpText>コロニーを建設する近くに, アイテムを保管する場所が必要です. アイテムを保管するための 備蓄ゾーンを作ります.\n\n備蓄ゾーンは,左下にある｢設計｣タブの｢ゾーン｣メニューの中にあります.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
   <StorageTab.label>保管の詳細設定を覚える</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>備蓄ゾーンや保管庫を選択し,左下のウインドウにある「保管」タブを開くことで,詳細設定することができます.\n\n詳細設定画面では,カテゴリー名の左にある三角のアイコンをクリックし広げることで,カテゴリー毎にアイテムの許可・不許可を設定できます.\n\nまた優先度を変えると,入植者は,先に優先度の高い場所から埋めるようになるため,低い優先度のものを,高い優先度の場所に移動させます.</StorageTab.helpText>
+  <StorageTab.helpText>備蓄ゾーンや保管庫を選択し,左下のウインドウにある｢保管｣タブを開くことで,詳細設定することができます.\n\n詳細設定画面では,カテゴリー名の左にある三角のアイコンをクリックし広げることで,カテゴリー毎にアイテムの許可・不許可を設定できます.\n\nまた優先度を変えると,入植者は,先に優先度の高い場所から埋めるようになるため,低い優先度のものを,高い優先度の場所に移動させます.</StorageTab.helpText>
   
   <!-- EN: Time assignments -->
   <TimeAssignments.label>時間割</TimeAssignments.label>
   <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
-  <TimeAssignments.helpText>入植者が行なうアクティビティ毎に時間割を設定するには,「時間割・移動制限」タブを開きます.</TimeAssignments.helpText>
+  <TimeAssignments.helpText>入植者が行なうアクティビティ毎に時間割を設定するには,｢時間割・移動制限｣タブを開きます.</TimeAssignments.helpText>
   
   <!-- EN: Time controls -->
   <TimeControls.label>倍速を覚える</TimeControls.label>
@@ -169,6 +169,6 @@
   <!-- EN: Work settings -->
   <WorkTab.label>作業を見直す</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>「作業」タブから,入植者ごとの作業を確認することできます.\n\n彼らは常に, 見つけた作業の中で 優先値の高いものから 順に行おうとします. \n\nもしも,誰一人として, その作業に割り当ててないか, 又は,より優先度の高い作業が忙しいとき, その作業は放置されます.</WorkTab.helpText>
+  <WorkTab.helpText>｢作業｣タブから,入植者ごとの作業を確認することできます.\n\n彼らは常に, 見つけた作業の中で 優先値の高いものから 順に行おうとします. \n\nもしも,誰一人として, その作業に割り当ててないか, 又は,より優先度の高い作業が忙しいとき, その作業は放置されます.</WorkTab.helpText>
   
 </LanguageData>

@@ -4,17 +4,17 @@
   <!-- EN: Cancel -->
   <DesignatorCancel>取り消し</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>建物の設計､採掘､物資の運搬､農作物の収穫など､あらゆる指示を取り消します｡</DesignatorCancelDesc>
+  <DesignatorCancelDesc>構造物の設計､資源の採掘､物資の運搬､農作物の収穫など､あらゆる指示を取り消します｡</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>植物の除去</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>あらゆる植物を除去するよう指示します｡ 指示した範囲の植物は完全に取り除かれます｡資源を採取できる植物は収穫されます｡</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>あらゆる植物を除去するよう指示します｡指示した範囲の植物は完全に取り除かれます｡資源を採取できる植物は収穫されます｡</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>解体</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>建物を解体するよう指示します｡解体すると建材の一部を回収できます｡</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>構造物を解体するよう指示します｡解体すると建材の一部を回収できます｡</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
   <DesignatorUninstall>撤去</DesignatorUninstall>
@@ -76,44 +76,44 @@
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>居住エリア</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>入植者が建物を修復し､床を掃除し､消火活動を行うのは居住エリアの内側のみです｡</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>入植者が構造物を修復し､床を掃除し､消火活動を行うのは居住エリアの内側のみです｡</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>居住エリア 消去</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>居住エリア 縮小</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>居住エリアを消去します｡消去された範囲は､もう入植者が掃除､修復､消火することはありません｡</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>居住エリアを縮小します｡ エリアから外れた範囲は､もはや入植者が掃除､修復､消火することはありません｡</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>屋根 設置エリア</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>屋根エリア (設置)</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>入植者が新たに屋根を取り付けようとする範囲です｡</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>屋根 撤去エリア</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>屋根エリア (撤去)</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>入植者が既存の屋根を取り外そうとする範囲です｡ （頭上に山がある場合は取り外せません）</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>入植者が既存の屋根を取り外そうとする範囲です｡(頭上に山がある場合は取り外せません)</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>屋根エリア 消去</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>屋根エリア 縮小</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>屋根エリアを消去します｡ 消去された範囲は､もう入植者が屋根を取り付けることも取り外すこともしません｡</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>屋根エリアを縮小します｡ エリアから外れた範囲は､もはや入植者が屋根を取り付けることも取り外すこともしません｡</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>除雪エリア</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする範囲を指定します｡</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>除雪エリア 消去</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>除雪エリア 縮小</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>除雪エリアを消去します｡ 消去された範囲は､もう入植者が雪かきすることはありません｡</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>除雪エリアを縮小します｡ エリアから外れた範囲は､もはや入植者が雪かきすることはありません｡</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>制限エリア</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>制限エリアを拡張します｡\n\n制限エリアは､自由に範囲を指定して入植者に割り当てることができます｡入植者は､割り当てられたエリアの外側で作業することも､欲求を満たそうとすることもありません｡</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>制限エリアを拡張します｡\n\n作成した制限エリアは､入植者一人ひとりに割り当てることができます｡入植者は､割り当てられたエリアから外に出ることは決してありません｡</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>制限エリア 消去</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>制限エリア 縮小</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>制限エリアを消去します｡</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>制限エリアを縮小します｡\n\n作成した制限エリアは､入植者一人ひとりに割り当てることができます｡入植者は､割り当てられたエリアから外に出ることは決してありません｡</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>制限エリアの管理…</ManageAreas>
 
@@ -127,11 +127,11 @@
   <DesignatorZoneCreateStorageDumpingDesc>入植者が当面は必要ないガラクタを備蓄しておく区域を作成します｡\n既に存在する廃棄ゾーンを拡張することもできます｡</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>ゾーン 消去</DesignatorZoneDelete>
+  <DesignatorZoneDelete>ゾーン 縮小</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>ゾーン 消去</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>ゾーン 縮小</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>備蓄ゾーン､廃棄ゾーンまたは農耕ゾーンを消去します｡</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>備蓄ゾーン､廃棄ゾーンまたは農耕ゾーンを縮小します｡</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>ゾーン拡張</DesignatorZoneExpand>
@@ -139,7 +139,7 @@
   <!-- EN: Claim -->
   <DesignatorClaim>領有を主張</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>所有者のいない構造物（古い遺跡や放棄された入植地）の領有を主張します｡ こうすることで入植者は構造物の修復や維持を行うことができます｡</DesignatorClaimDesc>
+  <DesignatorClaimDesc>所有者のいない構造物(古い遺跡や放棄された入植地)の領有を主張します｡こうすることで､入植者は構造物の修復や維持を行えるようになります｡</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>床材の除去</DesignatorRemoveFloor>

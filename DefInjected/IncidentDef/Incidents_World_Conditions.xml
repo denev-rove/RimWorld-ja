@@ -6,7 +6,7 @@
   <!-- EN: Aurora -->
   <Aurora.letterLabel>オーロラ</Aurora.letterLabel>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>美しいオーロラが空を照らしています｡\n\n外でそれを眺める者は心情が高まり､波打つ色の帯が夜をいっそう明るいものとするでしょう｡</Aurora.letterText>
+  <Aurora.letterText>美しいオーロラが空を照らしています｡\n\n波打つ色の帯が､夜をいっそう明るいものとするでしょう｡外でそれを眺める者は&lt;color=cyan>心情&lt;/color>が高まります｡</Aurora.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>日食</Eclipse.label>

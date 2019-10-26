@@ -36,7 +36,8 @@
   <!-- EN: market value -->
   <MarketValue.label>金額</MarketValue.label>
   <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>この物品の取引市場における価値です｡実際の取引価格は､社交スキル､取引相手との関係性､その他の状況などの要因で変動します｡</MarketValue.description>
+  <MarketValue.description>この物品が売買される際の価値です｡実際の取引価格は､社交スキル､取引相手との関係性など､他の要因でも変動します｡</MarketValue.description>
+
   <!-- EN: ${0} -->
   <MarketValue.formatString>${0}</MarketValue.formatString>
   

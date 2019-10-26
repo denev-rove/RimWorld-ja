@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>道具</Tool>
+  <Tool>部位</Tool>
   <!-- EN: damage -->
   <DamageLower>ダメージ</DamageLower>
   <!-- EN: seconds per attack -->
@@ -41,7 +41,7 @@
   <!-- EN: Final value -->
   <StatsReport_FinalValue>最終的な値</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>素材と手間</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>素材と工数</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>品質による倍率</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
@@ -85,7 +85,7 @@
   <!-- EN: Scenario -->
   <StatsReport_ScenarioFactor>シナリオによる倍率</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>素材</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
   <StatsReport_PermanentlyDisabled>永久無効</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
@@ -93,7 +93,7 @@
   <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>追加された身体部位</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>素材による倍率</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>装備種別による倍率</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
   <StatsReport_Resting>休息</StatsReport_Resting>
   <!-- EN: recreation type -->
@@ -101,9 +101,9 @@
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>撤去作業の工数</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>{0}成長率への倍率</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>成長段階({0})による倍率</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>野生植物の換算率</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
   <StatsReport_NotFlesh>非食用</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->

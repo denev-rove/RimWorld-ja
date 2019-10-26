@@ -4,11 +4,11 @@
   <!-- EN: Mad {ANIMAL_labelShort} -->
   <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort}の暴走</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>この地域の{ANIMAL_label}が狂気に駆られました｡目にした人物を手当たり次第に攻撃します｡</AnimalInsanitySingle>
+  <AnimalInsanitySingle>&lt;color=cyan>{ANIMAL_label}&lt;/color>が狂気に駆られました｡目にした人物を手当たり次第に攻撃します｡</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0}の大暴走</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>何らかの思念波と思われるものが､この辺り一帯に吹き荒れました｡\n\n入植者たちは無事です｡しかし…\n\n多くの{0}は狂気に駆られ､暴れだしたようです｡</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>何らかの思念波と思われるものが､この辺り一帯に吹き荒れました｡\n\n入植者たちは無事です｡しかし…\n\n多くの&lt;color=cyan>{0}&lt;/color>は狂気に駆られ､暴れだしたようです｡</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
   <LetterLabelCropBlight>疫病</LetterLabelCropBlight>
@@ -31,9 +31,9 @@
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>輸送ポッドの墜落</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>{PAWN_nameDef}という名の{PAWN_titleIndef}を乗せた輸送ポッドが付近に墜落しています｡\nもし{PAWN_pronoun}が墜落の衝撃から生き残ったとしても､重傷を負っているでしょう｡</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_nameDef}という名の{PAWN_titleIndef}を乗せた輸送ポッドが付近に墜落しました｡もし{PAWN_pronoun}が墜落の衝撃から生き残ったとしても､重傷を負っているでしょう｡</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef}は､どこの派閥にも属していません｡{PAWN_objective}を助ければ自発的に仲間に加わるかもしれません｡捕縛して囚人とすれば､仲間に加わるまで勧誘することも､奴隷として売り払うこともできます｡</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef}は､どこの派閥にも属していません｡{PAWN_objective}助ければ自発的に仲間に加わるかもしれません｡捕縛して囚人とすれば､仲間に加わるまで勧誘することも､奴隷として売り払うこともできます｡</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef}は敵対する{PAWN_factionName}に属しています｡{PAWN_objective}捕縛して囚人とすれば､仲間に加わるまで勧誘することも､奴隷として売り払うこともできます｡</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
@@ -58,10 +58,10 @@
   <ShortCircuitWasHuge>これは本当に巨大な爆発です｡うわぁお｡</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
-  <TraderArrival>軌道商船が付近の上空を通過しようとしています｡\n\n彼らは {0} という名で知られています｡{1}です｡</TraderArrival>
+  <TraderArrival>軌道商船が､付近の上空を通過しようとしています｡\n\n彼らは､{0} という 名で 知られて います｡ {1}です｡</TraderArrival>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>{1}に所属する{PAWN_title}が､このエリアを通りかかりました｡{PAWN_pronoun}は{PAWN_nameFull}と名乗っています.</SingleTravelerPassing>
+  <SingleTravelerPassing>{1}に所属する{PAWN_title}が､このエリアを通りかかりました｡{PAWN_pronoun}は{PAWN_nameFull}と名乗っています｡</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
   <GroupTravelersPassing>{0}に所属する旅人の一行が､このエリアを通りかかりました｡</GroupTravelersPassing>
 
@@ -87,7 +87,7 @@
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>人狩りの群れ</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>人狩り{0}の群れがやって来ました｡\n奴らは､この地域を徘徊しながら獲物である人間を狩ります｡\n\n誰かが中に入るのを見たりしない限り､扉を攻撃することはありません｡屋内に潜んでいれば安全です｡奴らはまた､通電されていない砲塔を攻撃することもないので､温存したいなら電源を落としておきましょう｡\n\n{0}の群れは､1日か2日もすれば居なくなります｡立ち去るまで身を隠しても､戦いを挑んでも構いません｡</ManhunterPackArrived>
+  <ManhunterPackArrived>人狩り&lt;color=cyan>{0}&lt;/color>の群れがやって来ました｡\n奴らは､この地域を徘徊しながら獲物である人間を狩ります｡\n\n誰かが中に入るのを見たりしない限り､扉を攻撃することはありません｡屋内に潜んでいれば安全です｡奴らはまた､通電されていない砲塔を攻撃することもないので､温存したいなら電源を落としておきましょう｡\n\n{0}の群れは､1日か2日もすれば居なくなります｡立ち去るまで身を隠しても､戦いを挑んでも構いません｡</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
@@ -113,18 +113,18 @@
   <!-- EN: Psychic drone -->
   <LetterLabelPsychicDrone>思念干渉波</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>入植者の全ての{0}が不快感に顔をしかめています！\n\nどこか遠くにある､憎悪を司る動力機関が活性化しています｡それはこの地域一帯に強力な思念干渉波を照射しており､周波数の関係で{0}だけに影響を及ぼしているようです｡\n\n数日の間､影響を受ける人々の"心情"は相当に悪くなるでしょう｡\n\n干渉波の強度: {1}</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>入植者の{0}全員が不快感に顔を顰めています！\n\nどこか遠くにある､憎悪を司る動力機関が活性化しています｡それはこの地域一帯に強力な思念干渉波を照射しており､周波数の関係で{0}だけに影響を及ぼしているようです｡\n\n数日の間､影響を受ける人々の&lt;color=cyan>心情&lt;/color>は相当に悪くなるでしょう｡\n\n干渉波の強度: {1}</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>思念安静波</LetterLabelPsychicSoothe>
   <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>入植者の全ての{0}が満足げな微笑みを浮かべています！\n\nどこか遠くにある､幸福を司る動力機関が活性化しています！それはこの地域一帯に強力な思念安静波を照射しており､周波数の関係で{0}だけに影響を及ぼしているようです｡\n\n数日の間､影響を受ける人々の"心情"は相当に改善するでしょう｡</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>入植者の{0}全員が満足げな微笑みを浮かべています！\n\nどこか遠くにある､幸福を司る動力機関が活性化しています！それはこの地域一帯に強力な思念安静波を照射しており､周波数の関係で{0}だけに影響を及ぼしているようです｡\n\n数日の間､影響を受ける人々の&lt;color=cyan>心情&lt;/color>は相当に改善するでしょう｡</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>ビーバーだ！</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>腹を空かせたアルファビーバーの群れが現れました｡\n\nこの地の樹木が一本残らず食い尽くされる前に､駆除を試みましょう｡</BeaversArrived>
+  <BeaversArrived>腹を空かせた&lt;color=cyan>アルファビーバー&lt;/color>の群れが現れました｡\n\nこの地の樹木が一本残らず食い尽くされる前に､駆除を試みましょう｡</BeaversArrived>
   
   <!-- Refugee chased -->
   <!-- EN: Refugee chased at {0} -->
@@ -136,35 +136,35 @@
   <!-- EN: Ignore the message -->
   <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
   <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>通信装置を切る間際､耳障りなスピーカーからは{1_labelShort}の狂乱した叫び声が聞こえてきました｡</RefugeeChasedRejected>
+  <RefugeeChasedRejected>通信装置を切る間際､耳障りな音のスピーカーからは､{1_labelShort}の狂乱した叫び声が聞こえてきました｡</RefugeeChasedRejected>
 
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>勝手に懐く{1_kind}</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>{0}に懐かれました｡</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>&lt;color=cyan>{0}&lt;/color>に懐かれました｡</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{0}に懐かれました｡\n{ANIMAL_nameFull}という仮名を付けました｡</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>&lt;color=cyan>{0}&lt;/color>に懐かれました｡\n{ANIMAL_nameFull}という仮名を付けました｡</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{0}に懐かれました｡{ANIMAL_nameFull}と名付けました｡</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>&lt;color=cyan>{0}&lt;/color>に懐かれました｡{ANIMAL_nameFull}と名付けました｡</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>迷い込んだ{0}</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>見捨てられたか､迷子になった{0}の群れが､この地に迷い込んできました｡\n\n人間には慣れているらしく､勝手にコロニーに加わりました｡</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>見捨てられたか､迷子になった&lt;color=cyan>{0}&lt;/color>の群れが､この地に迷い込んできました｡\n\n人間には慣れているらしく､勝手にコロニーに加わりました｡</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>スランボが迷い込んできました｡\n\n基本的には大人しい動物ですが､この珍しい生き物と戦うのは極めて危険な行為です｡スランボの貴重な毛皮や角のためなら､喜んで多額の対価を支払おうとする商人もいます｡\n\nスランボは数日もすればこの地を去るでしょう｡</LetterThrumboPasses>
+  <LetterThrumboPasses>&lt;color=cyan>スランボ&lt;/color>が迷い込んできました｡\n\n基本的には大人しい動物ですが､この珍しい生き物と戦うのは極めて危険な行為です｡スランボの貴重な毛皮や角のためなら､喜んで多額の対価を支払おうとする商人もいます｡\n\nスランボは数日もすればこの地を去るでしょう｡</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>{0}に所属するキャラバン隊が接触してきました｡彼らは{1}です｡\n\nキャラバン隊は､この地を離れるまでの数日間､コロニーの周囲をうろつくつもりです｡彼らを襲撃することもできますが､所属する派閥を怒らせることになるでしょう｡</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0}に所属するキャラバン隊が近づいてきました｡彼らは{1}です｡\n\nキャラバン隊は､この地を離れるまでの数日間､コロニーの周囲をうろつくつもりです｡彼らを襲撃することもできますが､所属する派閥を怒らせることになるでしょう｡</LetterTraderCaravanArrival>
   
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -178,7 +178,7 @@
   
   <!-- Journey-related -->
   <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
-  <JourneyOffer>かつてあなたと親交を結んでいたシャルロン･ホワイトストーンという名前のAIが､メッセージを送ってきました！\n\シャルロンはこの惑星に宇宙船を隠し持っていることを打ち明け､その座標を送信してきました｡\n\n宇宙船は現在､深い休眠状態にあります｡実際にその地を訪れて宇宙船を目覚めさせ､完全に起動が完了するまで､それを奪おうとする襲撃者たちから守り抜く必要があるでしょう｡\n\nもし宇宙船を離陸させることができれば､シャルロンはこの辺境世界から他の恒星系へ連れ出してくれるでしょう｡</JourneyOffer>
+  <JourneyOffer>かつてあなたと親交を結んでいたシャルロン･ホワイトストーンという名前のAIが､通信文を送ってきました！\n\nシャルロンはこの惑星に宇宙船を隠し持っていることを明かし､その座標を送信してきました｡\n\n宇宙船は現在､深い休眠状態にあります｡実際にその地を訪れて宇宙船を目覚めさせなければなりません｡さらに､完全に起動が完了するまで､それを奪おうとする襲撃者たちから守り抜く必要があるでしょう｡\n\nもし宇宙船を離陸させることができれば､シャルロンはこの&lt;color=orange>辺境星域&lt;/color>から他の恒星系へ連れ出してくれるはずです｡</JourneyOffer>
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
@@ -192,7 +192,7 @@
   <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>キャラバン隊が{0}と出会う</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0}は､{1}のキャラバン隊と遭遇しました｡相手のキャラバン隊は次のような編成です:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>{0}は､{1}に所属するキャラバン隊と遭遇しました｡相手のキャラバン隊は次のような編成です:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>取引する</CaravanMeeting_Trade>
   <!-- EN: Attack -->
@@ -206,19 +206,19 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣依頼</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>付近にある{0}が特別な取引の依頼を持ちかけてきました｡\n\n要望する品物:\n  {1} (価値 {2})\n\n提示する見返り:\n  {3} (価値 {4})\n\n納期: {5}\n\n\n依頼に応じるなら､相手が要望する品物を携えてキャラバン隊を派遣してください｡\n到着までの予想時間は{6}です｡\nこの依頼は､世界地図で{0}を選択すると再確認できます｡</LetterCaravanRequest>
+  <LetterCaravanRequest>付近にある{0}が特別な取引の依頼を持ちかけてきました｡\n\n要望する品物:\n  {1} (価値 {2})\n\n提供する報酬:\n  {3} (価値 {4})\n\n納期: {5}\n\n\n依頼に応じるなら､相手が要望する品物を携えてキャラバン隊を派遣してください｡\n到着までの予想時間は{6}です｡\nこの依頼は､世界地図で{0}を選択すると再確認できます｡</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
   <CaravanRequestInfo>要望:&#xA0;{0}({3})\n報酬:&#xA0;{1}({4})\n納期:&#xA0;残り{2}</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>標準以上の品質</NormalQualityOrBetter>
   <!-- EN: not tainted -->
-  <NotTainted>遺品不可</NotTainted>
+  <NotTainted>&lt;color=#C949A2>遺品&lt;/color>不可</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
   <CaravanDemandTitle>{0}によるキャラバン隊への恐喝</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0}は､{2}人の{4}からなる{1}の一行に待ち伏せされました｡次の積み荷を渡さないと攻撃してきます:\n\n{3}</CaravanDemand>
+  <CaravanDemand>{0}は､{1}に所属する{2}人の{4}からなる一行に待ち伏せされました｡次の積み荷を渡さないと攻撃してきます:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
   <CaravanDemand_Give>渡して先へ進む</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->

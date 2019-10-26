@@ -209,9 +209,9 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>{0}へ貢ぎ物を届けている</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>死体が着用していた遺品のため､穢れています｡</WasWornByCorpse>
+  <WasWornByCorpse>死体が着用していた&lt;color=#C949A2>遺品&lt;/color>のため､穢れています｡</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>遺</WornByCorpseChar>
+  <WornByCorpseChar>&lt;color=#C949A2>遺&lt;/color></WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
   <!-- EN: outdoors -->
@@ -503,7 +503,7 @@
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>結婚式に参加している</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
   <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
   <!-- EN: Forming caravan -->
@@ -579,13 +579,13 @@
   <!-- EN: Unconscious -->
   <Unconscious>意識不明</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>痛みでショック</PainShock>
+  <PainShock>痛みによるショック症状</PainShock>
   <!-- EN: Pain shock -->
   <PainShockShort>激痛</PainShockShort>
   <!-- EN: Incapacitated -->
   <Incapacitated>倒れている</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>拘束中 （移動速度減）</InRestraints>
+  <InRestraints>拘束中 (移動速度減)</InRestraints>
   <!-- EN: Carrying -->
   <Carrying>運搬中</Carrying>
   <!-- EN: Affected by: -->
@@ -593,7 +593,7 @@
   <!-- EN: Queued -->
   <Queued>次の行動</Queued>
   <!-- EN: State -->
-  <State>ステータス</State>
+  <State>状態</State>
   <!-- EN: stun -->
   <StunLower>麻痺</StunLower>
 
@@ -679,7 +679,7 @@
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>成長度  {0}</PercentGrowth>
+  <PercentGrowth>成長段階: {0}</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>成長速度</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
@@ -689,7 +689,7 @@
   <!-- EN: Resting -->
   <PlantResting>休養中 (成長停止)</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>気温が適していません｡(成長速度: {0}% )</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>気温が適していません｡(成長倍率: {0}%)</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>気温が適していません｡(成長停止)</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
@@ -703,9 +703,9 @@
   <!-- EN: Year-round -->
   <GrowYearRound>一年中</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>栽培に適した時期です｡</GrowSeasonHereNow>
+  <GrowSeasonHereNow>栽培に適した気温です｡</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>生育不可 (気温不適合)</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>栽培できません｡ (気温不適合)</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
   <Blighted>疫病</Blighted>
   <!-- EN: Dying because exposed to light -->
@@ -845,7 +845,7 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>シャルロン・ホワイトストーンは､休眠状態の反応炉を復帰させる準備を整えました｡\n\nシャルロンによれば､反応炉が完全に復帰を果たすまで約15日ほどかかり､その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう｡\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ､命知らずのギャングどもや､凶悪なメカノイドの群れを呼び寄せることになります｡\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます｡まずは万全の防衛体制を築いてください｡</HibernateWarning>
+  <HibernateWarning>シャルロン･ホワイトストーンは､休眠状態の反応炉を復帰させる準備を整えました｡\n\nシャルロンによれば､反応炉が完全に復帰を果たすまで約15日ほどかかり､その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう｡\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ､命知らずのギャングどもや､凶悪なメカノイドの群れを呼び寄せることになります｡\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます｡まずは万全の防衛体制を築いてください｡</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>反応炉の出力を上昇させる準備が整いました｡\n\n反応炉の出力が十分に上昇するまで約15日ほどかかり､その間に発生するエネルギー波は相当な遠方からも探知されてしまうことでしょう｡\n\nこの種のエネルギー波は恒星間航行の可能性を想起させ､命知らずのギャングどもや､凶悪なメカノイドの群れを呼び寄せることになります｡\n\n今まで見たこともないほどの熾烈な戦闘に巻き込まれることが予想されます｡まずは万全の防衛体制を築いてください｡</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->

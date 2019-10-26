@@ -18,21 +18,21 @@
   <!-- EN: construction -->
   <Construction.label>建築</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>建物や構造物を､建設あるいは解体します｡</Construction.description>
+  <Construction.description>建物や構造物を建設あるいは解体します｡</Construction.description>
   <!-- EN: construction -->
   <Construction.skillLabel>建築</Construction.skillLabel>
   
   <!-- EN: cooking -->
   <Cooking.label>料理</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>食中毒を起こすことなく､生の食材から手早く食事を作ります｡</Cooking.description>
+  <Cooking.description>生の食材から､手早く食事を作ります｡また､食中毒の危険も取り除きます｡</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.skillLabel>料理</Cooking.skillLabel>
   
   <!-- EN: crafting -->
   <Crafting.label>工作</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>武器､機械部品､精製された資源を含む全般的な物資の作製を行います｡</Crafting.description>
+  <Crafting.description>武器､機械部品､精製された資源を含む､全般的な物資の作製を行います｡</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.skillLabel>工作</Crafting.skillLabel>
   
@@ -67,7 +67,7 @@
   <!-- EN: plants -->
   <Plants.label>植物</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>種を蒔き､育て､作物を収穫します｡ 旅の間は食用の植物を採集します｡</Plants.description>
+  <Plants.description>種を蒔き､育て､作物を収穫します｡旅の間は食用の植物を採集します｡</Plants.description>
   <!-- EN: plants -->
   <Plants.skillLabel>植物</Plants.skillLabel>
   

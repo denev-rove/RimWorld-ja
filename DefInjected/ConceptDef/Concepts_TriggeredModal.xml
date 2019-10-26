@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: Arresting worsens faction relations -->
-  <ArrestingCreatesEnemies.label>拉致監禁による関係悪化</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.label>拘束による関係悪化</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
-  <ArrestingCreatesEnemies.helpText>【警告】 あなたが,他人を拘束しようとするなら,穏やかには済まなくなるでしょう.\n\n入植者ではない者を拘束した場合,彼らはあなたの敵対派閥になります.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>【警告】誰かの拘束を試みた場合､そのまま何事もなく終わるとは限りません｡\n\n入植者ではない者を拘束した場合､その者の所属する派閥全体が敵対することになるでしょう｡</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>コロニー最大数</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>プレイヤー入植地の最大数</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
-  <MaxNumberOfPlayerSettlements.helpText>【警告】 Rimworldは,一度にひとつのコロニーで遊べるようにデザインされました.複数のコロニーを持つことも可能ですが,これはゲーム全体のアンバランスとパフォーマンス低下を引き起こすと思われます.私達は,少なくとも最初は一つのコロニーでゲームすることをお勧めします.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>【警告】Rimworldは､同時に一つの入植地だけで遊ぶよう設計されています｡複数の入植地を持つことも可能ですが､処理速度の低下を引き起こし､ゲームの内容も破綻しやすくなるでしょう｡少なくとも最初は一つの入植地だけで遊ぶことをお勧めします｡</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>スイッチ操作</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>入/切の指示は指示でしかない</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>注意： 入植者達だけがスイッチの切り替えを行えます.\n\n(作業種別"雑用"を与えられた)入植者が手で直接スイッチを切り替えるまで何も起こりません.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>〔注意〕これは単に､スイッチを切り替えるよう入植者に指示するだけです｡\n\n実際に入植者が手動でスイッチを切り替えるまでは､何も起きません｡</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>星間貿易</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>商品と軌道貿易ビーコン</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <TradeGoodsMustBeNearBeacon.helpText>惑星軌道上の商船まで物資やシルバーを送り届けるには､それらの物資を備蓄している場所の近くに"軌道貿易ビーコン"を設置する必要があります｡</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>惑星軌道上の商船まで物資やシルバーを送り届けるには､それらの物資を備蓄している場所の近くに&lt;color=cyan>軌道貿易ビーコン&lt;/color>を設置する必要があります｡</TradeGoodsMustBeNearBeacon.helpText>
   
 </LanguageData>

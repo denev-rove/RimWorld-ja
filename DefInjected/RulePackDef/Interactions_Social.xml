@@ -5,7 +5,7 @@
     <li>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</li>
   -->
   <Sentence_SocialFightStarted.rulePack.rulesStrings>
-    <li>sent->[RECIPIENT_nameDef]を怒りに駆り立て,[RECIPIENT_pronoun]はケンカを始めた!</li>
+    <li>sent->このことが[RECIPIENT_nameDef]を激昂させ､[RECIPIENT_pronoun]は喧嘩を始めました！</li>
   </Sentence_SocialFightStarted.rulePack.rulesStrings>
   
 </LanguageData>

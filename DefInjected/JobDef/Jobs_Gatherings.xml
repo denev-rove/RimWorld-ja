@@ -5,7 +5,7 @@
   <MarryAdjacentPawn.reportString>TargetAと結婚式を挙げている</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
-  <SpectateCeremony.reportString>結婚式に参列している</SpectateCeremony.reportString>
+  <SpectateCeremony.reportString>見守っている</SpectateCeremony.reportString>
   
   <!-- EN: relaxing socially. -->
   <StandAndBeSociallyActive.reportString>くつろいでいる</StandAndBeSociallyActive.reportString>

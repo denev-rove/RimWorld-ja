@@ -14,7 +14,7 @@
   <!-- EN: Armor - Sharp -->
   <StuffPower_Armor_Sharp.label>防御率 (鋭利系)</StuffPower_Armor_Sharp.label>
   <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
-  <StuffPower_Armor_Sharp.description>銃弾やナイフの刺突､爆発､噛みつきなどの鋭利系ダメージに対する防御率です｡</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.description>銃弾やナイフの刺突､爆発､咬みつきなどの鋭利系ダメージに対する防御率です｡</StuffPower_Armor_Sharp.description>
   
   <!-- EN: Insulation - Cold -->
   <StuffPower_Insulation_Cold.label>断熱効果 (低気温)</StuffPower_Insulation_Cold.label>

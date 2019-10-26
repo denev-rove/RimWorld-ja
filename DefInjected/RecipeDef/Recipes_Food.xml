@@ -4,14 +4,14 @@
   <!-- EN: make kibble -->
   <Make_Kibble.label>ペットフードを作る</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>生肉と植物を混ぜ合わせて動物のための飼料を作ります｡</Make_Kibble.description>
+  <Make_Kibble.description>生肉と植物を混ぜ合わせて､家畜が食べる飼料を作ります｡</Make_Kibble.description>
   <!-- EN: Making kibble. -->
   <Make_Kibble.jobString>ペットフードを作っている</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
   <Make_Pemmican.label>ペミカンを作る</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>ペミカンとは､肉類と野菜類を混ぜ合わせて作る伝統的な保存食です｡驚くほど旨いというものではないですが､常温で長持ちします｡</Make_Pemmican.description>
+  <Make_Pemmican.description>ペミカンとは､肉類と野菜類を混ぜ合わせて作る伝統的な保存食です｡驚くほど美味しいとは言えませんが､常温でも長持ちします｡</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>ペミカンを調理している</Make_Pemmican.jobString>
   

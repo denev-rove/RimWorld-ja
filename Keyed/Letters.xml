@@ -11,7 +11,7 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>夏がやってきました！でも冬が近づいています｡\n\n作物は寒い冬の間は育ちません｡十分な食料を備蓄しましょう｡\n\n冷凍庫となる部屋を作り､食料の腐敗を防ぐのです｡\n\nパーカーを買うなり､盗むなり､作るなりしておかないと､外に出た時に凍えてしまいます｡</FirstSummerWarning>
+  <FirstSummerWarning>夏がやってきました！しかし､いずれは冬も訪れます｡\n\n作物は寒い冬の間は育ちません｡十分な食料を備蓄しましょう｡冷凍庫となる部屋を作っておけば､食料の腐敗を防ぐことができます｡\n\n&lt;color=orange>パーカー&lt;/color>を買うなり､盗むなり､作るなりしておくべきです｡でないと､外に出た時に凍えてしまいます｡</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
   <LetterRelationsChange_Hostile>{0}との関係が断絶しました｡彼らは今や敵です｡\n\n彼らは､あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう､さらにトレードを拒否します｡あなたに関係改善の意思があるなら､キャラバン隊や輸送ポッドを使って､彼らに貢ぎ物を申し出ることはできます｡\n\nこれは友好値({1})が{2}以下の時に起きます｡中立の関係に戻す目的なら､友好値を再び{3}に到達させなければなりません｡</LetterRelationsChange_Hostile>
@@ -61,7 +61,7 @@
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>今日は{0}の誕生日です！\n\n{1}の生物学的な年齢は{3}才です｡\n\n暦の上では､{1}は{2}になりました｡\n\n注意:&#xA0;冬眠カプセルで眠っている間は老化しないため､暦の上での年齢は生物学的な年齢と乖離します｡</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>今日は,{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました.</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0}の生物学的な年齢は{1}才に達しました｡\n\n不幸にも､{0}は加齢により次の病気を患いました｡\n&lt;color=#a4a44c>{2}&lt;/color></BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
@@ -168,31 +168,31 @@
   <!-- EN: (relationship) -->
   <RelationshipAppendedLetterSuffix>(親族)</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}は入植者の親族です｡ {PAWN_pronoun}は {RELATIVE_labelShort}の {1}です｡</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}は入植者の親族です｡{PAWN_pronoun}は{RELATIVE_labelShort}の{1}です｡</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}は囚人の一人が親族です｡ {PAWN_pronoun}は {RELATIVE_labelShort}の {1}です｡</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}は囚人の親族です｡{PAWN_pronoun}は{RELATIVE_labelShort}の{1}です｡</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}は {SPOUSE_labelShort}と結婚しているのも関わらず, {PAWN2_labelShort}に うつつを抜かしています.</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort}は{SPOUSE_labelShort}と結婚しているにも拘らず､{PAWN2_labelShort}にうつつを抜かしています｡</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
+  <LetterLabelNewLovers>新しい恋人たち</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は 互いに寄り添って眠りたがっています.彼らにダブルベッドはどうでしょう.</LetterNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort}と{PAWN2_labelShort}は､同じベッドで夜を過ごしたいと願っています｡二人のためにダブルベッドを用意してはどうでしょう｡</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は その関係を断ちました.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort}と{PAWN2_labelShort}は別れました｡</LetterNoLongerLovers>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>振られた</LetterLabelBreakup>
+  <LetterLabelBreakup>破局</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>結婚しよう！</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>結婚しません</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>来るべき日がくれば,彼らは結婚式を執り行い,すべての入植者を招待します.どこで結婚式を行うかを思い通りにしたければ,結婚を誓う場の検討をします.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>然るべき時期に､ふたりは自分たちの結婚式を執り行い､入植者の全員を招待します｡式場を指定したければ､あらかじめ&lt;color=cyan>結婚を誓う場&lt;/color>を設置しておきましょう｡</LetterAcceptedProposal>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{INITIATOR_nameFull}は,このことで不幸になるでしょう.</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull}は､このことが原因で落ち込むでしょう｡</LetterRejectedProposal>
   
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
@@ -210,23 +210,23 @@
   
   <!-- Bonded animals -->
   <!-- EN: bonded animal -->
-  <LetterLabelSuffixBondedAnimalDied>絆で結ばれた</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>絆で結ばれた動物</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{ANIMAL_definite}は{HUMAN_labelShort}と絆で結ばれました.{HUMAN_labelShort}の"心情"に影響を及ぼすでしょう.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite}は{HUMAN_labelShort}と強い絆で結ばれていました｡{HUMAN_labelShort}の&lt;color=cyan>心情&lt;/color>に影響を及ぼすでしょう｡</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>次の人々の"心情"に影響を及ぼします:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <LetterPartBondedAnimalDiedMulti>次の人物の&lt;color=cyan>心情&lt;/color>に影響を及ぼします:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>脱獄</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>囚人たちが脱獄しました！\n\n脱獄囚たちは､どういうわけか扉の鍵を破り､逃げ道を作り出しました｡彼らは武器を探し､戦ってでも逃げようとします｡\n\n指名手配:\n\n{0}\n\n囚人たちは､人数が多く健康な場合に脱獄を試みやすくなります｡</LetterPrisonBreak>
+  <LetterPrisonBreak>囚人が脱獄しました！\n\n脱獄囚たちは､どういうわけか扉の鍵を破り､逃げ道を作り出しました｡彼らは武器を探し､戦ってでも逃げようとします｡\n\n指名手配:\n\n{0}\n\n囚人は､人数が多く健康な場合に脱獄を試みやすくなります｡</LetterPrisonBreak>
   
   <!-- Party -->
   <!-- EN: Party -->
   <LetterLabelNewParty>パーティ</LetterLabelNewParty>
   <!-- EN: {1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <LetterNewParty>{1_labelShort}がパーティーを開催しています！\n\n参加すれば誰もが娯楽や交流を通じて活力を得るでしょう｡心情を高める効果が長く続きます｡</LetterNewParty>
+  <LetterNewParty>{1_labelShort}がパーティーを開催しています！\n\n参加すれば誰もが娯楽や交流を通じて活力を得るでしょう｡&lt;color=cyan>心情&lt;/color>を高める効果が長く続きます｡</LetterNewParty>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
@@ -378,7 +378,7 @@
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
   <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}は{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR}は餌として{PREY_definite}を狩っています！</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR}は､餌として{PREY_definite}を狩っています！</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on: {2}. -->

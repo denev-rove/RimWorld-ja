@@ -11,13 +11,13 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>極度の精神崩壊の懸念</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>次の入植者の"心情"が低下しているため､軽度の精神変調を起こす懸念があります:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>次の入植者の&lt;color=cyan>心情&lt;/color>が低下しているため､軽度の精神変調を起こす懸念があります:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>次の入植者の"心情"が大幅に低下しているため､重度の精神衰弱を起こす懸念があります:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>次の入植者の&lt;color=cyan>心情&lt;/color>が大幅に低下しているため､重度の精神衰弱を起こす懸念があります:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>次の入植者は耐え難いほどの我慢を強いられていて､いつ極度の(おそらく暴力を伴う)精神崩壊を起こすか分かりません:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>これらの入植者たちの"欲求"タブを見れば､何に苦しんでいるかが分かります｡\n\n"心情"の改善には､おいしい食事を用意したり､娯楽の種類や時間を増やしたり､住環境を美しく整えたり､酒や煙草などのドラッグを与えるなど様々な方法があります｡</BreakRiskDescEnding>
+  <BreakRiskDescEnding>これらの入植者たちの｢欲求｣タブを見れば､何に苦しんでいるかが分かります｡\n\n心情の改善には､おいしい食事を用意したり､娯楽の種類や時間を増やしたり､住環境を美しく整えたり､酒や煙草などのドラッグを与えるなど様々な方法があります｡</BreakRiskDescEnding>
   
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
@@ -27,7 +27,7 @@
   <ColonistsNeedRescueDesc>次の入植者は一歩も動けません｡\n\n{0}\n他の入植者に救助を指示して､ベッドまで運ばせましょう｡\n\n(救助を指示するには､まず別の入植者を選択し 要救助者を右クリックして"救助する"を選びます)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>侵略に備えよ</NeedDefenses>
+  <NeedDefenses>襲撃に備えよ</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
   <NeedDefensesDesc>あなたがここに定住してしばらくが経ちます｡おそらく既に見つかっていることでしょう｡宙賊がいつ襲撃を始めてもおかしくありません｡\n\n備えあれば憂いなしです｡罠や土嚢などの準備をしましょう｡</NeedDefensesDesc>
 
@@ -69,7 +69,7 @@
   <HunterLacksWeaponDesc>"狩猟"の作業を任せた入植者が遠距離武器を装備していません｡\n\n猟師は遠距離武器を装備させないと狩りを行いません｡</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
+  <AlertTatteredApparel>擦り切れた衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>次の入植者は､擦り切れた衣服を着ているために悲しんでいます:\n\n{0}\nそれほど酷く傷んでいない衣服を確保しましょう｡\n\n衣服は仕立て台で縫製するか､商人から購入することができます｡</AlertTatteredApparelDesc>
 
@@ -149,7 +149,7 @@
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています｡\n\n治療を行わずにいると､怪我が元で死に至るか､そうでなくとも後遺症になるかもしれません｡\n\n{0}\n医療用ベッドに寝かせて治療を施しましょう｡\n\n(まずベッドを選択し､医療用ベッドに切り替えます｡そして治療が必要な入植者を右クリックでベッドへ誘導します｡)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>次の入植者は治療を必要としています｡\n\nこのまま放置すると､怪我が元で死に至るか､そうでなくとも後遺症が残るかもしれません｡\n\n{0}\n医療用ベッドに寝かせて治療を施しましょう｡\n\n(まずベッドを選択し､医療用ベッドに切り替えます｡そして治療が必要な入植者を右クリックでベッドへ誘導します｡)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>低体温症</AlertHypothermia>

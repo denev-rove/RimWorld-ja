@@ -12,7 +12,7 @@
   <!-- EN: ugly -->
   <Beauty.degreeDatas.ugly.label>醜い</Beauty.degreeDatas.ugly.label>
   <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
-  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef]は､いささか醜い見た目をしています｡このせいで交流する相手に多少の不快感を与えてしまいます｡</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef]は､いささか醜い見た目をしています｡このせいで､人付き合いの相手に多少の不快感を与えてしまいます｡</Beauty.degreeDatas.ugly.description>
   <!-- EN: staggeringly ugly -->
   <Beauty.degreeDatas.staggeringly_ugly.label>ひどく醜い</Beauty.degreeDatas.staggeringly_ugly.label>
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
@@ -21,15 +21,15 @@
   <!-- EN: chemical fascination -->
   <DrugDesire.degreeDatas.chemical_fascination.label>ドラッグ愛好家</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef]は快楽の源となる化学物質の魅力に取り憑かれています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡\n既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり強力な合成ドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef]は快楽の源となる化学物質の魅力に取り憑かれています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり強力な合成ドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
   <DrugDesire.degreeDatas.chemical_interest.label>ドラッグ好き</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]は快楽の源となる化学物質に並々ならぬ興味を抱いています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡\n既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり嗜好用の軽いドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]は快楽の源となる化学物質に並々ならぬ興味を抱いています｡\n\n[PAWN_pronoun]は多くのドラッグを消費します｡既に薬物に十分に満足しているか､特定の薬物の依存症になっているのでなければ､ときおり嗜好用の軽いドラッグを濫用する状態に陥ることがあります｡\n\n[PAWN_pronoun]は娯楽のために使うドラッグを禁制されても無視します｡</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
   <DrugDesire.degreeDatas.teetotaler.label>ドラッグ嫌い</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は薬物から快感を得るという考えをひどく嫌っています｡\nそのため､アルコールやドラッグを忌避します｡</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は薬物から快感を得るという考えをひどく嫌っています｡そのため､アルコールやドラッグを忌避します｡</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
   <Immunity.degreeDatas.superimmune.label>超免疫力</Immunity.degreeDatas.superimmune.label>
@@ -77,7 +77,7 @@
   <!-- EN: iron-willed -->
   <Nerves.degreeDatas.ironwilled.label>鉄の意志</Nerves.degreeDatas.ironwilled.label>
   <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
-  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]は鉄で造られた盾の如き意志の持ち主です｡他の者がとうに挫けてしまっていても､[PAWN_pronoun]は普段と変わらぬ態度で進み続けます｡</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]は､鉄で造られた盾の如き意志の持ち主です｡他の者がとうに挫けてしまっていても､[PAWN_pronoun]は普段と変わらぬ態度で進み続けます｡</Nerves.degreeDatas.ironwilled.description>
   <!-- EN: steadfast -->
   <Nerves.degreeDatas.steadfast.label>不屈</Nerves.degreeDatas.steadfast.label>
   <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->

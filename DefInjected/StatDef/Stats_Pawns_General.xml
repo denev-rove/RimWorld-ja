@@ -54,7 +54,7 @@
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>精神崩壊の閾値</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>"心情"が閾値よりも低い状態では､精神崩壊に陥る危険があります｡精神崩壊による症状の深刻さは､心情が閾値よりどの程度低いかで決まります｡</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>&lt;color=cyan>心情&lt;/color>が閾値よりも低い状態では､精神崩壊に陥る危険があります｡精神崩壊による症状の深刻さは､心情が閾値よりどの程度低いかで決まります｡</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>必要な動物スキル</MinimumHandlingSkill.label>

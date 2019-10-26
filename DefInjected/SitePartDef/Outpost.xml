@@ -12,6 +12,6 @@
   <!-- EN: There is an enemy outpost in this area. -->
   <Outpost.arrivedLetter>この地点に敵の前哨地があります｡</Outpost.arrivedLetter>
   <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
-  <Outpost.descriptionDialogue>ここには敵の前哨地があって、{0}人の敵が守っている</Outpost.descriptionDialogue>
+  <Outpost.descriptionDialogue>ここには敵の前哨地があり､{0}人の敵が守っている</Outpost.descriptionDialogue>
   
 </LanguageData>

@@ -290,7 +290,7 @@
     <li>side_position->主題の右側</li>
     <li>side_position->図柄の縁</li>
     <li>side_position->主題の近く</li>
-    <li>side_position->主題から遠く</li>
+    <li>side_position->主題の遠く</li>
     <li>side_position->主題の下側</li>
     <li>side_position->焦点の後ろ側</li>
     <!--=== style_clause ===-->

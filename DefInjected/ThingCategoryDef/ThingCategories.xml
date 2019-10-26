@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>生卵</AnimalProductRaw.label>
+  <AnimalProductRaw.label>畜産物</AnimalProductRaw.label>
   
   <!-- EN: apparel -->
   <Apparel.label>衣服</Apparel.label>
@@ -89,7 +89,7 @@
   <Grenades.label>投擲武器</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>ヘッドギア</Headgear.label>
+  <Headgear.label>頭装備</Headgear.label>
   
   <!-- EN: items -->
   <Items.label>物品</Items.label>

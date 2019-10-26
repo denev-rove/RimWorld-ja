@@ -110,7 +110,7 @@
   <Resurrect.reportString>TargetAを蘇生している</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>TargetAとケンカしている</SocialFight.reportString>
+  <SocialFight.reportString>TargetAと喧嘩している</SocialFight.reportString>
   
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>TargetAを裸に剥いている</Strip.reportString>

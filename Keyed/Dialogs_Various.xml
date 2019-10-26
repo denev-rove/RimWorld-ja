@@ -178,7 +178,7 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>このコンピュータ上で開発者モードを永久に無効化します｡本当によろしいですか？\n\nこの設定は､開発用ツールを使って通常のゲームより有利に進めたいという誘惑を気にすることなく､より純粋なゲームを経験したい人のためにあります｡\n\n開発者モードを再び有効にすることは可能ですが､それには設定ファイルをあなた自身で修正する必要があります｡その方法を知るにはインターネットで調べる必要があるでしょう｡</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>このコンピューター上で開発者モードを永久に無効化します｡本当によろしいですか？\n\nこの設定は､開発用ツールを使って通常のゲームより有利に進めたいという誘惑を気にすることなく､より純粋なゲームを経験したい人のためにあります｡\n\n開発者モードを再び有効にすることは可能ですが､それには設定ファイルをあなた自身で修正する必要があります｡その方法を知るにはインターネットで調べる必要があるでしょう｡</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <!-- EN: Research -->
@@ -307,7 +307,7 @@
   <!-- EN: Burst shot count -->
   <BurstShotCount>1射毎の弾数</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>準備時間</WarmupTime>
+  <WarmupTime>照準時間</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>構える時間</MeleeWarmupTime>
   <!-- EN: Cooldown -->
@@ -331,7 +331,7 @@
   <!-- EN: Limited lifespan -->
   <LimitedLifespan>寿命がある</LimitedLifespan>
   <!-- EN: Growing time -->
-  <GrowingTime>成長時間</GrowingTime>
+  <GrowingTime>生育期間</GrowingTime>
   <!-- EN: Harvest yield -->
   <HarvestYield>収量</HarvestYield>
   <!-- EN: Min growth temperature -->
@@ -339,7 +339,7 @@
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>生育・最高気温</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
-  <GrowingTimeDesc>植物は,昼間,陽が当たっているときだけ成長します.成長時間とは,植物が充分に育つまでに必要な陽が当たっている総時間です.実際に成長するまでの時間は,約2倍かかります.低温時にも成長は鈍ります.</GrowingTimeDesc>
+  <GrowingTimeDesc>植物は､昼間の時間帯に､太陽の光を浴びているときだけ成長します｡生育期間とは､植物が充分に育つまでに必要な日光を浴びる時間です｡夜間は成長しないため､実際にかかる時間は約2倍です｡気温が低い場合にも成長は鈍ります｡</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>日</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -741,7 +741,7 @@
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>"心情"が設定値 以下の場合のみ</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>&lt;color=cyan>心情&lt;/color>が設定値 以下の場合のみ</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>"娯楽"が設定値 以下の場合のみ</JoyThresholdColumnLabel>
   <!-- EN: Take to inventory -->
@@ -765,7 +765,7 @@
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>入植者がドラッグを摂取する頻度です｡</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>入植者の"心情"が､この閾値より低い場合に限りドラッグを使おうとします｡</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>入植者の&lt;color=cyan>心情&lt;/color>が､この閾値より低い場合に限りドラッグを使おうとします｡</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
   <JoyThresholdColumnDesc>入植者の"娯楽"が､この閾値より低い場合に限りドラッグを使おうとします｡</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->

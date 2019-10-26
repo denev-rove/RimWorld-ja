@@ -12,9 +12,9 @@
   <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は､とりわけ耳障りな鼻声で､怒鳴るように聞き取りづらい話し方をします｡そのせいで人から良い印象を持たれません｡</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
-  <Ascetic.degreeDatas.ascetic.label>禁欲</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.label>禁欲家</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} prefers to live in asceticism. {PAWN_pronoun} will be put in a poor mood if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw - and raw food won't bother {PAWN_objective} a bit. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}は修行僧のような生活を志向しています｡\n寝室が立派すぎると心情が悪化します｡贅沢な食事を嫌い､食材を生のまま食べることを好みます｡</Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef}は修行僧のような生活を志向しています｡寝室が立派すぎると､心情が悪化します｡贅沢な食事を嫌い､食材を生のまま食べることを好みます｡</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: bloodlust -->
   <Bloodlust.degreeDatas.bloodlust.label>流血嗜好</Bloodlust.degreeDatas.bloodlust.label>
@@ -89,7 +89,7 @@
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>マゾヒスト</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}は､痛めつけられることに興奮を覚えます｡\nなぜかは自分でも分かりません｡ただ､人とは違うというだけです｡</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef}は､痛めつけられることに興奮を覚えます｡なぜかは自分でも分かりません｡ただ､人とは違うというだけです｡</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>夜行性</NightOwl.degreeDatas.night_owl.label>
@@ -99,12 +99,12 @@
   <!-- EN: nimble -->
   <Nimble.degreeDatas.nimble.label>敏捷</Nimble.degreeDatas.nimble.label>
   <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef}は運動感覚にまつわる知能が並外れています｡\n{PAWN_pronoun}は危険の中にあっても神秘的なほど\n優美に舞っているように見えます｡</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef}は運動感覚にまつわる知能が並外れています｡{PAWN_pronoun}は危険の中にあっても神秘的なほど優美に舞っているように見えます｡</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
   <Nudist.degreeDatas.nudist.label>ヌーディスト</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になることで得られる自由な感覚を楽しんでいます｡\n服を着ることもできますが､脱いだほうが幸せになれます｡</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef}は裸になることで得られる自由な感覚を楽しんでいます｡服を着ることもできますが､脱いだほうが幸せになれます｡</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
   <Psychopath.degreeDatas.psychopath.label>サイコパス</Psychopath.degreeDatas.psychopath.label>

@@ -122,7 +122,7 @@
   <!-- EN: disturbed sleep -->
   <SleepDisturbed.stages.disturbed_sleep.label>よく眠れない</SleepDisturbed.stages.disturbed_sleep.label>
   <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
-  <SleepDisturbed.stages.disturbed_sleep.description>誰かが寝ている私の周りを歩き回って､睡眠を邪魔された｡ 個室があれば､安眠できるのに｡</SleepDisturbed.stages.disturbed_sleep.description>
+  <SleepDisturbed.stages.disturbed_sleep.description>誰かが眠っている私の周りを歩き回って､睡眠を邪魔された｡個室があれば､安眠できるのに｡</SleepDisturbed.stages.disturbed_sleep.description>
   
   <!-- EN: slept in the cold -->
   <SleptInCold.stages.slept_in_the_cold.label>寒い夜を過ごした</SleptInCold.stages.slept_in_the_cold.label>
@@ -157,7 +157,7 @@
   <!-- EN: witnessed ally's death -->
   <WitnessedDeathAlly.stages.witnessed_allys_death.label>味方が死ぬところを見た</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.description>味方の一人が死ぬところを見た｡ほんの少し前まで生きていたのに､次にはもう死んでいた｡</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>味方の一人が死ぬところを見た｡確かに生きていたのに､次の瞬間にはもう死んでいた｡</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   
   <!-- EN: witnessed death with bloodlust -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>死の瞬間に立ち会えた</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
@@ -172,6 +172,6 @@
   <!-- EN: witnessed outsider's death -->
   <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>余所者が死ぬところを見た</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
   <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>誰かが死ぬところを見た｡ほんの少し前まで生きていたのに､次にはもう死んでいた｡</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>誰かが死ぬところを見た｡確かに生きていたのに､次の瞬間にはもう死んでいた｡</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
   
 </LanguageData>

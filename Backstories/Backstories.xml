@@ -530,11 +530,11 @@
   
   <BeastSlayer67>
     <!-- EN: beast slayer -->
-    <title>ビーストスレイヤー</title>
+    <title>獣を狩る者</title>
     <!-- EN: slayer -->
-    <titleShort>スレイヤー</titleShort>
+    <titleShort>獣狩り</titleShort>
     <!-- EN: [PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill. -->
-    <desc>[PAWN_nameDef]は,惑星間を旅して野生動物に関るニュースを追っていました.[PAWN_pronoun]は,何週間も惑星でキャンプしては,獲物を殺す前に観察していました.[PAWN_pronoun]は,スランボを狩る事を至上の喜びとしています.\n\n独りで作業をしたがる[PAWN_nameDef]は,狩りのスリルと獲った肉を手に入れることに,喜びを感じます.</desc>
+    <desc>[PAWN_nameDef]は､人を襲う動物のニュースを追いながら､様々な惑星を旅しました｡[PAWN_pronoun]は､そうした惑星で何週間にも渡って野営を続け､狩りを行う前に獲物について調べ上げました｡[PAWN_pronoun]はスランボを狩ることを至上の喜びとしていました｡\n\n単独での仕事を好む[PAWN_nameDef]は､狩りの緊張感を味わいながら､仕留めた肉を堪能したものでした｡</desc>
   </BeastSlayer67>
   
   <BehaviourResearch74>
@@ -2655,7 +2655,7 @@
     <!-- EN: computer -->
     <titleShort>計算機</titleShort>
     <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. A midworld dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure, since electrical computers were too susceptible to hacking. -->
-    <desc>[PAWN_nameDef]の頭脳には､優れた記憶力と複雑な計算をこなせる天賦の才が秘められていたことが判明しました｡&lt;color=orange>中部星域&lt;/color>の独裁者は､国の財政と支出を監視させるため､[PAWN_nameDef]を雇い入れることにしました｡なぜなら電子コンピュータはハッキングに対して脆弱だったからです｡</desc>
+    <desc>[PAWN_nameDef]の頭脳には､優れた記憶力と複雑な計算をこなせる天賦の才が秘められていたことが判明しました｡&lt;color=orange>中部星域&lt;/color>の独裁者は､国の財政と支出を監視させるため､[PAWN_nameDef]を雇い入れることにしました｡なぜなら電子コンピューターはハッキングに対して脆弱だったからです｡</desc>
   </HumanComputer7>
   
   <HumanTrafficker61>
@@ -2723,11 +2723,11 @@
   
   <IllegalShipwright76>
     <!-- EN: illegal shipwright -->
-    <title>闇造船工</title>
+    <title>非合法の造船工</title>
     <!-- EN: shipwright -->
     <titleShort>造船工</titleShort>
     <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
-    <desc>"カーゴシップに,テラワット級ガンマレーザーを装備してはならない"と法律で決められています.特別に,もしそれを,通信機器のように秘匿して装備すれば,待ち伏せにもってこいの可能性があります.[PAWN_nameDef]は,その方法を見つけ,このような法律に無関心な人々の為に製造して,大金を手にしました.</desc>
+    <desc>運搬船に､テラワット級のγ線レーザー砲を搭載してはならないという法律があります｡特に､奇襲の成功率を上げる目的で､通信用のパラボラアンテナに偽装する行為が該当します｡しかしながら､[PAWN_nameDef]はそれを実行することで､このような法律に関心のない人々から､大きな利益が見込めることに気付きました｡</desc>
   </IllegalShipwright76>
   
   <ImperialGeneral5>
@@ -3101,11 +3101,11 @@
   
   <MasterTrader96>
     <!-- EN: master trader -->
-    <title>マスタートレーダー</title>
+    <title>商売の達人</title>
     <!-- EN: trader -->
-    <titleShort>貿易業者</titleShort>
+    <titleShort>貿易商</titleShort>
     <!-- EN: [PAWN_nameDef] was a master at trading. [PAWN_pronoun] earned his nickname by helping a village through a trying time. -->
-    <desc>[PAWN_nameDef]は,最上級の貿易業者になりました.[PAWN_pronoun]は,たすけた村によって,ニックネームをつけられました.</desc>
+    <desc>[PAWN_nameDef]は､商売の達人でした｡[PAWN_pronoun]は､存続の危機に陥った村を救ったことから､その別名で呼ばれるようになりました｡</desc>
   </MasterTrader96>
   
   <Mathematician6>
@@ -4225,7 +4225,7 @@
     <!-- EN: subject -->
     <titleShort>対象</titleShort>
     <!-- EN: [PAWN_nameDef] was picked by government agents for the mysterious "Frame Project".\n\nDue to memory blockages, however, he remembers very little about this project or its true agenda - only that there were few survivors. -->
-    <desc>[PAWN_nameDef]は,不可解な"Frame Project"に携わる政府のエージェントによって選ばれました.\n\n記憶操作によって,[PAWN_pronoun]は,このプロジェクトや,真の目的について,まったく覚えていませんでした - ほとんど,生存者はいませんでしたが.</desc>
+    <desc>[PAWN_nameDef]は､謎に包まれた｢フレーム計画｣に携わる政府の工作員として選ばれました｡\n\nしかし[PAWN_pronoun]は記憶操作により､この計画のことも､その真の意図についても殆ど覚えていませんでした｡ただ､生存者が殆ど居なかったという点を除いては｡</desc>
   </ProjectSubject48>
   
   <ProstheticSurgeon0>
@@ -4476,11 +4476,11 @@
   
   <RitualChild20>
     <!-- EN: ritual child -->
-    <title>生け贄となった赤子</title>
+    <title>生け贄の子供</title>
     <!-- EN: sacrifice -->
     <titleShort>生け贄</titleShort>
     <!-- EN: Born with a special mark on [PAWN_possessive] neck, [PAWN_nameDef]'s tribe chose to sacrifice [PAWN_objective] in a blood ritual. They left [PAWN_objective] in the forest to die. A pack of arctic wolves found and adopted [PAWN_objective].\n\nOver time, [PAWN_pronoun] learned to make tools to hunt with the pack. -->
-    <desc>[PAWN_possessive]首に生まれつきあった特有の模様によって,赤ん坊のとき,[PAWN_nameDef]は,[PAWN_possessive]部族の儀式で生け贄にされました.\n\n[PAWN_pronoun]は,儀式の一部として死ぬため,針葉樹林の森に置き去りにされましたが,北極オオカミの群れに連れ去られました.時が流れて,[PAWN_pronoun]は,群れと共に行う狩りの,手助けとなる道具を作る方法を身につけました.</desc>
+    <desc>首筋に特別な痣を持って生まれ落ちると､部族の者たちは[PAWN_objective]血の生贄に捧げることを決めました｡人々は[PAWN_objective]を森へ置き去りにしました｡北極狼たちの群れが[PAWN_objective]見付け､群れの一員に加えました｡\n\n時は流れ､[PAWN_pronoun]は群れと共に狩りを行うため､道具を作ることを覚えました｡</desc>
   </RitualChild20>
   
   <Roboticist41>
@@ -4718,7 +4718,7 @@
     <!-- EN: technician -->
     <titleShort>技術者</titleShort>
     <!-- EN: [PAWN_nameDef] was an apprentice technician on trade ships plying their routes between the stations and planets of her home system. In this job, she learned to fix and improve many machines.\n\nSometimes, her ship was assigned to short exploratory jaunts into dangerous regions of space. -->
-    <desc>[PAWN_nameDef]は､地元の恒星系内にある惑星と宇宙ステーションを往復する交易船の見習い技師でした｡仕事上､[PAWN_pronoun]は様々な機械の修理や改良について学びました｡\n\nときどき､[PAWN_possessive]船は危険な宙域を探索する短期間の任務を命じられることもありました｡</desc>
+    <desc>[PAWN_nameDef]は､地元の恒星系内にある惑星と宇宙基地を往復する交易船の見習い技師でした｡仕事上､[PAWN_pronoun]は様々な機械の修理や改良について学びました｡\n\nときどき､[PAWN_possessive]船は危険な宙域を探索する短期間の任務を命じられることもありました｡</desc>
   </ShipTechnician34>
   
   <ShockTrooper15>
@@ -4808,7 +4808,7 @@
     <!-- EN: town kid -->
     <titleShort>村の子供</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
-    <desc>[PAWN_nameDef]は&lt;color=orange>中部星域&lt;/color>の､田園に囲まれた孤立した村で育ちました｡\n\n両親は[PAWN_pronoun]に､幅広い範囲の役立つ家事を教えてくました｡平和で安全な子供時代は､人生の苦難を微塵も感じさせませんでした｡</desc>
+    <desc>[PAWN_nameDef]は&lt;color=orange>中部星域&lt;/color>の､田園に囲まれた孤立した村で育ちました｡\n\n両親は[PAWN_pronoun]に､幅広い範囲の役立つ家事を教えてくました｡平和で安全な子供時代は人生の苦難を微塵も感じさせるものではありませんでした｡</desc>
   </SmallTownKid41>
   
   <Smuggler62>
@@ -5040,11 +5040,11 @@
   
   <SpacePirate55>
     <!-- EN: space pirate -->
-    <title>宙賊</title>
+    <title>宇宙海賊</title>
     <!-- EN: pirate -->
     <titleShort>宙賊</titleShort>
     <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
-    <desc>政府の目の届かない辺境な所なら,どこにでも海賊は現れます.[PAWN_nameDef]は,人類が誕生してから続く,この一員で,金の為に貿易船を破壊しては強奪していました.</desc>
+    <desc>宙賊行為を働く者たちは､政府の目が届かない辺境であれば､どこにでも現れます｡[PAWN_nameDef]は､この古式ゆかしい人類の営みの一員であり､平和な交易船を襲っては利益を巻き上げていました｡</desc>
   </SpacePirate55>
   
   <SpaceRaider65>
@@ -5107,7 +5107,7 @@
     <!-- EN: cook -->
     <titleShort>料理人</titleShort>
     <!-- EN: The space station [PAWN_nameDef] came from was far from any populated planets, and was in itself understaffed. For this reason, [PAWN_nameDef] was forced to learn how to cook in order to keep the crew alive. While [PAWN_pronoun] appreciated this learning opportunity, [PAWN_pronoun] didn't appreciate the criticism which came with it, and has had self-esteem issues ever since. -->
-    <desc>[PAWN_nameDef]が訪れた宇宙ステーションは､人口の多い惑星から離れすぎていたため､常に人手不足でした｡そのような理由で､[PAWN_nameDef]は乗組員を食べさせるために料理を覚えなければなりませんでした｡[PAWN_pronoun]は､料理を学ぶ機会を得られたことには感謝しましたが､料理への批判には耳を貸しませんでした｡それ以来､[PAWN_pronoun]はずっと思い上がっている節があります｡</desc>
+    <desc>[PAWN_nameDef]が訪れた宇宙基地は､人口の多い惑星から離れすぎていたため､常に人手不足でした｡そのような理由で､[PAWN_nameDef]は乗組員を食べさせるために料理を覚えなければなりませんでした｡[PAWN_pronoun]は､料理を学ぶ機会を得られたことには感謝しましたが､料理への批判には耳を貸しませんでした｡それ以来､[PAWN_pronoun]はずっと思い上がっている節があります｡</desc>
   </SpaceStationCook63>
   
   <SpaceTechnician1>
@@ -6078,11 +6078,11 @@
   
   <VoidspaceRaider35>
     <!-- EN: voidspace raider -->
-    <title>無の空間レイダー</title>
+    <title>虚空の襲撃者</title>
     <!-- EN: raider -->
-    <titleShort>レイダー</titleShort>
+    <titleShort>襲撃者</titleShort>
     <!-- EN: After years of seeking the assassin that broke up his family, [PAWN_nameDef] was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.\n\nDue to [PAWN_possessive] seemingly-unending ability to narrowly escape danger, he earned the nickname 'Blackjack' in recognition of his luck. -->
-    <desc>[PAWN_possessive]家族をバラバラにした暗殺者を探して数年がたったあと,[PAWN_nameDef]は,宇宙航行の襲撃グループに身を置くことを勧められ,[PAWN_pronoun]は,殺し屋を探しだす見込みがあるとして承諾しました.\n\n[PAWN_possessive]見たからに果てしない才能と,かろうじて危険から脱出する運の良さもあって,ついた渾名は'Blackjack'でした.</desc>
+    <desc>家族を引き裂いた殺し屋を探し始めてから数年後､[PAWN_nameDef]は宇宙を旅する武装集団に誘われました｡[PAWN_pronoun]は､殺し屋を探し当てる可能性に賭け､その誘いに応じました｡\n\n間一髪で危険を逃れる[PAWN_possessive]底知れぬ悪運を讃えられ､[PAWN_pronoun]は"Blackjack"という二つ名を冠せられました｡</desc>
   </VoidspaceRaider35>
   
   <VoyagerChild94>
@@ -6204,11 +6204,11 @@
   
   <WastelandWanderer94>
     <!-- EN: wasteland wanderer -->
-    <title>Wastelandの放浪者</title>
+    <title>荒野の放浪者</title>
     <!-- EN: wanderer -->
     <titleShort>放浪者</titleShort>
     <!-- EN: Born into a wealthy family on a desert world, [PAWN_nameDef] was cast out after a hired attack squad destroyed his ancestral home.\n\nThe boy managed to hide in a cooling duct beneath his family's villa. Vowing revenge against the killers and whomever had hired them, Lucas struck out into the wasteland, alone. -->
-    <desc>砂漠世界の裕福な家庭に生まれました,[PAWN_nameDef]は,傭兵達に先祖代々の家を破壊されたあとに,追放されました.\n\n少年は,[PAWN_possessive]家族の別荘の地下にある冷房用ダクトに,なんとか身を隠しました.殺し屋と,それを雇った雇い主に対して復讐を固く誓い,Lucasは,独りWastelandで,新たな人生を踏み出しました.</desc>
+    <desc>砂漠に覆われた惑星の裕福な家庭に生まれた[PAWN_nameDef]は､雇われた襲撃部隊に先祖代々の家を破壊され､追放されました｡\n\n少年は､家族の住んでいた邸宅の床下にある冷却ダクトに辛うじて身を隠しました｡実行犯と､彼らを雇った黒幕たちに復讐を誓ったLucasは､独り荒野へと足を踏み出しました｡</desc>
   </WastelandWanderer94>
   
   <WealthyStudent59>
@@ -6337,7 +6337,7 @@
     <titleShort>非行少年</titleShort>
     <titleShortFemale>非行少女</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was the only child of celebrity sommeliers. Her parents expected her to take up the family profession, but after her third admission to a youth detention center, this career path became unlikely.\n\nWhile in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in orinthology. -->
-    <desc>[PAWN_nameDef]は著名なソムリエの一人っ子でした｡両親からは跡継ぎとして期待をかけられていましたが､三度目の少年院送致が決まったとき､その見込もなくなりました｡\n\n少年院に入所している間に､[PAWN_nameDef]は手作りの刃物を密造する腕を磨き､また鳥類学へ興味を持つようになりました｡</desc>
+    <desc>[PAWN_nameDef]は著名なソムリエの一人っ子でした｡両親からは跡継ぎとして期待をかけられていましたが､三度目の少年院送致が決定したとき､その見込みもなくなりました｡\n\n少年院に入所している間に､[PAWN_nameDef]は手作りの刃物を密造する腕を磨き､また鳥類学へ興味を持つようになりました｡</desc>
   </YouthDelinquent65>
   
   <YouthSoldier87>

@@ -4,7 +4,7 @@
   <!-- EN: air conditioning -->
   <AirConditioning.label>空調設備</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>クーラーを設置します｡ 暑い日でも快適に過ごしたり傷みやすい物を保存しておく冷凍庫が作れます｡</AirConditioning.description>
+  <AirConditioning.description>暑い日でも快適に過ごせるクーラーを設置します｡傷みやすい物を保存しておく冷凍室も作れます｡</AirConditioning.description>
   
   <!-- EN: autodoor -->
   <Autodoors.label>自動扉</Autodoors.label>
@@ -14,7 +14,7 @@
   <!-- EN: battery -->
   <Batteries.label>バッテリー</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>電気を貯めるバッテリーを設置します｡</Batteries.description>
+  <Batteries.description>電気を貯蔵しておくバッテリーを設置します｡</Batteries.description>
   
   <!-- EN: biofuel refining -->
   <BiofuelRefining.label>バイオ燃料精製</BiofuelRefining.label>
@@ -74,7 +74,7 @@
   <!-- EN: machining -->
   <Machining.label>機械加工</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
-  <Machining.description>機械加工台を設置します｡銃器や手榴弾､防弾チョッキを作製したり､機能を停止したメカノイドを分解して資源を回収したりできます｡</Machining.description>
+  <Machining.description>機械加工台を設置します｡\n銃器や手榴弾､防弾ベストを作製したり､機能を停止したメカノイドを分解して資源を回収したりできます｡</Machining.description>
   
   <!-- EN: mortars -->
   <Mortars.label>迫撃砲</Mortars.label>
