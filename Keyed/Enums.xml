@@ -161,7 +161,7 @@
   <!-- EN: Ignore -->
   <HostilityResponseMode_Ignore>無視する</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>攻撃する</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>応戦する</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
   <HostilityResponseMode_Flee>逃走する</HostilityResponseMode_Flee>
   

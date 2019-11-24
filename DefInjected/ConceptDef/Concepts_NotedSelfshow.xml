@@ -2,173 +2,173 @@
 <LanguageData>
   
   <!-- EN: Alerts -->
-  <Alerts.label>【警報】</Alerts.label>
+  <Alerts.label>警告の通知</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
-  <Alerts.helpText>画面右端の警報メールは,あなたが注意を払う必要がある問題を通知します.\n\n警報メールには,常に気をつけてください.</Alerts.helpText>
+  <Alerts.helpText>画面右端に表示される警告の通知は､あなたが対処すべき問題点について知らせてくれます｡\n\n警告の通知には､常に気を配っておきましょう｡</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>制限エリア</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>入植者と家畜に対して､制限エリアを割り当てることができます｡これにより制限エリアの外側を移動の目的地とすることができなくなります｡\n\nこれは例えば､入植者に野外活動をさせないといった使い方ができます｡\n\n複数の制限エリアを作成することもでき､それぞれ異なる入植者や家畜に割り当てる事もできます｡\n\n制限エリアの作成､削除､割り当ては｢時間割・移動制限｣タブで行います｡\n\n制限エリアの範囲をマップ上に定義するのは｢設計｣タブの｢ゾーン｣から｢制限エリア｣｢制限エリア縮小｣で行います｡</AllowedAreas.helpText>
+  <AllowedAreas.helpText>入植者と家畜に対して､&lt;color=yellow>制限エリア&lt;/color>を割り当てることができます｡これにより､制限エリアの範囲外へ移動することができなくなります｡\n\nこれは例えば､入植者に屋外活動をさせないといった使い方ができます｡\n\n複数の制限エリアを作成することもできます｡入植者や家畜ごとに､異なる制限エリアを割り当てることもできます｡\n\n制限エリアの作成､削除､割り当ては｢時間割・移動制限｣タブで行います｡\n\nマップ上にある制限エリアの範囲を変更するには､｢設計｣タブ＞｢ゾーン｣＞｢制限エリア｣又は ｢制限エリア縮小｣を使います｡</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
-  <AnimalTaming.label>野生動物を手懐ける</AnimalTaming.label>
+  <AnimalTaming.label>動物を手懐ける</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>野生動物を手懐けるために,｢手懐ける｣を指示できます.\n\n入植者は野生動物に餌を与えながら,手懐けようと試みます.\n\n【注意】一部の野性動物は,手懐けようと試みて失敗したとき,暴力的な反応をみせる可能性があります.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>野生動物に｢手懐け｣マークを付すことで､入植者に野生動物を手懐けさせることができます｡\n\n&lt;color=lime>1.&lt;/color>&#xA0;｢設計｣＞｢命令｣＞｢手懐け｣コマンドを選び､手懐けたい動物をクリックします｡\n&lt;color=lime>2.&lt;/color>&#xA0;｢作業｣タブを開いて､入植者に｢畜産｣の作業を割り当てます｡\n&lt;color=lime>3.&lt;/color>&#xA0;入植者を選択した後､手懐けたい動物を右クリックして｢&lt;color=#b2b6b9>&lt;i>xxxx&lt;/i>&lt;/color>を手懐ける｣を選びます｡\n\n入植者は､餌で動物の興味を引きながら手懐けを試みます｡そのため､手懐けには動物の食性に適した餌が必要です｡\n\n〔注意〕一部の野性動物は､手懐けに失敗すると襲いかかってくることがあります｡</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
-  <AnimalTraining.label>調教する</AnimalTraining.label>
+  <AnimalTraining.label>動物を調教する</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
-  <AnimalTraining.helpText>家畜に特定のスキルを調教するために, ｢調教｣タブから指示できます.\n\n家畜を連続して調教し続けることはできません,調教の合間には時間をおく必要があります.</AnimalTraining.helpText>
+  <AnimalTraining.helpText>入植者が調教することで､家畜に特定の作業を覚えさせることができます｡家畜の｢調教｣タブから調教内容を設定してください｡\n\n同じ家畜に対して､調教を連続して行うことはできません｡次の調教を行うまでに､一定の間隔を空ける必要があります｡</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
   <CameraDolly.label>カメラを動かす</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>カメラを動かすには,MOUSE BUTTON 3を押したままドラッグするか,{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使います.</CameraDolly.helpText>
+  <CameraDolly.helpText>カメラを上下左右に動かすには､マウスの中央ボタン(&lt;color=lightblue>ホイールボタン&lt;/color>)を押したままドラッグします｡\nもしくは､&lt;color=lightblue>{Key:MapDolly_Up}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Left}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Down}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Right}&lt;/color>キーを使います｡</CameraDolly.helpText>
   
   <!-- EN: Camera zoom -->
-  <CameraZoom.label>ズームイン・アウトを覚える</CameraZoom.label>
+  <CameraZoom.label>カメラの拡大と縮小</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>カメラをズームイン・アウトさせるには, MOUSEWHEELか {Key:MapZoom_In},{Key:MapZoom_Out}キー を使います.</CameraZoom.helpText>
+  <CameraZoom.helpText>画面をズームイン/ズームアウトするには､&lt;color=lightblue>マウスホイール&lt;/color>を回転させます｡\nまたは､&lt;color=lightblue>{Key:MapZoom_In}&lt;/color>キーと&lt;color=lightblue>{Key:MapZoom_Out}&lt;/color>キーを使います｡</CameraZoom.helpText>
   
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>メッセージをクリック</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
-  <ClickingMessages.helpText>画面左上の通知をクリックすると,そのオブジェクトが画面の中心にくるように表示します.</ClickingMessages.helpText>
+  <ClickingMessages.helpText>画面上部に表示されるメッセージをクリックすると､事件が起こった場所へ即座にカメラを移動させることができます｡</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
-  <CoverAndShooting.label>銃撃戦術</CoverAndShooting.label>
+  <CoverAndShooting.label>射撃と遮蔽物</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>銃撃戦にもっとも大事で,しなければならないことは,遮蔽物を使うことです.\n\n遮蔽物は入植者と敵との間にあって,入植者が遮蔽物の背後にいるときに効果を発揮します.\n\n壁の角の背後に入植者を配置するのも遮蔽物となります.入植者は射撃するときに身を乗り出します.\n\n大抵の物を遮蔽物として使うことができますが,いくつかの物は他の物より遮蔽物としてより優れています. これは,木の影に隠れることは,何もしないよりは優れていますが,土嚢に身を隠すことは,木を遮蔽物に使うより優れています.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>遠距離戦闘で最も重要なことは､遮蔽物を利用することです｡遮蔽物の陰に身を隠すためには､敵と入植者を結ぶ射線上にある遮蔽物を選び､直接その隣に位置取る必要があります｡\n\nまた壁の角に隠れることも可能です｡その場合､入植者は身を乗り出して射撃を行います｡\n\n大抵の物は遮蔽物として利用できますが､その性能はさまざまです｡何もないよりは樹木の陰に隠れたほうが安全ですし､樹木の陰よりは土嚢に身を隠したほうがより安全です｡</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
   <Deterioration.label>自然劣化</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>アイテムを野外に放置しておくとゆっくりと劣化していきます\n\nアイテムを長期間に渡って保管したいときは,屋根のある場所を選びます.</Deterioration.helpText>
+  <Deterioration.helpText>アイテムを野外に放置していると､ゆっくりと劣化し､&lt;color=yellow>耐久度&lt;/color>が減少していきます｡\n\nアイテムを長期間に渡って備蓄するなら､屋根で覆われた屋内に保管しましょう｡</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
   <EquippingWeapons.label>武装する</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>最初の入植者達は,武器を持っていますが武装していません. 最初に武装させてください！\n\n入植者に武器を持たせるには, 入植者をクリックしてから, 武器を右クリックして 武装するを選択します.</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>この新天地に辿り着いた入植者たちは､荷物として武器を携えています｡すぐにでも武装させましょう！\n\n&lt;color=lime>1.&lt;/color>&#xA0;入植者をクリックして選択します｡\n&lt;color=lime>2.&lt;/color>&#xA0;その状態で､装備させたい武器を右クリックします｡\n&lt;color=lime>3.&lt;/color>&#xA0;表示されたポップアップメニューの中から､&#xA0;｢&lt;color=#b2b6b9>&lt;i>xxxx&lt;/i>&lt;/color>を装備する｣を選択します｡\n\nこの手順を､それぞれの入植者に対して行います｡</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>延焼を防ぐ</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>火災は簡単にコロニーを焼き払うことができます.火に打ち勝つには,事が起きる前から準備しておかなければなりません.\nこのようなコロニー開発が火災によるダメージを減らします:\n\n1.ひとつの巨大な建物より,空間で隔てられた複数の建物を建造する.\n2.燃えやすい材質のものを減らす.木材は簡単で作りやすいが - とても燃えやすい.\n3.野火からの延焼を止める防火帯を作る.    ３～４セルほどの幅のコンクリートフロアは     一般的に延焼を防いでくれます.</FirePreparation.helpText>
+  <FirePreparation.helpText>コロニー火災は､コロニーを簡単に焼き払ってしまいます｡炎を克服するには､事前の準備が重要です｡\n\n以下の点に注意すれば､火災による損害を減らすことができます:\n\n&lt;color=lime>1.&lt;/color>&#xA0;ひとつの巨大な建物ではなく､空間で隔てられた複数の建物を建てる｡\n&lt;color=lime>2.&lt;/color>&#xA0;燃えやすい素材は､なるべく建材に用いない｡\n　&lt;color=cyan>木材&lt;/color>は安価で扱いやすい素材ですが､非常に燃えやすくもあります｡\n&lt;color=lime>3.&lt;/color>&#xA0;延焼を止める防火帯を作る｡\n　3～4セル幅のコンクリート床は､大抵の延焼を防いでくれます｡</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>アイテムに関わる</Forbidding.label>
+  <Forbidding.label>禁制および許可</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>入植者達は,"禁制"とマークされたアイテムに,一切関心をもちません.\n\n"禁制"オブジェクトには,小さく赤い"x"がついています."禁制"オブジェクトをクリックし,画面下部の"許可"メニューから,禁制と許可を制御できます.</Forbidding.helpText>
+  <Forbidding.helpText>入植者たちは､｢禁制｣された物資には手を触れようとはしません｡\n\n禁制された物資には､小さな赤い"&lt;color=red>&lt;b>x&lt;/b>&lt;/color>"印が付いています｡&#xA0;禁制された物資を選択し､画面下部の ｢許可｣ボタンを押せば､禁制を解除できます｡</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
-  <ForbiddingDoors.label>通り抜け禁止の扉</ForbiddingDoors.label>
+  <ForbiddingDoors.label>禁制された扉</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>扉は通り抜け禁止にすることができます.入植者と家畜は禁止された扉を通らなくなります.\n\nこれは扉の施錠とは違うという点に留意してください.扉は常に施錠されているので,侵入者は自由に通ることは出来ません. 通り抜け禁止とは,単に入植者に対して,扉を使わないように通告することです. 気が狂った入植者は,どうしても扉を使うかもしれません.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>扉を禁制すれば､通り抜け禁止にすることができます｡入植者と家畜は､禁制された扉を通ろうとはしなくなります｡\n\nこれは､扉の施錠とは意味が異なります｡元より扉は常に施錠されているため､侵入者が自由に通り抜けすることはできません｡扉の禁制とは､単に入植者に対して扉を使わないよう通告することです｡\n\n精神に異常を来した入植者は､禁制された扉であろうと構わず通り抜けようとするかもしれません｡</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
-  <FormCaravan.label>キャラバン隊を結成</FormCaravan.label>
+  <FormCaravan.label>キャラバン隊を 結成</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>惑星を横断して移動するキャラバン隊を結成することができます!\n\n｢世界地図｣タブから,あなたの本拠地をクリックして,"キャラバン隊を結成"ボタンを押します.</FormCaravan.helpText>
+  <FormCaravan.helpText>キャラバン隊を結成すれば､惑星上を自由に移動できる入植者の一団を旅立たせることができます！\n\n｢世界地図｣タブから､あなたの本拠地をクリックして｢キャラバン隊を結成｣ボタンを押してみましょう｡</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
-  <FriendlyFireSafety.label>味方の誤射から守る</FriendlyFireSafety.label>
+  <FriendlyFireSafety.label>味方への誤射を防ぐ</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>射手のそばにいる味方には誤射は起きません.\n\n例えば,射手のすぐ目の前になら,近接武器を振り回す入植者を安全に配置することができます.この場合,射手は味方の肩越しに射撃することになります.\n\nこの方法は,白兵戦闘員と射手を組み合わせた良い方法です.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>遠距離武器による誤射は､すぐ隣にいる味方に対しては発生しません｡\n\n例えば､銃を構えた入植者のすぐ目の前に､長剣を構えた入植者を配置しても､誤射される危険はありません｡射撃手は味方の肩越しに射撃を行います｡\n\nこの方法は､近接武器と遠距離攻撃を組み合わせて戦うのに適しています｡</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
-  <GettingMoreTraders.label>トレーダー来てくれ</GettingMoreTraders.label>
+  <GettingMoreTraders.label>交易の機会を増やす</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>たくさんの派閥と友好関係が築ければ,もっとたくさんのトレーダーが,あなたに会いに訪れるでしょう.\n\nもし友好な派閥がないと,キャラバン隊は絶対に訪れません！\n\nあなたは通信機を使い,かれらを呼び出し費用を払うことで,キャラバン隊を送ってもらうよう要求することもできます.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>友好関係を築いた派閥の数が多ければ多いほど交易商人のキャラバン隊がコロニーを訪問する頻度も高まります｡\n\n友好的な派閥が一つも無ければ､いくら待っても交易商人がコロニーを訪れることはありません！\n\n&lt;color=cyan>通信機&lt;/color>を使って友好的な派閥と連絡を取れば､派遣費用を支払うことでキャラバン隊の派遣を要請することもできます｡</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
-  <GrowingFood.label>農耕ゾーンを決める</GrowingFood.label>
+  <GrowingFood.label>農耕ゾーン</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>作物を育てるには,農耕ゾーンが必要です. ｢設計｣タブから,｢ゾーン｣メニューの ｢農耕ゾーン｣を選んで配置します.\n\n農耕ゾーンは, 土があるところだけに配置できます.</GrowingFood.helpText>
+  <GrowingFood.helpText>作物を育てるには､&lt;color=yellow>農耕ゾーン&lt;/color>が必要です｡\n｢設計｣タブ＞｢ゾーン｣＞｢農耕ゾーン｣コマンドを使って配置します｡\n\n農耕ゾーンは､土壌の適した場所にしか配置できません｡</GrowingFood.helpText>
   
   <!-- EN: History tab -->
-  <HistoryTab.label>歴史タブを覚える</HistoryTab.label>
+  <HistoryTab.label>歴史タブ</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>画面下側にある,｢歴史｣タブの ｢概略｣ウインドウから,長い期間にわたって記録された,あなたのコロニーの運命を見ることが出来ます.</HistoryTab.helpText>
+  <HistoryTab.helpText>画面下部の｢歴史｣タブを開き､このコロニーが辿ってきた軌跡を確認することができます｡</HistoryTab.helpText>
   
   <!-- EN: Home area -->
-  <HomeArea.label>居住エリアを設定する</HomeArea.label>
+  <HomeArea.label>居住エリア</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>居住エリアとは,入植者が清掃や消火活動を行う範囲の事です.\n\n｢設計｣タブの｢ゾーン｣メニュー内,｢居住エリア｣コマンドで指定します.</HomeArea.helpText>
+  <HomeArea.helpText>&lt;color=yellow>居住エリア&lt;/color>は､入植者に清掃や消火活動を行う範囲を示すものです｡\n\n居住エリアの範囲を指定するには､｢設計｣タブの｢ゾーン｣カテゴリにある｢居住エリア｣コマンドを使います｡</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
-  <HostilityResponse.label>危険への対処方法</HostilityResponse.label>
+  <HostilityResponse.label>敵対者への即応モード</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>襲いかかってくる動物など,危険に遭遇したときに自動的にとる対処方法を設定します.\n\n｢逃走｣｢攻撃｣｢無視｣を ｢生活指導｣ メニューの中で選びます.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>飢えた肉食獣のような敵対者から襲撃を受けた際に､自動で実行する対応方法を選択することができます｡\n\n｢生活指導｣タブを開いて､入植者ごとに\n･｢無視する｣\n･｢応戦する｣\n･｢逃走する｣\nのいずれかを選択します｡</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
-  <InfoCard.label>情報画面を開く</InfoCard.label>
+  <InfoCard.label>情報画面について</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>情報画面は,アイテム,人,構造物などの 統計情報を表示します.\n\n人やアイテムをクリックした後, 左下の｢i｣アイコンをクリックすると情報が表示されます.</InfoCard.helpText>
+  <InfoCard.helpText>人物や物品を選択した後､左下ウインドウの｢i｣アイコンをクリックすることで､情報画面が開きます｡\n\n情報画面では､あらゆる物品､人物､構造物などに関する詳細な情報が確認できます｡</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
-  <InspectRoomStats.label>部屋のステータスを調べる</InspectRoomStats.label>
+  <InspectRoomStats.label>部屋の評価値を調べる</InspectRoomStats.label>
   <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
-  <InspectRoomStats.helpText>個々の部屋の豪華さ,景観,清潔さなどを調べるには,右下にある"部屋ステータスの表示切り替え"アイコンを使用します.</InspectRoomStats.helpText>
+  <InspectRoomStats.helpText>個々の部屋ごとに､豪華さ･景観･清潔さなどの評価値が存在します｡画面右下の｢部屋評価値の表示切り替え｣アイコンを使用して評価値の表示を有効にした上で､目的の部屋にマウスオーバーすれば､その部屋の評価値を調べることができます｡</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
-  <ManualWorkPriorities.label>行動パターンの手動設定</ManualWorkPriorities.label>
+  <ManualWorkPriorities.label>作業の詳細な優先設定</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
-  <ManualWorkPriorities.helpText>RimWorldにおける最も重要な部分のひとつは,入植者に合った作業を選択してあたえることです.\n\n下手な作業設定は,入植者が重要でもない作業に時間を費やしてる間,重要な作業を未完成のまま長い時間放置することになります.\n\n入植者の作業をより細かく与えるためには ｢作業｣タブ内,｢詳細な設定｣を使用します.\n\nこのモードでは,入植者は作業毎に優先値を持っています. 入植者は,優先値"1"の作業を,左から右への順に作業し,つぎに優先値"2"の作業を,左から右へと,あとは同様に行ないます.\n\n理にかなった優先値の設定は,よく自動化された,大きなコロニーには必要不可欠なものです.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.helpText>&lt;color=orange>RimWorld&lt;/color>における極意の一つは､入植者に適切な作業が割り振られるよう､効率性の高い作業設定を構築することです｡\n\n作業設定が不十分であれば､入植者は余り重要でない作業にかかりきりとなり､重要な作業を長期間に渡って放置してしまうような事態をも招きます｡\n\n入植者にどの作業を優先させるか､より精度の高い制御を行うなら｢作業｣タブ内の｢詳細な優先設定｣を有効にします｡\n\nこのモードでは､入植者の各々に対し､作業別の優先度を数値として設定できます｡手の空いた入植者は､次にすべき作業を､優先値&lt;color=lime>&lt;b>1&lt;/b>&lt;/color>の作業の中から(左から右へ向かって)順番に探します｡実行可能なものが見つからなければ､次に優先値&lt;color=#E6CF73>&lt;b>2&lt;/b>&lt;/color>の中から探します｡見つかるまでそれを繰り返します｡\n\n理に適った優先値の設定は､自動化の進んだ大規模なコロニーにとって､無くてはならないものです｡</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
-  <MedicalOperations.label>外科手術を覚える</MedicalOperations.label>
+  <MedicalOperations.label>外科手術について</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>臓器移植や,義体化などの手術を指示するには, 入植者の｢健康｣タブを開いて,｢手術｣サブタブを開き ｢新しい加工｣ボタンを押します.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>移植臓器の摘出や､義肢の取り付けなどの外科手術を指示するには､患者の｢健康｣タブ内にある｢手術｣サブタブを開いて､そこで行います｡</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>採掘する</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>｢設計｣タブの｢命令｣メニュー内,｢採掘｣コマンドから,どこで採掘するかを指示できます.\n\n鉄,金,プラスチール他,有用な金属を産出します.</Mining.helpText>
+  <Mining.helpText>｢設計｣タブ＞｢命令｣＞｢採掘｣コマンドを使用して､入植者に採掘させる場所を指定することができます｡\n\nスチール､ゴールド､プラスチールなどの有用な鉱物を産出する鉱脈も存在します｡</Mining.helpText>
   
   <!-- EN: Outfits -->
-  <Outfits.label>服装</Outfits.label>
+  <Outfits.label>服装について</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
-  <Outfits.helpText>入植者は,自動的により新しい,より高品質の衣類をできるだけ身につけようとします.\n\nあなたは入植者に,部位毎に個別の衣服を指示する必要はありません(あなたがそうしたいのでなければ).\n\n入植者に服装を割り当てるには ｢生活指導｣タブを開き,｢服装規定を管理｣ダイアログを使って,新しい服装規定をつくり,それを入植者に割り当てます.</Outfits.helpText>
+  <Outfits.helpText>入植者は､より新品に近く､より品質の高い衣類を探して自発的に着替えようとします｡\n\nつまり入植者に対して､いちいち細かい指示を出す必要はありません｡(命令できないわけではなく､意図があって指示する分には自由です｡)\n\n入植者の服装に一定の制限を設けることもできます｡\n\n&lt;color=lime>1.&lt;/color>&#xA0;まず｢生活指導｣タブを開きます｡\n&lt;color=lime>2.&lt;/color>&#xA0;次に｢服装規定の管理｣をクリックします｡\n&lt;color=lime>3.&lt;/color>&#xA0;｢新たな服装規定｣を新規作成します｡\n&lt;color=lime>4.&lt;/color>&#xA0;作成した服装規定の内容を､希望する服装に沿うよう編集します｡\n&lt;color=lime>5.&lt;/color>&#xA0;最後に､それを入植者に割り当てます｡\n\n入植者は､与えられた服装規定の範囲内で着替えを判断します｡</Outfits.helpText>
   
   <!-- EN: Pausing -->
-  <Pause.label>一時停止</Pause.label>
+  <Pause.label>ゲーム進行の一時停止</Pause.label>
   <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
-  <Pause.helpText>{Key:TogglePause}キーで,ゲームを止めたり,再開できます.\n\n止めている間でも,あなたは指示できます.\n\nたくさんの出来事が起きて慌てる前に {Key:TogglePause}キー を押すことを忘れないでください.</Pause.helpText>
+  <Pause.helpText>&lt;color=lightblue>{Key:TogglePause}&lt;/color>キーを押すことで､ゲームの一時停止と､一時停止の解除を行えます｡\n\n一時停止している間でも指示を出すことはできます｡\n\nこの操作は､常に念頭に置くようにしましょう｡少しでも迷ったら､とにかく&lt;color=lightblue>{Key:TogglePause}&lt;/color>キーです！</Pause.helpText>
   
   <!-- EN: Shot accuracy tooltip -->
-  <ShotAccuracyTooltip.label>射撃のコツ</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.label>射撃精度の詳細表示</ShotAccuracyTooltip.label>
   <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
-  <ShotAccuracyTooltip.helpText>正確な射撃の手助けとなる,正確な命中率の計算値を確認することができます.\n\n確認するためには,射撃する人を選択し,次に射撃する目標へマウスオーバーします.そうするとツールチップに命中率とともに,様々な命中率に影響を与える条件と掛け率が表示されます.</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.helpText>遠距離武器の命中率がどのように決まるのか､正確な計算過程を確認する方法があります｡\n\nまず､射撃を行う人物を選択し､その状態で標的にマウスオーバーします｡そうすれば､最終的な命中率のほか､命中率に影響を及ぼす様々な要因が列挙表示されます｡</ShotAccuracyTooltip.helpText>
   
   <!-- EN: Spoilage and freezers -->
-  <SpoilageAndFreezers.label>腐らせないよう冷凍保存</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.label>腐敗と冷凍保存</SpoilageAndFreezers.label>
   <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
-  <SpoilageAndFreezers.helpText>ほとんどの食料品は,比較的に短時間で腐ってしまいます.\n\nこれを防ぐには,冷凍倉庫を作ります.\n\n冷凍倉庫をつくるには,閉鎖された空間を作り,一つか二つほどクーラーを壁に配置します.クーラーの設定温度を氷点下に設定します.\n\n冷凍された食品は腐らなくなります.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.helpText>ほとんどの食材は､比較的みじかい時間で腐敗します｡\n\n腐敗を防ぐためには､冷凍倉庫(室温が氷点下の部屋)を作るといいでしょう｡\n\nまず壁や扉に囲まれた部屋を作り､壁には1つか2つほど&lt;color=cyan>クーラー&lt;/color>を設置します｡次にクーラーの設定温度を氷点下まで下げます｡これで冷凍倉庫ができます｡\n\n冷凍された食品は､半永久的に腐りません｡</SpoilageAndFreezers.helpText>
   
   <!-- EN: Stockpiles -->
-  <Stockpiles.label>備蓄ゾーンを決める</Stockpiles.label>
+  <Stockpiles.label>備蓄ゾーン</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>コロニーを建設する近くに, アイテムを保管する場所が必要です. アイテムを保管するための 備蓄ゾーンを作ります.\n\n備蓄ゾーンは,左下にある｢設計｣タブの｢ゾーン｣メニューの中にあります.</Stockpiles.helpText>
+  <Stockpiles.helpText>入植者には､物資を備蓄する場所が必要です｡\n物資の保管場所となる&lt;color=yellow>備蓄ゾーン&lt;/color>の設置を行いましょう｡\n\n備蓄ゾーンの設置は､画面左下の｢設計｣タブ＞&#xA0;｢ゾーン｣＞｢備蓄ゾーン｣コマンドを使います｡</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
-  <StorageTab.label>保管の詳細設定を覚える</StorageTab.label>
+  <StorageTab.label>保管の詳細設定</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>備蓄ゾーンや保管庫を選択し,左下のウインドウにある｢保管｣タブを開くことで,詳細設定することができます.\n\n詳細設定画面では,カテゴリー名の左にある三角のアイコンをクリックし広げることで,カテゴリー毎にアイテムの許可・不許可を設定できます.\n\nまた優先度を変えると,入植者は,先に優先度の高い場所から埋めるようになるため,低い優先度のものを,高い優先度の場所に移動させます.</StorageTab.helpText>
+  <StorageTab.helpText>備蓄ゾーンや物資を収納できる家具を選択し､左下ウインドウにある｢保管｣タブを開けば､その設定を変更できます｡\n\n保管タブでは､分類された品目の内訳を展開し､品目ごとに収納する物としない物とを選別できます｡\n\n保管場所の優先度を変更することもできます｡入植者は､優先度の高い保管場所へ優先して物資を運び込もうとします｡さらに､優先度の低い場所にある物資を､優先度の高い場所へ移動させようとします｡</StorageTab.helpText>
   
   <!-- EN: Time assignments -->
-  <TimeAssignments.label>時間割</TimeAssignments.label>
+  <TimeAssignments.label>時間割について</TimeAssignments.label>
   <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
-  <TimeAssignments.helpText>入植者が行なうアクティビティ毎に時間割を設定するには,｢時間割・移動制限｣タブを開きます.</TimeAssignments.helpText>
+  <TimeAssignments.helpText>時間帯によって､入植者の大まかな活動内容を制限できます｡\n\n｢時間割・移動制限｣タブを開いて､入植者ごとに時間割を設定しましょう｡</TimeAssignments.helpText>
   
   <!-- EN: Time controls -->
-  <TimeControls.label>倍速を覚える</TimeControls.label>
+  <TimeControls.label>ゲーム進行の早送り</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.helpText>ゲーム時間を,早くする,遅くするには,画面右下のアイコンをクリックするか,{Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, {Key:TimeSpeed_Superfast} キーを使います.</TimeControls.helpText>
+  <TimeControls.helpText>ゲーム内の時間経過を早めることもできます｡\n\n時間の経過速度を変更するには､&lt;color=lightblue>{Key:TimeSpeed_Normal}&lt;/color>,&#xA0;&lt;color=lightblue>{Key:TimeSpeed_Fast}&lt;/color>,&#xA0;&lt;color=lightblue>{Key:TimeSpeed_Superfast}&lt;/color>キーか､画面右下の速度変更ボタンを使います.</TimeControls.helpText>
   
   <!-- EN: Work settings -->
-  <WorkTab.label>作業を見直す</WorkTab.label>
+  <WorkTab.label>作業の割り当て</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>｢作業｣タブから,入植者ごとの作業を確認することできます.\n\n彼らは常に, 見つけた作業の中で 優先値の高いものから 順に行おうとします. \n\nもしも,誰一人として, その作業に割り当ててないか, 又は,より優先度の高い作業が忙しいとき, その作業は放置されます.</WorkTab.helpText>
+  <WorkTab.helpText>個々の入植者を､どんな作業に割り当てるかは､画面下部左側の｢作業｣タブから設定できます｡\n\n入植者たちは常に､実行可能な作業の中で最も優先度の高いものに従事しようとします｡\n\n割り当てられた人員が誰もいない作業は､いつまで経っても完了しません｡割り当てられた人員が､より優先度の高い作業で忙しい場合も同様です｡</WorkTab.helpText>
   
 </LanguageData>

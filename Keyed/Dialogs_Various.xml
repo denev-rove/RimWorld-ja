@@ -715,7 +715,7 @@
   <!-- EN: Select policy... -->
   <SelectDrugPolicy>処方箋を選択…</SelectDrugPolicy>
   <!-- EN: New policy -->
-  <NewDrugPolicy>処方箋を新規作成</NewDrugPolicy>
+  <NewDrugPolicy>新たな処方箋</NewDrugPolicy>
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>処方箋を削除…</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->

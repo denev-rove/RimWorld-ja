@@ -143,7 +143,7 @@
   <TogglePause.label>ゲームの一時停止 / 再開</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
-  <ToggleRoomStatsDisplay.label>部屋ステータス表示切り替え</ToggleRoomStatsDisplay.label>
+  <ToggleRoomStatsDisplay.label>部屋評価値の表示切り替え</ToggleRoomStatsDisplay.label>
   
   <!-- EN: toggle screenshot mode -->
   <ToggleScreenshotMode.label>スクリーンショットモード切り替え</ToggleScreenshotMode.label>

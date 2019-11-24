@@ -3,7 +3,7 @@
 
   <!-- Work tab -->
   <!-- EN: Manual priorities -->
-  <ManualPriorities>詳細な設定</ManualPriorities>
+  <ManualPriorities>詳細な優先設定</ManualPriorities>
   <!-- EN: higher priority -->
   <HigherPriority>優先度 高</HigherPriority>
   <!-- EN: lower priority -->
@@ -25,13 +25,13 @@
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
-  <ManageOutfits>服装規定を管理</ManageOutfits>
+  <ManageOutfits>服装規定の管理</ManageOutfits>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>強制を解除</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>強制</ApparelForcedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>強制されている服装</ForcedApparel>
+  <ForcedApparel>強制された服装</ForcedApparel>
   <!-- EN: Edit... -->
   <AssignTabEdit>編集…</AssignTabEdit>
   <!-- EN: Manage drug policies -->

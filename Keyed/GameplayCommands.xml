@@ -9,7 +9,7 @@
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
   <CommandForbiddenDesc>禁制: 入植者はこれに触れることを禁じられています｡ 許可するにはクリックしてください｡</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>許可: 入植者はこれに触れることを許されています｡ 禁制するにはクリックしてください｡</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>許可: 入植者はこれに触れることを許可されています｡ 禁制するにはクリックしてください｡</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->

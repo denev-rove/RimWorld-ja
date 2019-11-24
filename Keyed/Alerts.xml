@@ -106,7 +106,7 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>〔{1}の娯楽について〕\n\n  入植者の要求水準: {2}\n  　利用可能な娯楽: {0}種類\n  　求められる娯楽: {3}種類\n\n入植者が娯楽に満足し続けるためには､さらなる種類の娯楽が必要です｡今ある物とは別の種別の娯楽を用意しましょう｡\n\n\n{4}\n\n{5}\n\n参考：娯楽の種別は､娯楽品のステータス画面で確認できます｡娯楽品を選択して'i'ボタンを押してください｡</NeedJoySourceDesc>
+  <NeedJoySourceDesc>〔{1}の娯楽について〕\n\n  入植者の要求水準: {2}\n  　利用可能な娯楽: {0}種類\n  　求められる娯楽: {3}種類\n\n入植者が娯楽に満足し続けるためには､さらなる種類の娯楽が必要です｡今ある物とは別の種別の娯楽を用意しましょう｡\n\n\n{4}\n\n{5}\n\n参考：娯楽の種別は､娯楽品の情報画面で確認できます｡娯楽品を選択して'i'ボタンを押してください｡</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>利用できる娯楽種別</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->

@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: World view camera movement -->
-  <WorldCameraMovement.label>ワールドカメラを動かす</WorldCameraMovement.label>
+  <WorldCameraMovement.label>世界地図上のカメラ移動</WorldCameraMovement.label>
   <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
-  <WorldCameraMovement.helpText>ズームするには,マウスホイールか, {Key:MapZoom_In},{Key:MapZoom_Out}キー です.\n\nパンするには,{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーか, マウスホイールを押しこみながらドラッグします.</WorldCameraMovement.helpText>
+  <WorldCameraMovement.helpText>世界地図上でカメラをズームイン/ズームアウトさせるには､&lt;color=lightblue>マウスホイール&lt;/color>を回転させるか､&lt;color=lightblue>{Key:MapZoom_In}&lt;/color>キーと&lt;color=lightblue>{Key:MapZoom_Out}&lt;/color>キーを使います｡\n\nカメラを上下左右に動かすには､マウスの中央ボタン(&lt;color=lightblue>ホイールボタン&lt;/color>)を押したままドラッグするか､&lt;color=lightblue>{Key:MapDolly_Up}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Left}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Down}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Right}&lt;/color>キーを使います｡</WorldCameraMovement.helpText>
   
 </LanguageData>

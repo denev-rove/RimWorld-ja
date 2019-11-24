@@ -605,9 +605,9 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>徴兵されていない状態で接敵した場合の 対応方法を変更します｡</HostilityReponseTip>
+  <HostilityReponseTip>徴兵されていない状態で接敵した場合の 即応方法を変更します｡</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>現在の対応</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>現在の即応方法</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
@@ -747,7 +747,7 @@
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
   <ShowBeautyToggleButton>景観値の表示切り替え\n\nマウスオーバーした位置に入植者が立つのと同じ視界で周囲の景観の値を表示します｡</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>部屋ステータスの表示切り替え\n\nマウスオーバーした部屋のステータスを表示します｡</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>部屋評価値の表示切り替え\n\nマウスオーバーした部屋の評価値を表示します｡</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>入植者バー表示切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します｡\n\n入植者バーを右クリックしてドラッグすれば､入植者の並びを変更することができます｡</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->

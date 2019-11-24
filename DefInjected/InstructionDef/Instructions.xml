@@ -23,7 +23,7 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>部屋の中に&lt;color=cyan>木製のベッド&lt;/color>を設置してください｡</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>これで､入植者たちが部屋を作ってくれることでしょう！\n\nさて､彼らには寝る場所が必要です｡部屋の中に&lt;color=cyan>ベッド&lt;/color>を3台設置しましょう｡\n\n｢ベッド｣ツールは｢家具｣カテゴリにあります｡\n\n設置物は､{Key:Designator_RotateLeft}キーと{Key:Designator_RotateRight}キーで回転させることができます｡</BuildBeds.text>
+  <BuildBeds.text>これで､入植者たちが部屋を作ってくれることでしょう！\n\nさて､彼らには寝る場所が必要です｡部屋の中に&lt;color=cyan>ベッド&lt;/color>を3台設置しましょう｡\n\n｢ベッド｣ツールは｢家具｣カテゴリにあります｡\n\n設置物は､&lt;color=lightblue>{Key:Designator_RotateLeft}&lt;/color>キーと&lt;color=lightblue>{Key:Designator_RotateRight}&lt;/color>キーで回転させることができます｡</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>部屋の中に&lt;color=cyan>燃料コンロ&lt;/color>を設置しましょう｡</BuildFueledStove.onMapInstruction>
@@ -102,7 +102,7 @@
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>戦闘の勝利を祈っていてください！</DownRaider.rejectInputMessage>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
-  <DownRaider.text>あなたの入植地を攻撃させるため､襲撃者を派遣しました｡\n\n1.&#xA0;{Key:TogglePause}キーを押してゲームを一時停止してください！\n2.&#xA0;画面右下にある赤色の通知を確認します｡\n3.&#xA0;入植者を選択して｢徴兵｣コマンドを実行します｡\n4.&#xA0;土嚢に囲まれた内側を右クリックして､そこに入植者を移動させます｡\n5.&#xA0;一時停止を解除します｡\n\n入植者が土嚢の遮蔽効果を得るには､土嚢に隣接している必要があります｡遮蔽物の裏に身を隠したら､そのまま襲撃者が接近するのを待ちましょう｡敵が射程に入り次第､入植者たちは自動的に射撃を始めます｡</DownRaider.text>
+  <DownRaider.text>あなたの入植地を攻撃させるため､襲撃者を派遣しました｡\n\n1.&#xA0;&lt;color=lightblue>{Key:TogglePause}&lt;/color>キーを押してゲームを一時停止してください！\n2.&#xA0;画面右下にある赤色の通知を確認します｡\n3.&#xA0;入植者を選択して｢徴兵｣コマンドを実行します｡\n4.&#xA0;土嚢に囲まれた内側を右クリックして､そこに入植者を移動させます｡\n5.&#xA0;一時停止を解除します｡\n\n入植者が土嚢の遮蔽効果を得るには､土嚢に隣接している必要があります｡遮蔽物の裏に身を隠したら､そのまま襲撃者が接近するのを待ちましょう｡敵が射程に入り次第､入植者たちは自動的に射撃を始めます｡</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
   <EndStockpileDesignating.text>右クリックで､&lt;color=cyan>備蓄ゾーン&lt;/color>の設定モードを解除します｡</EndStockpileDesignating.text>
@@ -112,7 +112,7 @@
   <!-- EN: Please have your colonists equip weapons. -->
   <EquipWeapons.rejectInputMessage>入植者に武器を装備させてください｡</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
-  <EquipWeapons.text>入植者に､開始時の所持品の中から武器を装備させてみましょう｡手順は次のとおりです｡\n\n1.&#xA0;入植者をクリックして選択します｡\n2.&#xA0;装備させたい武器を右クリックします｡\n3.&#xA0;表示されたポップアップメニューの中から､｢&lt;color=grey>xxxx&lt;/color>を装備する｣を選択します｡\n\nこの手順を､それぞれの入植者に対して行います｡</EquipWeapons.text>
+  <EquipWeapons.text>入植者に､開始時の所持品の中から武器を装備させてみましょう｡手順は次のとおりです｡\n\n1.&#xA0;入植者をクリックして選択します｡\n2.&#xA0;装備させたい武器を右クリックします｡\n3.&#xA0;表示されたポップアップメニューの中から､｢&lt;color=#b2b6b9>&lt;i>xxxx&lt;/i>&lt;/color>を装備する｣を選択します｡\n\nこの手順を､それぞれの入植者に対して行います｡</EquipWeapons.text>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>練習として､&lt;color=cyan>屋根&#xA0;設置エリア&lt;/color>を少しだけ拡げてみてください｡</ExpandAreaBuildRoof.rejectInputMessage>
@@ -144,10 +144,10 @@
   <MakeStockpile.text>素晴らしい！\n\nさて､入植者たちに物資の保管場所が分かるように､&lt;color=cyan>備蓄ゾーン&lt;/color>を設定しましょう｡\n\n1.&#xA0;画面左下の｢設計｣タブをクリックします｡\n2.&#xA0;｢ゾーン｣カテゴリをクリックします｡\n3.&#xA0;｢備蓄ゾーン｣ツールを選択します｡\n4.&#xA0;マウスをドラッグして､マップ上に表示された四角形のとおりに範囲を選択します｡</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>あなたは地表にいます！\n\nさあ､次はカメラを動かしてみましょう｡\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか､マウスの中央ボタンを押したままドラッグしてください｡\n\n早速やってみましょう！</MapCameraDolly.text>
+  <MapCameraDolly.text>あなたは地表にいます！\n\nさあ､次はカメラを動かしてみましょう｡\n\n&lt;color=lightblue>{Key:MapDolly_Up}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Left}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Down}&lt;/color>-&lt;color=lightblue>{Key:MapDolly_Right}&lt;/color>キーを使うか､マウスの&lt;color=lightblue>中央ボタン&lt;/color>を押したままドラッグしてください｡\n\n早速やってみましょう！</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>よくできました！\n\n{Key:MapZoom_In}と{Key:MapZoom_Out}キーを使うか､マウスホイールを回転させることでズームイン､ズームアウトができます｡\n\nさあ､試してみましょう！</MapCameraZoom.text>
+  <MapCameraZoom.text>よくできました！\n\n&lt;color=lightblue>{Key:MapZoom_In}&lt;/color>と&lt;color=lightblue>{Key:MapZoom_Out}&lt;/color>キーを使うか､&lt;color=lightblue>マウスホイール&lt;/color>を回転させることでズームイン/ズームアウトができます｡\n\nさあ､試してみましょう！</MapCameraZoom.text>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>この鉱脈に採掘の\n指示を出しましょう｡</MineSteel.onMapInstruction>
@@ -167,12 +167,12 @@
   <OpenMainTabWork.text>入植者の一人ひとりに対して､作業の優先度を設定することができます｡\n\n画面下部の｢作業｣タブを開いてみましょう｡</OpenMainTabWork.text>
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
-  <Pause.text>ゲームの進行を一時停止することもできます｡\n\nこれは､操作に慌てる必要はないという意味です｡いつでも自由に一時停止をして､ゆっくり指示を出すことができます｡\n\n{Key:TogglePause}キーか､画面右下にある一時停止ボタンを使ってみましょう｡</Pause.text>
+  <Pause.text>ゲームの進行を一時停止することもできます｡\n\nこれは､操作に慌てる必要はないという意味です｡いつでも自由に一時停止をして､ゆっくり指示を出すことができます｡\n\n&lt;color=lightblue>{Key:TogglePause}&lt;/color>キーか､画面右下にある一時停止ボタンを使ってみましょう｡</Pause.text>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.rejectInputMessage>｢ランダム生成｣ボタンをクリックして､人物を転生させてください｡</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.text>もしこの入植者が気に入らなければ､別の人物に転生させることができます！\n\n｢ランダム生成｣ボタンをクリックしてみましょう｡</RandomizeCharacter.text>
+  <RandomizeCharacter.text>もしこの入植者が気に入らなければ､別の人物に転生させることができます！\n\n｢ランダム生成｣ボタンを押してみましょう｡</RandomizeCharacter.text>
   
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
   <ReorderCharacters.rejectInputMessage>｢置き去り｣欄にいる入植者を､｢選択済み｣欄までドラッグしてください｡</ReorderCharacters.rejectInputMessage>
@@ -192,7 +192,7 @@
   <SetToGrowRice.text>入植者たちが農耕ゾーンに蒔く種の種類を決めましょう｡\n\n1.&#xA0;右クリックで､ゾーンの設定モードを解除します｡\n2.&#xA0;今作った農耕ゾーンをクリックして選択します｡\n3.&#xA0;｢作物:&#xA0;ジャガイモ｣コマンドをクリックして&lt;color=cyan>米&lt;/color>に変更します｡</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.text>ゲームの進行を早送りすることもできます｡\n\n{Key:TimeSpeed_Normal},&#xA0;{Key:TimeSpeed_Fast},&#xA0;{Key:TimeSpeed_Superfast}キーか､画面右下の速度変更ボタンを使ってみましょう｡</TimeControls.text>
+  <TimeControls.text>ゲームの進行を早送りすることもできます｡\n\n&lt;color=lightblue>{Key:TimeSpeed_Normal}&lt;/color>,&#xA0;&lt;color=lightblue>{Key:TimeSpeed_Fast}&lt;/color>,&#xA0;&lt;color=lightblue>{Key:TimeSpeed_Superfast}&lt;/color>キーか､画面右下の速度変更ボタンを使ってみましょう｡</TimeControls.text>
   
   <!-- EN: Please un-draft your colonists. -->
   <UndraftAll.rejectInputMessage>入植者たちの徴兵を解除してください｡</UndraftAll.rejectInputMessage>
